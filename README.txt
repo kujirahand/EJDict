@@ -26,5 +26,10 @@
 - (4) WEB便利ツール(http://kujirahand.com/web-tools/)にて配布しています。
 - (5) GitHubにて、修正点など追いかけることができます。 --- https://github.com/kujirahand/EJDict
 
+▲ 修正点の指摘
+
+以下よりご確認ください。
+- [URL] https://github.com/kujirahand/EJDict 
+
 ----------------------------------------------------------------------
 

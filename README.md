@@ -1,15 +1,18 @@
-# EJDict
+# EJDict "ejdic-hand"
 
-English-Japanese Dictionary data
+English-Japanese Dictionary data (public domain)
 
 これはパブリックドメインの英和辞書データです。
 
 ## 間違いを見つけたら？
 
-GitHubにて修正案をPull requestいただくか、メールにて、くじらはんど<web@kujirahnad.com> までお知らせください。
+気軽にプルリクエストください。あるいは、メールにて修正点をお伝えください。
 
-## Download
+- (1) メールにて、クジラ飛行机<web@kujirahnad.com> までお知らせください。
+- (2) GitHubにて修正案をプルリクエスト
 
-以下、くじらはんどのWeb-Toolsより、テキスト形式、SQLite形式のデータをダウンロードできます。
+## ダウンロード
+
+以下、くじらはんどのWebサイトにてテキスト形式、SQLite形式のデータをダウンロードできます。
 
 - http://kujirahand.com/web-tools/EJDictFreeDL.php

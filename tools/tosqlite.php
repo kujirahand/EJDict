@@ -1,11 +1,13 @@
 <?php
-// fname
-$fname = dirname(dirname(__FILE__))."/src/ejdic-hand-utf8.txt";
-$outname = dirname(__FILE__)."/ejdict.sqlite3";
-$schema = dirname(__FILE__)."/schema.sql";
+// Include GLOBAL info
+include_once dirname(__FILE__)."/fileinfo.ini.php";
+//
+$fname = $file_text_all;
+$outname = $db_sqlite3;
+//
 unlink($outname); // remove sqlite database
 $pdo = new PDO("sqlite:$outname");
-$pdo->exec(file_get_contents($schema));
+$pdo->exec(file_get_contents($db_schema));
 $pdo->exec("begin");
 // make levels
 $level_txt = file_get_contents(dirname(__FILE__).'/level.txt');
@@ -43,4 +45,3 @@ foreach ($lines as $line) {
 }
 $pdo->exec("commit;");
 echo "ok, $count\n";
-

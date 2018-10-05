@@ -14,21 +14,22 @@
 ● 作者とライセンスの表記
 
 ・ライセンス：パブリックドメイン
-・データ変換と修正：クジラ飛行机( http://kujirahand.com/ )
+・データ変換と修正と管理：クジラ飛行机( http://kujirahand.com/ )
 
 ----------------------------------------------------------------------
 
 ● 元データの作者と修正に関して
 
 - (1)「ejdic」とはもともと学校などに無償配布されていた英和辞典ファイルです。作者などは不明とされています。
-- (2)「ejdic」に含まれる間違いなどを、根岸治郎様が修正したものが、PrepTutorEJDIC(http://www.tagoemura.com/ptdic.html)です。
-- (3)「PrepTutorEJDIC」を、私（クジラ飛行机）が、大々的に誤字脱字の修正を行いました。また、英和辞書サイトを運営する中でユーザーの方より指摘のあったものを順次修正しています。それが、「ejdict-hand」です。
-- (4) WEB便利ツール(http://kujirahand.com/web-tools/)にて配布しています。
-- (5) GitHubにて、修正点など追いかけることができます。 --- https://github.com/kujirahand/EJDict
+- (2)「ejdic」に含まれる間違いなどを、根岸治郎様が修正したものが、PrepTutorEJDIC( http://www.tagoemura.com/ptdic.html )です。
+- (3)「PrepTutorEJDIC」を、私(クジラ飛行机)が、大々的に誤字脱字の修正を行いました。また、英和辞書サイトを運営する中でユーザーの方より指摘のあったものを順次修正しています。それが、「ejdict-hand」です。
+- (4) WEB便利ツール( http://kujirahand.com/web-tools/ )にて配布しています。
+- (5) 現在、管理をGitHub( https://github.com/kujirahand/EJDict )に移行しました。修正点など追いかけることができます。
 
 ▲ 修正点の指摘
 
 以下よりご確認ください。
+
 - [URL] https://github.com/kujirahand/EJDict 
 
 ----------------------------------------------------------------------

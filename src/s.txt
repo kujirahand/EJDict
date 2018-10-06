@@ -2802,7 +2802,7 @@ snowflake	雪片
 snowline	雪線(高山などで万年雪の残る地点の最低境界線)
 snowman	雪だるま / 《しばしばS-》=Abominable Snowman雪男
 snowmobile	雪上車
-snowplow,　snowplough	(機関車などにつける)除雪機;除雪車
+snowplow, snowplough	(機関車などにつける)除雪機;除雪車
 snowshoe	雪ぐつ,かんじき
 snowslide	なだれ
 snowstorm	吹雪
@@ -5284,13 +5284,13 @@ symbol	(…の)『象徴』,シンボル《+of+名》 / (化学・数学・音�
 symbolic, symbolical	象徴の(に関する);象徴(記号)によって表された
 symbolism	《しばしば S-》(芸術上の)象徴主義,象徴派 / 記号で表すこと,象徴的表現
 symbolist	象徴主義者
-symbolization,　symbolisation	象徴化,記号(符号)で表すこと
-symbolize,　symbolise	…‘を'象徴する,‘の'象徴となる / …‘を'記号で表す,象徴化する
+symbolization, symbolisation	象徴化,記号(符号)で表すこと
+symbolize, symbolise	…‘を'象徴する,‘の'象徴となる / …‘を'記号で表す,象徴化する
 symmetric, symmetrical	(左右)相称的の,対称的な / 均整(つりあい)のとれた
 symmetry	(左右の)対称,相称 / (型の)つりあい,調和
 sympathetic	『同情的な』,思いやりのある / 気に入った,好意的な,共鳴する / 《まれ》気性に合った,気心の合った
 sympathetically	同情して,好意的に,同情的に
-sympathize,　sympathise	(…のことで…に)『同情する』《+with+名+about+名(a person'sdoing)》 / (他人の気持ち・考えなどに)共鳴する,賛成する《+with+名(doing)》
+sympathize, sympathise	(…のことで…に)『同情する』《+with+名+about+名(a person'sdoing)》 / (他人の気持ち・考えなどに)共鳴する,賛成する《+with+名(doing)》
 sympathizer, sympathiser	同情する人 / (ある主義・運動の)共鳴者,シンパ
 sympathy	〈U〉『共感』,思いやり / 〈U〉《時に複数形で》(…に対する)『同情』,哀れみ《+for(with)+名》 / 〈U〉《時に複数形で》(…に対する)弔慰,お見舞《+for+名》 / 〈U〉《時に複数形で》(…に対する)『共鳴』,賛成,好意《+with+名(wh-節)》
 symphonic	交響楽の,交響楽団の

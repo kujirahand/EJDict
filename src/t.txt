@@ -1838,7 +1838,7 @@ tribune	演壇,講壇,高座・説教壇
 tributary	(川の)支流 / (…に)みつぎ物を納める人(国);(…の)進貢国,属国《+to+名》 / 支流の / みつぎ物を納める
 tribute	(…に対する)『感謝』(賞賛,尊敬)『の印』(贈り物,ささげ物,記念品,賛辞など)《+to+名》 / (保護・安全のための,他君主・他国への)『貢物』,納付金;進貢の義務《+to+名》
 trice	瞬間
-tricentenary,　tricentennial	=tercentenary
+tricentenary, tricentennial	=tercentenary
 triceps	(上腕の)三頭筋
 triceratops	トリケラトプス,三角竜(白亜紀後期の恐竜の一つ)
 trichina	センモウチュウ(旋毛虫)(豚などの腸・筋肉などに寄生し,旋毛虫病を起こす)
@@ -1851,7 +1851,7 @@ trickish	tricky
 trickle	したたる,ちょろちょろ流れる / 少しずつ(ぼつぼつ)来る(行く) / …‘を'したたらす,少しずつ流す / したたり,しずく / (人などの)少しずつの動き
 trickster	詐欺師,ぺてん師
 tricky	(人が)こうかつな,ずるい / (物事・仕事などが)手の込んだ;慎重を要する,扱いにくい
-tricolor,　tricolour	{C}三色旗 / 《通例 the T》フランス国旗 / 三色の
+tricolor, tricolour	{C}三色旗 / 《通例 the T》フランス国旗 / 三色の
 tricot	トリコット(一種のうね織り);(毛糸・レーヨンなどの)編物
 tricuspid	(歯が)三尖の / (歯の)三尖頭
 tricycle	三輪自転車

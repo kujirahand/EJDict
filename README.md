@@ -1,4 +1,4 @@
-# English-Japanese Dictionary "ejdict-hand"
+# English-Japanese Dictionary "ejdic-hand"
 
 - これはパブリックドメインの英和辞書データです。
 - This is the English-Japanese Dictionary data (Public Domain).

@@ -829,7 +829,7 @@ whittler	削る人(道具)
 whiz, whizz	〈飛行機・弾丸などが〉ヒューヒュー(ブンブン)と音を立てて動く(飛ぶ) / サッと動く;敏速に終える / 〈U〉〈C〉ヒューヒュー(ブンブン)という音 / 〈C〉《俗》(…の)名人,達人《+at+名》
 whizkid, whizzkid, whiz kid	(若くして事業などに成功した)切れ者,若手のやり手：天才、神童、専門家、達人、名人、若くして成功する人、切れ者、若手の大物、若手の実力者、青年実業家、若手実業家
 who	《疑問代名詞》『だれが』,どんな人が / 《関係代名詞》(先行詞は「人」) / 《制限用法》(…する,…した)『ところの』 / 《非制限用法》『そしてその人は(を)』,それは…する(した)人だが / 《古》《先行詞を含んで》…する人[はだれでも]
-WHO	World Health Organization世界保健機構
+WHO	World Health Organizationの略称 / 世界保健機関
 who'd	who would (should),who had の短縮形
 who'll	who will, who shallの短縮形
 who're	who are の短縮形

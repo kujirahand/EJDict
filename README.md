@@ -1,4 +1,4 @@
-# English-Japanese Dictionary "ejdic-hand"
+# English-Japanese Dictionary "ejdict-hand"
 
 - これはパブリックドメインの英和辞書データです。
 - This is the English-Japanese Dictionary data (Public Domain).
@@ -6,13 +6,13 @@
 ## 間違いを見つけたら？
 
 - 気軽にプルリクエストください。あるいは、メールにて修正点をお伝えください。
-- よく分からなくても、間違いを見つけたら、気軽に、メールにて、クジラ飛行机<web@kujirahnad.com> までお知らせください。
+- よく分からなくても間違いを見つけたら、気軽にメールにて『クジラ飛行机<web@kujirahnad.com>』までお知らせください。
 
 ## ダウンロード
 
 以下、くじらはんどのWebサイトにてテキスト形式、SQLite形式のデータをダウンロードできます。
 
-- http://kujirahand.com/web-tools/EJDictFreeDL.php
+- [URL] http://kujirahand.com/web-tools/EJDictFreeDL.php
 
 ## フォーマット
 

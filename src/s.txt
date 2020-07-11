@@ -1083,7 +1083,7 @@ select	(最高・最適のものとして)…‘を'『選ぶ』,選抜する,�
 select committee	(英議会の)特別委員会
 selectee	(義務兵役による)応召兵　選抜徴兵応召者
 selection	〈U〉《時にA~》『選ぶこと』,選抜,選出;(…から)選び出すこと《+『from』(『out of, among』)+『名』》 / 〈C〉(…から)『選び抜かれた人』(『物』);(…の)抜粋,選集《+『from』(『of』)+『名』》 / 〈C〉《単数形で》(商店などの)品揃え / 〈U〉淘汰(とうた):natural selection自然淘汰
-selective	選択の,染択する / 注意して選ばれた / 淘汰(とうた)の / (無線が)選択度の高い
+selective	選択の,選択する / 注意して選ばれた / 淘汰(とうた)の / (無線が)選択度の高い
 selective service	選抜徴兵,義務兵役[制度](《英》national service)
 selectivity	選択性,精選;淘汰 / (受信機の)選択度,感度
 selectman	(米国New Englandでの)都市行政委員

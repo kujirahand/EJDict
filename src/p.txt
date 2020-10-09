@@ -1103,7 +1103,7 @@ perpetrator	犯人,加害者
 perpetual	『永久の』,『永遠に続く』 / 終身の / 『絶え間のない』
 perpetual motion	(理論上不可能な機械の)永久運動
 perpetually	永久に(forever) / 絶え間なく
-perpetuate	…‘を'永続さらる;…‘を'不朽のものにする
+perpetuate	…‘を'永続させる;…‘を'不朽のものにする
 perpetuation	(…を)不朽にすること,永続させること《+『of』+『名』》
 perpetuity	〈U〉永続,永続性,不滅であること / 〈C〉終身年金
 perplex	(…で)〈物事〉‘を'『混乱させる』;〈人〉‘を'混乱させる,当惑させる《+『名』+『with』+『名』》

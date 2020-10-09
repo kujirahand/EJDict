@@ -119,8 +119,8 @@ obstet.	obstetric / obstetrics
 obstetric,obstetrical	産科の
 obstetrician	産科医
 obstetrics	産科,産科学
-obstinacy	〈U〉がん固さ,強情;〈C〉がん呼な行為(言葉) / 〈U〉(病気の)治りにくいこと
-obstinate	『がん呼な』,強情な / (病気などが)直りにくい
+obstinacy	〈U〉頑固さ,強情;〈C〉頑固な行為(言葉) / 〈U〉(病気の)治りにくいこと
+obstinate	『頑固な』,強情な / (病気などが)直りにくい
 obstreperous	騒々しい;手に負えない
 obstruct	(通れないように)…‘を'『ふさぐ』 / …‘を'『遮る』 / …‘の'通過(進行)を妨げる,‘を'妨害する
 obstruction	〈U〉(…への)妨害,障害《+『to』+『名』》 / 〈C〉(…への)妨害物,障害物《+『to』+『名』》

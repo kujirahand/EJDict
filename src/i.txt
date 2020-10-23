@@ -725,7 +725,7 @@ indetermination	不確定 / 不決断
 index	(本・雑誌などの)『索引』;図書目録 / 指し示すもの,印 / (計器などの)指針 / 指数・虜 / 《the I-》(カトック教会の)禁所目録 / 〈本など〉‘に'索引をつける / 〈語など〉‘を'索引に載せる
 index finger	=forefinger
 index number	統計指数
-index of refraction	(光の)屈折離
+index of refraction	(光の)屈折率
 indexer	索引作成者
 India	『インド』(公式名は 『the Republic of India』 インド共和国;首都はNew Delhi;《略》『Ind.』)
 India ink	(日本・中国の毛筆用の)墨(Indian ink)

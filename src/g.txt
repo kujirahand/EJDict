@@ -1052,7 +1052,7 @@ graphite	黒鉛,石墨
 graphologist	筆跡鑑定家
 graphology	筆跡学,筆跡観相学
 grapnel	(また grapple, grappling hook, grappling iron)(複数のかぎや締め具のついた)固定具,引っ掛けかぎ / 四つ爪(つめ)いかり(3本以上の爪のある小いかり)
-grapple	(ひっかけがぎ(grapnel)で)…‘を'引っ掛ける,ぎゅっとつかむ / (…と)つかみ合う,格闘する《+『with』+『名』》 / (問題などと)取り組む《+『with』+『名』》 / つかみ合い / (難問などの)取り組み / =grapnel
+grapple	(ひっかけカギ(grapnel)で)…‘を'引っ掛ける,ぎゅっとつかむ / (…と)つかみ合う,格闘する《+『with』+『名』》 / (問題などと)取り組む《+『with』+『名』》 / つかみ合い / (難問などの)取り組み / =grapnel
 grappling hook	=grapnel
 grappling iron	=grapnel
 grasp	…‘を'『しっかり握る』,『ぎゅっとつかむ』 / …‘を'『理解する』,把握する / (…を)捕まえ(捕らえ)ようとする《+『at』(『for』)+『名』》 / 《通例a~》(手などでしっかり)『捕まえること』,『つかむこと』 / 『理解』[『力』],知的把握[力]

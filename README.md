@@ -1,6 +1,6 @@
 # English-Japanese Dictionary "ejdict-hand"
 
-- This is the English-Japanese Dictionary data (Public Domain).
+- This is the English-Japanese Dictionary data (Public Domain / No Copyright).
 - これはパブリックドメインの英和辞書データです。
 
 ## 間違いを見つけたら？
@@ -50,3 +50,8 @@ $ php tools/join-files.php
 # 辞書データをSQLite形式のDBに変換する
 $ php tools/tosqlite.php
 ````
+
+## License
+
+- [Public Domain CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+- [パブリックドメイン CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)

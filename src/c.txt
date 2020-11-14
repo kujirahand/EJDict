@@ -302,7 +302,7 @@ canal boat	運河で使う長い平底船
 Canal Zone	パナマ運河地帯(両岸より各8kmの地帯;米日の租借地)
 canalization, canalisation	運河開設,運河にすること
 canalize,canalise	〈ある場所〉‘に'運河を開く,〈川〉'を'運河にする
-canapé	カナッペ(薄いパンの上に,チーズ・肉などを載せた前菜)
+canape,canapé	カナッペ(薄いパンの上に,チーズ・肉などを載せた前菜)
 canard	虚報,流言
 canary	〈C〉『カナリア』 / (また 『canary yellow』)〈U〉カナリア色,淡黄色 / (また 『canary wine』)〈U〉カナリア諸島産ぶどう酒 / カナリア色の
 Canary Islands	カナリア諸島(アフリカ北西海岸沖の島;スペイン領)
@@ -1975,8 +1975,8 @@ clever	『利口な』,頭のよい,才気のある,気のきいた / 『器用�
 clever dick	りこうぶる人
 clevis	Uリング,U字かぎ
 clew	(また『clue』)(森や迷路から抜け出すためたぐる)糸玉 / (難問解決の)糸口 / (また『clue』)帆耳(帆の最下端)
-cliché	陳腐なきまり文句;月並みな考え
-clichéd	陳腐な,紋切型の
+cliche,cliché	陳腐なきまり文句;月並みな考え
+cliched,clichéd	陳腐な,紋切型の
 click	(掛け金をかけたり,錠を回したりする時の)『カチリという音』 / カチリと鳴る物;掛け金 / 『カチリと音がする』 / 《英俗》〈男女が〉意気投合する;(…と)カチッと気が合う《+『with』+『名』》 / 《話》成功する,うまくいく / 《話》(…に)分かる,のみこめる《+『with』+『名』》 / …'を'カチリと鳴らす
 clickety-click	カタカタ(カタコト)という音
 client	[『弁護』]『依頼人』,訴訟依頼人 / (商売上の)おとくい(customer)
@@ -2681,7 +2681,7 @@ communication cord	(列車の)非常連絡綱(絵いて列車を止める)
 communication satellite	通信衛星(《略》comsat)
 communicative	話好きな,おしゃべりの / 通信の,伝達の
 communion	〈U〉《文》親交;霊的交感 / 〈U〉共有 / 〈C〉宗教的な団体 / (また『Holy Communion』)〈U〉《しばしばCommunion》聖餐式,聖体拝領
-communiqué	公式発表,公報
+communique,communiqué	公式発表,公報
 communism	『共産主義』
 communist	『共産主義者』 / 《しばしばC-》共産党員 / 共産主義[者]の;《しばしばC-》共産党の
 Communist Party	共産党
@@ -3174,7 +3174,7 @@ console	(…で)〈人・自分〉'を'『慰める』,元気づける《+『名
 console	コンソール型(ポータブル・卓上型のステレオ・テレビなどに対して床の上に置く大型キャビネット) / (パイプオルガンの)演奏台(鍵律・ペダルを含む) / コンソール(上部の重量を支える渦(うず)形の受け材)
 consolidate	〈組織など〉'を'固める,〈地位・勢力・知識など〉'を'強化する / …'を'一つにする,'を'合わせて(…に)する《+『名』+『into』+『名』》
 consolidation	強化 / 合併,合体
-consommé	コンソメ(肉と野菜からとった澄ましスープ;)
+consomme,consommé	コンソメ(肉と野菜からとった澄ましスープ;)
 consonance	〈U〉〈C〉(二つの音の)調和;協和音 / 〈U〉(趣味・意味などの)一致,調和 / 〈U〉(音の)共鳴
 consonant	子音,子音字 / 《文》(…と)調和する,一致する《+『with』(『to』)+『名』》 / 協和音の / 子音の
 consonantal	子音の,子音の特徴のある
@@ -3834,7 +3834,7 @@ county fair	郡農産物品評会・郡共進会(郡内の同一地で毎年開�
 county seat	郡役所の所在地　郡の首都
 county town	《米》=county seat / 《英》州都,州庁所在地
 coup	不意に一激 / 大当たり,大成功 / =coup d'état
-coup d'état	クーデター(武力で反対派を弾圧して国家の権力を握ること)
+coup d'etat,coup d'état	クーデター(武力で反対派を弾圧して国家の権力を握ること)
 coup de grâce	(瀕死の人間・動物の苦しみを取り除く)情けの一激 / とどめの一撃,決定的打撃
 coupé	クーペ型自動車(2‐6人乗りの二つドア自動車)
 coupe	=coupé / (御者台が外についている)屋根つき二人乗り四輪馬車

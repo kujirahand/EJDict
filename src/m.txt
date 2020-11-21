@@ -1931,7 +1931,7 @@ money	〈U〉『金』(かね),金銭;通貨 / 〈U〉(金銭的な)利益,も�
 money of account	計算貨幣(計算だけに用いられる貨算の名称;ミル(mill)=1000分の1ドルなど)
 money order	郵便為替(かわせ),銀行為替({略}M.O.)(《英》postal order)
 money spinner, money-spinner	金つむぎ(オニグモの一種;このクモが体をはうと金もうけができるといわれる) / 金をどっさりもたらすもの
-money supply	需要額(当座預金額と通貨流通額)
+money supply	通貨供給量;貨幣供給料;マネーサプライ
 money tree	(伝説・童話などで)金のなる木 / 《話》よい収入源
 moneybag	(銀行などに運ぶときに用いる)金袋 / 《複数形で》《単数扱い》《話》金持ち
 moneychanger	両替屋;両替機

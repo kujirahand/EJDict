@@ -280,7 +280,7 @@ gazetteer	地名辞典,(地図帳などの巻末につける)地名リスト
 GCA	ground-controlled approach地上からの誘導着陸[装置]
 GCE	General Certificate of Education《英》中等学校終了資格試験
 gd.	good / guard
-GDP Gross Domestic Product国内総生産	
+GDP	Gross Domestic Product国内総生産
 gds.	goods
 Ge	germaniumの化学記号
 gear	〈C〉(動力を伝動する)『歯車』,ギヤ / 〈U〉歯車装置,伝動装置,ギヤ / 〈U〉(特定の機能を果たす)装置 / 〈U〉(ある仕事・活動のための)道具一式 / …‘に'ギヤ(伝動装置)を取り付ける / (…に)…‘を'かみ合わせる,連係させる《+『名』+『to』+『名』》 / (…に)ギヤがかみ合う《+『into』+『名』》

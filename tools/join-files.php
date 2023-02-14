@@ -13,4 +13,7 @@ foreach ($files as $f) {
 file_put_contents($file_text_all, $text);
 echo "ok\n";
 
+// count
+$a = explode("\n", $text);
+echo count($a)." lines\n";
 

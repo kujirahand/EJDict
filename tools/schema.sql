@@ -1,6 +1,6 @@
 CREATE TABLE items (
 	item_id		INTEGER 	PRIMARY KEY,
-	word		TEXT,
+	word		TEXT	UNIQUE,
 	mean		TEXT,
 	level		INTEGER DEFAULT 0
 );

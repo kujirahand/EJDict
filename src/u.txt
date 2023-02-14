@@ -1,5 +1,4 @@
-U	uraniumの化学記号
-U	上流の,上流階級にふさわしい / (映画が)児童観覧用の
+U	uraniumの化学記号 / 上流の,上流階級にふさわしい / (映画が)児童観覧用の
 U.	union / unit / university / upper
 u.c.	upper case(活字の)大文字
 u.s.	上述の箇所に,前記の場所に / 上記のように,上述のごとく
@@ -86,8 +85,7 @@ unadopted	採り入れられていない　非管理道路の
 unadorned	飾り気のない,素朴な
 unadulterated	混ぜ物のない,純粋の
 unadvised	無分別な,軽率な
-unaffected	心を動かされない,影響を受けない;(…に)影響されない《+by+名》
-unaffected	気どらない,ありのままの,心からの
+unaffected	心を動かされない,影響を受けない;(…に)影響されない《+by+名》 / 気どらない,ありのままの,心からの
 unaided	助けを受けない
 unalienable	=inalienable
 unalloyed	(感情などが)純粋な(pure),本物の
@@ -839,8 +837,7 @@ upper crust	〈C〉〈U〉(パン・パイなどの)上皮 / 〈U〉《the~》�
 upper hand	優勢,優位,支配
 Upper House	上院(《英》the House of Lords,《米》the Senate の別名)
 Upper Volta	オートボルタ (アフリカ西部の共和国Burkina Fasoの旧名)
-uppercase	大文字[活字]
-uppercase	大文字の(で印刷された)
+uppercase	大文字[活字] / 大文字の(で印刷された)
 upperclass	上流の,上流階級の / (米国高校・大学で)上級の
 upperclassman	(大学・高校の)上級生(3年生または4年生)
 uppercut	(ボクシングで)アッパーカット / …‘に'アッパーカットを食わせる
@@ -860,8 +857,7 @@ upset	…‘を'『ひっくり返す』,転覆させる / 〈計画など〉‘
 upshift	(自動車の)ギアを高速伝動に入れる / ギアを高速伝動に入れること　シフトアップ　シフトアップする
 upshot	結果,結末,結論(outcome)
 upside	上側,上部,上方
-upside-down	『さかさに』,転倒して / 混乱して,ごたごたと= upside down
-upside-down	さかさまの,転倒して / 混乱した,乱雑な
+upside-down	『さかさに』,転倒して / 混乱して,ごたごたと= upside down / さかさまの,転倒して / 混乱した,乱雑な
 upsilon	ユプシロン(ギリシヤ語アルファベット第20字Υ,υ;英語のU,uまたはY,yに相当)
 upstage	舞台の奥へ(で) / 舞台の奥の / 《話》お高くとまった / 〈他の俳優〉‘から'観客の注意をそらす,‘を'食う,‘の'人気をさらう
 upstairs	階上へ(で),2階へ(で) / 階上の,2階の / 階上;2階;(…の)上の階《+of+名》
@@ -932,9 +928,7 @@ USCG	United States Coast Guard米国沿岸警備隊
 USDA	United States Department of Agriculture 米国農務省
 use	〈道具など〉‘を'『使う』,用いる / …‘を'『費す』,消費する / 《副詞[句]を伴って》〈人など〉‘を'『扱う』 / …‘を'自分の都合のいいように利用する / 〈U〉『使用』,利用 / 〈U〉『役に立つこと』,効用,利益(usefulness) / 〈U〉使う必要(場合),使用する機会,入り用 / 〈C〉〈U〉使用の目的,用途 / 〈U〉使用する権利 / 〈U〉使い方 / 〈U〉(身体などを)使う能力
 useable	=usable
-used	『使い古しの』,使用した
-used	(…に)『慣れている』《+to+名(doing)》
-used	『…するのが常だった』,よく…したものだ / 『以前は…した』
+used	『使い古しの』,使用した / (…に)『慣れている』《+to+名(doing)》 / 『…するのが常だった』,よく…したものだ / 『以前は…した』
 useful	『役に立つ』,有用な
 useless	『無益な』,むだな / 『役に立たない』,使いものにならない
 user	使用者,消費者 / 財産権[の使用]
@@ -968,8 +962,7 @@ utilize,utilise	…‘を'『利用する』,役立たせる
 utmost	『最大の』,最高の / 『最も遠い』,いちばん端の / (程度・数量・能力などの)最大限度,極限
 Utopia	ユートピア(Sir Thomas More の作 Utopia に説かれた理想郷) / 〈C〉《しばしば u-》理想郷
 Utopian	理想郷(国)の;《u-》空想的な,夢物語のような / 理想郷の住民,空想的社会改良家
-utter	『全くの』,完全な
-utter	〈音声・言葉など〉‘を'『発する』,口に出す / 〈考え・意見など〉‘を'述べる,表現する
+utter	『全くの』,完全な / 〈音声・言葉など〉‘を'『発する』,口に出す / 〈考え・意見など〉‘を'述べる,表現する
 utterance	〈U〉(言葉を)発すること,発声 / 〈U〉発表力,話しぶり / 〈C〉言葉,表現;言説,意見;(言語学で)発話
 utterly	『全く』,すっかり,完全に(completely)
 uttermost	最も遠く離れた,最もはずれの / 最大限の,極度の / 最大限度,極限

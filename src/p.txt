@@ -1969,7 +1969,7 @@ pneumonia	肺炎
 Po	poloniumの化学記号
 poach	(卵・魚など)‘を'熱湯に落として煮る / (…を)密猟(密漁)する《+『for』+『名』》 / (狩猟や釣りのために)…‘に'侵入する《+『on』(『upon』)+『名』》 / …‘を'密猟(密漁)する,盗み取る / (狩猟や釣りなどのために)…‘に'侵入する
 poacher	密猟(密漁)者,侵入者
-POB,P.O.B.,PO Box	= post-office box / 郵便私書箱
+POB,P.O.B.,PO Box	=post-office box / 郵便私書箱
 POC	port of call寄港地
 pock	あばた
 pocked	=pockmarked
@@ -2340,6 +2340,7 @@ post office	『郵便局』
 post time	(競走馬の)出走予定時刻
 post-free	=postpaid
 post-office	郵便局の
+post-office box	郵便私書箱 / =PO Box
 postage	『郵便料金』,郵送料
 postage meter	(料金別納郵便物の)メータースタンプ,料金メーター
 postage stamp	『郵便切手』

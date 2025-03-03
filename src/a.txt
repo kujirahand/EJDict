@@ -29,7 +29,6 @@ a fortiori	いっそう有力な理由で;なおさら
 A frame	A型フレーム(枠組が三角形・逆V字型の建造物)
 A.G.	Adjutant General 軍務局長 / Attorney General 検事総長
 A level	〈U〉(大学入学検定試験の)上級試験 / 〈C〉上級試験科目
-A.M.	=M.A.
 a.m.,A.M.	《時間を表す数字の後につける》『午前』(ラテン語ante meridiemの略)
 a.p.	additional premium 割増保険料
 A.P.A.	American Psychiatric Association 米国精神医学会
@@ -38,10 +37,10 @@ a priori	(推論が)原因より結果を導いて(導いた);演繹(えんえ�
 A.R.V.	American Revised Version 米国標準改訳聖書(1901年初版)
 A.S.V.	American Standard Version米国標準改訳聖書
 A.V.	Authorized Version
-a vaunt	立ち去れ
+a vaunt	自慢
 A.W.O.L.,a.w.o.l.	absent without leave(軍務の)無届け欠席(外出)
 A&M	Agricultural and Mechanical 農工[大学]
-A&R	artists and repertory 出演者と演目
+A&R	artists and repertoire レコード会社でアーティストの才能を発掘する部門
 A-bomb	=atomic bomb
 A-line	Aラインの(衣服が上が細く裾の広い)
 A-one	第一級の,すぐれた(excellent)

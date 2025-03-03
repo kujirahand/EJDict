@@ -30,7 +30,7 @@ A frame	A型フレーム(枠組が三角形・逆V字型の建造物)
 A.G.	Adjutant General 軍務局長 / Attorney General 検事総長
 A level	〈U〉(大学入学検定試験の)上級試験 / 〈C〉上級試験科目
 a.m.,A.M.	《時間を表す数字の後につける》『午前』(ラテン語ante meridiemの略)
-a.p.	additional premium 割増保険料
+a.p.	additional premium 割増保険料 / access point アクセスポイント / 
 A.P.A.	American Psychiatric Association 米国精神医学会
 a posteriori	(推論が)帰納的に(な);経験的に(な);後天的に(な)
 a priori	(推論が)原因より結果を導いて(導いた);演繹(えんえき)的に(な);先験的に(な);先天的に(な)

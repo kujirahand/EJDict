@@ -1,6 +1,6 @@
 # ! pip install ollama
 import json
-import glob
+from glob import glob
 import ollama
 import os
 import random
@@ -100,11 +100,19 @@ def check(word, mean):
 
 
 def file_check(fname):
-    with open(fname, "rt", encoding="utf-8") as fp:
+    infile = fname
+    outfile = fname.replace(".txt", "_fix.json")
+    # check double
+    if os.path.exists(outfile):
+        return
+    # load data
+    with open(infile, "rt", encoding="utf-8") as fp:
         text = fp.read()
     lines = text.split("\n")
     fix_list = []
     for line in lines:
+        if "\t" not in line:
+            continue
         word, mean = line.split("\t")
         if len(mean) > 2 and mean[0] == "=":
             continue
@@ -119,7 +127,7 @@ def file_check(fname):
                 continue
             obj["org_mean"] = mean
             fix_list.append(obj)
-    with open(fname + ".fix.json", "wt", encoding="utf-8") as fp:
+    with open(outfile, "wt", encoding="utf-8") as fp:
         json.dump(fix_list, fp, ensure_ascii=False)
 
 
@@ -131,8 +139,18 @@ def all_files_check():
         file_check(f)
 
 
+def remove_fix_json():
+    tools_dir = os.path.dirname(__file__)
+    root = os.path.dirname(tools_dir)
+    files = glob(f"{root}/src/*_fix.json")
+    for f in files:
+        print(f)
+        os.remove(f)
+
+
 if __name__ == "__main__":
     check("Alpaca", "アルパカ(日本産のロバ)")
     file_check("src/a.txt")
+    all_files_check()
     # check("animal", "動物")
     # check("sleep", "眠る")

@@ -4,7 +4,7 @@ $	dollar[s] ドル記号(通貨単位)
 'll	will, shallの短縮形
 'm	amの短縮形
 're	areの短縮形
-'s	has, is, us,(疑問詞のあとの) doesの短縮形
+'s	所有格を示す接尾辞 / 短縮形（has, is, does）
 't	itの短縮形
 'tis	it is の短縮形
 'twas	=it was
@@ -14,47 +14,49 @@ $	dollar[s] ドル記号(通貨単位)
 104	通信で用いられる『了解』の意を表す語
 A	answer / ampere
 a.	about / acre[s] / adjective
-A,a	〈C〉英語アルファベットの第1字 / 〈U〉(音階の)イ音,イ調 / 〈C〉《米》(学校の成績の)A
+A,a	〈C〉英語アルファベットの第1字 / 〈U〉(音階の)イ音,イ調 / 〈C〉《米》(学校で成績優秀を表す)A
 A.A.	=AA / antiaircraft
-a,an	《oneの弱い意味で》『一つの』,一人の / 《日本語では表現しない場合》 / 《日本語でも表現する場合》 / 『ある』(a certain) / 《同種類のものを代表してany, eachの弱い意味で》…『というもの[は]』,いずれの,どの / 《単位を表す語につけて》…『につき』,毎…(per) / 《しばしばof, atなどの後で》同じ(the same) / 《固有名詞につけて》…のような人,…という名の人,…家の人;…の作品(製品) / 《固有名詞の性格・特徴などを強調するとき》 / 《andで結んだ二つ以上の名詞につけて》 / 《名詞が同一の人・物をさす場合》…でも~でもある人(物) / 《名詞が別個の人・物をさす場合》…つきの,一組の…と~ / 《物質名詞につけて》一種の,一つの / 《抽象名詞につけその具体例・種類・行為などを表して》 / 《have,give,make,takeなどに続く動詞と同形の名詞につけて》1回の
+a,an	《oneの弱い意味で》『一つの』,一人の / 『ある(程度の)』(a certain, some) / 《同種類のものを代表してany, eachの弱い意味で》…『というもの[は]』,いずれの,どの / 《単位を表す語につけて》…『につき』,毎…(per) / 《しばしばof, atなどの後で》同じ(the same) / 《固有名詞につけて》…のような人,…という名の人,…家の人;…の作品(製品) / 《固有名詞の性格・特徴などを強調するとき》 / 《andで結んだ二つ以上の名詞につけて》 / 《名詞が同一の人・物をさす場合》…でも~でもある人(物) / 《名詞が別個の人・物をさす場合》…つきの,一組の…と… / 《物質名詞につけて》一種の,一つの / 《抽象名詞につけその具体例・種類・行為などを表して》 / 《have,give,make,takeなどに続く動詞と同形の名詞につけて》1回の
 A.B.	B.A.
 A.C.	ante Christum 紀元前(before Christ)
 a.c.	ante cibum 食前服用(before meals)
 A.C.L.U.	American Civil Liberties Union 米国自由人権協会
 a cappella	楽器の伴奏なしで
-A.D.,AD	西暦紀元
+A.D.	西暦…年
+AD	西暦…年 / 広告 / 広告の
 A.E.F.	American Expeditionary Forces(第一次世界大戦中の)米国海外派遣軍
 A.F.T.	American Federation of Teachers 米国教員連盟
 a fortiori	いっそう有力な理由で;なおさら
-A frame	A型フレーム(枠組が三角形・逆V字型の建造物)
+A-frame	A型フレーム(枠組が三角形・逆V字型の建造物)
 A.G.	Adjutant General 軍務局長 / Attorney General 検事総長
 A level	〈U〉(大学入学検定試験の)上級試験 / 〈C〉上級試験科目
 a.m.,A.M.	《時間を表す数字の後につける》『午前』(ラテン語ante meridiemの略)
-a.p.	additional premium 割増保険料 / access point アクセスポイント / 
+a.p.	additional premium 割増保険料 / access point アクセスポイント
 A.P.A.	American Psychiatric Association 米国精神医学会
 a posteriori	(推論が)帰納的に(な);経験的に(な);後天的に(な)
 a priori	(推論が)原因より結果を導いて(導いた);演繹(えんえき)的に(な);先験的に(な);先天的に(な)
 A.R.V.	American Revised Version 米国標準改訳聖書(1901年初版)
-A.S.V.	American Standard Version米国標準改訳聖書
-A.V.	Authorized Version
-a vaunt	自慢
-A.W.O.L.,a.w.o.l.	absent without leave(軍務の)無届け欠席(外出)
+A.S.V.	American Standard Version 米国標準改訳聖書
+A.V.	Authorized Version / 価格に比例して(ad valorem)
+avaunt	(古)去れ、失せろ
+A.W.O.L.,a.w.o.l.	absent without leave (軍務の)無断欠勤, 無断外出, 許可なしで休む
 A&M	Agricultural and Mechanical 農工[大学]
 A&R	artists and repertoire レコード会社でアーティストの才能を発掘する部門
 A-bomb	=atomic bomb
-A-line	Aラインの(衣服が上が細く裾の広い)
+A-line	Aラインの(衣服の上部が細く裾が広い)
 A-one	第一級の,すぐれた(excellent)
 A/C	account / account current 取引勘定
 A/O,a/o	account of …の勘定
 A/P	account paid 支払済 / accounts payable 支払勘定
-A/R	account receivable受取り勘定
+A/R	account receivable 《会計》売掛債権
+AR	Augmented Reality 拡張現実
 A/V	audiovisual
-A/W	actual weight実量
+A/W	actual weight 実量 / Autumn Winter 秋冬
 A1,A-1	=A-one
 AA	アルコール中毒患者更生会 / (映画で)14歳以下の児童観賞禁止の表示 / 14歳以下観賞禁止の / Automobile Association(英国の)自動車協会
 AAA	American Automobile Association 米国自動車協会 / antiaircraft artillery 高射砲
-AAM	air-to-air missile
-aardvark	ツチブタ(アフリカ産のアリクイの一種)
+AAM	air-to-air missile 空対空ミサイル
+aardvark	ツチブタ(シロアリを主食とするアフリカ産の哺乳動物)
 Aaron	アロン(モーセの兄;ヘブライ人最初の大祭司とされる)
 ab.	about / [times] at bat(野球で打者の)打数
 abaci	abacusの複数形

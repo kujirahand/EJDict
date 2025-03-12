@@ -56,7 +56,8 @@ $ php tools/tosqlite.php
 - 〈U〉 (uncountable) … 不可算名詞（数えられない名詞）であることを示します。例えば、"water" は不可算名詞なので "a water" とは言えませんが、"some water" や "a glass of water" のように表現できます。
 - `A / B / C`は、列挙で単語にAとBとCの意味があることを示します。
 - `A, B, C`は、Aの言い換えがBやCであることを示します。
-
+- `A; B`は、同じ単語の異なる意味があることを示します。
+- `A(B)`は、
 
 ## License
 

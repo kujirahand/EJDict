@@ -16,26 +16,29 @@ import kudb
 ollama_host = "http://localhost:11434"
 client = ollama.Client(host=ollama_host)
 # model = "codellama"
-# model = "lucas2024/llama-3-elyza-jp-8b:q5_k_m"
-model = "phi4:14b"
+# model = "Maoyue/mistral-nemo-instruct-2407:latest" # 12.2b → JSON生成ミスが多くて使えなかった
+model1 = "phi4:14b"
+model2 = "lucas2024/llama-3-elyza-jp-8b:q5_k_m"
+model3 = "lucas2024/llama-3-elyza-jp-8b:q5_k_m"
+# ----
+# db
 kudb.connect("ai_reporter.db")
-### kudb.clear() # 必要に応じて
 
-def generate(prompt):
+def generate(prompt, model):
     response = client.generate(
-        model=model,
-        system="あなたは優秀な文章校正AIです。これから英和辞典の誤字脱字を調査します。",
+        model=model1,
+        system="あなたは優秀な文章校正AIです。これから英和辞書の誤字脱字を指摘します。",
         prompt=prompt,
         options={"temperature": 0.7, "seed": random.randint(1, 100000)},
     )
     return response["response"]
 
-
-def check_raw(word, mean):
+def check_raw(word, mean, model):
     prompt = """
 ### Instruction:
-Inputを確認して、Outputの例を参考にして、**JSONだけ**を出力してください。
-- meanに明らかな間違いがある場合のみ修正してください。
+Inputを読み、Outputの例を参考にして、**JSONだけ**を出力してください。
+
+- **明らかな間違い**がある場合のみ指摘してください。
 - 間違いがなければ`{{"Status": "ok"}}`とだけを出力してください。
 
 ### 備考:
@@ -68,21 +71,21 @@ OR
 """.format(
         word=word, mean=mean
     )
-    return generate(prompt)
+    return generate(prompt, model)
 
-def check_json(word, mean, times=0):
+def check_json(word, mean, model, times=0):
     if times > 10:
         print("[ERROR] faild 10 times")
         raise ValueError("faild 10 times")
     # プロンプトを実行してJSONを取得
-    text = check_raw(word, mean)
+    text = check_raw(word, mean, model)
     if "```" not in text:
         # 直接JSONが出力された？
         text = "```json\n" + text + "\n```\n"
     blocks = text.split("```")
     if len(blocks) < 3:
         print("[ERROR] broken json: ", word, ":", text)
-        check_json(word, mean, times + 1)
+        check_json(word, mean, model, times + 1)
         return
     json_str = blocks[1].strip()
     if json_str[0:4] == "json":
@@ -91,24 +94,24 @@ def check_json(word, mean, times=0):
         obj = json.loads(json_str)
     except Exception:
         print("[ERROR] JSON parse error: ", word)
-        return check_json(word, mean, times + 1)
+        return check_json(word, mean, model, times + 1)
     # Statusがあるか？
     if "Status" not in obj:
         # print("[ERROR] Status not found: ", word, obj)
-        return check_json(word, mean, times + 1)
+        return check_json(word, mean, model, times + 1)
     status = obj["Status"]
     if status == "ok":
         return obj
     if status == "error":
         return obj
     print("[ERROR] Status unknown: ", word, obj)
-    return check_json(word, mean, times + 1)
+    return check_json(word, mean, model, times + 1)
 
 
-def check(word, mean):
+def check(word, mean, model):
     last_obj = {}
-    for i in range(5):
-        obj = check_json(word, mean)
+    for i in range(10):
+        obj = check_json(word, mean, model)
         status = obj["Status"]
         if status == "ok":
             # print("[OK] ", word, mean)
@@ -128,10 +131,10 @@ def check(word, mean):
             print("[ERROR] Fix.mean not found: ", word, obj)
             continue
         last_obj = obj
-        word2 = obj["修正後"]["word"]
-        if word != word2:
-            print(f"[ERROR] Fix.word broken: {word}!={word2}", obj)
-            continue
+        # word2 = obj["修正後"]["word"]
+        # if word != word2:
+        #    print(f"[ERROR] Fix.word broken: {word}!={word2}", obj)
+        #    continue
         # print(f"[{word}]=", json.dumps(obj, ensure_ascii=False))
         return obj
     print("[ERROR] faild 5 times")
@@ -142,8 +145,8 @@ def file_check(fname):
     infile = fname
     outfile = fname.replace(".txt", "_fix.json")
     # check double
-    if os.path.exists(outfile):
-        return
+    # if os.path.exists(outfile):
+    #     return
     # load data
     with open(infile, "rt", encoding="utf-8") as fp:
         text = fp.read()
@@ -168,7 +171,7 @@ def file_check(fname):
             flag_ok = False
             flag_no_problem = False
             for retry in range(1, 5+1):
-                obj = check(w, mean)
+                obj = check(w, mean, model1)
                 if obj["Status"] == "ok":
                     flag_no_problem = True
                     print(f"  - ok : {w} = {mean}")
@@ -180,7 +183,7 @@ def file_check(fname):
                 # 2次チェック
                 word2 = w
                 mean2 = obj["修正後"]["mean"]
-                obj2 = check(word2, mean2)
+                obj2 = check(word2, mean2, model2)
                 if obj2["Status"] == "ok":
                     flag_ok = True
                     break

@@ -4,6 +4,7 @@ import ollama
 import os
 import random
 import kudb
+import ai_reporter
 
 ollama_host = "http://localhost:11434"
 client = ollama.Client(host=ollama_host)
@@ -28,15 +29,43 @@ for row in kudb.get_all():
     print("ORG:", mean1)
     print("FIX:", mean2)
     print("Reason:", reason)
-    print(f""""
+    prompt = f""""
+
 -----------------------
-### Instruction:
-英和辞書の単語『{word}』の日本語訳として相応しいのはどちらでしょうか？
+### 背景:
+以下の入力は、AIによる英和辞書の単語『{word}』の日本語訳の修正例です。
+
+### 指示:
+1.『{word}』の意味が修正前よりも修正後が相応しいか判定してください。
+2.次に、修正後の単語を洗練させて出力してください。
+
+### 入力:
+- 英単語: {word}
 - 修正前: {mean1}
 - 修正後: {mean2}
 - 修正理由: {reason}
+
+### 出力例:
+
+- 英単語: {word}
+- 結論: (修正後|修正後)の方が正しいです。
+- 理由: xxx
+- さらに洗練させた表現に直すと次のようになります。
+
+```json
+{{
+    "word": "{word}",
+    "mean": "{mean2}"
+}}
+```
 -----------------------
-""")
+"""
+    print(prompt)
+    print("------------------")
+    print("<result>")
+    print(ai_reporter.generate(prompt, ai_reporter.model3))
+    print("</result>")
+
     # --- check user input ---
     for _ in range(10):
         i = input("remove this line press [k] >>> ")

@@ -21,7 +21,7 @@ foreach ($files as $file) {
         # ‘を'と'を'を統一
         $mean = preg_replace("/‘([あ-ん]{1,4})'/", "'$1'", $mean);
         # 全角記号を半角記号に揃える
-        $mean = mb_convert_kana($mean, "K", "UTF-8");
+        $mean = mb_convert_kana($mean, "rsKV", "UTF-8");
         # 再構築
         $result[] = "$word\t$mean";
         # report
@@ -32,7 +32,7 @@ foreach ($files as $file) {
         }
     }
     $txt = implode("\n", $result);
-    // file_put_contents($file, $txt);
+    file_put_contents($file, $txt);
 }
 echo "ok\n";
 exit(0);

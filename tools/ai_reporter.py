@@ -13,16 +13,30 @@ import os
 import random
 import kudb
 
+script_dir = os.path.dirname(__file__)
+config_file = os.path.join(script_dir, "config.json")
+db_file = os.path.join(script_dir, "ai_reporter.db")
+# ---
 ollama_host = "http://localhost:11434"
-client = ollama.Client(host=ollama_host)
-# model = "codellama"
+# model
 # model = "Maoyue/mistral-nemo-instruct-2407:latest" # 12.2b → JSON生成ミスが多くて使えなかった
+# model1 = "phi4:14b"
+# model2 = "lucas2024/llama-3-elyza-jp-8b:q5_k_m"
+# model3 = "lucas2024/llama-3-elyza-jp-8b:q5_k_m"
 model1 = "phi4:14b"
-model2 = "lucas2024/llama-3-elyza-jp-8b:q5_k_m"
-model3 = "lucas2024/llama-3-elyza-jp-8b:q5_k_m"
+model2 = model1
+model3 = model1
+
 # ----
-# db
-kudb.connect("ai_reporter.db")
+kudb.connect(db_file)
+if os.path.exists(config_file):
+    with open(config_file, "r", encoding="utf-8") as fp:
+        j = json.load(fp)
+        if "host" in j:
+            ollama_host = j["host"]
+# create client
+client = ollama.Client(host=ollama_host)
+
 
 def generate(prompt, model):
     response = client.generate(
@@ -33,19 +47,21 @@ def generate(prompt, model):
     )
     return response["response"]
 
+
 def check_raw(word, mean, model):
     prompt = """
 ### Instruction:
 Inputを読み、Outputの例を参考にして、**JSONだけ**を出力してください。
-
-- **明らかな間違い**がある場合のみ指摘してください。
-- 間違いがなければ`{{"Status": "ok"}}`とだけを出力してください。
+なお、**明らかな間違い**がある場合のみ指摘してください。
 
 ### 備考:
-- 〈C〉 (countable) … 可算名詞（数えられる名詞）であることを示します。例えば、"apple" は可算名詞なので "an apple" や "three apples" のように数を表すことができます。
-- 〈U〉 (uncountable) … 不可算名詞（数えられない名詞）であることを示します。例えば、"water" は不可算名詞なので "a water" とは言えませんが、"some water" や "a glass of water" のように表現できます。
 - `A / B / C`は、列挙で単語にAとBとCの意味があることを示します。
 - `A, B, C`は、Aの言い換えがBやCであることを示します。
+- `A; B`は、同じ単語の異なる意味があることを示します。
+- `A(B)`は、Aの補足Bを示しています。
+- `=A / B`は、Aと同じ意味であり、Bの別の意味も持つことを示します。
+- `〈C〉` は、countableの略で「可算名詞（数えられる名詞）」を意味します。例えば、"an apple"。
+- `〈U〉` は、uncountableの略で「不可算名詞（数えられない名詞）」を意味します。例えば、"water"。
 
 ### Input:
 ```json
@@ -72,6 +88,7 @@ OR
         word=word, mean=mean
     )
     return generate(prompt, model)
+
 
 def check_json(word, mean, model, times=0):
     if times > 10:
@@ -137,7 +154,7 @@ def check(word, mean, model):
         #    continue
         # print(f"[{word}]=", json.dumps(obj, ensure_ascii=False))
         return obj
-    print("[ERROR] faild 5 times")
+    print("[ERROR] faild 10 times")
     return last_obj
 
 
@@ -166,11 +183,11 @@ def file_check(fname):
             # check db
             a = kudb.get(tag=w)
             if a and len(a) > 0:
-                print("  - already checked")
+                print(f"  - already : {w}")
                 continue
             flag_ok = False
             flag_no_problem = False
-            for retry in range(1, 5+1):
+            for retry in range(1, 5 + 1):
                 obj = check(w, mean, model1)
                 if obj["Status"] == "ok":
                     flag_no_problem = True
@@ -189,14 +206,15 @@ def file_check(fname):
                     break
                 print(f"  - [?] {retry}回目: 2次チェックに失敗:やり直します: {obj2}")
             if flag_no_problem:
+                kudb.insert(obj, tag=w)
                 continue
             if not flag_ok:
                 print(f"  - [ERROR] 5回やり直しても失敗: {w} {mean}")
             else:
                 fix_list.append(obj)
                 kudb.insert(obj, tag=w)
-                print(f"  - SUCCESS!!")
-        
+                print("  - SUCCESS!!")
+
     with open(outfile, "wt", encoding="utf-8") as fp:
         json.dump(fix_list, fp, ensure_ascii=False, indent=2)
 
@@ -204,9 +222,10 @@ def file_check(fname):
 def all_files_check():
     tools_dir = os.path.dirname(__file__)
     root = os.path.dirname(tools_dir)
-    files = glob(f"{root}/src/*.txt")
-    for f in files:
-        file_check(f)
+    for code in range(ord("a"), ord("z") + 1):
+        ch = chr(code)
+        full = os.path.join(root, "src", f"{ch}.txt")
+        file_check(full)
 
 
 def remove_fix_json():
@@ -219,10 +238,9 @@ def remove_fix_json():
 
 
 if __name__ == "__main__":
-    #check("Alpaca", "アルパカ(日本産のロバ)")
-    #check("animal", "動物")
-    #check("sleep", "眠る")
-    #check("Apple", "ゴリラ")
+    # check("Alpaca", "アルパカ(日本産のロバ)")
+    # check("animal", "動物")
+    # check("sleep", "眠る")
+    # check("Apple", "ゴリラ")
     # file_check("src/c.txt")
     all_files_check()
-    

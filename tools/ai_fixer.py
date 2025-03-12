@@ -6,17 +6,18 @@ import random
 import kudb
 import ai_reporter
 
-ollama_host = "http://localhost:11434"
-client = ollama.Client(host=ollama_host)
-# model = "codellama"
-# model = "lucas2024/llama-3-elyza-jp-8b:q5_k_m"
-model = "phi4:14b"
-kudb.connect("ai_reporter.db")
-### kudb.clear() # 必要に応じて
+script_dir = os.path.dirname(__file__)
+config_file = os.path.join(script_dir, "config.json")
+db_file = os.path.join(script_dir, "ai_reporter.db")
+
+kudb.connect(db_file)
 
 for row in kudb.get_all():
     print("----------")
     # print('get_all >', row) # all
+    status = row["Status"]
+    if status == "ok":
+        continue
     if "データ修正済" in row:
         print("skip", row["修正後"]["word"])
         continue
@@ -78,4 +79,3 @@ for row in kudb.get_all():
         print("--- marked ---")
     else:
         print("--- next ---")
-

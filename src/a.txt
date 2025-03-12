@@ -46,7 +46,7 @@ A-bomb	=atomic bomb
 A-line	Aラインの(衣服の上部が細く裾が広い)
 A-one	第一級の,すぐれた(excellent)
 A/C	account / account current 取引勘定
-A/O,a/o	account of …の勘定
+A/O,a/o	And/Or (AまたはB、またはその両方) / Account Of …の理由で / As Of …の時点で
 A/P	account paid 支払済 / accounts payable 支払勘定
 A/R	account receivable 《会計》売掛債権
 AR	Augmented Reality 拡張現実

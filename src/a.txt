@@ -58,7 +58,7 @@ AAA	American Automobile Association 米国自動車協会 / antiaircraft artille
 AAM	air-to-air missile 空対空ミサイル
 aardvark	ツチブタ(シロアリを主食とするアフリカ産の哺乳動物)
 Aaron	アロン(モーセの兄;ヘブライ人最初の大祭司とされる)
-ab.	about / [times] at bat(野球で打者の)打数
+ab.	Abbreviation 略語 / Antibody 抗体 / Abdomen 腹部
 abaci	abacusの複数形
 aback	後へ,後ろに
 abacus	そろばん
@@ -75,7 +75,7 @@ abatement	軽減;緩和;〈C〉減価,減額
 abatis	さかもぎ(逆茂木)(敵の侵入を防ぐためのとがったくい)
 abattoir	畜殺場
 abbacy	大修道院長の職(任期)
-abbe	神父,師
+abbe	〈C〉聖職者(カトリックの), 司祭, 修道士
 abbess	女子大修道院長
 abbey	〈C〉大修道院 / 《集合的に》(一院全体の)僧,尼僧 / 〈C〉(大修道院の一部であった)大寺院;《the A-》ウエストミンスター寺院(Westminster Abbey)
 abbot	大修道院長
@@ -97,7 +97,7 @@ Abel	アベル(聖書で,AdamとEveの第2子;兄のカイン(Cain)に殺され�
 aberrant	正道からはずれた,常軌を逸した;異常な
 aberration	正道からはずれること,非行,異常 / (軽い)精神異常
 abet	(特に悪い事に)…'を'扇動する,そそのかす《+『名』+『in』+『名』(do『ing』)》
-abettor, abetter	扇動者
+abettor, abetter	犯罪や悪事を助けたり、けしかけたりする人
 abeyance	一時的な中止(停止)
 abhor	…'を'ひどくきらう,嫌悪する
 abhorrence	大きらいなもの;〈U〉(…を)大きらいなこと《+『of』+『名』(doing)》
@@ -229,7 +229,7 @@ abyss	底知れぬほど深いもの,奈落
 abyssal	深淵(えん)の;深海の
 Abyssinia	アビシニア(アフリカ北東部の王国;Ethiopiaの旧名)
 Ac	actiniumの化学記号
-AC,A.C.,ac,a.c.	alternating current　・交流
+AC,A.C.,ac,a.c.	Alternating Current 交流電源 / Air Conditioning 空調 / Account 口座
 acacia	アカシア属の木,《英》ハリエンジュ,ニセアカシア
 acad.	academic / academy
 academe	《A-》(古代アテネの)アカデミーの森 / 〈C〉(またacademia)大学[周辺]

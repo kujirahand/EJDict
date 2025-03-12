@@ -52,7 +52,7 @@ def check_raw(word, mean, model):
     prompt = """
 ### Instruction:
 Inputを読み、Outputの例を参考にして、**JSONだけ**を出力してください。
-なお、**明らかな間違い**がある場合のみ指摘してください。
+明らかな間違いがある場合のみ、明確な理由を付けて指摘してください。
 
 ### 備考:
 - `A / B / C`は、列挙で単語にAとBとCの意味があることを示します。
@@ -70,19 +70,19 @@ Inputを読み、Outputの例を参考にして、**JSONだけ**を出力して�
 
 ### Output example:
 ```json
-{{"Status": "error", "Reason": "説明の間違い", "修正後": {{"word": "fish", "mean": "魚"}}}}
-```
-OR
-```json
-{{"Status": "error", "Reason": "誤字", "修正後": {{"word": "animal", "mean": "動物"}}}}
-```
-OR
-```json
-{{"Status": "error", "Reason": "脱字", "修正後": {{"word": "animal", "mean": "動物"}}}}
-```
-OR
-```json
 {{"Status": "ok"}}
+```
+または
+```json
+{{"Status": "error", "Reason": "説明が間違っていた", "修正後": {{"word": "face", "mean": "魚"}}}}
+```
+または
+```json
+{{"Status": "error", "Reason": "誤字があった", "修正後": {{"word": "abalone", "mean": "〈C〉アワビ;〈U〉アワビの身"}}}}
+```
+または
+```json
+{{"Status": "error", "Reason": "カッコが対応していない", "修正後": {{"word": "Aaron", "mean": "アロン(モーセの兄;ヘブライ人最初の大祭司とされる)"}}}}
 ```
 """.format(
         word=word, mean=mean

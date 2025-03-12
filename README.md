@@ -50,6 +50,14 @@ $ php tools/join-files.php
 $ php tools/tosqlite.php
 ````
 
+## 辞書の記号の意味
+
+- 〈C〉 (countable) … 可算名詞（数えられる名詞）であることを示します。例えば、"apple" は可算名詞なので "an apple" や "three apples" のように数を表すことができます。
+- 〈U〉 (uncountable) … 不可算名詞（数えられない名詞）であることを示します。例えば、"water" は不可算名詞なので "a water" とは言えませんが、"some water" や "a glass of water" のように表現できます。
+- `A / B / C`は、列挙で単語にAとBとCの意味があることを示します。
+- `A, B, C`は、Aの言い換えがBやCであることを示します。
+
+
 ## License
 
 - [Public Domain CC0](https://creativecommons.org/publicdomain/zero/1.0/)

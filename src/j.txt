@@ -2,8 +2,8 @@ J	(連続するものの)10番目,第10番のもの
 J.	(カードの)Jack / Journal / Judge / Justice
 J.A.	Judge Advocate(米海軍)法務官
 J.C.	Jesus Christ / Julius Caesar
-J.C.S.,JCS	Joint Chiefs of Staff統合参謀本部
-J.D.	Doctor of Jurisprudence / Doctor of Laws / Justice Department
+J.C.S.,JCS	Joint Chiefs of Staff 統合参謀本部
+J.D.	Doctor of Jurisprudence / Doctor of Laws / Justice Department / Juris Doctor 法学博士
 J,j	英語アルファベットの第10字 / J字形のもの / joule
 J.P.	Justice of the Peace 治安判事
 Ja.	January

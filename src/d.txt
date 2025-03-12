@@ -1,27 +1,28 @@
-D	deuteriumの化学記号
+D	deuterium（重水素）の化学記号
 d.	died / dead / denarius(penny) / denarii(pence) / dime / dollar
 D.	December / Democrat / Dutch
-d	(おもに人称代名詞・固有名詞(人名),thereの後で)had, wouldの短縮形 / (疑問文でwhere,what,whenの後で)didの短縮形;Where'd he go?=Where did he go?
+d	(おもに人称代名詞・固有名詞(人名),thereの後で)had, wouldの短縮形 / (疑問文でwhere,what,whenの後で)didの短縮形; Where'd he go?(=Where did he go?)
 D.A.	District of Attorney (米国の)地方検事 / Department of Agriculture農務省 / doesn't answer; don't answer
-D.C.	da capo, District of Columbia
+D.C.	da capo / ワシントンD.C (=District of Columbia;コロンビア特別区)
 D.C.,DC,d.c.,dc	direct current 直流
 D,d	〈C〉英語アルファベットの第4字 / 〈U〉《D》(音階の)ニ音,ニ調 / 〈U〉(ローマ数字の)500 / 〈C〉《D》《米》(学校の成績の)D
 D.F.C.	Distinguished Flying Cross(米・英軍)空軍殊勲十字章
 D.F.M.	Distinguished Flying Medal(英軍)殊勲章
 D.G.	by the grace of God / Director General
-D.H.L.	= DHL・= DHL Worldwide Express ディー・エイチ・エル(アメリカの国際宅配便会社)
-D.J.	disk jockey / District Judge / Juris Doctor(ラテン語)=Doctor of Law
+D.H.L.	=DHL / DHL Worldwide Express ディー・エイチ・エル(アメリカの国際宅配便会社)
+D.J.	disk jockey ディスクジョッキー / District Judge 地方裁判所判事
 D.L.O.	Dead Letter Office(郵便局の)配達不能郵便物係
-D.Lit.,D.Litt.	Doctor Literarum(ラテン語)=Doctor of Literature
-D.M.D.	Dentariae Medicinae Doctor(ラテン語)=Doctor of Dental Medicine
-D.O.A.	dead on arrival到着時すでに死亡
-D.O.B.,d.o.b.	date of birth生年月日
-D.P.,DP	displaced person第二次大戦後故国を追われた人,強制移住者
-d.s.	days after sight(手形などで)一覧後…日払い / document signed署名入り証書
+D.Lit.,D.Litt.	Doctor Literarum(ラテン語)=Doctor of Literature 文学博士
+D.M.D.	Dentariae Medicinae Doctor(ラテン語)=Doctor of Dental Medicine 歯科学の医学博士
+D.O.A.	dead on arrival 到着時すでに死亡
+D.O.B.,d.o.b.	date of birth 生年月日
+D.P.,DP	displaced person 第二次大戦後故国を追われた人, 強制移住者
+d.s.	days after sight (手形などで)提示から…日後に支払い
+d/s	document signed 署名入り証書 / =sig.
 D.S.	(音楽で)dal segno / Doctor of Science
-D.S.C.	Distinguished Service Cross(米陸軍)殊勲十字章 / Doctor of Surgical Chiropody
-D.S.M.	Distinguished Service Medal(米・英軍)殊勲章
-D.S.O.	Distinguished Service Order(英軍)殊勲章
+D.S.C.	Distinguished Service Cross (米陸軍)殊勲十字章 / Doctor of Surgical Chiropody 外科的足病治療の博士(または足病外科医)
+D.S.M.	Distinguished Service Medal (米・英軍)殊勲章
+D.S.O.	Distinguished Service Order (英軍)殊勲章
 d.s.p.	decessit sine prole(ラテン語)(=died without offspring)
 D.V.	Deo volente(ラテン語)(God willing) / Douay Version[of the Bible]ドウエー聖書
 D.V.M.	Doctor of Veterinary Medicine
@@ -33,7 +34,8 @@ dab	(柔らかい物・湿った物などで)…'を'軽くたたく,軽く押�
 dabble	(水中で)手足をパシャパシャさせて遊ぶ,水を跳ね返す / (…に)ちょっと手を出す《+『in』(『at』)+『名』(do『ing』)》 / (水の中で)…'を'パシャパシャさせる
 dabbler	水遊びする人 / (物事を)道楽半分にする人
 dabchick	カイツブリ(水鳥の一種)
-dabs	指紋
+dabs	軽くたたく・軽く塗る / 軽く押さえること・軽くたたくこと / 《英》指紋(イギリスの警察用語)
+DABs	Digital Audio Broadcasting デジタルラジオ放送
 dace	ウグイ,アカハラ(北米・欧州産の淡水魚)
 dacha	(ロシアの)いなかの邸宅(別荘)
 dachshund	ダックスフント(胴長で脚の短い犬)
@@ -46,17 +48,17 @@ daddy	(小児語で)『おとうちゃん』
 daddy longlegs	《米》メクラグモ / 《英》(また『crane fly』)ガガンボ(大きな蚊に似た昆虫)
 dado	台胴(円柱の台座の頂部と基部の間) / 腰羽目(こしはめ)(床から1m位の高さまで壁にはった羽目板)
 Daedalus	ダイダロス(ギリシア神話でCrete島の迷路を作った名工)
-daemon	ダイモン(ギリシア神話で神々と人間の中間者) / 人間の守護霊 / =demon
+daemon	(コンピューター用語)OSのバックグラウンドで動作するプロセス / ダイモン(ギリシア神話で神々と人間の中間者) / 人間の守護霊 / =demon
 daemonic	=demonic
-daffodil	〈C〉『ラッパズイセン』 / 〈U〉鮮黄色
-daffy	とんまな / 気違いじみた
-daft	とんまな / 気違いじみた
-dag.	dekagram / dekagrams
+daffodil	〈C〉ラッパスイセン(喇叭水仙) / 〈U〉鮮やかな黄色
+daffy	ふざけた, ばかげた, とんまな, 正気でない(軽いユーモラスなニュアンス)
+daft	バカな, 間抜けな, 馬鹿げた（主にイギリス英語で使われる皮肉っぽいニュアンス）
+dag.	(質量の単位) decagram または decagrams 1dag=10g
 dagger	『短剣』;短剣に似たもの(ハチの針など) / 剣印,剣標(読者の注意を引くのに用いる小さな短剣の印)
-dago	《軽べつして》スペイン(ポルトガル,イタリア)系の人
+dago	歴史的にスペイン人またはイタリア人を指す侮蔑用語(19世紀から20世紀初頭に使われて現在は使われない)
 daguerreotype	(昔の)銀板写真
-dahlia	〈C〉ダリア / 〈U〉濃紫色
-Dahomey	ダオメ(アフリカ西部の共和国,1976年国名をBeninと変更)
+dahlia	〈C〉ダリア
+Dahomey	ダオメ(アフリカ西部の共和国,1975年国名をBeninと変更,1990年に「ベナン共和国（Republic of Benin）」と変更)
 daily	『毎日の』,日々の / 『毎日』,日々(everyday);日ごとに / 日刊新聞(daily paper) / (また『daily help』)《おもに英話》通いのメイド
 daily bread	日々のかて(毎日必要な食料・金など)
 daily double	(競馬などで)重勝式の賭(か)け

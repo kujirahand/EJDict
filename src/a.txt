@@ -1169,7 +1169,7 @@ Alpine	アルプス山脈の / 《通例a-》高山の
 Alps	アルプス山脈
 already	《肯定文で》『もう』,『すでに』 / 《驚き・意外の意を表して》《疑問文で》もう,早くも;《否定文で》まさか
 alright	=all right
-Alsatian	=German Shepherd
+Alsatian	=German shepherd
 also	…『もまた』(too),やはり / そしてその上,それから
 also-ran	(競馬で)着外の馬 / 落選候補者;落伍者
 alt.	alternate / altitude / alto
@@ -2000,7 +2000,7 @@ archaeological, archeological	孝古学の,考古学的な
 archaeologist, archeologist	考古学者
 archaeology, archeology	考古学
 archaeopteryx,archeopteryx	始祖鳥(絶滅した鳥類の祖先)
-Archaeozoic	=Archeozoic
+Archaeozoic	=Archeozoic,Archae
 archaic	(言葉が)今は一般に用いられない,古風な,すたれた / 古代の
 archaism	古語,古風な表現 / 〈U〉古文体,擬古体
 archangel	(ユダヤ教・キリスト教・イスラム教の)大天使,天使長

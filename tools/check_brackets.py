@@ -1,13 +1,23 @@
-import csv
+"""対応しない括弧のチェックツール"""
+
 import glob
 import os
-import re
 
 pairs = [
     ('(', ')'),
+    ('[', ']'),
+    ('{', '}'),
     ('（', '）'),
     ('【', '】'),
     ('『', '』'),
+    ('《', '》'),
+    ('「', '」'),
+    ('『', '』'),
+    ('〔', '〕'),
+    ('〖', '〗'),
+    ('〈', '〉'),
+    ('〔', '〕'),
+    ('｛', '｝'),
 ]
 
 root = os.path.dirname(os.path.dirname(__file__))
@@ -24,17 +34,27 @@ for path in files:
             cols = line.split('\t')
             if len(cols) < 2:
                 continue
+            word = cols[0]
             text = cols[1]
-            # remove enumeration patterns like "a)" or "1)" which are not
-            # part of bracket pairs
-            cleaned = re.sub(r"\b[a-zA-Z0-9]\)", "", text)
             for o, c in pairs:
-                if cleaned.count(o) != cleaned.count(c):
-                    errors.append((os.path.basename(path), lineno, o, c, text))
-                    break
+                num_open = text.count(o)
+                num_close = text.count(c)
+                if num_open != num_close:
+                    base_name = os.path.basename(path)
+                    errors.append((
+                        base_name,
+                        lineno,
+                        o,
+                        c,
+                        word,
+                        text,
+                        num_open,
+                        num_close
+                    ))
 
 if errors:
-    for fname, lineno, o, c, text in errors:
-        print(f"{fname}:{lineno}: mismatched {o}{c}: {text}")
+    for fname, lineno, o, c, word, text, no, oc in errors:
+        print(f"src/{fname}:{lineno:<4d}: mismatched {o}…{c}: {word}:{text}: {no} open, {oc} close")
+    print(f"Total mismatches: {len(errors)}")
 else:
     print("No mismatches found.")

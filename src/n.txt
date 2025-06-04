@@ -41,7 +41,7 @@ nail polish	マニキュア液(《英》nail varnish)
 nail scissors	つめ切りばさみ
 nailbrush	(マニキュア用の)つめのブラシ
 nainsook	ネインスック(肌着・幼児服用の柔らかな綿織物)
-Nairobi	ナイロビ(ケニア)Kenya)共和国の首都)
+Nairobi	ナイロビ(ケニア)Kenya共和国の首都
 naive,naïve	(若き・経験不足から)〈人・言葉などが〉無邪気な,天真らんまんな,世間知らずな / 人を信じやすい,だまされやすい 日本語で「繊細な」という意味で「ナイーブ」使われることがありますが、英語では「ナイーブ」にそのようなニュアンスは含まれません。
 naiveté,naïveté,naivete	〈U〉天真らんまん,純真;〈C〉《複数形で》無邪気な言葉(行為)
 naivety,naïvety	=naiveté
@@ -120,7 +120,7 @@ national	『国民の』;『国家の』 / 『国立の』,国有の / 全国的
 national anthem	国歌
 national debt	《時にa~》国債
 national government	連立内閣,挙国一致内閣
-National Guard	《the~;集合的に》(米国の)州民軍,州兵(平時は州の治安維持にあたり,戦時には,正規軍に編入される民兵隊
+National Guard	《the~;集合的に》(米国の)州民軍,州兵(平時は州の治安維持にあたり,戦時には,正規軍に編入される民兵隊)
 National Health Service	(英国の)国民健康保険制度
 National Insurance	(英国の)国民保険[制度]
 National League	《the~》ナショナルリーグ(米国2大プロ野球連盟の一つ)
@@ -435,7 +435,7 @@ Newfoundland	ニューファンドランド島(カナダ東部の大きな島;�
 newly	『最近』,近ごろ / 『新たに』,再び
 newness	新しさ
 newpenny	(英国の)新ペニー(硬貨)
-news	(新しい)『報道』,記事;(一般的に)知らせ,たより) / (耳新しい)『事件』,でき事 / 《N-》(新聞名として)…新聞
+news	(新しい)『報道』,記事;(一般的に)知らせ,たより) / (耳新しい)『事件』,でき事 / 《N-》(新聞名として…新聞
 news agency	通信社
 news conference	=press conference
 news media	ニュース媒体(新聞・ラジオ・テレビなど)
@@ -530,7 +530,7 @@ nightclub	ナイトクラブ
 nightdress	=nightgown
 nightfall	日暮れ
 nightgown	(婦人・子供用のゆったりした)寝巻き(《英》nightdress)
-nighthawk	(北米産の)ヨタカ(夜鳥) / 《話》=night owl)
+nighthawk	(北米産の)ヨタカ(夜鳥) / 《話》=night owl
 nightie	=nightgown
 nightingale	ナイチンゲール,サヨナキドリ(ヨーロッパ産ツグミ科の小さな赤褐色の渡り鳥;雄は特に春の夕方から夜半にかけて美しい声で鳴く)
 Nightingale	ナイチンゲール(『Florence』『~』;1820‐1910;近代看護法と看護婦養成に貢献した英国婦人)
@@ -717,7 +717,7 @@ noncontributory	(年金が)雇用者負担の
 noncooperation	協力しないこと;(政府に対する)非協力
 nondairy	乳成分なしの,乳成分を使っていない
 nondescript	目立った特色のない / 〈C〉 / 特徴のない人(もの)
-none	《『none of』+『名』の形で》(…の)『どれも』,『何も,だれも,少しも』)…『でない』 / 《no+名詞に代わって》『少しも』(『一人も,一つも』)…『ない』 / 《文》《主語として単独で用いて》『だれも』…『ない』 / 《『none too』…の形で》『少しも』(『決して』)…『ない』 / 《『none the』+『比較級』の形で》(…だからといって)少しも…でない《+『for』+『名』(do『ing』)》
+none	《『none of』+『名』の形で》(…の)『どれも』,『何も,だれも,少しも』)…『でない』 / 《no+名詞に代わって》『少しも』(『一人も,一つも』)…『ない』 / 《文》《主語として単独で用いて》『だれも』…『ない』 / 《『none too』…の形で》『少しも』(『決して』)…『ない』 / 《『none the』+『比較級』の形で》(…だからといって)少しも…でない《+『for』+『名』(do『ing』》
 nonentity	〈C〉取るに足りない人(物) / 〈C〉実在しない物,架空の物 / 〈U〉実在しないこと
 nonessential	本質的でない / 本質的でないもの
 nonesuch	無比(無類)の人物
@@ -850,7 +850,7 @@ nosy, nosey	せんさく好きの,おせっかいな
 nosy parker	せんさく好きな人,おせっかいやき
 not	《助動詞,be動詞,時にhaveと共に,また一般動詞にはdoを添えて文の否定を表して》…『でない』,しない / 《語・句・節を否定して》…『でなく』 / 「not+形(副)」は否定される形容詞・副詞の反対の意味を強調することがある / notの意が及ぶ範囲の違いによって,意味解釈に違いが生じることがある / 《不定詞・分詞・動名詞を否定して》…[『し』]『ない』 / 《all, everyなどとともに用いて部分否定を表して》(全部が…なのでは)『ない』,(必ずしも…では)『ない』 / 《any, eitherなどに伴って全面否定を表して》(全然…)『しない』,(どちらも…)『しない』 / 《省略文でnotを含む句・節の代用として》『そうではない』
 not sufficient funds	(銀行の)預金不足
-nota bene	= note well(注意せよ) / 注意[せよ]《略》『N.B.,nb.』)
+nota bene	= note well(注意せよ) / 注意[せよ]《略》『N.B.,nb.』
 notability	〈U〉顕著,著名 / 〈C〉《複数形で》名士
 notable	『注目に値する』,目立った / 〈C〉著名人,名士
 notably	著しく,際立って / 特に
@@ -881,7 +881,7 @@ Notre Dame	(パリにある)ノートルダム寺院 / 聖母マリア
 notwithstanding	…にもかかわらず / 《文》それにもかかわらず(nevertheless)
 nougat	ヌガー(木の実がはいった砂糖菓子)
 nought	=naught
-noughts and crosses	○×ゲーム(○×を5目並べのように三つ続くよう並べ合う;(《米》tick-tack-toe)
+noughts and crosses	○×ゲーム(○×を5目並べのように三つ続くよう並べ合う;(《米》tick-tack-toe))
 noun	『名詞』
 nourish	…'を'『養う』;…'に'栄養を与える / …'を'発展させる,助長する / (心に)〈ある感情〉'を'『抱く』《+『名』+『in』+『名』》
 nourishing	滋養に富んだ,栄養のある

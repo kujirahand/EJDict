@@ -334,7 +334,7 @@ hardheaded	(特に商売で)抜けめのない,現実的な
 hardhearted	不人情な,冷酷な
 hardihood	大胆(boldness);ずぶとさ,厚かましさ
 hardiness	頑健;耐久力
-Harding	ハーディング(『Warren Gamaliel Harding;1865‐1923;米国第29代大統領1921‐23)
+Harding	ハーディング(『Warren Gamaliel Harding;1865‐1923;米国第29代大統領1921‐23)』
 hardlabor,hardlabour	(懲罰としての)重労働
 hardliner	信条を曲げない人
 hardly	『ほとんど』…『ない』,おそらく…ない;《遠回しに》少しも(全く)…ない
@@ -875,7 +875,7 @@ heterosexual	異性愛の / 異性愛の人
 heterosexuality	異性愛
 heuristic	(教育方法が)自分で発見させる,経験による / 発明(発見)に役立つ
 heuristics	発見法,発見的教授法
-hew	(おのなどを振るように)切って(刻んで)…'を'作る《+『out』+『名』》 / (おの・剣などで)…'を'切る,たたき切る《+『down』+『名』》 / (努力して)…'を'作り出す《+『out』+『名』》 / (おの・剣などで)(…を)切る,たたき切る《+『away』(『at』+『名』》
+hew	(おのなどを振るように)切って(刻んで)…'を'作る《+『out』+『名』》 / (おの・剣などで)…'を'切る,たたき切る《+『down』+『名』》 / (努力して)…'を'作り出す《+『out』+『名』》 / (おの・剣などで)(…を)切る,たたき切る《+『away』(『at』+『名』》)
 hewer	(木・石などを)切る人採炭夫
 hewn	hewの過去分詞
 hex	〈人〉'に'魔法を掛ける;〈人〉'を'うっとりさせる / 魔力,まじない / 魔女
@@ -970,7 +970,7 @@ high-keyed	(音程が)高音の / 緊張(興奮)度の高い
 high-level	高級の,地位の高い / 高所からの
 high-minded	気高い,高潔な
 high-octane	オクタン価の高い
-high-pitched	(声などが)調子の高い,かん高い) / (屋根が)こう配の急な
+high-pitched	(声などが)調子の高い,かん高い) / (屋根がこう配の急な
 high-powered	(機械などが)高性能の,馬力の強い / (人が)極めて精力的な
 high-pressure	高圧の,高圧に耐える / 高気圧の / 《話》高圧的な,無理強いの / …'を'強引にさせる,買わせる
 high-principled	高潔な,高貴な
@@ -1103,7 +1103,7 @@ hives	発しん,じんましん
 hm	=hum
 ho	ほう(驚き・賞賛・冷笑などの発声);おーい(呼びかけ・注意などの発声) / 娼婦・売春婦：(whoreの発音をくずしたもの)
 Ho	holmiumの化学記号
-Ho Chi Minh	ホーチミン(1890‐1969)ベトナム民主共和国の初代大統領)
+Ho Chi Minh	ホーチミン(1890‐1969)ベトナム民主共和国の初代大統領
 Ho Chi Minh City	ホーチミン市(ベトナム南部の港市;旧名Saigon)
 hoagy,hoagie	=hero sandwich
 hoar	=hoary
@@ -1181,7 +1181,7 @@ hollowware	銀・ガラス・銀器製の深皿(容器)
 holly	セイヨウヒイラギ(赤い実をつけクリスマスの飾りに使う)
 hollyhock	タチアオイ
 Hollywood	ハリウッド(カリフォルニア州ロサンゼルス市郊外にある映画産業の中心地) / 米国映画界
-Holmes	ホームズ(Oliver Wendell~;1809‐94;米国の詩人・小説家) / (Sherlock~; 1 シャーロックホームズ 《Conan Doyle 作の推理小説中の主人公で名探偵》
+Holmes	ホームズ(Oliver Wendell~;1809‐94;米国の詩人・小説家) / (Sherlock~; 1 シャーロックホームズ 《Conan Doyle 作の推理小説中の主人公で名探偵》)
 holmium	ホルミウム(希土類金属元素;化学記号は『Ho』)
 holocaust	(特に火による)大虐殺・全燔(はん)祭の供物(ユダヤ教で獣を丸焼きにしていけにえとする)・全焼死・[the H-] (第二次大戦中のナチスによる)ユダヤ人の大量虐殺
 Holocene	=the Recent現世の, 完新世の, the ... 完新世
@@ -1292,7 +1292,7 @@ honeycombed	穴だらけの,すき間だらけの
 honeydew	暑い季節に植物の城・茎にできる甘い汁(しる);(アブラムシ・ヨコバイなどの昆虫が分泌する)みつ / (糖みつで甘くした)甘露たばこ / =honeydew melon
 honeydew melon	甘露メロン(甘味の強いメロンの一種)
 honeyed	みつをもった,みつで甘味をつけた;みつのように甘い
-honeymoon	新婚旅行(休暇),ハネムーン / みつ月;幸福な期間 / …で)新婚休暇を過ごす,(…へ)新婚旅行をする《+『in』(『at』)+『名』》
+honeymoon	新婚旅行(休暇),ハネムーン / みつ月;幸福な期間 / …で)新婚休暇を過ごす,(…へ)新婚旅行をする《+『in』(『at』+『名』》
 honeymoon bridge	二人するブリッジ
 honeymooner	新婚旅行者
 honeysuckle	スイカズラ(常緑のつる植物)

@@ -459,7 +459,7 @@ in loco parentis	親の立場で,親の代りに
 in memoriam	(碑文などで)…を記念して,追悼して
 in one's good graces	(に)気に入られて・好意を持たれて・= in the good graces of one
 in re	…に関して,の件について
-in residence	学内に)居住の,(官邸・公邸)住まいの
+in residence	学内に)居住の,(官邸・公邸住まいの
 in situ	もとの場所に,本来の場所に
 in so far as	…する限りにおいて
 in total	全部で,全体として / 全く
@@ -702,7 +702,7 @@ indemnity	〈U〉損害保障,賠償 / 〈C〉賠償(補償)金
 indent	…'に'ぎざぎざをつける / …'を'字下がりにする(行をかえるとき1字下がりにする) / 《英》…'を'[公式の]注文書で注文する / ぎざぎざ,刻み目 / (行の)字下がり / 《英》公式の注文所 / …'を'へこませる;…'に'印などを打ち込む押す / へこみ,くぼ地
 indentation	〈U〉ぎざぎざをつけること(がついてくること) / 〈C〉ぎざぎざ,刻み目 / 〈C〉(行の)字下がり
 indented	ぎざぎざのある / 字下がりにした
-indention	〈U〉)節の第1行目の)字下げ / 〈C〉字下げ分の空白 / 〈C〉《古》ぎざぎざ,刻み目
+indention	〈U〉節の第1行目の字下げ / 〈C〉字下げ分の空白 / 〈C〉《古》ぎざぎざ,刻み目
 indenture	2通作成して取り交わした契約書(証書) / 《複数形で》(徒弟などの)年季奉公契約書 / (契約して)〈人〉'を'見習い(年季奉公)に出す
 independence	(…からの)『独立』,自立,独立心《+『of』(『from』)+『名』》
 Independence Day	米国独立記念日(7月4日)
@@ -1254,7 +1254,7 @@ instructional	教育の,教育的な
 instructive	『ためになる』,
 instructor	教師,指導者 / 《米》(大学の)専任講師(assistant professorの下位の職)
 instructorship	講師の身分(地位)
-instrument	(主として精密な)『器具』,器械,計器・(また『musical instrument』)『楽器』) / 手段,方便(means);(人の)手先 / 法律文書(証書・遺書・協定書・約束手形など)
+instrument	(主として精密な)『器具』,器械,計器・(また『musical instrument』)『楽器』) / 手段,方便(means);(人の)手先 / 法律文書(証書・遺書・協定書・約束手形など
 instrumental	役立つ;(…をするのに)役立つ《+『in』 do『ing』》 / 楽器の,器楽の
 instrumentalist	器楽奏者
 instrumentality	〈U〉役に立つこと / 〈C〉手段,尽力
@@ -1373,7 +1373,7 @@ interesting	(物事が)『興味を起こさせる』,おもしろい
 interestingly	おもしろく;おもしろいことには
 interface	中間面,界面(2物体・空間の接触面)・(異なる物の)境界面, 中間共通面; 共有領域; (コンピュータ)インタフェース
 interfaith	異宗派間の
-interfere	(…に)『干渉する』,口出しをする(meddle)《+『in』(『with』)+『名』)『wh-節』(『句』,do『ing』)》 / (仕事・状況などの)『妨げとなる』,邪魔になる《+『with』+『名』(do『ing』)》
+interfere	(…に)『干渉する』,口出しをする(meddle)《+『in』(『with』)+『名』)『wh-節』(『句』,do『ing』)》 / (仕事・状況などの)『妨げとなる』,邪魔になる《+『with』+『名』(do『ing』》
 interference	〈U〉(…への)干渉,口出し,妨害《+『with』+『名』》 / 〈U〉〈C〉(ラジオ・テレビの)混信;(光波・音波などの)干渉 / 〈U〉(一般のスポーツで)妨害行為
 interferer	干渉者,妨害者
 interferometer	干渉計(光の干渉現象を利用して波長や天文学上の距離を測る)
@@ -1540,7 +1540,7 @@ introspective	内省の,内省的な
 introversion	内向;内向性
 introvert	〈心・考え〉'を'内へ向ける,内向させる / 内向的な人
 introverted	内向(内省)的な
-intrude	(…の)『じゃまをする』《+『on』『upon』)+『名』》 / (…に)『侵入する』,押し入る《+『on』(『upon, into』)+『名』》 / (…に)…'を'『むりに押しつける』,押し込める《+『名』+『on』(『upon, into』)+『名』》
+intrude	(…の)『じゃまをする』《+『on』『upon』)+『名』》 / (…に)『侵入する』,押し入る《+『on』(『upon, into』)+『名』》 / (…に)…'を'『むりに押しつける』,押し込める《+『名』+『on』(『upon, into』+『名』》
 intruder	侵入者;出しゃばり
 intrusion	(意見などを人に)押しつけること《+『of』+『名』+『upon』+『名』》 / (…の)じゃまをすること;(…を)侵害すること《+『on』(『upon』)+『名』》
 intrusive	侵入して来る,立入った;(人が)出しゃばりな

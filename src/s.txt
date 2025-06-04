@@ -3603,7 +3603,7 @@ SST	supersonic transport 超音速輸送[機]
 SSW	south-southwest
 st.	stone(重量名) / street
 St.	Street / Strait / Saint(複SS.,Sts.)聖…,セント…
-St. Bernard	=Saint Bernard
+St. Bernard	=Saint Bernard,St.Bernard
 St. Louis	セントルイス(米国Missouri州東部ミシシッピー河畔の港市)
 St. Paul	セントポール(ミシシッピー河畔にあるMinnesota州の首都)
 St. Paul's	セントポール大聖堂(ロンドンにある大教会堂)
@@ -4618,7 +4618,7 @@ suitcase	スーツケース,(長方形で平たい)小型旅行かばん
 suite	(ホテルなどで寝室・居間・客間などの)一続きの豪華な部屋 / (家具などの)一そろい,一組 / (いっしょに使われるものの)一続き,一組,一そろい / (楽曲の一形式である)組曲 / 《集合的に》《まれ》随行員,従者の一行
 suiting	服地,スーツ地
 suitor	(男の)求婚者 / 原告(plaintiff) / 請願者
-Sukkoth	=Succoth
+Sukkoth	=Succoth, Sukkoth
 sulfa drug, sulpha drug	サルファ剤
 sulfate,sulphate	硫酸塩
 sulfide, sulphide	硫化物

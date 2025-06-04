@@ -92,8 +92,8 @@ Inputを読み、Outputの例を参考にして、**JSONだけ**を出力して�
 
 def check_json(word, mean, model, times=0):
     if times > 10:
-        print("[ERROR] faild 10 times")
-        raise ValueError("faild 10 times")
+        print("[ERROR] failed 10 times")
+        raise ValueError("failed 10 times")
     # プロンプトを実行してJSONを取得
     text = check_raw(word, mean, model)
     if "```" not in text:
@@ -154,7 +154,7 @@ def check(word, mean, model):
         #    continue
         # print(f"[{word}]=", json.dumps(obj, ensure_ascii=False))
         return obj
-    print("[ERROR] faild 10 times")
+    print("[ERROR] failed 10 times")
     return last_obj
 
 

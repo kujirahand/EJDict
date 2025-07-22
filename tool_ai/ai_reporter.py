@@ -3,8 +3,8 @@
 # 使い方:
 # ! pip install ollama
 # ! pip install kudb
+# ! pip install demjson3
 # ! python tools/ai_reporter.py
-# ! python tools/ai_reporter_fix.py
 
 import json
 from glob import glob
@@ -12,6 +12,8 @@ import ollama
 import os
 import random
 import kudb
+import time
+import demjson3
 
 script_dir = os.path.dirname(__file__)
 config_file = os.path.join(script_dir, "config.json")
@@ -20,13 +22,18 @@ db_file = os.path.join(script_dir, "ai_reporter.db")
 OLLAMA_HOST = "http://localhost:11434"
 TEMPERATURE = 0.3  # 温度設定
 # model
-# model1 = "qwen3:8b"
-model1 = "gemma3n:e4b"
-model2 = "qwen3:8b"
-model3 = "gemma3:12b"
+#model1 = "qwen3:14b"
+#model2 = "gemma3n:e4b"
+#model3 = "qwen3:8b"
+
+model1 = "qwen3:8b"
+model2 = "gemma3n:e4b"
+model3 = "qwen3:14b"
+
+
 # ---
 IS_DEBUG = True
-CHECK_TIMES = 10  # チェックの最大回数
+CHECK_TIMES = 5  # チェックの最大回数
 # ----
 
 # 明らかな間違いがある場合のみ、明確な理由を付けて指摘してください。
@@ -34,11 +41,14 @@ CHECK_TIMES = 10  # チェックの最大回数
 PROMPT = """
 ### System:
 あなたは辞書の校正者です。与えられた単語と意味をチェックし、誤りがあれば修正案を提案します。
+/no_think
 
 ### Instruction:
 Inputを読み、Outputの例を参考にして、**JSONだけ**を出力してください。
+明確な間違いがあると分かった場合のみ、修正案を出力してください。
 
 ### 備考:
+- 英単語の表記にはcedillaを含めません。
 - `A / B / C`は、列挙で単語にAとBとCの意味があることを示します。
 - `A, B, C`は、Aの言い換えがBやCであることを示します。
 - `A; B`は、同じ単語の異なる意味があることを示します。
@@ -46,6 +56,7 @@ Inputを読み、Outputの例を参考にして、**JSONだけ**を出力して�
 - `=A / B`は、Aと同じ意味であり、Bの別の意味も持つことを示します。
 - `〈C〉` は、countableの略で「可算名詞（数えられる名詞）」を意味します。例えば、"an apple"。
 - `〈U〉` は、uncountableの略で「不可算名詞（数えられない名詞）」を意味します。例えば、"water"。
+- 英単語に`B.P.`のような省略形が与えられた時は`bills payable / blood pressure`などの完全系を出力します。
 
 ### Input:
 ```json
@@ -121,10 +132,13 @@ if os.path.exists(config_file):
             OLLAMA_HOST = j["host"]
 # create client
 client = ollama.Client(host=OLLAMA_HOST)
-
+time_adv = -1
+llm_count = 0
 
 def generate(prompt, model=model1, temperature=TEMPERATURE):
     """Generate text using the Ollama client."""
+    global time_adv, llm_count
+    start_time = time.time()
     response = client.generate(
         model=model,
         prompt=prompt,
@@ -135,6 +149,15 @@ def generate(prompt, model=model1, temperature=TEMPERATURE):
     res = response["response"]
     if "</think>" in res:
         res = res.split("</think>")[-1].strip()
+    end_time = time.time()
+    ellipsised_time = end_time - start_time
+    if time_adv < 0:
+        time_adv = ellipsised_time
+    else:
+        time_adv = (time_adv + ellipsised_time) / 2
+    llm_count += 1
+    if llm_count % 10 == 0:
+        print(f"[INFO] LLM count: {llm_count}, Average time: {time_adv:.2f} seconds")
     return res
 
 def generate_json(prompt, model=model1, temperature=TEMPERATURE):
@@ -161,7 +184,7 @@ def generate_json(prompt, model=model1, temperature=TEMPERATURE):
         if json_str[0:4] == "json":
             json_str = json_str[4:]
         try:
-            obj = json.loads(json_str)
+            obj = demjson3.decode(json_str)
             return obj
         except Exception as e:
             print(f"[ERROR] JSON parse error: ```\n{json_str}\n```: {e}")
@@ -192,13 +215,12 @@ def check_json(word, mean, model, times=0):
     blocks = text.split("```")
     if len(blocks) < 3:
         print("[ERROR] broken json: ", word, ":", text)
-        check_json(word, mean, model, times + 1)
-        return
+        return check_json(word, mean, model, times + 1)
     json_str = blocks[1].strip()
     if json_str[0:4] == "json":
         json_str = json_str[4:]
     try:
-        obj = json.loads(json_str)
+        obj = demjson3.decode(json_str)
         return obj
     except Exception:
         print(f"[ERROR] JSON parse error: ```\n{json_str}\n```")
@@ -208,9 +230,10 @@ def check_json(word, mean, model, times=0):
 def check(word, mean, model=model1):
     for _ in range(CHECK_TIMES):
         obj = check_json(word, mean, model)
-        status = obj["結果"]
-        if status == "ok":
-            return obj
+        # objがNoneの場合はスキップ
+        if obj is None:
+            print(f"[ERROR] check_json returned None for: {word}")
+            continue
         # JSONが正しくない?
         if "結果" not in obj:
             print("[ERROR] 「結果」がない: ", word, obj)
@@ -224,6 +247,10 @@ def check(word, mean, model=model1):
         if "修正後の意味" not in obj:
             print("[ERROR] 「修正後の意味」がない: ", word, obj)
             continue
+        # 結果を確認
+        status = obj["結果"]
+        if status == "ok":
+            return obj
         # 正しく結果が出力された場合
         return obj
     print(f"[ERROR] 正しいJSONの取得に{CHECK_TIMES}回失敗しました: ", word)

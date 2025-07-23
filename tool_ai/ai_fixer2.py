@@ -1,23 +1,24 @@
-import json
-from glob import glob
-import ollama
 import os
-import random
 import kudb
 import ai_reporter
+import time
 
+# --------------------------
+# ai_reporter.db に fix2=pass/fixを設定します。
+# --------------------------
 script_dir = os.path.dirname(__file__)
 config_file = os.path.join(script_dir, "config.json")
 db_file = os.path.join(script_dir, "ai_reporter.db")
 # --------------------------
 # FIX_MODEL = "gemma3n:e4b"
 FIX_MODEL = "qwen3:8b"
+# OLLAMA_HOST = "http://localhost:11434"
+# print("===", "Ollama host:", OLLAMA_HOST)
+OLLAMA_HOST = ai_reporter.load_config()
 TEMPLATE = """
-### システム:
-あなたは優秀な英和辞書です。
-
 ### 指示:
-与えられた英単語の意味として、候補AとBのどちらが相応しいかを判定してください。
+あなたは優秀な英和辞書です。
+与えられた英単語の意味として、候補AとBのどちらが相応しいかを判定して、結果として`A`または`B`を出力してください。
 もし、AもBも相応しくない場合は、結果に`C`と相応しい意味を出力してください。
 ただし、`C`を出力するのは、明らかな間違いがある場合のみです。
 
@@ -35,22 +36,23 @@ TEMPLATE = """
 ```json
 {{
     "英単語": "{word}",
-    "候補A": "{mean1}",
-    "候補B": "{mean3}"
+    "A": "{mean1}",
+    "B": "{mean3}"
 }}
 ```
 
 ### 出力:
 以下のJSONフォーマットで出力してください。
+結果は、`A`、`B`、または`C`のいずれか1文字を指定してください。
 ```json
 {{
-    "結果": "A または B または C",
+    "結果": "(A|B|C)",
     "意味": "(英単語の意味)",
 }}
 ```
 
 ### 出力例:
-入力: {{"英単語": "cat", "候補A": "猫", "候補B": "犬"}}
+入力: {{"英単語": "cat", "A": "猫", "B": "犬"}}
 出力:
 ```json
 {{
@@ -62,7 +64,7 @@ TEMPLATE = """
 
 kudb.connect(db_file)
 
-for row in kudb.get_all():
+for i, row in enumerate(kudb.get_all()):    
     status = row["結果"]
     if status == "ok":
         continue
@@ -88,18 +90,21 @@ for row in kudb.get_all():
         row["fix2"] = "pass"
         row["校正結果"] = "pass"
         row["備考"] = "自動修正可能"
-        kudb.update_by_id(row["id"], row)
+        kudb.update(id=row["id"], tag=word1, new_value=row)
         continue
     # 自動修正
     mean3 = row["校正後の意味"] = mean3.replace("、", ",")
     # AIで優れた意味を確認
     flag_ok = False
+    print("===")
+    print("# [英単語]", word1)
     prompt = TEMPLATE.format(word=word1, mean1=mean1, mean3=mean3)
+    # print(prompt)
     for i in range(3):
-        obj = ai_reporter.generate_json(prompt, FIX_MODEL)
+        obj = ai_reporter.generate_json(prompt, FIX_MODEL, host=OLLAMA_HOST)
         if obj is None or "結果" not in obj:
             print("[ERROR] 結果がありません:", word1)
-            obj = ai_reporter.generate_json(prompt, FIX_MODEL)
+            obj = ai_reporter.generate_json(prompt, FIX_MODEL, host=OLLAMA_HOST)
             if obj is None or "結果" not in obj:
                 print("[ERROR] 結果がありません2:", word1)
                 continue
@@ -108,20 +113,34 @@ for row in kudb.get_all():
     if not flag_ok:
         print("[ERROR] AIの結果が得られません:", word1)
         continue
+    flag_changed = False
     if obj["結果"] == "A":
         print(f"[OK] {word1} の意味は A ({mean1})")
         row["fix2"] = "pass"
         row["校正結果"] = "pass"
-        row["備考"] = "fix2でAIが修正不要と判断"
-        kudb.update_by_id(row["id"], row)
-        continue
+        row["備考"] = "fix2でAIが修正不要と判断(A)"
+        flag_changed = True
     if obj["結果"] == "B":
         print(f"[OK] {word1} の意味は B ({mean3})")
         row["fix2"] = "fix"
         row["校正結果"] = "fix"
-        row["備考"] = "fix2でAIが修正必要と判断"
-        kudb.update_by_id(row["id"], row)
-        continue
+        row["備考"] = "fix2でAIが修正必要と判断(B)"
+        flag_changed = True
+    if obj["結果"] == "C":
+        print(f"[OK] {word1} の意味は C ({obj['意味']})")
+        row["fix2"] = "fix"
+        row["校正結果"] = "fix"
+        row["校正後の意味"] = obj["意味"]
+        row["備考"] = "fix2でAIが再修正必要(C)と判断"
+        flag_changed = True
+    if not flag_changed:
+        print(f"[ERROR] {word1} の意味は不明: {obj}")
+    # save
+    kudb.update(id=row["id"], tag=word1, new_value=row)
+    time.sleep(3) # 少し待つ
+    continue
+    # ここまで自動修正できない場合は、手動で確認
+    # 手間がかかるので止める
     # エントリを表示
     print("=" * 60)
     print("# [英単語]", word1)

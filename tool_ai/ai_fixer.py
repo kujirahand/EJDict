@@ -14,6 +14,7 @@ db_file = os.path.join(script_dir, "ai_reporter.db")
 FIX_MODEL = "qwen3:8b"
 TEMPLATE = """
 ### システム:
+/no_think
 あなたは優秀な英語校正の専門家です。英和辞書の校正をしてください。
 入力は、AIが修正したものなので、信頼性を確認する必要があります。
 

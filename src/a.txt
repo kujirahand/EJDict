@@ -16,7 +16,7 @@ A	answer / ampere
 a.	about / acre[s] / adjective
 A,a	〈C〉英語アルファベットの第1字 / 〈U〉(音階の)イ音,イ調 / 〈C〉《米》(学校で成績優秀を表す)A
 A.A.	=AA / antiaircraft
-a,an	《oneの弱い意味で》『一つの』,一人の / 『ある(程度の)』(a certain, some) / 《同種類のものを代表してany, eachの弱い意味で》…『というもの[は]』,いずれの,どの / 《単位を表す語につけて》…『につき』,毎…(per) / 《しばしばof, atなどの後で》同じ(the same) / 《固有名詞につけて》…のような人,…という名の人,…家の人;…の作品(製品) / 《固有名詞の性格・特徴などを強調するとき》 / 《andで結んだ二つ以上の名詞につけて》 / 《名詞が同一の人・物をさす場合》…でも~でもある人(物) / 《名詞が別個の人・物をさす場合》…つきの,一組の…と… / 《物質名詞につけて》一種の,一つの / 《抽象名詞につけその具体例・種類・行為などを表して》 / 《have,give,make,takeなどに続く動詞と同形の名詞につけて》1回の
+a,an	不定冠詞。ある（程度）の、一つの、～というもの、～につき、同じ、～のような人、～という名の人、～家の人、～の作品、～のような人、～つきの、一組の…と…、一種の、抽象名詞の具体例・種類・行為など、動詞と同形の名詞に続く名詞、1回の
 A.B.	B.A.
 A.C.	ante Christum 紀元前(before Christ)
 a.c.	ante cibum 食前服用(before meals)
@@ -72,15 +72,15 @@ abasement	(品位・地位などの)低下,失墜;屈辱
 abash	《通例受動態で用いて》…'を'恥じ入らせる;…'を'まごつかせる,面くらわせる
 abate	…'の'勢いを減らす,軽減する / (法律で)〈妨害など〉'を'排除する;〈効力など〉'を'停止する / 減る,やわらぐ,弱まる
 abatement	軽減;緩和;〈C〉減価,減額
-abatis	さかもぎ(逆茂木)(敵の侵入を防ぐためのとがったくい)
+abatis	さかもぎ(敵の侵入を防ぐためのとがった柵)
 abattoir	畜殺場
 abbacy	大修道院長の職(任期)
 abbe	〈C〉聖職者(カトリックの), 司祭, 修道士
-abbess	女子大修道院長
+abbess	女子修道院長
 abbey	〈C〉大修道院 / 《集合的に》(一院全体の)僧,尼僧 / 〈C〉(大修道院の一部であった)大寺院;《the A-》ウエストミンスター寺院(Westminster Abbey)
 abbot	大修道院長
 abbr.	abbreviated / abbreviation
-abbreviate	…'を'『短縮する』,短くする,切り上げる
+abbreviate	…を短縮する、短くする、簡潔にする
 abbreviation	省略;〈C〉省略された語,略語,略字
 ABC	〈U〉アルファベット / 〈U〉〈C〉《the ~》(物事の)初歩,入門,いろは《+『of』+『名』》
 abdicate	〈地位・権利など〉'を'捨てる,‘から'退く / 〈王が〉(…から)退位する《+『from』+『名』》
@@ -88,8 +88,8 @@ abdication	退位,辞職
 abdomen	腹部,腹;(昆虫の)腹部
 abdominal	(比較変化なし)腹の,腹部の
 abduct	…'を'誘かいする
-abduction	誘かい
-abductor	誘かい者
+abduction	誘拐
+abductor	誘拐犯 / (解剖学で)外転筋
 abeam	(海事用語で)(…の)真横に《+『of』+『名』》
 abecedarian	初心者,初学者
 abed	寝床に(in bed)
@@ -145,7 +145,7 @@ aborning	生まれかかって
 abort	流産する / 〈動植物や器官などが〉十分に発育しない / 〈計画が〉失敗する,中止となる / 〈胎児〉'を'流産させる / 〈計画など〉'を'中止する
 abortion	〈U〉〈C〉流産;妊娠中絶 / 〈U〉(計画などの)失敗;〈C〉(実現しなかった)案,計画
 abortional	流産の / 挫折した
-abortionist	(違法の)堕胎医
+abortionist	堕胎医（合法・違法両方を含む）
 abortive	不成功の,失敗に終わった / 流産の / 発育不全の
 abound	〈人・動物などが〉『たくさんいる』,多い
 about	…『について』,に関して / 《おもに英》(また,おもに《米》『around』)…『の回りに(を)』,の周囲を(で) / 《おもに英》(また,おもに《米》『around』)…『のあちこちに(で,を)』,に点々と / 《おもに英》(また,おもに《米》『around』)…のあたりに(を),の近くに(near) / …『の身の回りに』,を手もとに / …の身辺に,のどこかに / …に従事して,にかかわって / (また《話》『around』)《時を表す名詞を伴って》だいたい…ころ(に) / (また《米》『around』)『周囲に』 / 《おもに英》(また,おもに《米》『around』)『あちこちに』,点々と / 《おもに英》(また,おもに《米》『around』)あたりに / 《しばしば数詞と共に用いて》『およそ』,約 / (また,おもに《米》『around』)ぐるっと回って,反対の位置(方向)に / 順番に,交互に / 《be動詞の後で》(病気・うわさが)広まって;(人の病気がよくなり)元気に動き回って;(ショーなどが)行われて
@@ -176,7 +176,7 @@ abscission	切除,切断;分離,離脱
 abscond	(…から)〈犯人などが〉ひそかに逃亡する,行くえをくらます《+『from』+『名』》
 absence	〈U〉〈C〉『るす』,不在;『欠席』;不在期間;(…を)欠席すること《+『from』+『名』》 / 〈U〉(…が)『ないこと』,(…の)欠如(lacking)《+『of』+『名』》
 absence of mind	うわの空
-absent	『欠席した』,るすの,不在の / (物が)欠けている,ない / 《名詞の前にのみ用いて》『放心した』 / (…から)〈人〉'を'欠席させる《+『名』+『from』+『名』》
+absent	不在の,欠席した,欠けている,心を失った（忘却の） / （～から）〈人〉を欠席させる（+名+from+名）
 absentee	欠席者,不在者 / 不在地主
 absentee ballot	不在投票用紙
 absentee vote	不在投票
@@ -229,7 +229,7 @@ abyss	底知れぬほど深いもの,奈落
 abyssal	深淵(えん)の;深海の
 Abyssinia	アビシニア(アフリカ北東部の王国;Ethiopiaの旧名)
 Ac	actiniumの化学記号
-AC,A.C.,ac,a.c.	Alternating Current 交流電源 / Air Conditioning 空調 / Account 口座
+AC,A.C.,ac,a.c.	Alternating Current (交流電源) / Air Conditioning (空調) / Account (口座)
 acacia	アカシア属の木,《英》ハリエンジュ,ニセアカシア
 acad.	academic / academy
 academe	《A-》(古代アテネの)アカデミーの森 / 〈C〉(またacademia)大学[周辺]
@@ -238,7 +238,7 @@ academic	学園の,大学の / (職業教育に対して)純粋学問の / 理�
 academic freedom	学問の自由
 academical	=academic / 《複数形で》大学の式服
 academician	学士院会員,芸術院会員 / =academic / 伝統主義者
-academicism	(美術・文学などの)伝統主義
+academicism	(美術・文学などの) 伝統主義、アカデミー主義, (思想・態度の)学問主義、知識中心主義、理論偏重
 academism	=academicism
 academy	『学士院』,芸術院 / 《米》私立中等(高等)学校 / (特殊教育の)専門学校
 Academy Award	アカデミー賞(米国で毎年最優秀映画・映画人に与えられる賞)
@@ -262,7 +262,7 @@ acceptation	(語句の)一般に認められた意味
 accepted	一般に認められた,受け入れられた
 acceptor, accepter	受取人,受諾者 / 手形引受人
 access	〈U〉(人・物・場所への)『接近』《+『to』+『名』》 / 〈C〉(…へ)接近する手段(方法)《+『to』+『名』》 / 〈U〉(…への)接近(入場)の権利(機会)《+『to』+『名』》 / 《an ~》《文》(病気の)突発;(怒り・激情の)爆発《+『of』+『名』》
-accessibility	近づきやすいこと,手に入りやすいこと / 影響されやすいこと
+accessibility	近づきやすいこと, 手に入りやすいこと / 影響を受けやすいこと
 accessible	(またget-at-able)近づきやすい,入りやすい,達しうる / 《補語にのみ用いて》(感情などに)動かされやすい,(…の)影響を受けやすい《+『to』+『名』》
 accession	〈U〉(…へ)到達すること,(地位への)即位,就任《+『to』+『名』》 / 〈U〉(…への)加入,加盟《+『to』+『名』》 / 〈C〉(…に)追加される物《+『to』+『名』》
 accessary	=accessory
@@ -273,7 +273,7 @@ accident insurance	傷害保険
 accident-prone	(普通の人より)事故を起こしやすい
 accidental	『偶然の』,思いがけない / (音楽の)臨時記号
 accidentally	偶然に,思いがけなく
-acclaim	〈人〉'に'かっさいする,'を'歓呼して迎える / 歓呼,かっさい
+acclaim	賞賛,称賛,歓呼
 acclamation	〈C〉《複数形で》歓呼の声 / 〈U〉(賛成を表す)拍手,かっさい
 acclimate	《米》〈人・生物〉'を'新しい環境(風土)に慣れさせる《+『名』+『to』+『名』(do『ing』)》
 acclimation	新しい環境(風土)に慣れること,順応;順化
@@ -281,7 +281,7 @@ acclimatization	=acclimation
 acclimatize	=acclimate
 acclivity	《まれ》上り坂
 accolade	〈C〉騎士(knight)の爵位授与式(国王が剣の背でその人の背を軽く打つ) / 〈U〉(一般に)賞賛,栄誉
-accommodate	(必要なものを)〈人〉'に'『便宜をはかる』,用だてる《+『名』〈人〉+『with』+『名』》 / 〈人〉'を'『宿泊させる』,収容する / (…に)…'を'『適応させる』,順応させる《+『名』+『to』+『名』》 / 〈争いなど〉'を'調停する
+accommodate	（人などを）宿泊させる,収容する,適応させる,調停する
 accommodating	人の世話をよくする,親切な / すぐ順応する,融通のきく
 accommodation	〈U〉『宿泊』;《複数形で》(旅館などの)『宿泊設備』 / 〈C〉便宜,助け / 〈U〉(…への)『適応』,順応《+『to』+『名』》 / 〈C〉調停,和解
 accompanied article	旅客と同じ飛行機で運ばれる荷物
@@ -291,26 +291,26 @@ accompany	〈人など〉'に'『同行する』,随行する,ついて行く(go
 accomplice	共犯者
 accomplish	〈仕事・目的など〉'を'『成し遂げる』,仕上げる(perform)
 accomplished	成し遂げられた,既成の / 教養(技術など)が備わった,熟達した(skilled)
-accomplisher	完成する人
+accomplisher	達成する人,成し遂げる人
 accomplishment	〈U〉完成,成就(じょうじゅ) / 〈C〉業績 / 《複数形で》教養,たしなみ,才芸
 accord	(…と)『一致する』,調和する《+『with』+『名』(『wh-』節)》 / 〈許可・賞賛・歓迎など〉'を'与える / 〈U〉(…との)『一致』,調和(harmony)《+『with』+『名』》 / 〈C〉国際協定,講和 / 〈U〉〈C〉和音,協和音;(色の)調和
 accordance	一致,調和,適合
-accordant	《補語にのみ用いて》(…と)一致した,合致した《+『with』(『to』)+『名』》
-according	従って
+accordant	（…と）一致した,合致した。《+『with』(『to』)+『名』》
+according	～によれば,～に従って
 accordingly	『従って』,それだから,それゆえ(therefore) / 『それに応じて』,適宜に
 accordion	アコーディオン,手風琴
 accordionist	アコーディオン演奏者
 accost	〈見知らぬ人〉'に'近寄って話しかける
 account	〈C〉『計算』,勘定 / 〈C〉『計算書』,勘定書;簿記 / 〈C〉(商売の)取引;(銀行の)口座 / 〈C〉『説明』,報告;記事 / 《文》〈U〉価値(value),重要性(importance) / 〈U〉根拠;理由 / 《『account』+『名』〈目〉+『形』(『名』,『過分』)〈補〉》(…と)…'を'考える,みなす(consider)
 account book	会計簿
-account executive	(広告業などの)渉外部長
-accountable	(物事が)説明のつく / 《補語にのみ用いて》(…について)説明できる,責任を持てる《+『for』+『名』》
+account executive	（広告業などで）顧客担当責任者
+accountable	説明責任のある,責任を問える
 accountancy	会計係(計理士)の職務(業務)
 accountant	会計係,会計士,計理士
 accounting	会計,経理 / 会計学
 accouter, accoutre	〈人〉'に'特別の装備(服装)をさせる
 accouterments, accoutrements	《複数形》(兵士の)装備(武器と軍服以外の装具)
-accredit	《受動態で用いて》〈人〉'を'信任する;(…へ)〈人〉'に'信任状を授けて派遣する《+『名』〈人〉+『to』(『at』)+『名』》 / (…に)〈物事〉'を'帰する《+『名』〈物事〉+『to』+『名』》;(物事を)…'の'責任(原因)だとする《+『名』+『with』+『名』(do『ing』)》 / (基準・要求に合っているものとして)〈学校など〉'を'認可する
+accredit	（人や団体に）信任を与える,認可する,～の責任であると認める
 accredited	一般に認められた;公認の
 accretion	〈U〉(付着・添加による)増大 / 〈C〉付加物,添加物
 accrue	《文》(自然の結果として)生じる,発生する;〈利子が〉つく
@@ -318,8 +318,8 @@ acct.	account / accountant
 acculturation	文化変容・(異文化との接触による)固有の文化の変容
 accumulate	…'を'『蓄積する』,ためる / 『たまる』,ふえる
 accumulation	〈U〉蓄積すること,ためること / 〈C〉蓄積した物
-accumulative	蓄積する / 蓄財する;ためこみ主義の
-accumulator	蓄財家,ためる人 / 《英》蓄電池(storage battery) / (電子計算機の)累算器
+accumulative	蓄積する,蓄財する,ためこみを重んじる
+accumulator	蓄積器; 蓄電池; (コンピュータの)累算器
 accuracy	『正確さ』,精密
 accurate	『正確な』,的確な,精密な
 accurately	正確に,精密に,綿密に
@@ -331,7 +331,7 @@ accuse	(…の罪で)〈人〉'を'『告発する』,告訴する《+『名』�
 accused	告発(告訴)された / (特に)刑事被告人
 accuser	告訴人,原告 / 非難者
 accustom	(…に)〈人・自分・動物〉'を'『慣らす』,習慣づける《+『名』+『to』+『名』(do『ing』)》
-accustomed	《名詞の前にのみ用いて》いつもの,例の / 《補語にのみ用いて》(…に)慣れた《+『to』+『名』(do『ing』)》
+accustomed	慣れた,〜に慣れる
 ace, Ace	(カード・ドミノ・さいころの)1,エース,Aの札 / (テニスなど球技で)サービスエース / 《話》(何かに)優れている人,ぴか一,エース;名撃墜手 / ぴか一の
 acetonic	アセトンの
 acerb	(味が)すっぱい(sour),苦い,渋い / (ことば・態度が)厳しい,しんらつな
@@ -375,7 +375,7 @@ acne	にきび(pimple)
 acolyte	(ローマカトリック教会の)侍祭 / (一般に)助手,補佐役;従者; (儀式での)侍者; 伴僧; 助手; 初心者
 aconite	トリカブト(有毒性植物)
 acorn	どんぐり(カシ・ナラなどの実)
-acorn squash	(どんぐり形の)西洋カボチャ
+acorn squash	どんぐり形をした冬カボチャ。形がどんぐりに似ており,アメリカ原産の品種。
 acoustic	音響の;聴覚の / (特に楽器が電気的に増幅・変化されていない)自然音を出す
 acoustics	《単数扱い》音響学 / 《複数扱い》(劇場などの)音響効果
 acquaint	〈人〉'に'『知らせる』,告げる
@@ -416,20 +416,20 @@ actomyosin	アクトミオシン(筋収縮を起こす複合体蛋白質)
 ACTH	副腎皮質刺激ホルモン[剤]
 actin	アクチン(筋肉生成に役立つ純蛋白質の一種)
 acting	代理の,臨時の / 演出用の / 演出,演技
-actinic	化学線の;化学作用のある
+actinic	（日光の）紫外線に関する; （化学的に）作用する
 actinide series	《the ~》アクチニド系列(原子番号89から103までの放射性元素)
 actinium	アクチニウム(放射性元素;化学記号Ac)
 action	〈U〉『行動』,活動;精力的な活動 / 〈C〉『行為』,行い;《複数形で》『日常の行動』,ふるまい / 〈U〉〈C〉(人間・馬などの)身ぶり,動作,所作 / 〈U〉(身体諸器官の)働き / 〈U〉(機械などの)『働き』,機能;(薬・化学薬品などの)『作用』 / 〈U〉〈C〉戦闘(battle) / 〈C〉(銃・ピアノなどの)アクション,作動装置 / 〈C〉訴訟 / 〈U〉(劇・物語の)本筋,筋の運び
 action painting	無形象画(絵具をカンバスなどに投げたり流したりして表現する前衛的な抽象絵画)
 action stations	(兵士・水兵などへの命令で)戦闘配置につけ
 actionable	起訴できる
-activate	…'を'活動的にする / …'に'放射能を与える / 〈物質〉'を'活性化する
+activate	…'を'活動的にする / …'に'活性化する
 activated carbon	活性炭(脱色・防毒・げり止めなどに用いる)
 activation	活動化 / (物質の)活性化(化学反応を起こしやすくすること)
 active	『活動的な』,活発な,活気のある / 『有効な』,(薬の効力などが)まだ働いている,機能している / (軍務で)現役の / 『積極的な』,実際的な / 能動態の
 active voice	《the ~》能動態
 actively	活発に;積極的に
-activism	(放射線の)化学線作用 / (政治・社会的目標を達成するための)実践主義
+activism	(政治的または社会的な目標を達成するための)実践的な行動
 activist	(特に政治信条の)積極行動主義者,実践主義者
 activity	〈U〉『活動』,働き;活力 / 《しばしば複数形で》(種々の)『活動』,行事;(学生の)学内(外)活動,クラブ活動 / 〈U〉(商況・市場などの)活発,活気
 actor	(男の)『俳優』,『男優』 / 行為者
@@ -473,7 +473,7 @@ addendum	付加物,追加;(本の)補遺,付録
 adder	計算者 / 計算器 / アダー(北欧・アジア・北米産の小さいマムシの類の毒蛇;北米産は無毒)
 addict	《受動態で用いて》(…に)〈人〉'を'熱中させる《+『名』〈人〉+『to』+『名』(do『ing』)》 / (麻薬などの)常用者,中毒者
 addiction	(物事に)熱中すること《+『to』+『名』》 / (麻薬などの)常用《+『to』+『名』》
-addictive	(薬品が)[麻薬]中毒を起こす,習慣性の
+addictive	中毒性のある, 習慣性の
 addition	〈U〉(…を…に)『付け加えること』,追加《+『of』+『名』+『to』+『名』》 / 〈U〉加法,足し算 / 〈C〉(…に)加えられた物,足した物,《米》(家の)建て増し部分《+『to』+『名』》
 additional	『付け加えた』,追加の;特別の
 additionally	その上,さらに
@@ -484,7 +484,7 @@ address	〈C〉『あて名』,住所 / 〈C〉『演説』;(口頭・文書に�
 addressee	受信人,名あて人
 adduce	〈証拠・理由〉'を'あげる;(証拠として)…'を'引用する
 Aden	アデン(イエメン民主人民共和国の首都)
-adenine	アデニン(肝臓・茶の葉から採れる塩基の一種)
+adenine	アデニン(DNAやRNAに含まれる核酸塩基)
 adenoidal	アデノイド(腺(せん)様増殖症)の / (声が)鼻にかかった
 adenoids	《複数形》アデノイド,腺(せん)様増殖症(扁桃腺の病気)
 adept	熟達した,精通した;(…に)巧みな《+in(at)+名(doing)》 / 〈C〉(…に)熟達した人,(…の)名人《+『at』(『in』)+『名』(do『ing』)》
@@ -540,7 +540,7 @@ admiring	感嘆する,賞賛する
 admissibility	《しばしばthe ~》許容,容認;許容できること
 admissible	(理由・計画・証拠などが)受け入れられる / (地位に)つく資格がある《+『to』+『名』》
 admission	〈U〉(場所・学校・会などへ)『入ることを許すこと』,入場(入学,入会)許可,(…へ)入る権利《+『to』+『名』》 / 〈U〉(…への)入場料,入学(入会)金《+『to』+『名』》 / 〈C〉(事実・誤りなどを)認めること,白状,容認
-admission office	入院手続き窓口
+admission office	入学事務室または入学者募集事務室
 admit	(場所・会・学校などへ)…'を'『入れる』,'に'入ることを許す《+『名』+『to』(『into』)+『名』》 / 〈事実・要求・誤りなど〉'を'『認める』,受け入れる / 〈場所・建物などが〉〈人・物〉'を'収容できる
 admittance	(場所への)入場,入場許可《+『to』+『名』》
 admitted	認められた;明白な / (悪いことを)自認している
@@ -559,7 +559,7 @@ Adonis	アドニス(ギリシア神話で,女神アフロディテ(Aphrodite)に
 adopt	〈考え・習慣など〉'を'『取り入れる』,採用する / (法律によって)(…として)…'を'養子にする,家族(部族)の一員にする《+『名』+『as』+『名』》 / (投票など正式な手順で)…'を'採択する,承諾する
 adoption	(考え・方法・規則・法案などの)採用,採択《+『of』+『名』》 / 養子縁組
 adoptive	養子関係の
-adorable	《話》ほれぼれする,とてもすてきな / 敬愛すべき
+adorable	とても愛らしい, 非常に魅力的な
 adoration	崇拝,礼拝 / 敬愛,愛慕
 adore	〈人〉'を'『深く愛する』,敬愛する / 〈神〉'を'あがめる,崇拝する(worship) / 《話》…'が'大好きである
 adorer	礼拝者,崇拝者 / 賛美者,熱愛者
@@ -580,7 +580,7 @@ adulation	(…に対する)へつらい,おせじ《+『for』+『名』》
 adulator	へつらう人,おべっか使い
 adulatory	こびへつらう,おもねる
 adult	『おとなの』,成人した,成熟した / 成人向きの / 『おとな』,成人
-adult education	《おもに米》成人教育(《英》further education)
+adult education	成人教育（さらなる教育）
 adulterant	(品質を落とす)混ぜ物 / 混ぜ物をする
 adulterate	(粗悪なものを)…'に'混ぜて品質をおとす《+『名』+『with』+『名』》
 adulteration	〈U〉混ぜ物をすること / 〈C〉粗悪(不良)品
@@ -601,7 +601,7 @@ advantageous	『有利な』,好都合な
 advantageously	有利に,好都合に
 advent	《the ~》(際立ったもの・事件・人の)出現,到来《+『of』+『名』》 / 《A-》キリストの降臨;降臨節(クリスマス前のおよそ4週間の期間)
 Adventist	キリスト再臨論者
-adventitious	偶然の
+adventitious	侵入的な,よそ者の,外来の
 adventure	〈U〉〈C〉『冒険』 / 〈C〉珍しい経験,意外なできごと / =venture
 adventurer	冒険家 / やま師,投機家
 adventuresome	大胆な,勇敢な
@@ -613,7 +613,7 @@ adversary	敵(enemy);対抗者
 adversative	反対の意味の,対照を表す
 adverse	反対の,逆の / 逆方向の
 adversity	〈U〉逆境,不幸 / 《しばしば複数形で》不幸(不運)なできごと
-advert	(…に)言及する《+『to』+『名』》 / =advertisement
+advert	広告する
 advertent	《まれ》注意深い,用心深い
 advertise	…'を'『広告する』,宣伝する;…'を'言いふらす / 宣伝する / (…を求めて)広告を出す《+『for』+『名』》
 advertisement	(印刷物・放送などによる)(…の)『広告』,宣伝《+『for』+『名』》(《略》ad.,adv.,advt.;また《英話》『advert』)
@@ -653,14 +653,14 @@ aerodrome	《英》=airdrome
 aerodynamic	空気力学の,航空力学の
 aerodynamics	《単数扱い》空気力学,航空力学 / 《複数扱い》航空力学的特性
 aerofoil	=airfoil
-aerogram, aerogramme	=air letter
+aerogram, aerogramme	aerogram (航空郵便 / 航空手紙)
 aerology	高層気象学
 aeron.	aeronautics
 aeronaut	軽気球(飛行船)の操縦士(搭乗者)
 aeronautic, aeronautical	航空学の,飛行術の
 aeronautics	航空学,飛行術
 aeroplane	=airplane
-aerosol	煙霧質(気体中に膠質粒子が分散した状態)
+aerosol	エアロゾル（気体中に微粒子が分散した状態）
 aerosol bomb	(殺虫・殺菌剤などの)噴霧器
 aerospace	気圏,航空宇宙(大気圏と大気圏外をまとめた名称) / 気圏の,航空宇宙の
 aertex	《英》エアテックス(シャツ・下着用の織り目の粗い生地;商標名)
@@ -673,7 +673,7 @@ aesthetic	美学の;審美的な
 aesthetics	美学
 aestivate	夏を過ごす;(カタツムリなどが)夏眠する
 aether	=ether
-aetiology	《英》=etiology
+aetiology	病因学,原因の学問
 AF,A.F.	air force 空軍
 afar	遠くに,はるかに
 AFB	Air Force Base 空軍基地
@@ -698,7 +698,7 @@ affinity	〈C〉(人・物に対する)好み,親近感《+『for』(『to, with
 affirm	…'を'『断言する』,明言する / (正式に)…'を'確認する,承認する / (法廷で)証言する
 affirmation	断言;承認
 affirmative	肯定的な / 〈U〉〈C〉肯定,是認;〈C〉肯定語 / 《the ~》(討論会での)賛成者側
-affirmative action	《米》公民権推進活動(女性および少数民族の雇用の促進など)
+affirmative action	公民権推進活動（女性および少数民族の雇用機会均等の促進など,社会正義の実現を目指す活動）
 affix	(…に)…'を'はり付ける,くっ付ける《+『名』+『to』+『名』》 / (…に)〈印〉'を'押す,〈署名など〉'を'添える《+『名』+『to』+『名』》 / 接辞(接頭辞(prefix)や接尾辞(suffix)など)
 afflatus	《文》霊感;啓示
 afflict	(肉体的に,精神的に)(…で)…'を'『苦しめる』,悩ます(distress)《+『名』+『with』+『名』 (a person's do『ing』)》
@@ -710,7 +710,7 @@ afforest	〈荒地・畑など〉'を'山林にする;〈土地〉'に'造林す
 afforestation	造林,植林
 affray	《文》(公共の場所での)乱闘,口論
 affricate	破擦音
-affright	《古》…'を'こわがらせる
+affright	恐怖や恐れを引き起こす
 affront	(特に,人前で)…'を'侮辱する,恥ずかしめる / (人前の,また意図的な)侮辱,恥ずかしめ
 afft.	affidavit
 Afghan	アフガニスタンの;アフガニスタン人(語)の / アフガニスタン人;〈U〉アフガニスタン語：(アフガニスタン(国・場所)を指して「アフガン」と日本語で述べる例を多々耳にしますが、国は「Afghanistan」で、「アフガン」は誤用です。「アフガン」は、「アフガニスタン人・アフガニスタンの」という意味になります)
@@ -753,11 +753,11 @@ afterlife	死後の命,来世;余生
 aftermath	(事件・災害などの)余波,結果
 aftermost	(船の)最後部の / 最後の
 afternoon	『午後』(正午から日没まで) / 午後の
-afternoons	《米》午後になるたびに,午後はいつも
+afternoons	午後（複数形）
 afters	《英話》食後のデザート(菓子など)
 aftershave	ひげ剃り後につける化粧水(ローション)
 aftertaste	(口に残る)あと口,あと味 / (特に不快な経験・でき事などの)あと味
-afterthought	(遅すぎて役に立たない)あと思案,あと知恵
+afterthought	何かを考えた後に後悔したり,別の考えが浮かぶこと
 afterward, afterwards	『あとで』,以後,その後
 Ag	silverの化学記号[ラテン語argentumから]
 again	『再び』,もう一度(once more);《否定語とともに用いて》二度と(…しない) / 『また元の所へ』,元のように / さらにそれだけ,…の倍も / 《しばしばthen, and thenに続いて》その上に(besides),さらに(furthermore) / 《しばしばand, and thenに続いて》また一方,ところが
@@ -765,7 +765,7 @@ against	…『に対して』,に逆らって(in opposition to);…に不利に 
 agape	(驚き・不信などで)あっけにとられて,唖然(あぜん)として / 《補語にのみ用いて》あっけにとられた,ぽかんとした / (神の)愛;(キリスト教徒間の)兄弟愛
 agar	寒天;(細菌の培養などに用いる)寒天培地,寒天培養基
 agate	〈U〉メノウ(石英の一種;美しい模様がある) / 〈C〉メノウ製の(またはメノウに似せた)ビー玉
-agave	(米国産の)リュウゼツラン(竜舌蘭)
+agave	アガベ（竜舌蘭の一種）
 agcy.	agency
 age	〈U〉(一般に)『年齢』,寿命;〈C〉(個々の)『年齢』,年 / 〈U〉成年(おとなとしての資格・権利を得る年齢;通例18または21歳) / 〈U〉『老齢』;《集合的に》老人たち / 〈U〉(人生の)『一時期』;〈C〉世代(generation) / 〈U〉〈C〉《しばしばA-》(歴史上の)『時代』 / 〈C〉《話》長い間 / 年をとる,ふける;〈物が〉古くなる / 〈年〉'を'とらせる;〈物〉'を'古びさせる
 age group	《集合的に》同年齢層
@@ -888,19 +888,19 @@ air raid	空襲 / 空襲の
 air rifle	空気銃(特に銃身の内側にみぞのあるもの)
 air sac	空気袋;(鳥・昆虫の)気嚢(のう)
 air sea rescue	海上不時着水航空機の救助作業
-air service	(陸海軍の)航空部 / 航空勤務 / (乗客・貨物の)空輸;航空輸送業
+air service	航空輸送サービス,航空運輸業
 air strike	空襲,飛行機による攻撃
 air taxi	エアタクシー(比較的近距離の都市を結んで乗客・郵便物などを運ぶ小型機)
 air terminal	エアターミナル(空港内や空港近くの都市にある乗降客用の建物)
 air to air	空対空の / 飛行中の両機間の
-air vice marshal	英空軍少将
+air vice marshal	英空軍の副将（Air Vice Marshal）
 air-condition	〈建物・部屋など〉'に'空気調節(冷暖房)装置をつける,'の'空気を調節する
 air-conditioned	空気調節(冷暖房)装置つきの
 air-conditioning	(室内の)空気調節,冷暖房
 air-cool	〈エンジンなど〉'を'空気で冷却する,'に'空冷装置を施す
 air-cooled	(エンジンなどが)空冷式の
 air-cooling	(エンジンなどの)空冷式
-air-minded	《話》《まれ》航空に興味をもった;空の旅が好きな
+air-minded	空想的で現実感のない;頭が空っぽの
 airbag	エアバッグ(自動車事故けが防止装置;自動的に空気がはいってふくらむ)
 airbase	空軍基地
 airbed	空気ベッド
@@ -911,12 +911,12 @@ airbrick	(部屋・建物の通気用)有孔れんが
 airbrush	エアブラシ(ペンキ吹き付け用噴霧塗装器)
 airbus	エアバス(定期便用大型旅客機)
 aircraft	(一般に)航空機
-aircraft carrier	=carrier4
+aircraft carrier	航空母艦
 aircraftman	《英》航空兵;航空機整備員
 aircrew	航空機乗組員(操縦士・客室乗務員など)
 aircushion	〈C〉空気座ぶとん / 〈U〉空気ばね;(hovercraftを浮上させる)噴射気流
 airdrome	《米》=airport / 《英》=airfield1
-airdrop	(パラシュートによる)空中投下 / …'を'空中投下する
+airdrop	（パラシュートによる）空中投下 / （デジタルファイルを）無線で送信する行為
 Airedale	エアデールテリア(英国ヨークシャーのエアデール原産のテリア犬)
 airfield	《米》小飛行場(《英》aerodrome) / (整備設備のない)飛行場,滑走路
 airflow	(航空機・自動車が引き起こす)気流
@@ -961,7 +961,7 @@ akimbo	両手を腰に当てひじを張った / 両手を腰に当てひじを�
 akin	(…と)同じ家族の,血族の《+『to』+『名』》 / (…と)類似の,同類の《+『to』+『名』》
 Al	aluminumの化学記号
 AL	Alabama
-Ala.	Alabama
+Ala.	アラバマ州(Alabama)の略称
 ala carte	メニューから選んだ(で),お好み一品料理の(で)
 Alabama	アラバマ州(米国南東部の州;州都Montgomery;《略》AL,Ala.)
 alabaster	雪花石膏(せっこう) / (雪花石膏のように)白くすべすべした
@@ -974,7 +974,7 @@ alarm	〈C〉『警報』;『警報器』 / 〈C〉警報装置 / 〈U〉(不意
 alarm bell	警報ベル,警鐘,半鐘
 alarm clock	目覚まし時計
 alarming	人を驚かせる;急を告げる
-alarmist	(不必要に,またはつまらぬことで騒ぎ立てる)人騒がせな人
+alarmist	（必要以上に）騒ぎ立てる人,過度に危険を恐れる人,過剰な警告を発する人
 alas	ああ,あわれ(悲しみ・後悔などを表す声)
 Alas.	Alaska
 Alaska	アラスカ州(米国西北端の州;州都はJuneau;《略》AK,Alas.)
@@ -1012,7 +1012,7 @@ alert	『油断のない』,用心深い / (頭の回転・動作などが)機�
 Aleut	(またAleutian)〈C〉アリューシャン列島住民 / アリュート語
 Aleutian	アリューシャン列島の / =Aleut 1
 Aleutian Islands	アリューシャン列島(アラスカとカムチャッカの間の群島)
-alewife	北米産のニシンに似た食用魚
+alewife	エールワイフ(北アメリカ東海岸に生息するニシン科の回遊魚) / 中世〜近世のイギリスなどで自家製エール（ビール）を醸造・販売していた女性
 Alexander the Great	アレキサンダー大王(古代マケドニアの王;356‐323B.C.)
 Alexandria	アレキサンドリア(エジプトのナイル河口の港市)
 Alexandrian	アレキサンドリアの / アレキサンダー大王の
@@ -1033,7 +1033,7 @@ Algerian	アルジェリアの / アルジェリア人
 Algiers	アルジェ(アルジェリアの首都)
 Algonquian	〈U〉アルゴンキン語族(アメリカインディアン最大の語族) / アルゴンキン族[の人] / アルゴンキン語族の
 Algonquin	アルゴンキン語族の一人 / =Algonquian
-algorithm	アルゴリズム(最大公約数を求める互除法などの演算方式)
+algorithm	アルゴリズム（問題解決のための手順や規則の集まり。最大公約数を求める互除法はその一例）
 Alhambra	アルハンブラ宮殿(スペインのグラナダにある宮殿)
 alias	別名では,偽名は / 別名,通称
 alibi	アリバイ,現場不在証明 / 《話》いいわけ,口実 / (…について)言いわけをする《+『for』+『名』(do『ing』)》
@@ -1123,7 +1123,7 @@ allowance	『割り当て』;(定期的な)手当,こづかい / 値引き,割�
 alloy	(…と)…'を'合金にする《+『名』+『with』+『名』》 / 《文》(…で)〈純粋さ・価値など〉'を'そこなう,だいなしにする《+『名』+『with』+『名』》 / 合金 / (金・銀の)品位,純度 / 混ぜ物
 allspice	オールスパイス(熱帯アメリカ産の低木;その実から香辛料をとる)
 allude	《文》(文や話の中で)(…のことを)『ほのめかす』,それとなく言う《+『to』+『名』(do『ing』)》
-allure	〈人〉'を'そそのかす,誘惑する
+allure	人を誘惑する,魅了する
 allurement	〈U〉そそのかし,誘惑 / 〈C〉誘惑する物(事)
 alluring	誘惑する;魅惑的な(attractive)
 allusion	(…の)ほのめかし,あてつけ;(…の)引喩(いんゆ)《+『to』+『名』》
@@ -1243,7 +1243,7 @@ ambassadress	女性大使
 amber	こはく(琥珀)(宝石に用いる黄褐色の鉱石) / こはく色 / こはく製の / こはく色の
 ambergris	リュウゼン香(マッコウクジラから得られる香料)
 ambidexterity	両手きき / 二枚舌
-ambidextrous	両手ききの / 人をだます,二枚舌の
+ambidextrous	両利きの,両手が同じように使える / 二枚舌の,二重の
 ambience	周囲の様子,雰囲気,環境
 ambient	周囲の,周りの,取り巻いている
 ambiguity	(意味の)あいまいさ,不明りょうさ;〈C〉あいまいな表現(語句)
@@ -1273,14 +1273,14 @@ amend	…'を'『改める』,改良する / (正式に)〈議案など〉'を'�
 amendment	修正,改正;改心;〈C〉修正案
 amends	賠償,償い,埋め合わせ
 amenity	《the amenities》礼儀正しい行為(言葉) / 〈U〉〈C〉快適さ,ここちよさ;楽しさ
-Amer.	America; American
+Amer.	Americaの略
 Amerasian	アメリカ人とアジア人の混血(の人)
 America	『アメリカ合衆国』,米国,アメリカ(《略》『Am.,Amer.』) / 《the Americas》南北アメリカ[イタリアの商人・航海者・探検家Amerigo Vespucciの名前に由来]
 American	『アメリカ合衆国の』,米国の;アメリカ人の / 北アメリカの;北米人の / 南アメリカの;南米人の / 南北アメリカの;南北アメリカ人の / 米国人,アメリカ人 / 北(南)アメリカ人 / =American English
 American eagle	=bald eagle / 《the ~》ハクトウワシ印(米国の紋章)
 American English	アメリカ英語,米語
 American football	=football 1
-American Indian	アメリカインディアン
+American Indian	アメリカ大陸に原住民族として存在していた人々
 American League	アメリカンリーグ(米国の2大プロ野球連盟の一つ)
 American Legion	米国在郷軍人会
 American plan	部屋代・食事代こみホテル料金制度
@@ -1322,7 +1322,7 @@ amniocentesis	羊水採取(胎児の性別・染色体異常診断のために�
 amoeba	=ameba
 amoebic	=amebic
 amoeboid	アメーバ状の
-amok	=amuck
+amok	狂ったように暴れ回る、手がつけられないほど暴走する / 錯乱状態の,暴走した / (システムが)暴走する / マレー語の「amuk（興奮して暴れる）」に由来する
 among	…『の間に』,に囲まれて / 《おもに最上級と共に》…『の中の一つ』(『一人』)『で』,のうちに数えられて / 《分配を表す動詞と共に》…『の間で』,めいめいに / …がいっしょになって,が協力して
 amongst	=among
 amoral	道徳に関係のない(nonmoral) / 道徳意識(道徳的な判断力)を持たない
@@ -1340,7 +1340,7 @@ ampersand	アンパーサンド(&(=and)の記号のこと)
 amphetamine	アンフェタミン(中枢神経刺激剤)
 amphibian	両生類の / =amphibious / 両生動物(植物) / 水陸両用飛行機(戦車)
 amphibious	水陸両生の / (またamphibian)水陸両用の / (海から陸上の敵に対する)陸海空共同作戦の
-amphibole	角閃(かくせん)石(カルシウム・マグネシウムを含む石)
+amphibole	角閃石(カルシウム・マグネシウムを含む鉱物)
 amphitheater, amphitheatre	(古代ローマの)円形劇場(中央に設けた闘技場(arena)のまわりにひな壇式の観覧席があった) / 階段席のある部屋;(半円形の)階段教室(lecture theater);(階段教室に似た病院の)手術室(operating theater)
 amphora	(古代ローマ・ギリシアの)両取っ手つき壷(つぼ)
 ampicillin	アンピシリン(ペニシリンに似た抗生物質)
@@ -1370,8 +1370,7 @@ amusing	『おもしろい』,おかしい,楽しい
 amusingly	おもしろく,おかしく
 AMVETS	(第二次世界大戦および朝鮮戦争の)退役軍人
 amylase	アミラーゼ(でんぷん糖化酵素)
-an	(次にくる語の発音が母音で始まるときに用いる) / (子音[h]で始まり第1音節に強勢のない語の場合はanを用いることがある.ただし,この場合は[h]を発音しない)
-an, an	=and
+an	(次にくる語の発音が母音で始まるときに用いる)不定冠詞,一つの,一組の
 anabolism	(生物の)同化作用
 anachronism	〈U〉〈C〉時代錯誤 / 〈C〉時代おくれの人(物)
 anachronistic	年代を取り違えた,時代錯誤の / 時代おくれの
@@ -1404,7 +1403,7 @@ anapest,anapaest	(英詩の韻律で)弱弱強格(弱音節二つのあとに強
 anapestic	(英詩の韻律で)弱弱強格の;(古典詩で)短短長格の
 anarchic, anarchical	無政府の;無政府主義的な,無政府状態の
 anarchism	無政府主義
-anarchist	無政府主義者;暴力的破壊者
+anarchist	無政府主義者（国家権力や強制を否定する政治思想を持つ人）
 anarchistic	無政府主義[者]の;《軽べつして》破壊主義[者]の
 anarchy	無政府[状態] / 無秩序,混乱(disorder)
 anat.	anatomical / anatomist / anatomy
@@ -1516,7 +1515,7 @@ animadvert	(…について)悪意のある批評をする,酷評する,非難�
 animal	(植物に対して)『動物』 / (人間以外の)『動物』,けだもの / (魚・鳥などに対して)哺乳動物(mammal) / けだもの(野獣)のような人 / (比較変化なし)《名詞の前にのみ用いて》動物の,動物性の,動物質の / (知的・精神的に対して)動物的な;肉欲的な
 animal husbandry	《米》畜産学
 animal kingdom	動物界
-animal starch	=glycogen
+animal starch	動物デンプン（動物体内で貯蔵される多糖類）
 animalcule	(肉眼ではほとんど見られない)極微動物
 animalism	獣性;獣欲主義 / 人間動物説(人間の霊性を否定する説)
 animate	…'に'生命を吹き込む,生命を与える / …'を'活気づける,生き生きさせる / …'を'励ます;…'に'駆りたてる / 生きた,生命のある(living) / 生気に満ちた,活気のある(vigorous)
@@ -1593,7 +1592,7 @@ another	『もう一つの』,『もう一人の』 / 『別の』,ほかの(dif
 answer	(質問・要求に対する)『答え』,回答(reply),(手紙に対する)返事《+『to』+『名』》 / (…に対する)『応報』,応答,仕返し《+『to』+『名』》 / (問題に対する)解答,正解《+『to』+『名』》 / (一般に)(…に対する)解答,説明,(被告人の)答弁,申し開き《+『to』(『for』)+『名』》 / 〈質問・手紙・人など〉'に'『答える』,返事をする / 〈訪問・電話など〉'に'応じる / (…で)…'に'応酬する,応答する《+『名』+『with』+『名』》;〈非難など〉'に'答弁する / 〈目的・条件など〉'に'かなう,合致する,添う / (…に)『答える』,返事をする《+『to』+『名』》 / (…)に応ずる,応酬する《+『to』+『名』》 / 〈物事が〉うまくいく,成功する
 answerable	答えることのできる;(…に対して…に)責任のある《+『to』+『名』+『for』+『名』》
 answering service	るす電話取次ぎ業
-ant	『アリ』 / =ain't
+ant	『アリ』〈C〉
 ant.	antenna / antonym
 Ant.	Antarctica
 ant bear	オオアリクイ(熱帯アメリカ産)
@@ -1629,14 +1628,14 @@ anteroom	(またantechamber)(主室や大広間に通じる)控えの間,次の�
 anthem	祝いの歌,賛歌 / 聖歌,賛美歌
 anther	(雄しべの)やく(葯)
 anthill	アリの塔,アリづか
-anthologist	名詩文選集(詞華集)の編集者
+anthologist	文学作品を集めた選集を編纂する人
 anthology	アンソロジー,詩文選,詞華集
 anthracite	無煙炭
 anthrax	炭疽(たんそ)熱(家畜の伝染病であるが人にもうつる)
 anthrop.	anthropological / anthropology
 anthropocentric	人間中心的な(万事を人間の経験・価値観で解釈する)
 anthropoid	人間に似た / 類人猿
-anthropoid ape	=anthropoid
+anthropoid ape	人間以外の霊長類（例：チンパンジーやゴリラ）
 anthropological	人類学[上]の
 anthropologist	人類学者
 anthropology	人類学
@@ -1750,7 +1749,7 @@ apanage	=appanage
 apart	(時間的・空間的に)『離れて』,隔って;(…から)離れて《+『from』+『名』》 / 区別して;(…と)別々に《+『from』+『名』》 / ばらばらに
 apartheid	(特に南アフリカにおける)人種隔離政策
 apartment	《米》『アパート』,(共同住宅内の)1家族分の[数]部屋 / 《複数形で》《英》(通例家具つきで貸す)一組の部屋 / 〈C〉部屋(room)
-apartment complex	団地
+apartment complex	アパートの集合住宅
 apartment house	《米》アパート,共同[貸し]住宅
 apathetic	無感動な;無関心の,冷淡な(indifferent)
 apathy	(…に対する)無感動,冷淡(indifference)《+『to』(『toward』)+『名』》
@@ -1789,7 +1788,7 @@ apmt.	appointment
 APO	Army Post Office 陸軍郵便局
 Apoc.	Apocalypse / Apocrypha / Apocryphal
 apocalypse	〈C〉天啓,黙示 / 《the A-》(新約聖書の)ヨハネの黙示録
-apocalyptic	(特に人類の運命を)啓示する,予言的な
+apocalyptic	終末の, 終焉の, 災厄の
 Apocrypha	《単数扱い》外典,経典外聖書(典拠が疑わしいので一般の聖書から省かれている14編) / 《a-》出所の疑わしい文書
 apocryphal	典拠の疑わしい;にせの / 《A-》外典の
 apocynthion	=apolune
@@ -1912,7 +1911,7 @@ appropriation	〈U〉(…の)専有,独占;(…の)盗用,横領《+『of』+『
 appropriator	専有する人,盗用(横領)する人 / 《英》教会禄(ろく)の設定を受けた宗教法人
 approval	(…に対する)『賛成』,是認《+『to』+『名』》
 approve	〈事〉'を'『よいと認める』,'に'賛成する / (正式に)…'を'認可する,承認する / 《『approve of』+『名』(do『ing』)》(…を)承認する,賛成する
-approved school	=reformatory
+approved school	公認学校（特に児童の保護や教育を目的とした施設）
 approvingly	賛成して,満足そうに
 approx.	approximate[ly]
 approximate	(数量の点で)『近似の』,おおよその / 《『approximate to』+『名』》(…に)『近い』,ほぼ等しい / (ある状態・量・額などの点で)…'に'『近づく』,接近する / (…の額に)…'を'概算する,見積もる《+『名』+『at』+『名』》
@@ -1982,14 +1981,14 @@ arbitrary	随意の,任意の,気まぐれな(capricious) / 独裁的な,独断�
 arbitrate	(…間で)…'を'仲裁する(settle)《+『名』+『between』+『名』》 / 〈紛争当事者双方が〉〈紛争など〉'を'仲裁にまかせる / (…間を)仲裁者として裁定する《+『between』+『名』》 / 紛争を仲裁に付す
 arbitration	仲裁,裁定;仲裁裁判
 arbitrator	(特に,労働争議の)仲裁人,調停者 / 最終決定者
-arbor	(機械の)軸
-arbor,arbour	あずまや(bower),木陰の園亭(えんてい)
+arbor	(庭園の)木陰のあずまや,藤棚,緑のトンネル / (機械)回転軸,心棒
+arbour	(英国で)(庭園の)木陰のあずまや,藤棚,緑のトンネル
 Arbor Day	《米》植樹祭(日)(Alaskaを除く米国各州で4月後半から5月初めに行う)
 arboreal	樹木の,樹上に住む
 arboretum	植物園,樹木園
 arbutus	アービュタス(シャクナゲ科の常緑低木) / 北米産イワナシ
 arc	『弧』,円弧 / 電弧(2点間を弧状に流れる電流) / 弧を描く / 電弧を生じる
-ARC	American Red Crossアメリカ赤十字
+ARC	American Red Cross（アメリカ赤十字）; arch; arc; area; air route certificate
 arc lamp(light)	アーク灯
 arcade	拱廊(きょうろう)(建物の側面につけた廊下状の通路) / アーケード(両側に商店が並ぶ屋根つき街路)
 Arcadia	アルカディア(古代ギリシアの山間にあった理想郷) / 〈C〉《時にa-》平和な理想郷,桃源郷
@@ -2015,7 +2014,7 @@ archenemy	大敵
 archeological	=archaeological
 archeologist	=archaeologist
 archeology	=archaeology
-Archeozoic,Archae	始生代の / 始生代
+Archeozoic,Archae	始生代（地質時代の一つ）〈C〉
 archer	〈C〉(弓の)射手,弓術家 / 〈U〉《A-》射手(いて)座
 archery	〈U〉アーチェリー,弓術 / 〈C〉(弓の)射手隊
 archetypal	原型の,典型の
@@ -2111,7 +2110,7 @@ armchair	『ひじ掛けいす』
 armchair critic	《しばしば軽べつして》観念的批評家
 armed	武装した / (ある目的のために)用意した
 armed forces	(一国・連合国の)軍隊(陸・海・空の全軍)
-armed services	(特に平時の)軍隊,軍事力
+armed services	(特に平時の)軍隊全体,軍事機関
 Armenia	アルメニア(西アジアにあるソビエト連邦構成共和国の一つ)
 Armenian	アルメニアの;アルメニア人(語)の / アルメニア人;〈U〉アルメニア語
 armful	(…の)腕いっぱいの量《+『of』+『名』》
@@ -2169,7 +2168,7 @@ arrowhead	矢じり
 arrowroot	クズウコン(病人食として用いられた熱帯アメリカ産の植物)
 arse	=ass
 arsenal	兵器庫;兵器工場 / 《集合的に》兵器の蓄え / (一般に)蓄え,集積
-arsenate	ヒ酸塩
+arsenate	ヒ酸塩（arsenic acidの塩）
 arsenic	ヒ素(化学記号は『As』);《俗に》亜ヒ酸 / ヒ素の,ヒ素を含む
 arsenic acid	ヒ酸(おもにガラス・殺虫剤の製造に用いる)
 arson	放火,放火罪
@@ -2193,7 +2192,7 @@ artichoke	(また『globe artichoke』)チョウセンアザミ;そのつぼみ 
 article	(新聞・雑誌などの)(…についての)『記事』,論説《+『on』+『名』》 / (条約・契約などの)条項,箇条;《複数形で》契約 / 《複数形で》(また『articles of apprenticeship』)徒弟年季契約 / (同種の物の)『一個』,『一品』,品物,商品《+『of』+『名』》 / 冠詞
 articular	関節の,分節の
 articulate	(音節や単語が)はっきり話される,分節的な / (自分の考えなど)はっきりと表現できる;(人が)考えを口に出せる / (動物が)関節のある / 〈語・音節〉'を'はっきり発音する / 〈気持・考えなど〉'を'はっきり表現する / …'を'関節でつなぐ,接合する
-articulated lorry	《英》=truck trailer
+articulated lorry	《英》連結トラック
 articulation	〈U〉調音(分節して発音された音) / 〈U〉有節発音;発音の明りょう度 / 〈C〉関節,(植物の)節
 artifact	(天然物と区別して)人工物,加工品;(特に)古代人が使った道具(武器,装飾品)
 artifice	〈U〉器用さ,巧みさ / 〈C〉策略,計略
@@ -2213,7 +2212,7 @@ artistry	芸術的効果,芸術性 / 芸術的才能
 artless	自然のままの,素朴な / 不細工な,へたな
 arts and crafts	(実用と楽しみを兼ねた)手工芸(編物,焼物など)
 artsy-craftsy	芸術品のつもりだが役に立たない〈家具〉; 芸術家ぶった
-arty	芸術家気どりの / 芸術品まがいの
+arty	芸術的 / 〈C〉芸術的である / 芸術ぶった,芸術家気取りの
 arty-crafty	=artsy-craftsy
 Aryan	アーリア人の;アーリア語族の / アーリア人(印欧語を話した先史時代の民族の一員) / アーリア語族(インドヨーロッパ語族の古称) / (ナチス用語で)非ユダヤ系のコーカソイド人
 as	(…と)『同じくらい』,『同様に』 / 《比較》『…ほど』,『…くらい』,…ように / 《様態・程度》『…のように』,…と同じように / 《時》『…のときに』(when);…の間に,…するうちに(while) / 《話》《原因・理由》『…だから』,…なので / 《譲歩》《文》…だけれども(though) / 《先行する名詞の内容を制限して》『…のような』 / 《先行の,または後続の節の内容を受けて》『それは…だが』,…のように / 《役割・資格・機能などを表して》『…として』 / 《seem,appear,consider,pass,regard,treat,know,think of などの動詞の後で補語の働きをする語の前に置いて》…と[して] / 《前置詞・形容詞・分詞などの前に置いてその意味を限定して》…として[の],…とみなして,…と考えて / たとえば(for instance)
@@ -2264,7 +2263,7 @@ asocial	非社交的な / 思いやりのない,利己的な
 asp	アスプ(エジプトコブラなどアフリカ産の毒ヘビの総称) / (一般に)毒ヘビ
 asparagus	アスパラガス,(特に)食用アスパラガス
 aspect	〈C〉〈U〉《文》(人の)『顔つき』,『表情』 / 〈C〉〈U〉(物の)『外観』,『様子』 / 〈C〉(思想・状況・計画などの)『様相』,局面,面 / 〈C〉(家・部屋などの)向き,方向
-aspectual	(動詞の)相の
+aspectual	(文法用語)相に関する,相の
 aspen	ハコヤナギ,ポプラ
 asperity	(気質・態度・語調などの)とげとげしさ,荒々しさ / (気候・生活などの)厳しさ,辛さ,困難
 asperse	…'を'非難する,中傷する
@@ -2430,7 +2429,7 @@ atmospherics	空電(大気中の電磁波の妨害により受信器に混じる
 atoll	環状サンゴ礁,環礁
 atom	『原子』 / 微量,非常な少量;《a~》微量,わずか(の…)《+『of』+『名』》
 atom bomb	=atomic bomb
-atom smasher	=accelerator 3
+atom smasher	=accelerator
 atomic	『原子の』 / 原子力の(を用いた) / 極微の
 atomic age	原子力時代
 atomic bomb	原子爆弾
@@ -2619,7 +2618,7 @@ autobiographer	自叙伝作者
 autobiographic, autobiographical	自叙伝[ふう]の
 autobiography	自叙伝,自伝
 autochthonous	(植物などが)土地原産の,土着の
-autoclave	圧力がま(特に医療器具消毒用)
+autoclave	加圧蒸気滅菌装置(医療・工業用)
 autocracy	〈U〉独裁政治,専制政治 / 〈C〉独裁主義国,専制君主国
 autocrat	独裁者,専制君主 / 横暴な人,暴君
 autocratic,autocratical	独裁の,専制の / 横暴な,暴君の

@@ -125,20 +125,29 @@ Output:
 """
 
 kudb.connect(db_file)
-if os.path.exists(config_file):
-    with open(config_file, "r", encoding="utf-8") as fp:
-        j = json.load(fp)
-        if "host" in j:
-            OLLAMA_HOST = j["host"]
-# create client
-client = ollama.Client(host=OLLAMA_HOST)
+
+def load_config():
+    """Load configuration from config.json."""
+    global OLLAMA_HOST
+    if os.path.exists(config_file):
+        with open(config_file, "r", encoding="utf-8") as fp:
+            j = json.load(fp)
+            if "host" in j:
+                OLLAMA_HOST = j["host"]
+    return OLLAMA_HOST
+
+load_config()
 time_adv = -1
 llm_count = 0
+print("===", "Ollama host:", OLLAMA_HOST)
 
-def generate(prompt, model=model1, temperature=TEMPERATURE):
+
+def generate(prompt, model=model1, temperature=TEMPERATURE, host=OLLAMA_HOST):
     """Generate text using the Ollama client."""
     global time_adv, llm_count
     start_time = time.time()
+    # create client
+    client = ollama.Client(host=host)
     response = client.generate(
         model=model,
         prompt=prompt,
@@ -160,7 +169,7 @@ def generate(prompt, model=model1, temperature=TEMPERATURE):
         print(f"[INFO] LLM count: {llm_count}, Average time: {time_adv:.2f} seconds")
     return res
 
-def generate_json(prompt, model=model1, temperature=TEMPERATURE):
+def generate_json(prompt, model=model1, temperature=TEMPERATURE, host=OLLAMA_HOST):
     """Generate JSON using the Ollama client."""
     for i in range(CHECK_TIMES):
         if i > 3:
@@ -169,7 +178,7 @@ def generate_json(prompt, model=model1, temperature=TEMPERATURE):
             else:
                 model = model2
         try:
-            res = generate(prompt, model, temperature=temperature)
+            res = generate(prompt, model, temperature=temperature, host=host)
         except Exception as e:
             print(f"[ERROR] generate_json failed ({i}times): {e}")
             continue

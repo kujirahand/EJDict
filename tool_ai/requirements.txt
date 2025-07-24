@@ -1,0 +1,4 @@
+ollama
+requests
+kudb
+flask

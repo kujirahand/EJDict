@@ -529,7 +529,7 @@ termagant	やかまし女,がみがみ女 / 口やかましい
 terminable	終わらせることのできる;(契約などが)期限のある,有期の
 terminal	『終りの』,末端の / 毎期の,定期の;学期末の / 『死に至る』 / 末端 / (電池の)端子 / (町の中心に近い)空港バス発着場;(一般に,鉄道・バスの)終点,終着駅
 terminate	(…で)…'を'終わらせる《+名+with+名》 / …'の'終りにくる,結びとなる / …'の'境界となる / 『終わる』,終結する
-termination	〈C〉〈U〉(…を)終わること,(…の)終了《+of+名》
+termination	〈U〉終了 / 終結 / 終止 / 〈C〉終わりの時点 / 終了させること / 解雇
 termini	terminus(終着駅, 終点; 目的地(点); 限界)の複数形
 terminological	用語[上]の,専門用語[上]の:用語法の
 terminology	術語,専門用語 / (特定の分野の)用語法
@@ -613,7 +613,7 @@ textured vegetable protein	(大豆原料の)食肉代用植物性蛋白
 Th	thorium の化学記号
 Th.	Thursday
 Th.D.	Doctor of Theology 神学博士
-Thai	タイ国の;タイ人(語)の / 〈U〉タイ語 / 〈C〉タイ[国の]人
+Thai	{形}タイの / タイ人の / タイ語の / 〈C〉タイ人 / 〈U〉タイ語
 Thailand	タイ(東南アジア中部の王国;首都は Bangkok)
 Thailander	=Thai 2
 thalamus	(眼の)視床
@@ -1331,7 +1331,7 @@ topple	ぐらぐらする,ぐらついて倒れる《+over》 / …'を'倒す,�
 tops	《補語にのみ用いて》《米話》最上の,最高の
 topsail	(船の)中檣帆,トップスル
 topside	(特に牛の)腰肉の切り身 / 上側へ(に,で) / 甲板上に(で)
-topsider	〈C〉海軍の上級士官
+topsider	〈C〉《米》デッキシューズ（ボート用の滑りにくい靴） / 上層階の住人
 topsoil	表土
 topspin	トップスピン(回転しながら進む球の回転運動)
 topsy-turvy	逆さまに / めちゃくちゃに,混乱して / 逆さまの / 無秩序な,めちゃくちゃの
@@ -1706,7 +1706,7 @@ treadle	(ミシンなどの)踏み子,ペダル / 踏み子(ペダル)を踏む
 treadmill	〈C〉足踏み水車 / 〈U〉《the ~》車踏み(昔獄内で罰として囚人に踏ませたもの) / 〈U〉単調な仕事
 treason	(君主・国に対する) 反逆(罪); 背信(行為),むほん
 treasonable	反逆の，大逆の，国事犯の
-treasonous	treasonousは「裏切りの〈U〉」の形容詞形で、裏切りや国家への反逆を示す。Bは「裏切りの〈C〉」と誤って可算名詞としているため不適。Aの「treasonable」は英語では一般的な語でないため不適。
+treasonous	{形}反逆的な / 国家反逆罪にあたる
 treasure	〈U〉(金・銀・宝石などの)『宝物』,財宝 / 〈C〉貴重品 / 〈C〉《話》貴重な人(存在);最愛の人 / 〈他〉…'を'たいせつにする
 treasure house	〈C〉宝物庫;知識の宝庫 宝物殿 宝蔵 宝庫 = treasure-house
 treasure trove	〈U〉(発掘された)所有者不明の財宝 / 〈C〉(一般に)貴重な発見物 = treasure-trove
@@ -1781,7 +1781,7 @@ tribalism	部族組織
 tribe	《集合的に》《単数・複数扱い》『部族』 / 《しばしば軽べつして》(…の)仲間,集団,連中《+of+名》 / (動植物の)族(family(科)と genus(属)の間の分類単位)
 tribesman	部族の一員,部族民
 tribeswoman	部族(種族)の女性
-tribulation	〈U〉苦難,苦悩
+tribulation	〈C〉苦難,苦悩 / 〈U〉苦しみの状態
 tribunal	裁判所,法廷,裁決機関 / (一般に)裁き
 tribune	(古代ローマの)護民官・人民の権利の擁護者・[Tribuneとして、 新聞名に用いて] …トリビューン(ラテン語で「族長」の意) / 演壇,講壇,高座・説教壇
 tributary	(川の)支流 / (…に)みつぎ物を納める人(国);(…の)進貢国,属国《+to+名》 / 支流の / みつぎ物を納める

@@ -69,7 +69,7 @@ umpire	(野球・テニス・バドミントン・バレー・クリケットな
 umpteen	多くの(many)
 umpteenth	十何度目か数えられないほどの
 UMT	universal military training 一般人軍事教練
-un,'un	「un」は標準英語では単語として成立せず、前接語（prefix）として「not」の意味を持つが、単語としての意味は存在しない
+un,'un	〈C〉《話》やつ / 奴（= one）(口語)(非標準)
 UN,U.N.	United Nations
 un-American	(風俗・習慣・主義などが)米国ふうでない,非アメリカ的な
 unabashed	恥ずかしがらない,平然とした
@@ -575,7 +575,7 @@ unmannerly	無作法な,ぶしつけな / 無作法に,ぶしつけに
 unmarked	印(傷跡)のついていない / 注目されていない / 未評価の;未修正の,未添削の
 unmarried	未婚の,独身の
 unmask	…'の'仮面(変装)をはぐ / …'の'真相をあばく / 仮面を取る;正体(真相)を現す
-unmatched	一致しない,対応しない
+unmatched	{形}比類のない / 無比の / 釣り合わない / 一致しない
 unmeaning	無意味な,くだらない・(顔・表情などが)うつろな
 unmeasured	無限の,際限のない
 unmentionable	口に出せない;口にするのも恥ずかしい / 下着;ズボン

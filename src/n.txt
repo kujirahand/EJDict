@@ -118,7 +118,7 @@ nation	《集合的に》『国民』(people) / 『国家』,国(country) / 民�
 nation-state	民族国家
 national	『国民の』;『国家の』 / 『国立の』,国有の / 全国的な / 《修飾語を伴って》(特定国の)市民,国民
 national anthem	国歌
-national debt	《時にa~》国債
+national debt	〈C〉国債 / 国の借金 / 政府債務
 national government	連立内閣,挙国一致内閣
 National Guard	《the~;集合的に》(米国の)州民軍,州兵(平時は州の治安維持にあたり,戦時には,正規軍に編入される民兵隊)
 National Health Service	(英国の)国民健康保険制度
@@ -132,7 +132,7 @@ nationalism	愛国心;国家主義 / (植民地などの)民族主義,独立自�
 nationalist	国家(国粋)主義者 / 民族独立主義者 / 国家(国粋)主義の;民族独立主義の
 nationalistic	=nationalist
 nationalistically	国家(国粋)主義的に;民族独立主義[者]的に
-nationality	〈U〉〈C〉『国籍』 / 〈C〉(人種・言語などが同じ)民族 / 〈U〉国家としての独立
+nationality	〈U〉国籍 / 〈C〉民族 / 〈U〉国家としての独立
 nationalization,nationalisation	(…の)国民化《+『of』+『名』》 / (…の)国有化,国営化《+『of』+『名』》
 nationalize, nationalise	〈土地・産業など〉'を'国有化する / …'を'全国的にする,国家的にする
 nationally	国家的に,国家的見地から / 国全的に
@@ -171,7 +171,7 @@ naughtiness	わんぱく
 naughty	(子供が)『いたずらな』 / 《遠回しに》みだらな,わいせつな
 nausea	吐き気 / 強い嫌悪(けんお)(loathing)
 nauseate	…'に'吐き気を起こさせる / …'に'ひどくいやな感じを与える
-nauseous	胸の悪くなるような
+nauseous	 {形}吐き気を催すような / 吐き気がする / （比喩的）不快な,むかむかする
 naut.	nautical
 nautch	ノーチ(インドの踊り子の演じるショーダンス)
 nautical	船の;船員の;航海の
@@ -353,7 +353,7 @@ nestling	(巣離れするには早すぎる)ひな鳥
 Nestor	《単数形で》《文》賢明な老人,長老
 net	(魚・鳥・昆虫などを捕らえる)『網』;(人・物を保護するための)網,ネット;(各種球技用の)ネット;(ベール・カーテンなどに用いる)ネット / わな,落とし穴 / (電話・ラジオなどの)情報網,通信網(network) / …'を'網に作る(編む) / …'を'網で捕らえる / …'を'網でおおう;…'に'網を張る / 《名詞の前にのみ用いて》正味の / 正味;正価;純益,実収入 / …'の'純益を上げる
 NET	National Educational Television 米教育テレビジョン
-net ton	=short ton
+net ton	〈C〉容器などを除いた中身だけの重さ / 〈U〉正味トン(貨物の重量を表す単位)
 netball,net ball	ネットボール(バスケットボールに似た英国のゲーム)
 Neth.	Netherlands
 nether	《名詞の前にのみ用いて》下の
@@ -415,7 +415,7 @@ new moon	新月,三日月 / 新月の出る期間
 New Orleans	ニューオーリンズ(米国のLouisiana州のミシシッピ河口に近い港市;綿の大集散地)
 New Testament	《the ~》新約聖書(《略》『NT.,N.T.』)
 new town	(周到な都市計画に基づく)ニュータウン
-new wave	ヌーベルバーグ(1950年代のフランスから発した芸術・政治などにおいて伝統的技法・仮値などとの関係を断とうとする運動)
+new wave	ニューウェーブ（1970年代後半から1980年代に欧米で流行した音楽・芸術運動) / 新しい潮流,新風
 New World	新世界(西半球,つまり南北米大陸を言う)
 New Year	=New Year's Day / 〈C〉『正月』 / 《the n- y-》新年,来たるべき年
 New Year's Day	元日
@@ -435,7 +435,7 @@ Newfoundland	ニューファンドランド島(カナダ東部の大きな島;�
 newly	『最近』,近ごろ / 『新たに』,再び
 newness	新しさ
 newpenny	(英国の)新ペニー(硬貨)
-news	(新しい)『報道』,記事;(一般的に)知らせ,たより) / (耳新しい)『事件』,でき事 / 《N-》(新聞名として…新聞
+news	(新しい)『報道』,記事;(一般的に)知らせ,たより) / (耳新しい)『事件』,でき事 / 〈C〉ニュース
 news agency	通信社
 news conference	=press conference
 news media	ニュース媒体(新聞・ラジオ・テレビなど)
@@ -491,7 +491,7 @@ Nicholas	聖ニコラス(『Saint』(『St.』)~; 4世紀の小アジアの司�
 nick	刻み目(notch) / 表面だけの切り傷,かすり傷 / …'に'刻み目(傷)をつける・「in the nick of time」で「きわどい時に, ちょうどよく」 / 状態,体調
 nickel	〈U〉『ニッケル』(金属元素;化学記号は『Ni』) / 〈C〉(米国・カナダの)5セント白銅貨 / 〈C〉(一般に)ごくわずかの金 / …'に'ニッケルめっきをする
 nickel silver	洋銀(ニッケル・銅・亜鉛の合金)
-nickel-plate	=nickel
+nickel-plate	{動}防錆や装飾目的で行うニッケルめっきを施す処理を行うこと / 〈C〉ニッケルめっきされた金属板
 nickelodeon	(昔の)5セント映画館 / 初期のジュークボックス
 nicker	《スコットランド英語》〈馬が〉いななく / (馬の)いななき / 《英俗》1ポンド,《豪俗》金
 nicknack	=knickknack
@@ -508,7 +508,7 @@ Nigeria	ナイジェリア(アフリカ西部の共和国で英連邦の一員;�
 niggard	けちんぼ(miser) / =niggardly
 niggardliness	けちなこと,しみったれ
 niggardly	けちな,しみったれた;(…に)けちけちする《+『of』+『名』》 / けちくさい,わずかの,乏しい / けちけちと,物惜しみして(stingily)
-nigger	黒人(negro),(一般に)黒色人種
+nigger	(黒人に対する極めて侮蔑的・差別的表現)
 niggle	(ささいなことに)念を入れ過ぎる,あれこれ言う《+『about』(『over』)+『名』》 / (人などを)いらいらさせる《+『at』+『名』》
 niggling	ささいなことにこだわる;いらいらさせる / (作品などが)細部に凝りすぎた,(仕事などが)細かくてめんどうな
 nigh	近くの(near) / 近くに(で) / ほとんど / …の近く(そば)に
@@ -553,7 +553,7 @@ nighttime	夜間
 nightwalker	夜間うろつきまわる人(泥棒,売春婦など)
 nightwear	寝巻
 nigritude	黒さ,漆黒,まっ暗やみ
-nihilism	虚無主義,ニヒリズム / 暴力革命主義;無政府主義
+nihilism	虚無主義,ニヒリズム
 nihilist	虚無主義者 / 無政府主義者
 nihilistic	虚無的な,虚無主義の,ニヒルな
 Nike	ニケ(ギリシア神話の勝利の女神) / 〈C〉ナイキ(米軍の対空誘導弾) ・ ナイキ (米国のスポーツ用品製造会社)
@@ -686,7 +686,7 @@ nomenclature	(各分野で用いる)専門用語法 / (体系に基づく)科学
 nominal	名目上の,名義だけの / (実際の価値に比べて)ごくわずかの,おしるし程度の / 名詞の,名詞として用いられた
 nominate	(…の候補者として,…に)…'を'『指名する』《+『名』+『for』+『名』》 / (…に)…'を'『任命する』(appoint)《+『名』+『to』(『as』)+『名』》
 nomination	指名[権],任命[権];(…を…に)指名(任命)すること《+『of』+『名』+『to』+(『as, for』)+『名』》
-nominative	(文法で名詞・代名詞が)主格の / 指名された / 〈U〉主格;〈C〉主格の語
+nominative	(文法で名詞・代名詞が)主格の / 指名された / 〈C〉主格の形
 nominator	指名(任命)する人
 nominee	(…の候補として)指名された人《+『for』+『名』》 / (…に)任命された人《+『to』+『名』》
 non sequitur	前提と合致しない結論(《略》『non seq』.)
@@ -886,13 +886,13 @@ noun	『名詞』
 nourish	…'を'『養う』;…'に'栄養を与える / …'を'発展させる,助長する / (心に)〈ある感情〉'を'『抱く』《+『名』+『in』+『名』》
 nourishing	滋養に富んだ,栄養のある
 nourishment	滋養分,栄養物,食物 / 養育,育成
-nous	常識,心,精神,知性,知恵
+nous	〈C〉知性 / 判断力 / 思慮 / 《英》常識 / 実務能力 / 《哲》理性
 nouveau riche	にわか成金
 Nov.	November
 nova	新星(突然明るくなり,また元に戻る星)
 Nova Scotia	ノウァスコシア(カンダ南東部の半島,またその州)
 novel	『新奇な』,ざん新な / (長編の)『小説』
-novelette	感傷的な中編小説
+novelette	〈C〉中編小説（短編より長く、長編より短い小説） / （けなして）感傷的すぎる小説 / 通俗小説
 novelettish	中編小説的な;感傷的な
 novelist	小説家
 novella	《古》(一つのでき事を描いた)短編物語 / 中編小説
@@ -1021,5 +1021,5 @@ NW,N.W.,n.w.	northwest / northwestern
 nylon	〈U〉『ナイロン』 / 《複数形で》ナイロンの靴下
 nymph	『ニンフ』(ギリシア・ローマ神話で泉・川・森・海などに住む美しい妖精) / 美少女 / 若虫(じゃくちゅう)(トンボ・セミなどの不完全変態をする昆虫の幼虫)
 nymphet	(10代前半の)魅力的な少女
-nymphomania	(女性の)性欲異常亢進(こうしん)症;色情狂
-nymphomaniac	(女性が)色情狂の / 淫乱な女性
+nymphomania	〈U〉（女性の）異常性欲 / 色欲症
+nymphomaniac	〈C〉色欲症の女性 / 過剰な性的欲求をもつ女性

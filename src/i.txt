@@ -92,7 +92,7 @@ identification card	=identity card
 identification parade	(目撃者が犯人を見わけるため)一列に並ばせた容疑者たち
 identification tag	認識票(軍人が持つ姓名などを刻んだ金属製の札)
 identify	〈人・物〉'を'『見分ける』,〈物事〉'を'確認する / 《『identify』+『名』+『with』+『名』》(二つの異なるものについて)(…と)…'を'同じものと考える / 《『identify』+『名』+『with』+『名』》《しばしば受動態で》(…に)…'を'関係づける,密接に結びつける / 《『identify with』+『名』》〈人が〉(…と)一体となる(感じる)
-identikit	モンタージュ(複合)顔写真
+identikit	モンタージュ(複合)顔写真 / {形}ありきたりの
 identity	〈U〉『同一であること』 / 〈C〉〈U〉(人・物の)『身元』,正体 / 〈C〉独自性,個性
 identity card	身分証明書
 identity crisis	(特に思春期の)自己認識の危機
@@ -217,7 +217,7 @@ imam	〈C〉(イスラム教の)僧,導師 / 《I-》イスラム教国の宗教
 imbalance	不均衡,釣り合いがとれていないこと
 imbecile	低能の,愚かな / 低能者,ばか
 imbecilic	=imbecile
-imbecility	〈U〉低能;愚かさ;〈C〉愚行
+imbecility	〈U〉低能;愚かさ / 〈C〉愚かな言動 / ばかげたこと
 imbed	=embed
 imbibe	…'を'飲む / 〈水・光・熱など〉'を'吸収する / 〈知識・思想など〉'を'吸収する / 飲む / 液体(湿気)を吸収する
 imbrication	かわら(屋根板など)の重なり合い / 重なり模様,うろこ模様
@@ -472,7 +472,7 @@ in-law	姻戚(いんせき)(結婚によってできる親戚)
 in-service	勤務中の,現職中の
 inability	無力,無能,不能
 inaccessible	(場所・人が)近づきにくい,寄りつきにくい;(物が)手に入りにくい《+『to』+『名』》
-inaccuracy	〈U〉不正確 / 〈C〉誤り
+inaccuracy	〈U〉不正確さ / 〈C〉誤り
 inaccurate	不正確な / まちがった
 inaction	不活動・怠惰・無活動・無為
 inactivate	…'を'不活発にする / 〈血清など〉'を'不活性化する
@@ -603,7 +603,7 @@ inconclusive	結論に到達しない,決定的でない
 incongruity	〈U〉不一致,不調和;不釣り合い / 〈C〉不調和なもの,不釣り合いなこと
 incongruous	一致しない,調和しない;不釣り合いな
 inconsequent	論理的でない,矛盾した
-inconsequential	重要でない,取るに足りない / =inconsequent
+inconsequential	{形}重要でない, 取るに足りない
 inconsiderable	重要でない,取るに足りない,ささいな
 inconsiderate	思いやりのない;思慮のない,無分別な
 inconsistency	〈U〉不一致,矛盾した事(物)
@@ -673,7 +673,7 @@ ind.	independent / index / indicative / industrial / industry
 Ind.	India / Indian / Indiana
 indebted	(…に対して…の)借金(負債)がある《+『to』+『名』+『for』+『名』》 / (…に対して…の)恩義を受けている《+『to』+『名』+『for』+『名』》
 indebtedness	借金,負債額 / 恩義
-indecency	〈U〉みだら;無作法 / 〈C〉みだらな(無作法な)言動
+indecency	〈U〉みだら;無作法 / 〈U〉みだらな言動
 indecent	みだらな;無作法な
 indecent assault	強制わいせつ罪
 indecent exposure	公然わいせつ罪
@@ -696,7 +696,7 @@ indelible	(汚れなどを)消すことのできない;(印象などが)忘れ�
 indelibly	消えないように,永久に
 indelicacy	〈U〉下品,野卑,無作法 / 〈C〉下品な言動
 indelicate	下品な,野卑な,無作法な;なだらな
-indemnification	〈U〉保障,賠償 / 〈C〉保障(賠償)となるもの
+indemnification	〈U〉補償 / 損害賠償 / 〈C〉補償金 / 賠償金
 indemnify	(損害・出費・けがなどに対して)〈人〉'に'保障を与える,(…から)〈人〉'を'保護する《+『名』〈人〉+『from』(『against』)+『名』》 / (損害に対して)〈人〉'に'賠償する,補償する《+『名』〈人〉+『for』+『名』》
 indemnity	〈U〉損害保障,賠償 / 〈C〉賠償(補償)金
 indent	…'に'ぎざぎざをつける / …'を'字下がりにする(行をかえるとき1字下がりにする) / 《英》…'を'[公式の]注文書で注文する / ぎざぎざ,刻み目 / (行の)字下がり / 《英》公式の注文所 / …'を'へこませる;…'に'印などを打ち込む押す / へこみ,くぼ地
@@ -760,7 +760,7 @@ indignation	(不正・悪などに対する)『憤慨』,怒り《+『at』(『a
 indignity	〈U〉軽べつ(侮辱)すること;〈C〉軽べつの言葉(行為) / 〈U〉面目のないこと;〈C〉面目のない行為
 indigo	〈C〉(一年生植物の)アイ / 〈U〉藍(あい)色,紺色 / 藍色の,紺色の
 indirect	(道などが)『真っすぐでない』,回り道の / (話し方が)遠回しの,率直でない / (結果などが)『間接的な』,二次的な
-indirect narration	=indirect speech
+indirect narration	間接叙述（間接的に話す表現）
 indirect object	間接目的語
 indirect speech	間接話法
 indirect tax	間接税
@@ -929,7 +929,7 @@ infertility	生殖力のないこと / (土地の)不毛
 infest	〈害虫・盗賊などが〉'に'横行する,はびこる
 infestation	(害虫・賊・病気などの)横行,はびこり
 infidel	信心しない人 / (キリスト教徒とイスラム教徒が互いに相手をののしって)異教徒 / 信心しない / (キリスト教・イスラム教などの)信仰を受け入れない
-infidelity	〈U〉信心しないこと;(特に)キリスト教を信じないこと / 〈U〉不貞,不義;〈C〉不貞な行為
+infidelity	〈U〉不貞,不義 / 〈C〉不貞な行為 / 〈U〉《文語》(宗教的な意味で)不信仰
 infield	〈C〉(野球・クリケットの)内野 / 〈C〉《集合的に》内野手
 infielder	(野球・クリケットの)内野手
 infighting	(ボクシングなどの)接近戦 / 内輪もめ,内部抗争
@@ -951,7 +951,7 @@ infl.	influence / influenced
 inflame	〈人〉'を'『興奮させる』,〈感情〉'を'あおる / 〈身体組織〉'に'炎症を起こさせる / 興奮する,激怒する / 充血する,炎症を起こす
 inflamed	(体の一部が)赤くふくれた,炎症を起こした
 inflammability	燃えやすいこと,可燃性 / 興奮しやすいこと
-inflammable	(またおもに《米》『flammable』)燃えやすい,可燃性の / 怒りやすい,興奮しやすい / 可燃物
+inflammable	{形}可燃性の / 燃えやすい / {形}興奮しやすい / 怒りっぽい（比喩的用法）
 inflammation	〈U〉〈C〉炎症 / 〈U〉点火,燃焼 / 〈U〉興奮すること,激怒すること
 inflammatory	炎症を起こす,炎症性の / 憤激させる,扇動的な
 inflatable	ふくらませて使う
@@ -1011,7 +1011,7 @@ inglorious	不名誉な,恥ずべき
 ingoing	はいって来る
 ingot	(金属の)鋳塊,鋳棒
 ingraft	=engraft
-ingrain	(…に)…'を'浸透させる,根づかせる《+『名』+『into』+『名』》
+ingrain	{動}〔習慣・信念などを〕深く根付かせる / 染み込ませる / {形}〔性格・習慣などが〕生まれつきの / 根深い / 〈C〉（織物の）先染めの糸で織った布
 ingrained	深くしみ込んだ
 ingrate	恩知らず[の人]
 ingratiate	気に入られるようにする, 迎合する
@@ -1045,13 +1045,13 @@ inhospitable	(人が)もてなしの悪い,無愛想な,不親切な / (場所�
 inhospitably	もてなし悪く,無愛想に
 inhuman	人間でない / 不人情な,残酷な
 inhumane	薄情な,不人情な,冷酷な
-inhumanity	〈U〉薄情,冷酷 / 〈C〉薄情(冷酷)な行為
+inhumanity	〈U〉残忍,無慈悲 / 〈C〉残忍(無慈悲)な行為
 inhumanly	不人情に,冷酷に
 inimical	敵意のある(hostile);(…に)敵意を持つ,(…と)対立する《+『to』+『名』》 / 《補語にのみ用いて》(…に)害になる,有害な《+『to』+『名』》(harmful)
 inimitable	まねのできない,無類の,無比の
 inimitably	まねのできないほどに,無類に
 iniquitous	不正の,不法の;邪悪な
-iniquity	〈U〉不正,不法;邪悪 / 〈C〉不正行為,悪業
+iniquity	〈U〉不正,不法,邪悪
 init.	initial
 initial	『最初の』;語頭にある / (語の)最初の文字 / 《複数形で》(姓名の)『かしら文字』,イニシアル / …'に'かしら文字で署名する(印をつける)
 initiate	…'を'始める / 《しばしば受動態で》(特に式を行って)(…に)〈人〉'を'入会させる《+『名』〈人〉+『in』(『into』)+『名』》 / 〈人〉'に'(…の)初歩を教える,秘伝(秘訣)を教える《+『名』〈人〉+『in』(『into』)+『名』》 / 新入りの,手ほどきを受けた / 新入会者;手ほどきを受けた人
@@ -1065,7 +1065,7 @@ injure	…'を'『傷つける』,'に'損害を与える / 〈感情・名声�
 injured	(身体が)傷つけられた / (感情・名声などが)傷つけられた
 injurious	有害な,害を与える
 injury	『負傷』,『損害』,損傷 / (名誉などを)傷つけること,侮辱《+『to』+『名』》
-injustice	〈U〉『不正』,不便,不公平 / 〈C〉『不正』(『不法』)『行為』
+injustice	〈U〉不正 / 不公平 / 〈C〉不正な行為 / 不当な扱い
 ink	(筆記用・印刷用)の『インク』 / (イカなどの出す)墨 / …'を'インクで書く(塗る,しるす,汚す)
 inkblot	インクのしみ
 inkblot test	(インクのしみの模様を使ってする)性格テスト,(特に)ロールシャッハテスト
@@ -1140,7 +1140,7 @@ ins and outs	複雑な事情,詳細 / 特質,特性
 insalubrious	(気候・風土が)建築によくない,不健康な
 insane	狂気の,正気でない / 精神異常者のための / 気違いじみた,非常識な,とっぴな
 insanitary	非衛生的な,健康によくない(unhealthy)
-insanity	〈U〉狂気,精神錯乱 / 〈C〉気違いざた,愚行
+insanity	〈U〉狂気,精神錯乱
 insatiable	飽くことのない,満足することを知らない
 insatiably	飽くことなく,どん欲に
 insatiate	満足することない,飽くことのない
@@ -1157,7 +1157,7 @@ insecticide	殺虫剤
 insectivore	食虫動物(植物)
 insectivorous	食虫性の,虫を食う
 insecure	(物が)崩れやすい,ぐらぐらする / 保証されていない,不安定な / (人が)自信のない,心配な;(…に)自信のない《+『about(of)+名』》
-insecurity	〈U〉不安定,危険 / 〈U〉自信のなさ,不安 / 〈C〉不安定(危険)なもの
+insecurity	〈U〉不安 / 自信のなさ（精神的・感情的な不安定さ） / 〈U〉安全でないこと / 危険性（物理的・社会的な不安定さ）/ 〈C〉不安要素 / 危険な状態
 inseminate	〈思想など〉'を'吹き込む
 insemination	受精
 insensate	感覚(生命)のない / 感受性(思いやり)のない,無情な;(…に)感受性がない《+to+名》 / 理性を欠いた
@@ -1183,10 +1183,10 @@ insignia	(官職・階級などを示す)記章,バッジ,勲章
 insignificance	無意味;重要でないこと,ささいなこと
 insignificant	『無意味な』 / 『重要でない』,ささいな / (大きさ・量が)小さい
 insincere	誠意のない,不まじめな,偽善的な(hypocritical)
-insincerity	〈U〉不誠実,不まじめ / 〈C〉不誠実な言葉(行動)
+insincerity	〈U〉不誠実,不まじめ / 〈C〉不誠実な言動
 insinuate	…'を'ほのめかす,遠回しに言う / 《『insinuate』+『名』+『into』+『名』》(人の心などに)…'を'徐々に(巧みに)はいり込ませる(しみ込ませる)
 insinuating	うまく取り入る,こびるような
-insinuation	〈U〉うまく取り入ること / 〈C〉ほのめかし,あてこすり
+insinuation	〈C〉遠回しな非難 / 皮肉 / 〈U〉（考え・意見などを）巧みに植え付けること / 〈C〉ほのめかし / 含みのある言葉
 insipid	(飲食物が)味のない,まずい / (人・話などが)味気ない,無味乾燥な
 insipidity	(飲食物の)風味のなさ / (人・話などの)味気なさ
 insist	…'と'『強く要求する』 / …'と'『主張する』 / 強く要求する《+『on』(『upon』)+『名』(a person['s]do『ing』)》 / (…を)『主張する』《+『on』(『upon』)+『名』》
@@ -1256,8 +1256,8 @@ instructor	教師,指導者 / 《米》(大学の)専任講師(assistant profess
 instructorship	講師の身分(地位)
 instrument	(主として精密な)『器具』,器械,計器・(また『musical instrument』)『楽器』) / 手段,方便(means);(人の)手先 / 法律文書(証書・遺書・協定書・約束手形など
 instrumental	役立つ;(…をするのに)役立つ《+『in』 do『ing』》 / 楽器の,器楽の
-instrumentalist	器楽奏者
-instrumentality	〈U〉役に立つこと / 〈C〉手段,尽力
+instrumentalist	〈C〉器楽奏者（楽器を演奏する音楽家）/ 〈C〉〔哲学・科学での〕道具主義者
+instrumentality	〈U〉何かを実現するための手段・働き / 〈C〉手段 / 媒介物（助けとなるもの） / 〈C〉機関 / 組織（目的を果たすために使われる団体）
 instrumentation	(特にオーケストラのための)器楽編法[法] / (特に科学・産業での)器具(器械)の使用
 insubordinate	従順でない,反抗的,反抗的な;(…に)従わない《+『to』+『名』》
 insubordination	不服従,不従順,反抗
@@ -1278,7 +1278,7 @@ insuperable	打ち勝ちがたい,克服できない
 insuperably	打ち勝ちがたいほどに
 insupportable	耐えられない
 insurable	保険がつけられる
-insurance	〈U〉『保険』,保険契約 / 〈U〉『保険金』,保険料 / 〈U〉保険業 / 〈C〉(一般に)予防(保護)手段
+insurance	〈U〉保険, 保険契約 / 〈U〉保険金, 保険料 / 〈U〉保険業
 insure	…'を'『保証する』,請け合う / 〈人・財産など〉'に'『保険をかける』,'を'損害保証する
 insured	保険をかけている / 被険者,保険契約者
 insurer	保険業者,保険会社;保証人
@@ -1386,7 +1386,7 @@ interior decoration	室内装飾
 interior decorator	室内装飾家
 interj.	interjection
 interject	(不意に)〈言葉など〉'を'差しはさむ / …'を'叫ぶ,…'と'叫ぶ《+『that節』》
-interjection	〈U〉(言葉などを)不意に差しはさむこと / 〈C〉不意の叫び,感嘆の言葉,不意の質問 / 〈C〉『間投詞』,感嘆詞(Oh!Ah!など)
+interjection	〈C〉間投詞（感情・反応を表す語。例：Oh!、Wow!、Hey! など）/ 〈U〉割り込み / 差し挟み（会話や話の途中に口を挟むこと）
 interlace	(…と)〈糸・ひも・枝など〉'を'組み合わせる,織り混ぜる《+『名』+『with』+『名』》 / 織り混ざる,組み合わさる
 interlard	…'を'混ぜる;(…を)…'に'混ぜる,混ぜて変化をつける《+『名』+『with』+『名』》
 interleaf	(本に差しこんだ)間紙,差しこみ白紙
@@ -1417,8 +1417,7 @@ intermit	…'を'一時中断する / 一時中断する
 intermittent	断続する,間欠的な
 intermix	(…と)…'を'混ぜる,混合する《+『名』+『with』+『名』》 / (…と)混ざる《+『with』+『名』》
 intermixture	混合;〈C〉混合物
-intern	(特に戦時中)〈人・船など〉'を'強制収容する,抑留する
-intern, interne	インターン(医学部を卒業後,病院で実習する研修医;《英》ではhousemanがインターンに相当し,しばしば病院に寝起きして診療にあたる) / インターンとして教務する
+intern, interne	〈C〉インターン（企業などで短期間で勤務する社員）/ 〈C〉実習生 / 研修生 / {動}（戦時などに）（人を）拘束する,抑留する
 internal	『内側の』,内部にある / 『国内の』(domestic) / 内からとる,内用の
 internal combustion engine	内燃機関
 internal medicine	内科[医学]
@@ -1600,7 +1599,7 @@ inviolate	(約束などが)破られていない / (場所が)汚されていな
 invisibility	目に見えないこと
 invisible	『目に見えない』;(…に)見えない《+『to』+『名』》
 invisibly	目に見えないように,目につかないほどに
-invitation	〈U〉〈C〉招待,案内 / 〈C〉(…への)『招待状』《+『to』+『名』》 / 〈C〉(…を)勧誘(誘惑)するもの《+『to』+『名』》
+invitation	〈C〉招待,案内 / 〈C〉(…への)『招待状』《+『to』+『名』》 / 〈C〉(…を)勧誘(誘惑)するもの《+『to』+『名』》
 invitational	招待者に限る,招待者のみ参加できる
 invite	(…に)〈人〉'を'『招待する』,招く《+『名』〈人〉+『to』+『名』》 / …'を'丁重に依頼する / 〈物事が〉…'を'誘い起こす,誘発する
 inviting	心を引く,誘うような
@@ -1715,7 +1714,7 @@ irrefragable	論争の余地のない,反論できない,否定できない
 irrefutable	(事実・論理・証拠などが)反ばくできない
 irreg.	irregular / irregularly
 irregular	『不規則な』;不定の / (行いなどが)不規律な,乱れた / 不ぞろいな / (文法で)不規則変化の / 正規でない人(物),非正規兵 / 特価品
-irregularity	〈U〉不規則;不ぞろい / 〈C〉不規則(不ぞろい)なもの / 〈C〉不品行;不法行為
+irregularity	〈U〉不規則であること / 異常（通常のパターンからの逸脱）/ 〈C〉不正行為 / 違反 / 〈C〉異常な事態 / 乱れ
 irregularly	不規則に;不ぞろいに
 irrelevance	〈U〉見当違い / 〈C〉見当違いの言葉(もの)
 irrelevancy	=irrelevance

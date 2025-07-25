@@ -56,7 +56,7 @@ cable	〈C〉〈U〉 / (麻・針金をより合わせた)『太綱』 / 〈C〉
 cable car	ケーブルカー
 cable railway	ケーブル鉄道
 cable TV	有線テレビ
-cablegram	=cable{名}3
+cablegram	〈C〉海底ケーブルを使って送信される電報のこと《古》
 cable['s] length	ケーブル,鏈(れん)(海上の距離を示す単位;100尋(ひろ)=1/10海里)
 caboodle	一群の人(物),ひとかたまり,一団
 caboose	乗務員車(貨物列車の最後尾につき調理・宿泊設備がある;《英》guard's van)
@@ -156,7 +156,7 @@ calculus	〈C〉(腎臓内などにできる)結石 / 〈U〉微積分学
 Calcutta	カルカッタ(インド東部の港市)
 caldera	カルデラ(火山の中央部の大きな盆地状のくぼみ)
 caldron, cauldron	大がま,大なべ
-calendar	〈C〉『暦』,カレンダー / 〈C〉〈U〉暦法 / 〈U〉〈C〉年中行事表;訴訟事件表,議事日程表
+calendar	〈C〉『暦』,カレンダー / 〈U〉暦法 / 〈C〉年中行事表;訴訟事件表,議事日程表
 calendar month	=month1
 calendar year	暦年(1月1日から12月31日までの1年)
 calender	カレンダ(紙・布などをローラーでつや出しする機械) / 〈紙・布など〉'を'カレンダにかける
@@ -436,7 +436,7 @@ capitalist	資本家 / 《まれ》資本主義者
 capitalistic	資本主義的;資本家の
 capitalization,capitalisation	資本化;投資 / 大文字で書く(印刷する)こと
 capitalize,capitalise	…'を'大文字で書く(印刷する) / …'を'資本化する / …'に'投資する,出資する / …'の'資本価値を算定する
-capitally	みごとに,すばらしく / 死刑になるように
+capitally	{副}死刑に値するほどに / すばらしく《やや古》
 capitals	大文字で組む(書く)こと(様式)
 capitation	人頭税(各人に等しくかける税)
 Capitol	『国会議事堂』;〈C〉《しばしばc-》州会議事堂 / (古代ローマの)Jupiterの神殿;その丘
@@ -541,7 +541,7 @@ cardiograph	心電計
 cardiology	心臓学(心臓の機能や疾患を研究する学問)
 cardiopulmonary	心臓や肺の(のための)
 cardiovascular	心臓と血管の(に影響する)
-cardpunch	(電子計算機に入れる情報の)カード穿孔(せんこう)機
+cardpunch	(電子計算機に入れる情報の)カード穿孔機
 cardsharp	カードのいかさま師
 care	〈U〉『心配』,気がかり,悩み / 〈C〉《しばしば複数形で》心配事,苦労の種 / 〈U〉『細心の注意』,十二分の用心 / 〈U〉(…の)『世話』,監督,保護《+『for(of)+名』》 / 〈C〉関心事,気を配るべきこと / 『気にする』,心配する,関心がある / …『したいと思う』,欲する,好む
 careen	〈船・車などが〉一方に傾く;傾いて(横ゆれしながら)走る / (船底の修理・清掃のために)〈船〉'を'傾ける;〈傾けた船底〉'を'修理(清掃)する / 〈風・波が〉〈船〉'を'傾ける
@@ -584,9 +584,9 @@ carnal	《通例軽べつして》肉体の,肉欲的な;物質的な,現世的�
 carnation	〈C〉カーネーション / 〈U〉淡紅色,《古》はだ色 / 淡紅色の
 carnelian	紅玉髄,赤めのう(=cornelian)
 carnival	〈U〉『謝肉祭』,カーニバル(四旬節(Lent)の直前の3日間ないし1週間の祝祭;カトリック教国では四旬節中は肉食を断つので最後に肉を食べる日となる) / 〈C〉浮かれ騒ぎ,お祭り騒ぎ;(特定の)お祭り / (また《話》『carny』)〈C〉《米》巡回ショー,移動見世物
-carnivore	食肉動物,肉食獣 / 食虫植物
+carnivore	〈C〉肉食動物 / 肉を食べる人(肉が好きな人)
 carnivorous	肉食[性]の;食肉類の
-carny	旅芸人 / =carnival3
+carny	旅芸人 / =carnival
 carob	イナゴマメ(地中海沿岸産の豆に似た実のなる木) / イナゴマメの実
 carol	祝いの歌,喜びの歌,賛歌 / 祝歌を歌う / 楽しく歌う,喜び歌う《+『away』》 / …'を'祝歌で祝う
 caroler,caroller	祝歌を歌う人
@@ -596,7 +596,7 @@ carom,carrom	〈C〉キャロム(玉突きで手玉が続けて2つの的玉に�
 carotene	カロチン(ニンジン・トウガラシなどに含まれる炭化水素)
 carotid	頚(けい)動脈 / 頚動脈の
 carousal	にぎやかな宴会,大酒盛り
-carouse	=carousal / 飲んで騒ぐ
+carouse	飲みながら騒ぐ（動詞）; 飲みながら騒ぐこと（名詞）
 carousel, carrousel	《米》=merry-go-round / 《おもに米》(旅客機からおろした荷物を乗客が受け取るための)回転荷台
 carp	コイ / (…の)揚げ足取りをする,(…を)とがめだてする《+『at』(『about』)+『名』》
 carpal	手根(しゅこん)骨の,腕骨の
@@ -611,13 +611,13 @@ carpet-bombing	じゅうたん爆撃
 carpetbag	じゅうたん地で作った古風な旅行かばん
 carpetbagger	渡り者の山師;(南北戦争後北部から南部に来た)渡り者の政治屋
 carpeting	じゅうたん地,敷き物材料 / 《集合的に》じゅうたん,敷き物
-carping	あら捜しの,口やかましい
+carping	批判的で不満に満ちた; 口やかましい
 carpool	車の所有者数人が交替でお互いを乗せて行く協定
 carport	カーポート(差し掛け屋根の車庫)
 carpus	手首,手首の骨
-carrel	書庫内閲覧席
+carrel	壁に設けられた小さな机（書庫や図書館で使用される）
 carriage	〈C〉(特に自家用)『四輪馬車』 / 〈C〉《米》うば車(=baby carriage) / 〈C〉(機械などの)可動部分,往復台;(車付き)砲架,台架 / 〈U〉(歩いたり立ったりしているときの)身のこなし,動作,態度 / 〈C〉《英》(列車の)車両,客車 / 〈U〉運搬,輸送,運送料,運賃
-carriage trade	(店の)上顧客
+carriage trade	〈U〉上得意客 / 富裕層の顧客《米》
 carriageway	車道
 carrier	『運搬する人』;輸送業者(会社) / 運搬する物,運客車;運客設備 / (…の)媒介体,保菌者《+『of』+『名』》 / (また『aircraft carrier』)航空母艦 / (自転車・車の)荷台
 carrier bag	(店で品物を入れてくれる紙またはビニール製の)買物袋(《米》shopping bag)
@@ -719,28 +719,28 @@ caster	(物を)投げる人(物),鋳造師 / (また 『castor』)(いす・ピ�
 caster sugar	精製白砂糖
 castigate	〈人〉'を'厳しく罰する,厳しく批評する / …'を'難色を示す
 castigation	厳しい非難 / 難色
-casting	〈U〉投げること / 〈U〉〈C〉鋳造,塑造,鋳物 / 〈C〉配役
+casting	〈U〉配役決定 / 〈C〉鋳物 / 投げること
 casting vote	(賛否同数のとき議長が投じる)決定票
 castle	『城』,とりで / (一般に)大邸宅,やかた / (また『rook』)(チェスのこまの)城将 / (チェスで)〈王〉'を'ルーク(城将)で守る / 〈王が〉ルーク(城将)で守られる
 castoff	脱き捨てた / 見捨てられた / 見捨てられた人(物),(特に)不要の衣料品
 castor	=caster / ビーバー香(ビーバーからとれる香水・薬品)
 castor oil	ひまし油
 castor sugar	=caster sugar
-castrate	〈動物のおす〉'を'去勢する;〈めす〉'の'卵巣を除去する;〈植物〉'を'去葯(やく)する
+castrate	{動}去勢する / 力を奪う
 castration	去勢,卵巣の切除;去葯(やく)
 casual	『むぞうさな』,さりげない(offhand) / 『偶然の』,思いがけない / ふだん着の,くだけた / むとんじゃくな,無関心な / 臨時雇労働者 / ふだん着
 casually	偶然に,なにげなく
 casualness	偶然,むとんじゃくさ;さりげなさ
 casualty	(事故・災害などの)死傷者,負傷者,被災者,被害者;(戦争による)負傷者,行方不明者 / 不慮の事故,人身事故
-casuist	結疑論者 / 詭弁(きべん)家
-casuistic	決疑論的な / 詭弁的な
+casuist	〈C〉詭弁家 / 道徳問題の理論家
+casuistic	{形}詭弁的な / 詭弁を弄する / 枝葉末節にこだわる
 casuistry	決疑論(特定の行為を道徳的原理に照らしてその是非を解決しようとすること) / 〈C〉詭弁(ぎべん)
 cat	『猫』;(ライオン,トラ,ヒョウなどの)ネコ科の動物
 CAT	clear air turbulence晴天乱流
 cat.	catalog; catalogue
 cat burglar	壁・配管などを登って押し入る泥棒(《米》second-story man)
 cat suit	女性・子供用の体にぴったりした運動着
-cat's paw, cat's-paw	だしに使われる人,手先 / そよ風
+cat's paw, cat's-paw	〈C〉手先 / 利用される人 / （航海）小さな突風・そよ風
 cat's-eye	猫目石 / (車の安全のために道路に設置した)ヘッドライト反射装置
 cat-and-mouse	追いつ追われつの,食うか食われるのか
 cat-o-nine-tails	こぶ結びのついた9本のひもを柄に通した罪人を打つむち
@@ -779,7 +779,7 @@ catch-as-catch-can	どんな機会も利用する
 catchall	がらくた入れ
 catcher	『捕らえる人』(『物』) / 『捕手』 / (捕鯨の)キャッチボート
 catching	(病気が)うつりやすい,伝染性の / 人を引きつける,魅惑的な
-catchment	〈U〉貯水 / 〈C〉貯水池 / 〈U〉(貯水池の)水 / =catchment area 2
+catchment	〈C〉貯水池 / 〈U〉(貯水池の)水 / =catchment area
 catchment area	(また『catchment basin』)(湖・川の)集水区域 / (また『catchment』)通学(通院)区域
 catchpenny	きわものの,安ぴかの
 catchphrase	標語,キャッチフレーズ
@@ -803,7 +803,7 @@ catfish	ナマズ類の魚
 catgut	腸線,ガット(小羊などの腸で作った強いひも・糸で弦楽器の弦,テニスのラケット,外科用縫合糸などに用いる)
 Cath.	Catholic
 catharsis	カタルシス,浄化(特に悲劇や音楽で観客の感情を浄化する効果) / (下剤による)排便,(胃腸などの)洗浄 / (精神分析で)浄化法
-cathartic	下剤 / 下剤の,洗浄の / 浄化の
+cathartic	〈C〉下剤 / {形}浄化を促す / 感情を吐き出させる / 下剤作用のある
 cathedral	(bishopが統轄する)『大寺院』,大聖堂,大伽藍(がらん) / (一般の)大教会
 Catherine wheel	輪転花火
 catheter	カテーテル,(特に)導尿管(体内液の排出・導入に用いる細い管)
@@ -822,7 +822,7 @@ cats cradle	あや取り遊び
 catsup	=ketchup
 cattail	ガマ(沼地に生える背の高いアシに似た植物)
 cattily	猫のように / ずるく
-cattiness	ずるいこと,陰険
+cattiness	陰険さ,ずるさ
 cattle	(家畜の)『牛』
 cattle cake	家畜の飼料
 cattleman	牛飼い / 牧畜業者
@@ -872,17 +872,17 @@ caveat	(取引き上の)警告,予告 / (裁判で)手続停止要請書
 caveat emptor	(商取引きで)買手の危険負担
 caveman, cave man	(有史以前の)穴居人 / 《話》荒っぽい人,粗野な人
 cavern	地下大洞窟(どうくつ)
-cavernous	ほら穴の多い / ほら穴のような
+cavernous	空洞の / 空洞のような〈C〉
 caviar,caviare	キャビア(チョウザメのはらごの塩づけで珍味とされる)
 cavil	(…に)やたらにけちをつける,(…の)あらを捜す《+『at』(『about』)+『名』》 / あら捜し,揚げ足取り
-caviler	あら捜しをする人
-cavitation	空洞現象(低圧で流体を中に空間のできること)
+caviler	〈C〉あら探しをする人 / つまらないことに文句をつける人
+cavitation	〈U〉空洞化 / キャビテーション（液体中の気泡現象）
 cavity	へこみ,くぼみ,空洞 / 虫歯の穴 / (人体内の)腔(こう)
 cavity wall	防音・防寒用の中空壁
 cavort	〈人が〉浮かれてとんだりはねたりする;〈馬が〉はね回る
 cavy	テンジクネズミ(南米産)
 caw	(カラスの)カアカアという鳴き声 / 〈カラスが〉カアカア鳴く[擬声語]
-cay	(川の)州,中州
+cay	〈C〉小さな砂洲 / サンゴ礁島
 cayenne	とうがらし
 cayman	=caiman
 cayuse	(米西部で)インディアンの小馬
@@ -890,7 +890,7 @@ CB	citizens band / construction battalion設営大隊
 Cb	columbiumの化学記号
 CBC	Canadian Broadcasting Corporationカナダ放送協会
 CCTV	closed-circuit television
-ccw	counterclockwise
+ccw	{略}反時計回り（counterclockwise）,=anticlockwise (英国)
 Cd	cadmiumの化学記号
 cd.	cord; cords
 CD	certificate of deposit / (また『C.D.』)Civil Defense民間防衛
@@ -913,7 +913,7 @@ celebrate	(儀式・祝典などを行って)…'を'『祝う』 / 〈人・行
 celebrated	名高い,有名な;(…で)有名な《+『for』+『名』》,(…として)知れ渡った《+『as』+『名』》
 celebration	『祝賀』,祝典(儀式)の挙行;〈C〉祝典,祭典,祝賀会
 celebrator	祝賀する人
-celebrity	〈U〉名声,高名 / 〈C〉有名人,名士
+celebrity	〈C〉有名人 / 〈U〉名声
 celerity	(行動の)迅速(じんそく),敏速
 celery	セロリ,オランダミツバ
 celesta	チェレスタ(ピアノに似た小型の鍵盤楽器)
@@ -957,7 +957,7 @@ censorship	検閲,検閲制度 / 検閲官の職
 censurable	非難すべき,とがめられるべき
 censure	…'を'『非難する』,とがめる;(…のことで)〈人〉'を'とがめる《+『名』〈人〉+『for』(『about』)+『名』(do『ing』)》(blame) / 『非難』,とがめ,酷評
 census	人口調査,国勢調査
-cent	〈C〉『セント』(1ドルの1/100;米国・カナダの貨幣単位;《略》￠) / 〈C〉1セント銅貨 / 〈U〉(単位としての)100
+cent	〈C〉セント（1ドルの100分の1; 米国・カナダの貨幣単位;《略》￠） / （角度の）セント / （音程の）セント
 cent.	centigrade / centimeter / central / century
 centaur	ケンタウロス(上半身は人間で下半身が馬のギリシア神話の怪物)
 centavo	センタボ(スペイン語・ポルトガル語を話す国の硬貨;1/100ペソ)
@@ -978,7 +978,7 @@ centiare	1平方メートル
 centigrade	100分度の,100度目盛りの / 摂氏の(Celsius)(《略》C.)
 centigram,centigramme	センチグラム(1/100グラム;《略》cg.)
 centiliter,centilitre	センチリットル(1/100リットル;《略》cl.)
-centime	サンチーム(フランスの貨幣;1/100フラン)
+centime	〈C〉サンチーム（1フランまたは1ユーロの100分の1）《仏》
 centimeter,centimetre	センチメートル(1/100メートル;《略》cm.)
 centimeter gram second	cgs単位制の
 centipede	ムカデ
@@ -1005,7 +1005,7 @@ centrist	中道派議員 / 中道派の
 centurion	(古代ローマの軍隊の)百人隊の隊長
 century	『1世紀』,100年間 / (古代ローマ軍隊の)百人隊;百人組(古代ローマの選挙単位);100の1組 / 《米話》100ドル,100ドル紙幣 / (クリケットで)100点(100runs)
 century plant	リュウゼツラン[100年に1度花を咲かせると想像されていたことから]
-CEO	chief executive officer / 行政長官 ・最高経営責任者、企業のトップに位置する人、最高執行官、会長、代表執行役
+CEO	chief executive officer (最高経営責任者),企業のトップに位置する人,最高執行官,会長,代表執行役
 cephalic	頭蓋(ずがい)の
 cephalic index	頭[部]示数(人類学で用いる頭部測定基準)
 ceramic	陶器の;製陶術の
@@ -1034,7 +1034,7 @@ cert	確実[なこと] / certificate / certification / certified / certify
 certain	《補語にのみ用いて》(主語となる人が)『碓信している』,信じて疑わない / (事が)『碓かな』,疑いのない(sure) / 《名詞の前にのみ用いて》ある一定の / 《名詞の前にのみ用いて》(ある程度わかっているがそれ以上ははっきりしない)『ある』…,例の… / 《名詞の前にのみ用いて》いくぶんかの,多少の,ある程度の / (…のうちの)ある人々(もの),いくつか《+『of』+『名』》
 certainly	『確かに』,確実;きっと,まちがいなく / 《問いに応えて》『承知しました』,いいですとも,もちろん
 certainty	〈U〉確実性,必然性;確信 / 〈C〉確実なもの(こと),確かな見込み
-certifiable	保証できる
+certifiable	認証可能な,保証可能な
 certificate	『証明書』,証書,証券 / 『免許証』,認許状,(学位を伴わない)修業証書
 certificate of deposit	預金証書(定期預金額などに対して銀行が発行する)
 certificated	証明された,資格を与えられた
@@ -1049,7 +1049,7 @@ certitude	(信念・信仰・意見などに)疑念がないこと;(…という
 cerulean	空色 / 空色の
 cerumen	耳あか
 Cervantes	セルバンテス(『Miguel de Cervantes』;1547‐1616;スペインの小説家で「ドンキホーテ」Don Quixoteが代表作)
-cervical	(子宮などの)頚(けい)部の(にできた)
+cervical	{形}頸部の / 子宮頸部の
 cervix	(器官の)頚(けい)部,(特に子宮の)頚管
 Cesarean section	=Caesarean section
 cesium	セシウム(金属元素;化学記号は『Cs』)
@@ -1062,7 +1062,7 @@ cetacean	(クジラ・イルカなど)水棲(すいせい)哺乳類の
 Ceylon	セイロン(インド南端の島;スリランカ(Sri Lanka)共和国)
 Ceylonese	セイロン[島]の / セイロン島[人]
 Cf	californiumの化学記号
-cf.	center fielder(野球の)センター / compare参照せよ
+cf.	{略}参照せよ（compareを意味するラテン語conferの略）
 cg.	centigram[s]
 cgm.	centigram; centigrams
 cgs,c.g.s.,CGS	centimeter-gram-second
@@ -1108,7 +1108,7 @@ chalkiness	白亜質,チョークのように白いこと
 chalky	白亜質の;白亜色の / チョークのついた
 challah	ハーラ(ユダヤ教の安息日・祭日に食べる白パンの一種)
 challenge	〈U〉〈C〉『挑戦』,試合の申し込み;〈C〉挑戦状 / 〈U〉(番兵などが怪しい者に)“だれか"と呼び掛けること / 〈C〉手ごたえのある事(物) / 〈U〉〈C〉(…への)異議申し立て抗議《+『to』+『名』》 / 〈U〉〈C〉(陪審員に対する)忌避 / (競技・決闘などを)〈人〉'に'『挑む』,挑戦する / …'に'『異議を申し立てる』 / 〈物事が〉〈人〉'を'奮起させる,〈興味など〉'を'呼び起こす / 〈番兵・守衛などが〉…'に'“だれか"と呼び掛ける / 〈陪審員・裁判官〉'を'忌避する
-challenger	挑戦者 / だれかと呼び掛ける人 / 異議を申し立てる人 / (陪審員団の)忌避者
+challenger	挑戦者 / 異議を申し立てる人 / (陪審員団の)忌避者
 challenging	挑戦的な / 興味をそそる,魅力的な
 challis	シャリス(羊毛・綿・あるいはレーヨンの軽い織物)
 chamber	部屋(room);(特に)寝室 / 《複数形で》判事室(公開を要しない事件を審理する部屋) / 《英》弁護士の事務室 / (立事・司法機関などの)会議場 / 立法府,司法府 / (宮廷などの)接見室,拝謁(はいえつ)の間 / (動物体の)小室房 / (火器の)薬室 / …'に'部屋を準備する,'を'部屋に入れる
@@ -1163,8 +1163,8 @@ Chanukah	=Hanukkah
 chaos	〈U〉(天地創造以前の)混とん / 〈U〉(一般に)『混乱状態』,無秩序;〈C〉混乱したもの
 chaotic	混とんとした,無秩序の
 chaotically	混とんとして,無秩序に
-chap	『やつ』(fellow) / 〈皮膚〉'に'ひびを切らせる / ひびが切れる / ひび,あかぎれ,皮膚の荒れ / (特に動物の)あご
-Chap.,chap.	chapter
+chap	〈C〉『やつ』(=fellow)《英略式》 /  {名}（皮膚の）ひび,あかぎれ
+Chap.,chap.	chapter (章)
 chaparral	低木の茂み
 chapbook	呼び売り本(昔,行商人が売った通俗読み物の小冊子)
 chapeau	帽子(hat)
@@ -1178,7 +1178,7 @@ chaplet	頭飾りの花輪 / 小さなじゅず / (一般に)ビーズ飾り,玉
 chapman	(昔の)行商人,呼び売り人
 chaps	カウボーイがズボンの上からはく皮ズボン
 chapter	(各種の文章の)『章』(《略》chao.,Chap.,ch.,Ch.,c.) / 〈C〉(人生・歴史・事がらの)重要な一時期 / 《集合的に》聖堂参事会,修道院義士会 / (協会・組合・クラブなどの)地方支部,分会
-chapter house	参事会会議場
+chapter house	〈C〉評議室 / 集会所（修道院や大聖堂の）
 char	…'を'焦がす / (焼いて)…'を'炭にする / こげる / (時間ぎめや日雇いで)〈婦人が〉雑役をする / =chatwoman / =tea
 charabanc	シャラバン,大型遊覧バス
 character	〈U〉〈C〉(人の)『性格』,人格 / 〈C〉(物事が持っている)特質,特性 / 〈C〉《まれ》評判,名声 / 〈C〉《修飾語を伴って》(…の)人物;(小説・劇などの)『登場人物』 / 《話》(一般に)人 / 〈U〉《one's(the)~》(…の)資格,地位,身分《+『of』+『名』》 / 〈C〉《話》変わり者 / 〈C〉(意味を表す)文字,記号,字体
@@ -1336,12 +1336,12 @@ chessman	チェスのこま
 chest	(ふた付きのじょうぶな)『大箱』,ひつ / 《米》たんす(=chest of drawers) / (…の)たんすいっぱい《+『of』+『名』》 / 『胸[部]』,肺
 chest of drawers	たんす
 chesterfield	ベルベットのえりつき男子コート / 長いすの一種
-chestnut	〈C〉『クリの実』,『クリの木』;〈U〉クリ材 / 〈U〉トチの実,トチの木 / 〈U〉くり色,赤かっ色 / 〈C〉くり毛の馬 / 〈C〉《話》古くさいしゃれ,陳腐な話 / くり色の,くり毛の
+chestnut	〈C〉クリの実 / クリの木 / 栗色 / 古くさい話
 chesty	(特に女性が)胸の大きい / 胸の底から響きわたるような
 cheval glass	長方形の姿見,縦鏡
 chevalier	勲爵士(フランスのレジオンドヌール勲位(the Legion of Honor)などを与えられた人) / 《古》騎士(最下位のフランス貴族)
 cheviot	シェビオット織り(粗いあや織りの毛織物)
-chevron	袖(そで)章(下士官・警官などが階級・功労を示すためにつける)
+chevron	〈C〉山形模様 / 山形の軍曹章(軍服の階級章)
 chevy,chevvy	=chivy
 chew	〈食物〉'を'『かむ』,かみくだく / …'を'かんで作る / かむ,かみこなす / かむこと;〈C〉かみ,一口
 chewing gum	『チューインガム』
@@ -1370,7 +1370,7 @@ chicory	〈C〉チコリ(ヨーロッパ産の植物;葉はサラダに用いる
 chide	…'を'たしなめる,叱る / たしなめる,叱る
 chief	(組織・集団の)『長』;長官,局(部,課)長;(部族の)長 / 『最高位の』,長である / 『最も重要な』,おもな(most important; main)
 chief constable	警察部長
-Chief Executive	行政長官(大統領・州知法など)
+Chief Executive	〈C〉最高経営責任者（CEO） / 行政長官
 chief inspector	警部
 chief justice	裁判長《the Chief Justice》《米》最高裁判所長官
 chief master sergeant	(米空軍の)特務曹長(最高位の航空下士官)
@@ -1395,7 +1395,7 @@ child	(おとなに対して)『子供』,幼児,児童;(小学・中学・高�
 child labor, child labour	(工場などの)幼年労働
 child prodigy	=infant prodigy
 child's play	子供の遊びのようにたやすいこと,非常に容易なこと,児戯
-childbearing	=childbirth
+childbearing	〈U〉出産 / 妊娠・出産すること
 childbirth	出産,分べん
 childhood	『幼時』,子供時代
 childish	『子供の』;子供らしい / 『幼稚な』
@@ -1406,7 +1406,7 @@ children	childの複数形
 children of Israel	ヘブライ人,ユダヤ人
 Chile	チリ(南米太平洋岸の共和国;首都はSantiago)
 Chilean	チリの;チリ人の / チリ人
-chili,chile,chilli	〈U〉〈C〉チリとうがらし / 〈C〉チリとうがらしを入れたメキシコ料理
+chili,chile,chilli	〈U〉〈C〉チリとうがらし / 〈C〉チリとうがらしを入れた料理（例: chili con carne）
 chili con carne	チリコンカルネ(肉・豆・野菜を煮込んだからし入りメキシコ料理)
 chili sauce	チリソース(トマトととうがらしなどを煮つめて作ったソース)
 chill	『寒気』,冷気・冷たさ / 『寒さ』,悪寒 / 興ざめ,いや気,失意 / …'を'『冷やす』 / …'を'『ぞっとさせる』,'に'寒けを覚えさせる / 〈興味・意気込み〉'を'くじく,そぐ / 冷える,寒けを覚える / 『冷たい』,ひんやりする;寒けのする / 『冷淡な』,よそよそしい
@@ -1449,7 +1449,7 @@ Chinese mushroom	シイタケ
 Chinese puzzle	中国のむずかしい判じ物 / (一般に)むずかしいパズル,難問
 Chinese Wall	万里の長城
 chink	チリン,カチン(ガラス・金属がぶつかる音) / 〈金属やガラス〉'を'チリンと鳴らす / チリンと鳴る / 細い裂け目,すきま,割れ目 / …'の'すきまを詰める
-Chink	《軽べつして》中国人
+Chink	《軽蔑して》中国人（差別的表現として使われる）
 chinless	あごのない(小さい,引っ込んでいる) / 《英話》弱い,おく病な
 chino	〈U〉あや織り綿布(制服用などのじょうぶな布) / 《通例複数形で》あや織り綿布製のズボン
 Chinook	チヌーク(アメリカ北西海岸に吹く暖かい湿った風;またはロッキー山脈の東側に吹く暖かいそよ風)
@@ -1487,7 +1487,7 @@ chivalrous	騎士道の,騎士道時代の / 騎士道的な;勇気がある;礼
 chivalry	(中世封建時代の)『騎士道』(knighthood),武士道(勇気・仁愛・礼儀・忠君などを特色としている) / 騎士団(body of knights)
 chive	エゾネギ(サラダに用いる)
 chivy, chivvy	〈人〉'に'がみがみ言う
-chloral	クロラール(DDTに用いる)
+chloral	クロラール(鎮静剤)
 chlorella	クロレラ(緑藻(りょくそう)類の一種で食料として栄養価が高い)
 chloride	塩化物
 chloride of lime	さらし粉
@@ -1515,7 +1515,7 @@ choke	…'を'『息を止める』,'を'窒息させる / (…で)…'を'む�
 choker	息を詰まらせる人(物);ふさぐ物 / 《話》チョーカー(首にぴったり巻きつける首飾り,牧師の服の立ちえり,礼装用の白ネクタイなど)
 chokey	=choky
 choking	息詰まるような,窒息させる,息苦しい / (感動で)むせぶような
-choky	監獄
+choky	〈C〉刑務所《英俗》 / {形}むせるような / 息苦しい
 choler	《まれ》かんしゃく,怒気
 cholera	コレラ
 choleric	怒りっぽい
@@ -1529,7 +1529,7 @@ chopfallen	=chapfallen
 chophouse	焼き肉専門店
 Chopin	ショパン(『Frederic François~』;1810?‐49;ポーランドの作曲家・ピアニスト)
 chopper	切る人(物);大きな肉切り包丁,おの / 《俗》ヘリコプター / 《複数形で》《俗》歯
-choppiness	たえず変わること,変動の激しいこと
+choppiness	〈U〉波立ち / 不安定さ / 途切れやすさ
 chopping block	肉切り台,まないた
 choppy	(風が)たえず変わる / (波が)波立つ / 《話》(文句などが)とぎれとぎれの / (海などが)波立つ / (風が)変わりやすい / 《話》(文体など)むらのある
 chopstick	(食事用を)はし
@@ -1594,7 +1594,7 @@ chrome yellow	クロム黄(クロム化合物から作られる黄色顔料)
 chromic	クロムの,クロム(特に3価のクロム)を含む
 chromic acid	クロム酸
 chromium	クロム,クロミウム(金属元素;化学記号は『Cr』)
-chromo	多色石版刷りの絵
+chromo	〈C〉カラー印刷物 / 多色刷りの版画《略式・古》
 chromosome	染色体
 chromosphere	彩層(太陽の周辺を取り巻いている白熱ガスの層) / 恒星を取り巻くガス層
 chron.	chronicle / chronological / chronology
@@ -1611,7 +1611,7 @@ chronometer	クロノメーター(科学的実験・航海・天文観測など�
 chrysalid	=chrysalis
 chrysalis	(ガやチョウの)さなぎ / まゆ
 chrysanthemum	菊 / 菊の花
-chrysolite	=olivine
+chrysolite	〈C〉カンラン石 / ペリドット（宝石の一種,緑がかった黄色の宝）《古》
 chub	チャブ(コイ科の淡水魚)
 chubbiness	丸ぽちゃ,丸丸と太っていること
 chubby	(人・顔などが)丸々と太った,丸ぽちゃの
@@ -1688,7 +1688,7 @@ cinerarium	納骨堂(火葬した遺骨を安置する所)
 cinnabar	辰砂(しんしゃ)(水銀の主要鉱石,赤色または赤褐色)
 cinnamon	〈U〉シナモン(乾燥させたニッケイ樹の樹皮から作る香辛料) / 〈C〉ニッケイ樹;ニッケイの樹皮 / 〈U〉ニッケイ色,赤褐色 / ニッケイ色の,赤褐色の
 cinquefoil	キジムシロ(バラ科の植物;ある種は五弁の葉を持つ)
-CIO	Congress of Industrial Organizations産業別労働組合会議
+CIO	{略}Chief Information Officer (企業や組織の情報戦略・IT部門の最高責任者)
 cion	=scion
 CIP	Cataloging in publication
 cipher,cypher	〈C〉ゼロ(zero) / 〈C〉ゼロを表す数字,0 / 〈C〉(個々の)アラビア数字 / 〈C〉取るに足りない人,無価値なもの / 〈U〉暗号,符牒(ふちょう) / 〈通信など〉'を'暗号で書く / 計算する,算出する
@@ -1716,7 +1716,7 @@ circulatory system	循環系(血液やリンパ液を全体に運ぶ組織網)
 circum.	circumference
 circumambulate	(特に気取って)…'を'歩き回る / 歩き回る
 circumcise	…'に'割礼を施す
-circumcision	割礼(ユダヤ教などで宗教的儀式として男性の陰茎包皮を切り取ること) / 《Circumcision》(カトリックで)キリスト割礼の祝日,(聖公会で)受割礼日(1月1日)
+circumcision	割礼(ユダヤ教などで宗教的儀式として男性の陰茎包皮を切り取ること) / 〈C〉(カトリックで)キリスト割礼の祝日,(聖公会で)受割礼日(1月1日)
 circumference	外周,(特に)円周
 circumflex	曲折アクセント記号(音質・音量・アクセントなどを示すため母音字の上につける^などの記号;role)
 circumlocution	〈U〉回りくどい話し方,遠回しの言い方 / 〈C〉回りくどい表現(話)
@@ -1757,13 +1757,13 @@ citrate	クエン酸塩
 citric	柑橘(かんきつ)類の / クエン酸の
 citric acid	クエン酸(柑橘(かんきつ)類に含まれる)
 citron	シトロン(レモンに似た果実でリキュールなどに用いる) / シトロンの木 / (砂糖づけにした)シトロンの皮(ケーキに用いる)
-citronella	〈U〉〈C〉シトロネラ(南アジア産の植物;石けんなどの香料となる) / 〈U〉シトロネラ油
+citronella	〈U〉シトロネラ（芳香植物;南アジア産の植物;石けんなどの香料となる） / シトロネラ油
 citrous	=citrus
 citrus	柑橘(かんきつ)類の,ミカン類の / 柑橘(かんきつ)類ミカン属の木の総称
 city	〈C〉(特に行政権を持っている)『都市』,都会,規模の大きい町 / 〈C〉《米》市(州の公認を得た市議会を持つ行政区で一般にtown, villageよりも大きい) / 《the city》《集合的に》都市の[全]市民,全市 / 《the City》シティ(Londonの旧市街で商業・金融の中心地域)
 city born	都会生まれの
 city council	市議会,市会
-city editor	《英》(新聞社の)経済部長;《米》(新聞社の)社会部長,地方記事編集長
+city editor	〈C〉地方版編集長《米》 / 市内ニュース担当編集者
 city father	市会議員
 city hall	市庁舎,市役所 / 市当局
 city manager	(公選によらず市会の任命する)市政管理者
@@ -1784,7 +1784,7 @@ civil marriage	民事婚(宗教的儀式によらず登記官吏の前で行う�
 civil rights	市民権,公民権(選挙権,言論の自由,法のもとでの平等など諸権利の総称)
 civil servant	公務員
 civil service	行政事務(立法・司法・防衛関係以外の公務)
-civil war	〈C〉内乱,内戦 / 《the Civil War》(米国の)南北戦争(1861‐65)(英国の)Charles1世と国会との戦争(1642‐49)
+civil war	〈C〉内戦 / 〈U〉内乱 / 《the Civil War》(米国の)南北戦争(1861‐65)(英国の)Charles1世と国会との戦争(1642‐49)
 civilian	(軍人・警官・消防署員・聖職者に対して)一般市民,民間人,文民 / (比較変化なし)民間の,一般市民の / (武官に対して)文官の
 civility	〈U〉礼儀正しさ,ていねい / 〈C〉ていねいな言葉,礼儀にかなった行為
 civilization	〈U〉〈C〉(物質的・社会的・科学的・政治的に高度な)『文明』;(特定の地域・国民・時代に発達した)『文明』[様式] / 《集合的に》文明世界;文明人 / 〈U〉(…の)文明化,開化《+『of』+『名』》
@@ -1800,7 +1800,7 @@ Cl	chlorineの化学記号
 cl.	centiliter[s] / class / classification / clause / clearance / clerk
 clabber	濃くてすっぱい牛乳・(凝固した)牛乳・〈牛乳が〉濃く固まる・酸敗凝固した牛乳・ 凝固する、酸っぱくなる、酸敗して固まる・固まらせる
 clack	(堅いものを打ち合わせるような)カタッ(パチッ)という音 / カタッ(パチッ)と音がする / …'に'カタッ(パチッ)と音を立てさせる
-clad	clotheの(古語・文語における)過分・過去分詞
+clad	{形}覆われた / 着た / 被覆された / {動}（clothe の過去・過去分詞形）
 claim	〈人が〉(当然の権利として)…'を'『要求する』,『請求する』,'を'自分の物だと主張する;(…から)…'を'要求する《+『名』+『from』+『名』》 / 〈人が〉…'と'『主張する』,断言する / 〈物事が〉…'を'必要とする,'に'値する / (…に対して…の)権利を主張する《+on(for)+名+against+名》 / 〈C〉(…に対する)(当然の)『要求』,請求《+for(to)+名》 / 〈C〉主張,断言,公言 / 〈U〉(物事を)要求する権利(資格),請求権《+『to』+『名』〈物事〉》;(人に)要求する権利《+『on』+『名』〈人〉》 / 〈C〉請求物;(特に入植者に与えられる)一区画の土地;(鉱業権などの設定された)払い下げ精求地
 claimant	(権利の)要求者,主張者,(賠償などの)請求者;(裁判の)原告
 clairvoyance	千里眼,透視力
@@ -1868,7 +1868,7 @@ clatter	(堅いものがぶつかり合うときの)『ガチャガチャ』(『
 clause	(文法で)『節』(文の一部で「主語+述語動詞」の構造を持っている語の集まり) / (条約・法律などの)『箇条』,条項
 claustrophobia	密室恐怖症,閉鎖恐怖症
 claustrophobic	密室(閉鎖)恐怖症の
-clave	cleaveの過去形
+clave	〈C〉クラーベ（打楽器） / 拍子リズムパターン / {動}cleave の過去形（文語）
 clavichord	クラビコード(ピアノの前身であるけん盤楽器)
 clavicle	鎖骨
 clavier	(ピアノ・オルガンの)けん盤 / けん盤楽器
@@ -1925,15 +1925,15 @@ clergy	『聖職』,牧師
 clergyman	(一人の)『聖職者』,牧師(minister,priest,rabbiなど)
 clergywoman	(婦人の)牧師
 cleric	{名}〈C〉 / =clergyman
-clerical	事務員の書記の / 聖職者の,牧師の / 牧師 / 《複数形で》僧服
-clericalism	聖職権[拡張]主義;聖職者の政治勢力
+clerical	事務的な / 聖職者の, 牧師の / 〈C〉牧師
+clericalism	聖職者に関連するもの;聖職者に関連する制度や慣習
 clerihew	人物四行詩(有名人についてユーモラスに描く詩)
 clerk	(銀行・会社の)行員,社員;事務員 / (官庁の)『書記』,事務官,吏員;(教会の)書記 / 《米》『店員』,売り子(=salesclerk)(《英》shop assistant) / 事務員(書記など)として働く
 clerk of works	(工事の)現場監督
 Cleveland	クリーブランド(米国Ohio州北東部の工業都市・港市)
 clever	『利口な』,頭のよい,才気のある,気のきいた / 『器用な』,じょうずな(skillful)
 clever dick	りこうぶる人
-clevis	Uリング,U字かぎ
+clevis	U字かぎ〈C〉
 clew	(また『clue』)(森や迷路から抜け出すためたぐる)糸玉 / (難問解決の)糸口 / (また『clue』)帆耳(帆の最下端)
 cliche,cliché	陳腐なきまり文句;月並みな考え
 cliched,clichéd	陳腐な,紋切型の
@@ -1941,13 +1941,13 @@ click	(掛け金をかけたり,錠を回したりする時の)『カチリと�
 clickety-click	カタカタ(カタコト)という音
 client	[『弁護』]『依頼人』,訴訟依頼人 / (商売上の)おとくい(customer)
 client state	大国に依存している国
-clientele	[弁護]依頼人 / 患者 / (ホテル・商店などの)常連,おとくい
+clientele	〈C〉常連客 / 顧客層
 cliff	(海に臨む)『がけ』,絶壁
 cliff dweller	岩くつ居住者 / 《俗》高層アパートの住人
 cliffhanger, cliffhanger	(映画・テレビなどの)連続冒険物 / 未決着ではらはらさせる問題
 climacteric	肉体の転換期;厄(やく)年 / 更年期
 climactic	最高潮の
-climate	〈U〉〈C〉『気候』 / 〈C〉(ある特定の気候をもっている)地方,風土 / 〈U〉〈C〉(地域,時代の)傾向,風潮
+climate	〈U〉『気候』 / 〈C〉(ある特定の気候をもっている)地方,風土 / 〈U〉(地域,時代の)傾向,風潮
 climatic	気候の;風土の
 climatically	気候上;風土的に
 climatology	気候学
@@ -1980,7 +1980,7 @@ clipped word	短縮語,省略語
 clipper	《複数形で》はさみ,バリカン / (昔の)快速大型帆船,大型旅客機
 clippie	(バスの)女車掌
 clipping	切り取ること,刈り込み;刈り取った毛 / 《しばしば複数形で》(新聞などの)切り抜き(《英》cutting)
-clipsheet	片面印刷紙(切抜き・複写用に片面だけに印刷した新聞)
+clipsheet	〈C〉切り抜き台紙 / クリップシート（資料整理用）
 clique	徒党,閥
 cliquey	=cliquish
 cliquish	排他的な,徒党を組む
@@ -2044,7 +2044,7 @@ closet	《おもに米》(衣類・食料などを入れる)『戸棚』,物置�
 closing	閉じる,終りの / 〈U〉閉じること,閉鎖 / 〈C〉〈U〉終了,締め切り;決算
 closing price	株式の終り値,引け値
 closing time	(特にパブの)閉店時刻
-closure	〈U〉閉鎖;閉店,休業 / 〈U〉終止,終局 / 〈C〉《英》=cloture
+closure	〈U〉閉鎖;閉店,休業 / 〈U〉終止,終局 / 〈C〉《英》=cloture（議会の閉会）
 clot	ゼリー状の固まり / 〈血液・ミルクなどが〉凝固する / …'を'凝固させる
 cloth	〈U〉『布』,生地,織物 / 〈C〉(特定の用途に応じる大きさの)『布地』;(特に)テーブル掛け(table cloth),ふきん(dishcloth),ぞうきん(duster) / 〈U〉布表紙,クロース / 〈U〉ラシャ / 〈C〉黒の聖服;《文》《the~》聖職
 clothe	…'に'衣服を着せる / …'に'衣服を与える / 《文》…'を'すっかりおおう,一面におおう / 《文》(権力・資格などを)〈人〉'に'付与する《+『名』+『with』+『名』》
@@ -2115,7 +2115,7 @@ Co.,co.	Company / County
 co-opt	(現在の会員が投票して)(…に)〈会員〉'を'選出する《+『名』+『into』(『onto』)+『名』》 / (…に)〈相手〉'を'引き入れる《+『名』+『into』+『名』(do『ing』)》
 coach	(箱形・屋根付き)『大型四輪馬車』;(鉄道以前の)駅馬車 / (sleeping car, parlor carと区別して)普通客車 / 《米》大型バス;《英》長距離バス / (また『coacher』)(競技車・チームなどの)『コーチ』,監督;(野球で)(1塁・3塁の)走塁コーチ;(歌手・俳優などの)指導者;(受験指導の)家庭教師 / 〈米〉(飛行機・列車・バスなどの)普通席 / 〈チーム・学生など〉'を'『指導する』;…'に'(…の)指導をする《+『名』+『for』+『名』,+『名』+『in』+『名』(do『ing』)》 / 指導をする,コーチをする
 coach park	長距離バス駐車場
-coachbuilder	(自動車・列車の)車両工
+coachbuilder	バスやトレーラーのデザイン・製造を行う専門家
 coacher	=coach4
 coachman	(馬車の)御者
 coachwork	自動車の外側車体
@@ -2156,10 +2156,10 @@ coaxial	共通軸の,同軸の
 coaxial cable	(電信・電話・テレビの伝送用の)同軸ケーブル
 coaxingly	なだめすかして
 cob	雄の白鳥・短脚強健な馬、小馬・雄の白鳥(cob swan)・ トウモロコシの穂軸(corncob)・小さい固まり、石炭
-cobalt	コバルト(銀白色の金属元素;化学記号はGo)
+cobalt	コバルト(銀白色の金属元素;化学記号はCo)
 cobalt blue	コバルトブルー[絵の具] / 濃青色
-cobble	=cobblestone / 〈道路に〉'に'玉石を敷く,玉石で舗装する
-cobbler	鞍直し職人 / コブラー(フルーツパイの一種)
+cobble	=cobblestone / 〈道路に〉石を並べて舗装する
+cobbler	靴の修理職人 / コブラー(フルーツパイの一種)
 cobblestone	(道路舗装用の)丸石,玉石
 COBOL	コボル(事務用データ処理のための共通コンピューター言語;common business oriented languageの短縮)
 cobra	コブラ(アジア産の毒蛇)
@@ -2175,7 +2175,7 @@ cochlea	(耳の)蝸牛殻(かぎゅうかく)
 cock	『おんどり』(《米》rooster) / (ガス・水道・たるなどの)『せん』,コック / 《複合語を作って》「(にわとり以外の鳥の)雄,雄鳥」の意を表す / (おんどり形の)風見(かざみ)(weathercock) / (おんどりのように威張っている)親分,大将 / (銃の)撃鉄,打ち金(がね);撃銃を引いた状態 / (気どって帽子のへりなどを)上にそらすこと;上目使い / 《英話》(男どうしの会話で)おい君 / 《禁句》陰茎 / (気どって意味ありげに)〈人が〉〈帽子・頭・麦など〉'を'上に向ける;〈馬・犬などが〉〈耳〉'を'ぴんと立てる《+『up』+『名』,+『名』+『up』》 / 〈銃〉'の'撃鉄を引く,打ち起こす / (干し草などの)円すい形の山 / …'を'円すい形に積み上げる
 cock and bull story	でたらめな話
 cock-a-doodle-doo	コケコッコー(おんどりの鳴き声)
-cock-up	《英俗》混乱,てんやわんや / 肩つき文字,上つき活字
+cock-up	《英俗》失敗,ミス / 混乱,てんやわんや
 cockade	花形帽章(階級などを表してつけられたが,現在は装飾用)
 cockaleekie	スコットランドの鶏肉とにらのスープ
 cockamamie	ばかばかしい,くだらない
@@ -2192,7 +2192,7 @@ cockhorse	=rocking horse
 cockily	生意気に,うぬぼれて,気どって
 cockiness	生意気,うぬぼれ,気どり
 cockle	トリガイ(ハート形の食用貝) / (紙・織物などの)しわ / (また『cockleshell』)《文》軽舟,小舟
-cockleshell	トリガイの貝殻 / 〈C〉=cockle 3
+cockleshell	〈C〉アサリの殻 / 貝殻のようなもの / 小さな舟
 cockney	〈C〉ロンドン子 / ロンドン英語,ロンドンなまり / ロンドン子の;ロンドンなまりの;ロンドン風の
 cockpit	(飛行機の)操縦室;(スポーツカーなどの)運転席 / 闘鶏場;《比喩(ひゆ)的に》戦場,試合場
 cockroach	ゴキブリ
@@ -2206,7 +2206,7 @@ cocktail lounge	カクテルラウンジ(ホテル・レストランなどのカ
 cocktail party	カクテルパーティー
 cocky	(人・態度などが)生意気な,うぬぼれた,気どった
 cockyleeky	=cock-a-leekie
-coco	=coconut palm
+coco	ココ（ココナッツ）
 coco palm	=coconut palm
 cocoa	〈U〉ココア / 〈U〉〈C〉(ココア・ミルクなどを混ぜて作った)ココア飲料 / 〈U〉ココア色(焦げ茶色)
 cocoa butter	カカオ脂(石けん・化粧品の材料)
@@ -2270,7 +2270,7 @@ cogitation	〈U〉熟考,熟慮;思想力 / 〈C〉《しばしば複数形で�
 cognac	コニャック(フランス産ブランデーの一種)
 cognate	(言語が)同族語の,同語源の / 同族の,同じ祖先の / 同性質の,同種の,同系の / 同族語,同族言語 / 同系の人(物),親族
 cognate object	同族目的語(動詞の目的語で,その動詞と同語で,その動詞と同語源または同意のもの;例live a happy lifeのlife)
-cognition	〈U〉認識[作用] / 〈C〉認識(知覚)されたもの
+cognition	〈U〉認識[作用] / 〈C〉認識(知覚)の対象
 cognitive	認識の(に関する,を要する)
 cognizable	認識できる / 裁判所の管轄内の
 cognizance	(…の)認識,知識,知覚《+『of』+『名』》 / 知識(認識)の範囲;理解能力
@@ -2297,7 +2297,7 @@ coin	(1枚の)『硬貨』(金貨・銀貨・銅貨・ニッケル貨など);〈
 coinage	〈U〉貨幣の鋳造 / 〈U〉貨幣制度 / 〈U〉《集合的に》貨幣,通貨 / 〈U〉(新語などを)作り出すこと;〈C〉新造語
 coincide	(…と)『同時に起こる』《+『with』+『名』》 / 〈人・性格・意見などが〉(…と)『一致する』,ぴったり合う《+『with』(『in』)+『名』》
 coincidence	〈U〉(事件などの)同時発生《+『of』+『名』》 / 〈U〉偶然の一致,符合;〈C〉一致(符合)したもの(事)
-coincident	同時に起こる;(…と)同時に起こる《+『with』+『名』》 / 一致した,符合した;(…と)一致する《+『with』+『名』》
+coincident	同時に起こる;(…と)同時に起こる《+『with』+『名』》
 coincidental	符合する,偶然に一致して;同時に
 coiner	貨幣鋳造者;《しばしば》にせ金造り
 coir	ココヤシの実の外側の毛で作ったロープ・マット用のじょうぶな繊維
@@ -2308,7 +2308,7 @@ col	(山脈の)鞍部(あんぶ),山あい
 COL	cost of living消費者物価
 col.	collect / college / collegiate / colony / color / colored / column
 Col.	colonel / Colorado
-cola	〈C〉コーラの木(熱帯産の木) / 〈U〉コーラの木の実からつくった炭酸飲料(Coca-Cola, Pepsi Colaなど) / colonの複数形
+cola	〈C〉コーラの木(熱帯産の木) / 〈U〉コーラの木の実からつくった炭酸飲料(Coca-Cola, Pepsi Colaなど)
 colander	(料理用の)水こし器,水切り
 cold	『寒い』,冷たい;冷えた,冷やした / (性格・態度などが)『冷たい』,冷淡な,熱意のない;無情な,冷酷な / (物事が)人をがっかりさせる,つまらない / (色調が)冷たい,寒色の / (獲物の遺臭が)かすかな,弱い / 《話》(打撃などで)意識を失った,失神した / 完全に,全く / 〈U〉《しばしばthe~》『寒さ』,寒け,冷たさ / 〈C〉,時に〈U〉『かぜ』,感冒
 cold chisel	常温たがね(常温の金属を切断するたがね)
@@ -2316,7 +2316,7 @@ cold comfort	慰めにならないようなもの,おざなりな慰め
 cold cream	(化粧用)コールドクリーム
 cold cuts	冷肉の薄切り
 cold feet	おじけ,逃げ腰
-cold fish	冷たい人,暖かみのない人
+cold fish	冷たい人,感情のない人,無関心な人
 cold frame	ガラス張りの小さな苗床
 cold front	寒冷前線
 cold saw	金属用のこぎり,金ひきのこ
@@ -2327,7 +2327,7 @@ cold steel	《文》刃物
 cold storage	(食物などの)冷蔵
 cold store	冷蔵倉庫
 cold sweat	冷や汗
-cold turkey	〈U〉治療で麻薬患者を急に禁断状態にすること / =impromptu
+cold turkey	〈U〉突然の行動 / 〈U〉突然の断行
 cold war	冷戦
 cold wave	寒波 / コールドパーマ
 cold-blooded	(人・行為などが)冷酷な,血も涙もない / 《話》冷え性の / (動物が)冷血の
@@ -2429,7 +2429,7 @@ Colorado	コロラド州(米国西部の州,州都はDenver;《略》『Col.,Col
 colorant	顔料,染料
 coloration,colouration	着色法;彩色,配色
 coloratura	コロラチューラ(声楽の装飾的高音部) / 〈C〉コロラチューラソプラノ歌手
-colorcast,colourcast	カラーテレビ放送 / …'を'カラーで放送する
+colorcast,colourcast	映像の色調が偏っている状態（技術用語）
 colored,coloured	着色した,彩色してある / 《しばしばC-》有色の,(特に)黒人の / 潤色(じゅんしょく)した,誇張した;ゆがめられた,偏った(distorted) / 《複合語を作って》「…色の」の意を表す / 《the ~》《複数扱い》有色人種 / 《通例複数形で》有色人 / 《しばしばC-》=Cape Colored
 colorfast,colourfast	色のさめない,変色しない
 colorful,colourful	色彩に富んだ,多彩な,はなやかな / (情景・場面などが)絵画的な,変化に富む;(描写などが)生彩のある
@@ -2443,7 +2443,7 @@ colostrum	初乳(出産後数日間出る乳)
 colour	=color
 colporteur	宗教書の行商人
 colt	(雄の)『子馬』,若ごま(普通4‐5歳まで) / 《話》青二才
-Colt	コルト式自動拳銃
+Colt	〈C〉コルト社（アメリカの銃器メーカー）
 colter	=coulter
 coltish	子馬の,子馬のような / やんちゃな;手に負えない
 Columbia	コロンビア(米国South Carolina州の州都) / 《the ~》コロンビア川(カナダ南西部から米国北西部を流れて太平洋に注ぐ) / 《文》アメリカ合衆国
@@ -2536,12 +2536,12 @@ commemorate	(祝典・儀式などで)…'を'祝う,記念する / …'の'記�
 commemoration	〈U〉(…を)記念すること《+『of』+『名』》 / 〈C〉記念式(祭),記念祝典
 commemorative	記念の;(…を)記念した《+『of』+『名』》
 commence	…'を'『始める』,'に'着手する / (…で)『始まる』《+『with』+『名』》;(…に)着手する《+『on』+『名』》
-commencement	発始 / (米国の大学のケンブリッジ大学・ダブリン大学の)学位授与式,卒業式;《米》(一般に)卒業式
+commencement	〈U〉開始 / 〈C〉卒業式（学位授与式）《米》
 commend	《文》(…であることで)〈人〉'を'ほめる,賞賛する《+『名』+『for』+『名』》 / (人に)…'を'推薦する《+『名』+『to』+『名』》 / (…に)…'を'任せる,ゆだねる《+『名』+『to』+『名』》
 commendable	推薦できる;りっぱな,感心な
 commendably	りっぱに,感心にも
 commendation	{名}推薦 / 〈C〉(…の)賞;表彰状,感状《+『of』+『名』》
-commendatory	推薦する,推賞の
+commendatory	{形}称賛の / 推薦の / 表彰するための
 commensurable	=commensurate / 同一規準で比べられる;(…と)同じ規準の《+『with』(『to』)+『名』》
 commensurably	釣り合いがとれて
 commensurate	同じ大きさ(量,長さ)の;(…と)同量の,同積の《+『with』(『to』)+『名』》 / 適切な,適した;(…と)相応の,釣り合いのとれた《+『with』(『to』)+『名』》
@@ -2568,7 +2568,7 @@ commission merchant	委託販売業者,仲買問屋
 commissionaire	(ホテル・劇場・役所などの制服を着た)守衛,受付,門衛
 commissioner	(政府が任命する)『委員』,理事 / (中央官庁・地方自治体の)『長官』,局長;弁務官 / 《米》(プロスポーツの)コミッショナー(運営の最高責任者で制裁権を持つ)
 commit	〈罪・過失など〉'を'『犯す』,〈よくない事〉'を'行う / (…に)…'を'『委託する』,ゆだねる《+『名』+『to』+『名』》 / 《しばしば受動態で》(拘置所・精神病院などに)…'を'収容する;(裁判などに)…'を'かける《+『名』+『to』(『for』)+『名』》
-commitment	〈U〉委託,委任 / 〈U〉〈C〉(刑務所などへの)拘留,(病院などへの)収容《+『to』+『名』》 / 〈U〉〈C〉(…への…する)公約,約束《+『to』+『名』+『to』do》 / 〈C〉(…への)かかわり合い;専心,傾倒《+『to』+『名』》
+commitment	〈U〉約束 / 献身 / 責任 / 〈C〉義務 / 誓約
 committal	=commitment
 committed	献身的な,忠実な;(…に)献身的な《+『to』+『名』》 / 《補語にのみ用いて》(…すると)約束している《+『to』 do『ing』=+『to』 do》
 committee	『委員会』;《集合的に》委員[全体]
@@ -2610,8 +2610,8 @@ commonweal	公共の福利(福祉)
 commonwealth	『国民』,国家 / 『共和国』,民主国家 / (共通の目的・利益によって結ばれた)団体,連邦;(プエルトリコなどのような)自治領 / 《米》州(公式にはMassachusetts,Pennsylvania,Virginia,Kentuckyの4州に限る) / (また『the British Commonwealth』[『of Nations』])《the C-》英連邦(英国・カナダ・オーストラリア・ニュージーランドなどから成る連合体)
 commotion	動揺,騒動
 communal	公共の,共同の(public) / 共同社会の,地方自治体の
-communalism	地方自治主義,地方分権主義
-communard	共同体(人民公社)の一員
+communalism	共同体主義, 集団主義
+communard	〈C〉コミューンの住人 / パリ・コミューンの参加者《史》
 commune	(…と)親しく語る(交わる)《+『with』+『名』》 / 懇談,親交 / 聖餐(せいさん)を受ける,聖体を受ける / コミューン(フランス・ベルギー・イタリア・スペインなどでの最小自治行政区);(一般に)地方自治体 / (共産主義的)共同体;(中国の)人民公社 / (また『the Commune of Paris』)《the C-》パリコミューン((1)1789年から1794年までのパリ革命自治政府, (2)1871年3月18日から5月28日までのパリの革命政府)
 communicable	(心・思想などが)伝達できる
 communicably	伝達できるように
@@ -2651,7 +2651,7 @@ companionship	交際,交わり;友情
 companionway	(船の)甲板昇降口の階段
 company	〈U〉『来客』,客 / 〈C〉『会社』(《略》(単数)『co.』,(複数)『cos.』;会社名の時は『Co.』) / 〈U〉交際,付き合い / 〈U〉『仲間』,友だち / 〈C〉《集合的に》(…の)『団体』,一行,一座,劇団《+『of』+『名』》 / 〈C〉(陸軍の)歩兵中隊 / 〈C〉《集合的に》(船の)全乗組員
 company manners	よそ行きの態度(行儀)
-company union	(米合連合体に加入しない)単独組合
+company union	〈C〉企業別労働組合 / 企業内組合
 compar	comparative
 comparable	比較できる,類似点がある;(…と)比較できる《+『with』(『to』)+『名』》 / 匹敵する,肩を並べられる;(…に)匹敵する《+『with』(『to』)+『名』》
 comparably	比較できるほどに,同等に
@@ -2740,7 +2740,7 @@ composition	〈U〉(文学・美術・音楽作品などの)『創作』,制作[
 compositor	植字工
 compost	〈C〉混合物 / 堆肥(たいひ),混合肥料 / …'に'堆肥を施す / …'を'堆肥にする
 composure	落ち着き,沈着,平静
-compote	〈C〉(果物・菓子を盛る)足付き皿 / 〈U〉砂糖づけ(砂糖煮)のくだもの
+compote	（果物や菓子を盛る）足付き皿 / 〈U〉コンポート（果物の砂糖煮）
 compound	(…になるように)〈要素・成分など〉'を'混ぜ合わせる《+『名』+『into』+『名』》;(…から)〈薬など〉'を'調合する,混ぜ合わせて作る《+『名』+『from』(『of』)+『名』》 / 《しばしば受動態で》〈めんどうな事・損害など〉'を'もっとひどくする / 〈利子〉'を'複利で計算する / (…と)話し合いをつける,妥協する《+『with』+『名』》 / 複合の,合成の / 『合成物』,混合物,調合物;化合物 / 複合語,合成語(classroom, heart-to-heartなどをいう) / (異民族の家屋・商館などがある)囲み地区,構内
 compound eye	(昆虫の)複眼
 compound fracture	複雑骨折
@@ -2750,7 +2750,7 @@ compound sentence	重文(and, butなど等位接続詞または句読点で二�
 comprehend	〈性質・意味など〉'を'『理解する』 / …'を'包含する,含む(include)
 comprehensibility	理解できること,分かり易さ
 comprehensible	理解できる,分かりやすい
-comprehension	理解;理解力 / 包含,包括;包容力
+comprehension	〈U〉理解 / 〈C〉読解問題
 comprehensive	理解力のある,分かりのいい / 包括的な,範囲の広い / 総合制中等学校(11歳より入学,普通科・商業科・工業科がある)
 compress	〈ガスなど〉'を'(…に)『圧搾する』,圧縮する《+『名』+『into』+『名』》 / 〈思想・言語など〉'を'(…に)要約する《+『名』+『into』+『名』》 / 湿布
 compressed air	圧搾空気
@@ -2776,7 +2776,7 @@ comrade	(主として男同士の)『仲間』,僚友,同志
 comradeship	僚友関係,同志の交わり;友情,同志愛
 coms	《話》=combination4
 comsat	コムサット(大陸間の通信衛星;communications satelliteの略)
-con	…'を'よく研究する / 反対して / 反対投票,反対論 / 〈人〉'を'ペテンにかける / =convict / =confidence trick
+con	反対投票, 反対論 / 〈人〉をペテンにかける (confidence trick) / =convict (誤り)
 con.	continued
 Con.	Consul
 con artist	ペテン師・詐欺師
@@ -2823,7 +2823,7 @@ concessive	譲歩的な / (文法で)譲歩の
 concessive clause	譲歩節(although, even ifなどで導かれる節)
 conch	(ほら貝など,大型の)巻き貝 / (ローマ神話で)トリトン(Triton)のほら貝
 conchology	貝類学
-concierge	=caretaker
+concierge	ホテルのフロントスタッフ〈C〉
 conciliate	〈人〉'を'なだめる,懐柔する;〈人〉'の'好意を得る
 conciliation	なだめること,懐柔;和解,調停
 conciliative	=conciliatory
@@ -2833,7 +2833,7 @@ concision	簡潔さ
 conclave	〈C〉秘密会議;秘密会議場 / 〈C〉(カトリックの枢機卿による)教皇選挙会議;教皇選挙会議室
 conclude	《文》〈演説・論文・会合〉'を'『終わりにする』,終える / 〈事柄など〉'を'『結論する』,〈行動・意見など〉'を'決定する / 〈条約など〉'を'締結する,結ぶ / (…で)〈話・文などが〉『終わる』,結論になる,〈人が〉話を結ぶ《+『with』+『名』(do『ing』)》
 concluder	結論(決定)を下す人
-conclusion	〈C〉〈U〉『終わり』,終結,結末 / 〈C〉『結論』,決定,判断;(三段論法の)断案 / 〈U〉〈C〉(条約などの)締結,妥結
+conclusion	〈C〉『結論』,決定,判断;(三段論法の)断案 / 〈U〉〈C〉(条約などの)締結,妥結
 conclusive	(議論など)結論的な,確定的な,最終的な
 concoct	〈料理・飲み物など〉'を'調製(合)する / 〈話など〉'を'作り上げる,でっち上げる;〈陰謀など〉'を'仕組む,たくらむ
 concoction	〈U〉混合,調合 / 〈C〉調製した物,混合飲料 / 〈C〉でっち上げ;〈C〉作りごと,策謀
@@ -2847,7 +2847,7 @@ concourse	〈U〉(人・物の)集合;群衆 / (川などの)合流 / 〈C〉《
 concrescence	(部分・細胞などの)合生(がっせい),癒合(ゆごう)
 concrete	『具体的な』,有形の,実在する / コンクリート製の / 凝固した,固体の / 『コンクリート』 / 凝固したもの / …'を'コンクリートで固める
 concrete noun	具象名詞
-concretion	〈U〉凝固;〈C〉凝固物 / 〈C〉腎臓結石
+concretion	〈U〉凝固;〈C〉凝固物 / 〈C〉結晶の塊
 concubinage	同棲,内縁関係
 concubine	内妻,めかけ
 concupiscence	好色,肉欲
@@ -2856,11 +2856,11 @@ concur	(…と)同意見である,(…に)同意する《+『with』(『in』)+�
 concurrence	〈U〉(意見などの)一致,合意,同意 / 〈C〉(…であるという)一致した意見《+『that節』》 / 〈C〉〈U〉(事情・原因などの)同時発生(作用)
 concurrent	(…と)同時に起こる(発生する)《+『with』+『名』》 / (線などが)同一点に集合する / (意見などが)一致した,同一の
 concuss	(打撃などで)〈脳〉'に'傷害を与える
-concussion	〈U〉〈C〉(打撃,衡突などによる)衡撃,震動 / 〈U〉〈C〉脳震とう
+concussion	〈U〉〈C〉(打撃,衝突などによる)脳震とう / 〈U〉〈C〉打撃,衝突による衝撃
 condemn	(…であると)〈人・過失など〉'を'『非難する』,とがめる(blame)《+『名』〈人〉+『for』+『名』》 / 〈人〉'を'『有罪と決定する』,'に'刑を宣告する(sentence) / (ある状態に)〈人など〉'を'追いやる,運命づける(doom) / 〈品物など〉'を'廃棄処分に決める;〈病人など〉'を'不治と宣告する / 《米》〈物・土地など〉'を'収用する,'を'没収を宣告する / 〈人〉'を'罪(やましさ)を証明する
 condemnable	非難すべき,とがめるべき
 condemnation	非難;非難の理由 / 有罪の宣告;宣告の理由 / (土地などの)没収
-condemned	有罪(死刑)を宣告された;没収と決まった / のろわれた
+condemned	{形}有罪(死刑)を宣告された;没収と決まった / 非難された;のろわれた / 〈C〉死刑囚
 condemned cell	死刑囚監房
 condensation	〈U〉(気体から液体・固体への)凝縮,凝結,(液体の)濃縮 / 〈C〉凝縮(濃縮)されたもの / 〈U〉〈C〉(思想・表現・物語などの)縮約;縮約されたもの
 condense	(…に)〈気体など〉'を'『凝縮する』,凝結させる,〈液体〉'を'『濃縮する』《+『名』+『to』(『into』)+『名』》 / (…に)〈思想・表現など〉'を'『縮約する』,要約する,短縮する《+『名』+『into』+『名』》 / 〈レンズが〉〈光〉'を'集める;〈電気〉'を'強くする / 凝縮する,凝結する;濃くなる / 〈レンズが〉集光する
@@ -2903,7 +2903,7 @@ confabulate	(…と)くつろいで話し合う《+『with』+『名』》
 confabulation	おしゃべり,談笑
 confection	糖菓(キャンデー・砂糖づけなど)
 confectioner	菓子製造(販売)人,菓子屋
-confectionery	〈U〉《集合的に》(キャンデー・砂糖づけなどの)菓子類・〈C〉菓子店,菓子製造(販売)所・〈U〉菓子製造
+confectionery	〈U〉《集合的に》(キャンデー・砂糖づけなどの)菓子類・〈C〉菓子店・〈U〉菓子製造業
 Confed.	Confederate
 confederacy	〈C〉(人・団体・国家などの)連合,連盟,同盟 / 《the C-》=the Confederate States of America
 confederate	(人・団体・国家など)連合した,同盟の / 《C-》(南北戦争当時の)南部連盟の / (策謀・犯罪などの)共謀者,共犯者 / 連盟参加者,同盟国 / 《C-》(南北戦争当時の)南部連盟支持者 / 〈人・団体・国家などが〉(…と)連合する,手を組む《+『with』+『名』》 / (…と)〈人・団体・国家など〉'を'連合させる,組ませる《+『名』+『with』+『名』》
@@ -2913,7 +2913,7 @@ confer	(同僚・弁護士などと…について)『相談する』,協議す�
 conference	〈C〉『会議』,協議会 / 〈U〉〈C〉(…との)相談,協議《+『with』+『名』》 / 〈C〉(学校,スポーツクラブなどの)連盟
 conferment	授与,叙勲
 confess	〈罪・秘密など〉'を'『白状する』,打ち明ける / 〈過失など〉'を'『認める』 / (神・司祭に)〈罪〉'を'ざんげする《+『名』+『to』+『名』》;(司祭が)〈人〉'の'ざんげを聞く / 〈人が〉(…を)『自白する』,告白する《+『to』+『名』(do『ing』)》,罪を認める / (司祭に)ざんげをする《+『to』+『名』》;〈司祭が〉ざんげを聞く
-confessed	明白な,疑う余地のない / 自認した
+confessed	{形}自白した / 告白された / 公然の / {動}confessの過去・過去分詞形
 confessedly	自白によると,本人の認めるように
 confession	(罪などの)『自白』,自認《+『of』+『名』》 / 〈C〉《文》(信仰の)告白《+『of』+『名』》 / (罪の)ざんげ
 confessional	(カトリック教会で司祭が信者のざんげを聞く)告白聴聞室(席) / 告白の,告白に基づく
@@ -2924,7 +2924,7 @@ confide	〈秘密など〉'を'『打ち明ける』 / (人などに)〈大切�
 confidence	〈U〉《修飾語を伴って》『信頼』,信用,信任;(…を)信頼(信用)すること《+『in』+『名』》 / 〈U〉(自分の思想・能力・行動などに対する)『確信』,自信 / 〈C〉打ち明け話,秘密(secret) / =confidence game(trick)
 confidence game, confidence trick	信用詐欺(相手を信用させてからだますやり口)
 confident	(態度などが)『自信のある』,確信ある
-confidential	(文書・行為などが)秘密の,内々の(secret) / (態度などが)打ち解けた / 信用のできる,腹心の
+confidential	(文書・行為などが)秘密の,内々の(secret) / 信用のできる,腹心の
 confidentiality	秘密[性],内密
 confidently	自信をもって;大胆に
 confiding	人を信じやすい
@@ -2992,7 +2992,7 @@ congregation	〈U〉〈C〉(人・物の)集まり,集合;集まった人々 / �
 congregational	集合の;会衆の / 《C-》組合教会制(主義)の
 Congregationalism	組合教会主義(各教会が自治運営されるべきだという主義)
 Congregationalist	組合教会主義者 / 組合教会主義の
-congress	〈C〉(代議員・委員による)『大会』,代議員会,会議 / 《C-》《米》『国会』,議会(the Senate「上院」とthe House [of representatives]「下院」から成る);国会の会期
+congress	〈C〉(代議員・委員による)『大会』,代議員会,会議 / 《C》《米》『国会』,議会(the Senate「上院」とthe House [of representatives]「下院」から成る)
 congressional	会議の / 《米》国会の
 Congressional	(小選挙区制の)下院議員選挙区
 congressman	国会議員,下院議員
@@ -3069,7 +3069,7 @@ consensus	(多人数の意見などの)一致,調和《+『of』+『名』》;�
 consent	(…に)『同意する』,承諾する《+『to』+『名』(do『ing』)》 / …'に'同意する,賛成する / 『同意』,承諾,許可
 consequence	〈C〉『結果』,成り行き;影響 / 〈C〉《文》重要性,重大さ
 consequent	当然の,結果的な,必然的な
-consequential	=consequent / 重要な,重大な / (人が)もったいぶった,尊大な
+consequential	{形}結果として生じる / 重大な / 尊大な / =important
 consequently	『その結果として』,従って
 conservancy	(河川などの)管理委員会
 conservation	保存,(特に自然環境の)保護
@@ -3096,7 +3096,7 @@ consigner	=consignor
 consignment	(商品の)委託;〈C〉委託貨物,積送品,入荷品
 consignor, consigner	(荷物の)送り主,荷主;(委託販売の)委託者
 consist	《『consist of』+『名』》〈団体・物・事が〉(…から)『成る』,(…で)成り立っいる受動態にできない; / 《『consist in』+『名』(do『ing』)》〈事の本質が〉(…に)ある,含まれている(受動態にできない) / 《『consist with』+『名』》〈事柄が〉(…と)一致する,両立する
-consistency	〈U〉(言語・論理などの)一致,一貫性 / 〈U〉〈C〉(特に液体の)濃度,濃さ;(物質の)堅さ,ねばり
+consistency	〈U〉(言語・論理などの)一致,一貫性 / 〈U〉(特に液体の)粘度,粘り
 consistent	『矛盾のない』 / (主義・考え方などが)不変の,(人が)節操のある
 consistently	一貫して;矛盾なく,きまって
 consistorial	枢機卿会議の
@@ -3109,7 +3109,7 @@ consolidate	〈組織など〉'を'固める,〈地位・勢力・知識など�
 consolidation	強化 / 合併,合体
 consomme,consommé	コンソメ(肉と野菜からとった澄ましスープ;)
 consonance	〈U〉〈C〉(二つの音の)調和;協和音 / 〈U〉(趣味・意味などの)一致,調和 / 〈U〉(音の)共鳴
-consonant	子音,子音字 / 《文》(…と)調和する,一致する《+『with』(『to』)+『名』》 / 協和音の / 子音の
+consonant	子音 / 《文》(…と)調和する,一致する《+『with』(『to』)+『名』》
 consonantal	子音の,子音の特徴のある
 consort	(特に王,女王などの)配偶者 / 僚船,僚艦 / (特に悪に人と)つき合う,交わる / 〈物事が〉(…と)一致する,調和する(受動態にできない) / 古い音楽を演奏する楽器の編成
 consortium	(共通の事業のための)資本連合,企業連合
@@ -3139,7 +3139,7 @@ constitution	〈U〉(物の)『構成』,構造《+『of』+『名』》 / 〈C�
 constitutional	体質の,生まれつきの;構成上の / 憲法の,立憲の / 《話》健康のための散歩
 constitutionalism	立憲主義
 constitutionality	合憲性,立憲性
-constitutive	=constituent1
+constitutive	(哲学) 論理的構成要素 / =constituent
 constrain	《『constrain』+『名』+『to』 do》 / 〈人〉'を'押さえつけて動けないようにする,〈怒りなど〉'を'抑えつける
 constrained	強制された / (態度・表情・声などが)不自然な,無理な
 constraint	〈U〉〈C〉(…の)強制,無理じい;(自由などの)制限,束縛《+『on』+『名』》 / 〈U〉窮屈,気がね,圧迫感
@@ -3149,7 +3149,7 @@ constrictive	締めつける,圧縮する
 constrictor	括約筋・収縮筋 / 獲物を締め殺す大蛇(ボアなど)
 construct	(一定の計画・設計に従って)…'を'『組み立てる』,建造する,建設する / 〈文・理論など〉'を'構成する,考案する / (幾何で)〈図形〉'を'描く,作図する / (心の中の)複合概念
 construction	〈U〉(…の)『組立て』,建築,建造《+『of』+『名』》;その工事,作業 / 〈U〉『構造』,造り,建築様式 / 〈C〉『建築物』,建物 / 〈C〉文の構成,構文 / 〈C〉(語句・法律などの)解釈,説明
-constructionist	(法律などの)解釈者
+constructionist	〈C〉（文書・法律の）解釈者 / 解釈主義者
 constructive	建設的な / 構成の,構造上の
 constructor	建設者,建設者
 construe	(意味・意図)'を'説明する,解釈する・〈構文など〉'を'解剖する;〈語〉'を'文法に従って結合する
@@ -3159,7 +3159,7 @@ consular	領事[職]の;執政官[職]の
 consulate	〈C〉領事館 / 〈U〉領事の職(任期)
 consulship	領事の職(地位,任期)
 consult	(…についての意見,情報などを)…'に'『頼る』,求める,相談する《+『名』+『about』(『on』,『for』)+『名』》 / 〈人の感情・都合・利害など〉'を'考慮に入れる / (…について…と)『相談する』,協議する《+『with』+『名』+『about』(『for』)+『名』》 / (会社などの)顧問(コンサルタント)として働く《+『for』+『名』》
-consultancy	(病院の)相談係
+consultancy	〈C〉コンサルタント業務 / 〈U〉助言業 / コンサルタント会社《英》
 consultant	専門的助言をする人,顧問,コンサルタント
 consultation	〈U〉〈C〉(…との)相談,協議《+『with』+『名』》;専門家との相談・〈C〉協議会,(専門家の)会議
 consultative	相談の;諮問の
@@ -3177,7 +3177,7 @@ cont.	containing / contents / continent / continued
 contact	〈U〉(体・物などの)(…との)『接触』,(…と)触れること《+『with』+『名』》 / 〈U〉(…との)『連絡』,接続《+『with』+『名』》 / 〈U〉〈C〉(…との)『つきあい』,関係,交際《+『with』+『名』》 / 〈C〉《話》縁故,つて / 〈U〉(電気の)接触,接続 / 〈C〉(患者と接触した)保菌容疑者 / …'を'接触させる,接続させる / 《話》…'と'連絡する / 接触による
 contact flying	有視界飛行(水平線や陸標を目標にしながらの飛行)
 contact lens	コンタクトレンズ
-contagion	〈U〉接触伝染,感染 / 〈C〉接触伝染病 / 〈U〉〈C〉(思想・感情などの)伝染《+『of』+『名』》
+contagion	〈U〉接触伝染,感染 / 〈C〉接触伝染病 / 〈U〉(思想・感情などの)伝染《+『of』+『名』》
 contagious	(病気が)接触伝染性の / 《補語にのみ用いて》(人が)伝染病の原因になる,伝染病を広げる / すぐ広がる,移りやすい
 contain	(それ自身の中に内容として)〈物〉'を'『含む』,入れている / …'を'『入れる容積がある』,収容できる / 〈自分,自分の感情など〉'を'抑える,封じ込める,とじこめる・〈数が〉〈ある数〉'を'約数として持つ,'で'割り切れる / 〈辺が〉〈角〉'を'はさむ,〈図形〉'を'囲む
 contained	物静かな,穏やかな,抑制した
@@ -3188,7 +3188,7 @@ containerize,containerise	〈貨物〉'を'コンテナに入れて輸送する
 containment	(敵・反対勢力に対する)封じ込め政策(戦術)
 contaminant	汚染物質(放射能,毒ガスなど)
 contaminate	(汚ないものなどとの接触・混合によって)…'を'汚す,汚染する;〈人など〉'に'悪影響を及ぼす
-contamination	〈U〉汚すこと,汚染[状態] / 〈C〉汚染するもの
+contamination	〈U〉汚染（状態） / 〈C〉汚染（物）
 contd.	continued
 contemp.	contemporary
 contemplate	…'を'『よく考える』,熟考する / …'を'じっと見つめる / …'を'予想する,期待する / じっくり考える,熟考する
@@ -3263,7 +3263,7 @@ contrail	飛行機雲
 contraindicate	〈薬・療法〉'に'禁忌を指示する
 contraindication	(薬・療法の)禁忌症状
 contralto	〈U〉コントラルト(tenorとsopranoとの間で女性最低音) / 〈C〉コントラルト歌手 / コントラルトの
-contraption	新案,新くふう;《軽べつして》珍案[物]
+contraption	複雑な装置; 奇想天外な機械 / 仕掛け《略式》
 contrapuntal	(作曲法で)対位法の,対位法による
 contrarily	これに反して,逆に / 《話》意地悪く,へそ曲がりに
 contrariwise	これに反して / (順序・方向などが)板対に,逆に / 《話》ひねくれて,意地悪く
@@ -3361,7 +3361,7 @@ cook	『料理人,コック』 / (火を通して)〈食物〉'を'『料理す�
 cookbook	料理の本(《英》 cookery book)
 cooked-up	ごまかしの
 cooker	料理用電気(ガス)器具 / 《英》(焼いたり煮たりする)料理用果物
-cookery	〈U〉料理法 / 〈C〉料理場,調理室
+cookery	〈U〉料理法,調理技術《英》
 cookery book	=cookbook
 cookhouse	炊事場,(特に)船の調理室,(キャンプ・工事現場などの)仮設炊事場
 cookie,cooky	クッキー(《英》 biscuit)
@@ -3433,11 +3433,11 @@ copy	〈C〉『写す』,複写,(絵などの)模写,複製;謄本,抄本 / 〈C
 copybook	習字の手本帳 / 《米》複写薄
 copyboy	(新聞社の)使い走り
 copycat	人のまねばかりする人(子供)
-copydesk	(新聞社などの)編集机
+copydesk	(新聞社などの)編集チーム / 編集作業を担当する部署
 copyedit	〈原稿〉'を'校正する
 copyeditor	=copyreader / (新聞社の)原稿整理係,校正者
 copyist	写字生,筆耕,謄写人,模倣者
-copyreader	新聞編集者
+copyreader	コピー作成者 / コピー担当者
 copyright	著作権,版権 / …'を'著作権(版権)で保護する;…'の'著作権(版権)を取得する / 著作権(版権)のある
 copywriter	原稿を書く人,(特に)広告文案家
 coquetry	〈U〉(女が男に)こびを売ること / 〈C〉こび,しな,なまめかしさ
@@ -3451,7 +3451,7 @@ coracle	ヤナギの枝を編み獣皮を張った小船;アイルランドや�
 coral	〈U〉サンゴ / 〈C〉サンゴ細工 / 〈U〉サンゴ色,深紅色 / サンゴ[製]の / サンゴ色の,深紅色の
 coral reef	サンゴ礁
 coral snake	サンゴヘビ(米大陸熱帯地方産の色鮮やかな毒蛇)
-corbel	持ち送り積み(壁面から突き出た桁(けた)・はりの受け材)
+corbel	壁の上に設けられた小さな台 / 石造の装飾的な突き出し部
 cord	〈U〉〈C〉『綱,ひも』(stringより太くropeより細い) / 〈U〉〈C〉束縛,きずな / 〈C〉〈U〉(電気の)『コード』,線 / (またchord)〈C〉(動物体の)索状組織,腱(けん) / 〈C〉うね織り,(特に)コールテン;(うね織りの)うね;《複数形で》コールテンのズボン / 〈C〉コード(材木の容積の単位で約3.62m³) / …'を'綱(ひも)で縛る
 cordage	なわ類 / (船の)索具
 cordial	『心からの』,本心からの / 元気づける,強心性の / 〈C〉〈U〉強心剤 / 〈U〉リキュール酒
@@ -3472,7 +3472,7 @@ coreligionist	同じ宗教の信者
 corer	(リンゴの)しん抜き器
 corespondent	共同被告(姦通(かんつう)を理由とした離婚訴訟の被告と共に訴えられている者)
 corgi	コーギー犬(短足・胴長の小型犬)
-coriander	〈C〉〈U〉コエンドロ(セリ科の植物) / 〈U〉コエンドロの実(干して香辛料に用いる)
+coriander	〈C〉〈U〉コリアンダー(セリ科の植物) / 〈U〉コリアンダーシード(干して香辛料に用いる)
 Corinth	コリント(古代ギリシアの都市)
 Corinthian	コリントの,コリント人のような / (建築様式で)コリント式の / コリント人 / 《複数形で》《単数扱い》(新約聖書の)「コリント人への手紙」
 cork	〈U〉『コルク』[質] / 〈C〉コルクの栓,コルク製品 / …'に'コルクで栓をする / コルク製の
@@ -3695,7 +3695,7 @@ counter	(商店・銀行などの)『売り台』,勘定台,カウンター / (�
 counteract	…'の'影響(力)を弱める / 〈薬・毒など〉'を'中和する,〈効力〉'を'消す
 counteraction	反作用 / (計画などの)阻止 / (薬の)中和作用
 counterattack	〈敵〉'に'反撃する / 逆襲する
-counterattraction	反対引力,対抗引力
+counterattraction	反対引力,対抗引力,対抗的な魅力
 counterbalance	釣合いおもり / (他と)釣り合う力,平衡力 / (また『counterpoise』)…'に'釣り合わせる / 〈不足〉'を'埋め合わせる,補う / 〈効力〉'を'消す
 counterblast	《おもに新聞用語》強硬な抗議(反撃)
 counterclaim	反対要求,(特に)反訴
@@ -3716,14 +3716,14 @@ counteroffensive	反攻,反撃
 counterpane	(装飾的な)ベッドカバー(bedspread)
 counterpart	(正副2通のうちの)1通,副本,写し / 対応する物(人);よく似た物(人)
 counterpoint	対位法(独立した二つ以上の施律を一つに組み合わせる作曲法)
-counterpoise	〈C〉=counterbalance / 〈U〉釣合い,安定 / =counterbalance{動}1
+counterpoise	〈C〉釣合い, 安定; =counterbalance{名}
 counterproductive	意図に反した結果を招く
 counterrevolution	反革命
 counterrevolutionary	反革命主義者 / 反革命的な,反革命[主義]の
 countersign	(特に戦場で歩哨・斥候などの)合い言葉,応答信号 / 副署(他の人の文書に確認のためにする署名) / …'に'連署(副署)する
 countersink	(ねじなどの頭を埋めるために)…'に'さら穴をあける;〈ねじなどの頭〉'を'さら穴に埋める / (さら穴をあける)さらぎり / さら穴
 counterspy	逆スパイ(敵のスパイを逆に探るスパイ)
-countertenor	〈U〉カウンターテナー(テナーより高い男声の最高音域) / 〈C〉カウンターテナー歌手
+countertenor	〈C〉カウンターテナー(テナーより高い男声の最高音域) / 〈C〉カウンターテナー歌手
 countervail	…'に'匹敵する,同等の力で対抗する
 counterweight	釣合いおもり
 countess	伯爵夫人(countの夫人,英国ではearlの夫人) / 女性の伯爵
@@ -3758,13 +3758,13 @@ coupe	=coupé / (御者台が外についている)屋根つき二人乗り四�
 couple	(同種類の物が)『2個』《+『of』+『名』》 / 『夫婦』,男女一組 / 《話》(…の)いくらか,少数《+『of』+『名』》 / …'を'『つなぎ合わせる』;(…に)…'を'連結する《+『名』+『to』(『with』)+『名』》 / …'を'(…と)関連づける《+『名』+『with』(『to』)+『名』》 / …'を'結婚させる,〈動物〉'を'つがわせる / 〈動物〉交尾する
 coupler	(車両の)連結器
 couplet	(詩の)2行連句,対句(脚韻を踏み同数の音節から成る2行)
-coupling	〈U〉連結,結合 / =coupler / 〈U〉〈C〉(電気回路の)結合
+coupling	〈U〉連結,結合 / =coupler / 〈U〉(電気回路の)結合
 coupon	クーポン(切り取って使う切符) / (広告・商品につく)景品引き換え券,優待券 / (公債の)利札(りふだ)
 courage	『勇気』,度胸
 courageous	『勇気のある』,『勇敢な』
 courier	(外交上の)急使,特使 / 《おもに英》(旅行の)ガイド,世話人
 course	〈C〉『進路』,道筋,方向,水路 / 《単数形で》(時・事態の)『経過』,推移,成り行き,進行《+『of』+『名』》 / 〈C〉(行動の)『方針』,方向;やり方 / 〈C〉(競技の)『コース』,走路 / 〈C〉(講議などの)『課程』,講座《+『of』+『名』》 / 〈C〉(順々に出される)料理,一品 / …'を'走り抜ける,'の'上を飛ぶ(猟犬を使って)〈獲物〉'を'狩る / 〈飛行機・船などが〉針路に従って進む / 〈涙・血などが〉勢いよく流れる
-courser	駿馬(しゅんめ)
+courser	〈C〉駿馬(しゅんめ) / 狩猟犬
 coursing	(猟犬を使った)うさぎ狩り
 court	(またcourtyard)〈C〉(建物や壁に囲まれた)『中庭』,方庭;中庭式の区画 / 〈C〉(テニス・バスケットボールなどの)『コート』 / 〈C〉(場末の)路地,袋小路 / 〈C〉〈U〉《しばしばC-》『宮廷』,皇居;《集合的に》廷臣たち / 〈C〉〈U〉『法廷』,裁判所(court of justice);裁判,公判(trial) / 《the~》《集合的に》裁判官,判事 / 〈U〉《まれ》求愛,言い寄り;きげんとり,追従 / 〈有力者など〉'の'きげんをとる;〈女〉'に'求愛する / 〈賞賛など〉'を'求める,得るように努める / 〈災いなど〉'を'招く〈男女が〉仲よくする
 court card	(カードの)絵礼
@@ -3828,7 +3828,7 @@ cower	(恐れ・恥ずかしさ・寒さなどのために)すくむ,ちぢみ�
 cowgirl	カウガール(牧場で働く,カウボーイの服装をした女性)
 cowhand	=cowboy
 cowherd	牛飼い
-cowhide	〈U〉〈C〉牛の生皮 / 〈U〉(仕上げた牛皮) / 〈C〉牛皮のむち
+cowhide	〈U〉牛の生皮 / 〈C〉仕上げた牛皮 / 〈C〉牛皮のむち
 cowl	(修道僧の着る)ずきん付き外衣;(僧衣についた)ずきん,僧帽 / (換気筒の)通風帽 / =cowling
 cowlick	(頭の)立ち毛
 cowling	(飛行機の)エンジンおおい
@@ -3863,9 +3863,9 @@ cps	cycles per second・= c.p.s.
 CQ	charge of quarters(軍隊の)夜間当番 / アマチュア無線で相手を呼び出す通信合図
 Cr	chromiumの化学記号
 cr.	credit / creditor / crown
-crab	〈C〉カニ;〈U〉カニの肉 / 〈C〉巻き揚げ機 / 〈C〉《話》気むずかし屋・カニをとる・《話》ぶつぶつ不平を言う・…'を'ふくれさせる・= crab louse(毛ジラミ)
+crab	〈C〉カニ;〈U〉カニの肉 / 〈C〉《話》気むずかし屋・ぶつぶつ不平を言う・…'を'ふくれさせる・= crab louse(毛ジラミ)
 crab louse	毛ジラミ(人間の性器やわきの下の毛につくシラミ)
-crabapple	野生のりんご
+crabapple	〈C〉野生のりんご
 crabbed	(また『crabby』)(人・態度が)意地の悪い,気むずかしい / (文字が)読みにくい,(意味・文体が)難解の
 crabby	=crabbed1
 crabgrass	オイシバ(ヒメシバ属)の草
@@ -3937,7 +3937,7 @@ crave	〈人が〉…'を'『切望する』,ほしがる / 〈物・事情が�
 craven	おくびょうな,ひきょうな / おくびょう者,ひきょう者
 craver	切望する人,懇願する人
 craving	(…に対する)切望《+『for』+『名』》;(…したいという)熱望《+『to』 do》
-craw	(鳥・昆虫の)え袋;(動物の)胃袋
+craw	〈C〉（鳥の）そのう / 胃袋《動物》
 crawfish	=crayfish
 crawl	(腹ばいで)『はう』,はって進む / 〈人・乗物・時間・仕事などが〉『のろのろと進む』 / (はい回む虫などで)うじゃうじゃしている,うようよしている《+『with』+『名』》 / (虫がはっているかのように)むずむずする / 《話》(人に)取り入る《+『into』+『名』》 / 《a ~》はうこと;のろのろ歩き,徐行 / 《通例the ~》クロール泳法
 crawler	〈C〉はう人(動物) / 〈C〉《俗》ごますり / 《複数形で》=rompers
@@ -4199,7 +4199,7 @@ crozier	=crosier
 crucial	決定的な;(…にとって)決定的な《+『for』(『to』+『名』)》
 crucible	るつぼ(高温で溶解した金属などを入れる) / (溶鉱炉下底部の)湯だまり / 厳しい試練
 crucifix	十字架のキリスト像
-crucifixion	〈C〉〈U〉十字架へのはりつけ / 《the C-》キリストのはりつけ;〈C〉キリストのはりつけ絵
+crucifixion	〈U〉磔刑（たっけい） / 〈C〉磔にすること / キリストの磔刑《宗教》
 cruciform	十字形の,十字架状の
 crucify	…'を'十字架にかける / …'を'迫害する,ひどく苦しめる
 crude	(原材料が)『天然のままの』,未加工の / (製品・作品などが)仕上がりの悪い,荒造りの / (言葉・態度・考え方などが)粗雑な,不作法な / =crude oil
@@ -4207,7 +4207,7 @@ crude oil	原油
 crudity	〈U〉天然のままであること,なま[の状態] / 〈U〉未熟;〈C〉未熟なもの / 〈U〉粗雑,粗野;〈C〉粗雑(粗野)なもの
 cruel	(人・行動が)『残酷な』,無慈悲な / 『悲惨な』,むごい
 cruelly	『残酷に』,むごたらしく
-cruelty	(また『cruelness』)〈U〉『残酷』,残虐性 / 〈C〉『残酷な行為』
+cruelty	〈U〉『残酷』, 残虐性 / 〈C〉『残酷な行為』 =cruelness
 cruet	(酢・こしょうなどを入れるガラス製の)薬味(やくみ)入れ / =cruet stand
 cruet stand	薬味立て
 cruise	(特定の目的地を決めずに)〈船・飛行機が〉巡航(遊航)する;〈タクシーが〉流す / 〈車・飛行機などが〉巡航(経済的な)速度で進む / 〈ある地域〉'を'巡航(巡回)する / 〈飛行機・車など〉'を'巡航(経済的な)速度で進ませる / (レジャーを目的とした)巡洋航海
@@ -4281,7 +4281,7 @@ cubic measure	体積,容積
 cubical	=cubic1
 cubicle	(寄宿舎などの仕切った)小寝室 / 仕切った狭い場所(プールの脱衣室・電話ボックス・投票所など)
 cubism	キュービズム,立体波(対象を幾何的に表現する絵画の一様式)
-cubist	立体波の画家(彫刻家) / =cubistic
+cubist	〈C〉キュビスムの画家 / {形}キュビスムの
 cubistic	立体派(風)の
 cubit	腕尺(古代の尺度で,ひじから中指の先まどの長さ;45‐56センチ)
 cubs	ボーイスカウト幼年団
@@ -4315,8 +4315,8 @@ culpable	責められるべき,過失のある
 culpably	不届きにも,けしからんことに
 culprit	犯人,罪人;未決囚
 cult	(宗教的)儀式;信仰,祭礼 / (人・物に対する)崇拝,礼賛,…熱《+『of』+『名』》
-cultic	熱狂的な,狂信的な
-cultism	熱狂,強く傾倒すること
+cultic	宗教的である,儀礼的である
+cultism	〈U〉カルト信仰 / カルト活動
 cultist	熱狂的な人,狂信者
 cultivable	耕作(裁培)できる / 教化できる
 cultivatable	=cultivable
@@ -4341,7 +4341,7 @@ cumulonimbus	積乱雲
 cumulus	積雲 / 堆積
 cuneiform	くさび形の / くさび形文字(古代アッシリア・バビロニアなどで用いられた文字)
 cunning	『ずるい』,悪賢い / 《古》(人などが)器用な;(機械などが)精巧な / 《米話》(子供・服などが)かわいらしい / ずるさ,抜け目なさ / 《古》器用さ,巧妙さ
-cunt	女性の性器 / 《軽べつに用いて》ばか,くそったれ
+cunt	〈U〉女性の性器 / 〈C〉《軽蔑的に》愚か者
 cup	(紅茶・コーヒー用の)『茶わん』 / 『茶わん1杯』(の…)《+『of』+『名』》 / カップ(容量の単位,約240ml) / 賞杯 / 《修飾語を伴って》(悲しみ・楽しみなど)人生の経験 / 《複数形で》酒・飲酒 / 〈手のひら〉'を'杯状にする / …'を'茶わん(杯状の物)の中へ入れる
 cup final	(特にフットボールの)決勝戦
 cup-tie	(特にフットボールで)上位2チームの試合
@@ -4354,7 +4354,7 @@ Cupid	キューピッド(ローマ神話の恋愛の神;彼の矢に当たった
 cupidity	(特に富に対する)どん欲,強欲
 cupola	(屋上に作られた)丸屋根の小塔;丸屋根,丸天井 / 溶銑(ようせん)炉
 cuppa	1杯のお茶
-cupping	吸角(きゅうかく)法(吸いふくべで皮膚の表面へ血液を吸引するリンパ腺炎などの治療法)
+cupping	〈U〉吸い玉療法 / カッピング / 〈U〉カッピング（コーヒーの官能評価）
 cupric	第二銅の,銅を含んだ
 cupronickel	白銅(銅とニッケルの合金)
 cur	のら犬 / くだらない人間
@@ -4368,7 +4368,7 @@ curator	(博物館・図書館などの)管理者,館長
 curatorial	管理者の,館長の
 curb	(馬の)くつわ鎖,止めぐつわ / 拘束,抑制 / 《米》(歩道を車道と区分するため縁にそって並べた)縁石(《英》kerb) / (止めぐつわで)〈馬〉'を'制御する / 〈感情・欲望など〉'を'抑制する
 curb service	(ドライブインなどで)駐車した車に飲食物等を運ぶサービス
-curbing	(歩道の)縁石
+curbing	〈U〉抑制 / 縁石工事（舗装のふち） / 〈C〉縁石材
 curbstone	(歩道の)縁石(《英》kerbstone)
 curd	《しばしば複数形で;単数扱い》凝乳,カード(チーズの原料) / 凝乳状の食品
 curdle	〈牛乳が〉固まる;〈血などが〉凝固する / 〈牛乳〉'を'固まらせる;〈血など〉'を'凝固させる
@@ -4490,7 +4490,7 @@ cycle	『周期』,循環期;一巡り / 周波,サイクル / (英雄・伝説�
 cyclic, cyclical	周期的な,循環する
 cycling	自転車に乗ること,サイクリング
 cyclist	自転車(三輪車,オートバイ)に乗る人
-cycloid	円形の
+cycloid	〈C〉サイクロイド曲線（円運動する点の軌跡） / {形}サイクロイドの
 cyclometer	(車輪の)回転記録器,走行距離計
 cyclone	熱帯(温帯)性低気圧 / 大たつまき
 cyclonic	熱帯(温帯)性低気圧の;大たつまきの
@@ -4505,21 +4505,21 @@ cylindrical	円筒[形]の
 cymbal	シンバル(金属製の打楽器の一種)
 cymbalist	シンバル演奏者(家)
 cyme	集散花序(植物の花の咲き方の一つ)
-cymose	集散花序の
+cymose	有限花序の一種（枝の先端に花が咲く構造）
 cynic	(人間の善良さを信じない)皮肉屋,冷笑家 / 《C-》キニク(犬儒)学派の人 / 《the Cynics》キニク(犬儒)学派 / =cynical / 《C-》キニク(犬儒)学派の
 cynical	皮肉な,冷笑的な,世をすねた
-cynicism	〈C〉皮肉,冷笑;皮肉癖 / 〈C〉皮肉な言葉 / 《C-》キニク(犬儒)主義
+cynicism	〈C〉皮肉,冷笑;皮肉癖 / 〈C〉皮肉な言葉 / 《C-》犬儒主義
 cynosure	注目(賞賛)の的
 CYO	Catholic Youth Organization カトリック青年会
 cypher	=cipher
 cypress	イトスギ(糸杉)(故人に対する悲しみの象徴として詩に歌われたり,墓の傍らに植えられたりする)
-Cypriot, Cypriote	キプロス島人;〈U〉キプロス島語 / キプロス島の,キプロス島人(語)の
+Cypriot, Cypriote	キプロス島人;〈C〉キプロス島の,〈U〉キプロス島語
 Cyprus	キプロス(地中海東部の島で共和国;首都はNicosia)
 Cyrillic	キリール文字の(昔スラヴ民族が用いた文字)
 cyst	胞嚢(ほうのう)
 cystic	胞嚢(ほうのう)性の
 cystitis	膀胱(ぼうこう)炎
-cytologic,cytological	細胞学の
+cytologic,cytological	細胞に関する / 細胞学的
 cytologist	細胞学者
 cytology	細胞学
 cytoplasm	細胞質
@@ -4532,4 +4532,4 @@ czarist	ロシア帝政の,ロシア皇帝の / 独裁的な / 帝政支持者
 Czech	チェコ人;〈U〉チェコ語 / チェコ人の,チェコ語の
 Czechoslovak	チェコスロバキア人 / チェコスロバキア[人]の
 Czechoslovakia	チェコスロバキア(ヨーロッパ中部の国;首都Prague)
-Czechoslovakian	=Czechoslovak
+Czechoslovakian	{形}チェコスロバキアの / チェコスロバキア人の / 〈C〉チェコスロバキア人

@@ -35,7 +35,7 @@ quadrille	カドリール(4人が組みになって踊るスクエアダンス;�
 quadrillion	《米》千兆,(one thousand trillion) / 《英》100万の4乗,(one trillion trillion)
 quadripartite	4部から成る / 四者間の
 quadrivium	(中世の大学の)四学科(算術・幾何・天文学・音楽)
-quadroon	祖父母4人のうち一人が黒人の混血児
+quadroon	(差別的表現で四分の一黒人を指す表現,使用を避けるべき)
 quadruped	四足(よつあし)獣(通例哺乳(ほにゅう)類) / 四つ足の
 quadruple	4倍の;4重の;4部(4人)から成る / 4倍,4倍の数(量) / 4倍になる / …'を'4倍にする
 quadruple time	4拍子
@@ -81,7 +81,7 @@ quarterdeck	後甲板(最後尾マストと船尾の間の間;おもに高級船
 quarterfinal	準々決勝
 quartering	4分すること;四つ裂き / 宿舎の割当て
 quarterly	年4回の,3か月ごとの / 年4回[に],3か月ごとに / 年4回の刊行物,季刊誌
-quartermaster	(陸軍の)補給係将校 / (海軍の)操舵(そうだ)係下士官
+quartermaster	(陸軍の)補給係将校 / (海軍の)補給係下士官
 quartermaster general	(米陸軍の)補給局長,主計総監
 quarterstaff	六尺棒(昔の英国の武器;両端に鉄の金具がついている)
 quartet, quartette	四重唱[曲,団];四重奏[曲,団] / 四つ組み,四つぞろい
@@ -108,7 +108,7 @@ Queen Ann's lace	野生ニンジン(小さい白い花が集まりレース状�
 queen consort	王妃,皇后(国王の妻;主権のある女王と区別して言う)
 queen mother	皇太后(現国王・現女王の母)
 Queen's Bench	the ... (英法)女王治世下の王座部
-Queen's Counsel	(国王が女王の時の)勅撰弁護士
+Queen's Counsel	(女王陛下の)勅撰弁護士
 Queen's English	the... (女王治世中の)純正(標準)英語
 queen-size	中特大の(特大に次ぐ大きさ)
 queenly	『女王の』;『女王のような』;女王にふさわしい
@@ -189,15 +189,15 @@ quit	…'を'『やめる』,『中止する』 / 〈職・地位など〉'を'�
 quitclaim	(不動産などの)権利放棄 / 〈財産・権利などの要求〉'を'放棄する
 quite	『全く』,完全に / 『かなり』,相当に,ずいぶん / ほんとうに,実際に,真に
 Quito	キト(南米エクアドルの首都)
-quits	(…と)貸し借りなしで,(…と)対等で《+『with』+『名』》
+quits	 {形}《口語》（貸し借り・義理が）チャラの / おあいこである / （関係・仕事などから）手を引いて / 縁を切って
 quittance	債務の免除 / 償い
 quitter	(仕事・義務などを)すぐ放棄する人
 quiver	(通例小刻みに,またはわずかに)『震える』 / (…の)(通例小刻みの,またはわずかな)震え,震動《+『of』(『in』+『名』》 / えびら,天筒(矢を入れて背や肩に負う))
 quixotic,quixotical	ドンキホーテ流の,空想的な,非現実的な
 quiz	『小テスト』 / 『クイズ』 / (…について)《人》'に'質問する,試験する《+『名』《人》+『about』(『no』)+『名』》
 quizmaster	《おもに米》クイズ番組の司会者(《英》question master)
-quizzical	いぶかしげな / ひやかす,からかう
-quod	監獄
+quizzical	{形}（表情や態度）いぶかしげな / 不思議そうに見る / からかうような / 茶化すような
+quod	〈U〉《英》《俗語》《古風》刑務所,拘置所
 quoin	(建物の外壁の)かど;(そのかどを造る)すみ石 / くさび石 / くさび;くさび型の物
 quoit	《複数形で》《単数扱い》鉄輪投げ / 〈C〉(鉄輪投げの)鉄輪 尻の穴
 quondam	元の,以前の

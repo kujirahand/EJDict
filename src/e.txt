@@ -5,7 +5,7 @@ E,E.,e,e.	east / eastern
 e.g.	for example「たとえば」
 e.o.m.	end of the month
 e.q.	equal / equation / equivalent
-E.T.	Eastern Time(米国)東部標準時
+E.T.	〈略〉地球外生命体（extraterrestrial） / 映画『E.T.』（1982年） / Eastern Time 米国の東部標準時
 e'en	=even
 e'er	=ever
 each	『おのおのの』,『めいめいの』,各… / 『各自』,おのおの,めいめい / めいめい[に],それぞれ
@@ -136,7 +136,7 @@ economically	倹約して / 経済的に
 economics	《単数扱い》『経済学』 / 《複数扱い》(国・人の)経済状態
 economist	経済学者
 economize,economise	(…を)節約する,倹約する《+『on』+『名』》 / …'を'節約する,倹約する
-economy	〈U〉〈C〉『節約』,倹約 / 〈U〉(国家・社会などの)『経済』,財政;〈C〉経済組織(機構)
+economy	〈U〉(国家・社会などの)『経済』,財政;〈C〉経済組織(機構)
 ecosystem	生態系
 ecru	=beige
 ecstasy	『有頂天』,無我夢中,恍惚(こうこつ)
@@ -203,7 +203,7 @@ efferent	(血管・導管が)輸出性の,導出性の;(神経が)遠心性の
 effervesce	(…で)〈ソーダ水・ビールなどが〉泡立つ《+『with』+『名』》 / (…で)〈人が〉はしゃぐ,活気づく《+『with』+『名』》
 effervescence	泡立ち / 興奮,活気
 effervescent	泡立つ / はしゃいだ,興奮した,活気づいた
-effete	(帝国などが)衰退した / =effeminate
+effete	{形} 活力を失った / 衰弱した / 時代遅れの / （けなして）女々しい
 efficacious	(特に薬・治療法などが)効きめのある,効果的な
 efficacy	(…に対する,における)効きめ,効力《+『against』(『in』)+『名』》
 efficiency	『能率』,(仕事をする)『能力』 / (機械の)『効率』
@@ -244,7 +244,7 @@ ego	〈U〉〈C〉自我;《しばしばEgo》主観 / 〈U〉《話》うぬぼ
 ego ideal	自我理想(個人が到達しようとする理想標準)
 ego-trip	自我充足行為(自我・自負を満足させるための行為)
 egocentric	自己中心の,自分本位の
-egoism	利己主義;自分勝手 / うぬぼれ
+egoism	〈U〉利己主義 / 自己中心主義 / 自我主義（哲学）
 egoist	利己主義者;自分勝手な人 / うぬぼれ屋
 egoistic	利己的な;自分本位な / うぬぼれた
 egoistical	=egoistic
@@ -253,7 +253,7 @@ egotism	自己中心癖・自己中心・自己本位・うぬぼれ
 egotist	自己中心主義者 / うぬぼれ屋
 egotistic	自己中心の,自分本位の / うぬぼれの強い
 egotistical	=egotistic
-egregious	名だたる
+egregious	{形} とんでもない / ひどく悪い / 目に余る
 egress	〈U〉《文》(…から)外へ出ること;外へ出る権利《+『from』+『名』》 / 〈C〉《文》(…からの)出口《+『from』+『名』》
 egret	シラサギ,シラサギの羽毛 / (婦人帽などにつける)羽毛飾り
 Egypt	『エジプト』(エジプトアラブ共和国(the Arab Republic of Egypt);首都はCairo)
@@ -274,7 +274,7 @@ eighth	《the ~》『第8の』,8番目の / 8分の1の / 《the ~》『第8』
 eighth note	8分音符(《英》quaver)
 eightieth	《the ~》『第80の』,80番目の / 80分の1の / 《the ~》『第80』,80番目[のもの] / 〈C〉80分の1
 eightsome	(スコットランドの)8人舞踊
-eighty	〈C〉(数の)『80』,80の記号(80,LXXXなど) / 〈U〉80歳 / 〈U〉《複数抜い》80人,80個 / 《the eighties》(世紀の)80年代; / 『80の』,80人の,80個の;《補語にのみ用いて》80歳で
+eighty	〈C〉(数の)『80』,80の記号(80,LXXXなど) / 〈U〉80歳 / 〈C〉80人,80個 / 《the eighties》(世紀の)80年代; / 『80の』,80人の,80個の;《補語にのみ用いて》80歳で
 Einstein	アインシュタイン(『Albert~』;1879‐1955;物理学者;相対性原理を発見)
 einsteinium	アインスタイニウム(放射性元素;化学記号は『Es』)
 Eire	エール(アイルランド共和国(the Republic of Ireland)の旧称)
@@ -304,7 +304,7 @@ elastic	『弾力のある』,伸縮自在の / 融通性のある / ゴムひ�
 elastic band	=rubber band
 elasticity	弾力,弾性;伸縮自在;融通性
 Elastoplast	ばんそうこうの一種の商標名
-elate	《受動態で》…'を'元気をつける,意気を高揚させる
+elate	{動}（人を）意気揚々とさせる / 大得意にさせる《文語》
 elated	得意の,意気揚々とした
 elation	得意,意気揚々
 Elbe	エルベ川(北海に注ぐドイツの川)
@@ -368,7 +368,7 @@ electrolyte	電解液;電解質
 electrolytic	電気分解の / 電解質の
 electrolyze,electrolyse	…'を'電気分解する
 electromagnet	電磁石
-electromagnetic	電磁石の;電磁気の
+electromagnetic	{形} 電磁の / 電磁気学の
 electromagnetic wave	電磁波
 electromagnetism	電磁気;電磁気学
 electrometer	電位計
@@ -427,7 +427,7 @@ eligibly	選ばれるように,最適に
 Elijah	(聖書で)エリヤ(紀元前9世紀ごろのヘブライの預言者)
 eliminate	(…から)…'を'『取り除く』,削除する(get rid of)《+『名』+『from』+『名』》 / …'を'考慮に入れない,無視する(disregard)
 elimination	(…の)除去,削除《+『of』+『名』》 / (競技の)予選
-elite, élite	《the ~》《複数扱い》えり扱きの人々,エリート,精鋭 / 〈U〉エリート活字
+elite, élite	《the ~》《複数扱い》えり扱きの人々,エリート,精鋭 / 〈C〉エリート活字
 elitism	エリート(精鋭)主義 / エリート意識
 elitist, élitist	エリート[の一人]
 elixir	錬金薬液(卑金属を金に変えると信じられた) / 万能薬
@@ -483,7 +483,7 @@ embarkation	乗船,塔乗(とうじょう) / (…への)船出;(…の)着手《
 embarrass	〈人〉'の'『まごつかせる』,困惑させる,きまり悪がらせる / …'を'『じゃまする』,妨げる / 〈人・会社など〉'を'『財政困難にする』
 embarrassing	(人を)まごつかせる,困惑させる,きまり悪がらせる
 embarrassment	〈U〉困惑,当惑;きまりの悪さ / 〈U〉〈C〉財政困難 / 〈C〉じゃま者,妨害物
-embassy	〈C〉『大使館』 / 〈U〉大使の任務(職) / 〈C〉《集合的に》大使館員 / 〈C〉使節団
+embassy	〈C〉『大使館』 / 〈C〉使節団 / 〈C〉大使館員
 embattled	戦闘態勢を整えた
 embed	(コンクリートなどに)…'を'埋める,はめ込む《+『名』+『in』+『名』》;(…を)…'に'埋める《+『名』+『with』+『名』》 / (心などに)…'を'深くとどめる《+『名』+『in』+『名』》
 embellish	(…で)…'を'飾る《+『名』+『with』+『名』》 / (…で)〈物語など〉'に'尾ひれをつける《+『名』+『with』+『名』》
@@ -501,7 +501,7 @@ embodiment	(…の)具体化されたもの,化身(けしん),権化(ごんげ)�
 embody	〈思想・感情など〉'を'『具体化する』 / (ある形態の中に)…'を'まとめる,包含する
 embolden	(…するよう)〈人〉'を'励ます,勇気づける《+『名』+『to』 do》
 embolism	塞栓(そくせん)症(血管に塞栓が詰まること)
-embonpoint	(特に女性の)肥満
+embonpoint	〈U〉ふくよかさ / 肉付きのよさ《やや古風・婉曲》
 embosom	《文》…'を'心に抱く / 《詩》《通例受動態で》…'を'囲む,包む
 embosomed	囲まれた,包まれた
 emboss	(生地・紙などに)〈模様・図案など〉'を'浮き彫りにする《+『名』+『on』+『名』》;(模様・図案などを)〈生地・紙など〉'に'浮き彫りにする《+『名』+『with』+『名』》
@@ -545,7 +545,7 @@ emirate	アラビアの首長の権限(身分)
 emissary	密使,密偵
 emission	〈U〉〈C〉(光・熱・液体などの)放射,放出 / 〈C〉放射物,放出物
 emission control	(車・工場からの)排気ガス規制
-emissive	放射性の;放射の
+emissive	{形} 放射に関する・放射性の
 emit	〈水・熱・光・音・声など〉'を'『出す』,『発する』
 emitter	放射体 / エミッタ(トランジスターの電極)
 Emmentaler,Emmenthaler	スイスチーズ(ナッツの風味があり穴が多い)
@@ -554,7 +554,7 @@ emolument	俸給,報酬,手当
 emote	(芝居・映画のように)大げさに感情を表現する
 emotion	『強い感情』,感動,感激 / (喜怒哀楽などの)『感情』,情緒
 emotional	『感情の』,情緒の / 『感情的な』,感動しやすい / (またemotive)感情に訴える
-emotionalism	感情に送りやすい傾向 / 感情に訴えること
+emotionalism	感情的で過剰な傾向 / 感情に訴えること
 emotionally	感情的に,情緒的に;感情に訴えて
 emotive	感動的な,情緒的な
 Emp.	Emperor / Empire / Empress
@@ -757,13 +757,13 @@ enjoin	〈人〉'に'命じる:《『enjoin』+『名』〈人〉+『to』 do》
 enjoy	'を'『楽しむ』 / 'に'『恵まれている』,'を'享受する
 enjoyable	おもしろい,愉快な,楽しめる
 enjoyably	楽しく
-enjoyment	〈U〉『楽しむこと』,喜ぶこと / 〈C〉『楽しみ』,喜び(満足)を与えるもの / 〈U〉享有,享受
+enjoyment	〈U〉『楽しむこと』,喜ぶこと / 〈U〉享有,享受
 enkindle	…'に'火をつける / 〈情熱・欲望など〉'を'燃え立たせる
 enl.	enlarge / enlarged / enlisted
 enlarge	…'を'『大きくする』,拡大する / 大きくなる,広がる,ふえる
 enlargement	〈U〉〈C〉拡大,増大,拡張;増補;増築 / 〈C〉拡大(増大,拡張)された部分 / 〈C〉(写真)の引き伸ばし;引き伸ばした写真
 enlarger	(写真の)引き伸ばし機
-enlighten	(誤って覚えたことなどについて)〈人〉'に'よく分かるように教える,'を'教化する《+『名』〈人〉+『on』(『about』)+『名』》
+enlighten	{動}（人に）教える / 啓発する / 気づかせる
 enlightened	啓発された,教化された
 enlightenment	〈U〉啓発,啓蒙,教化;文明開化 / 《the Enlightenment》啓蒙主義(17‐18世紀のヨーロッパの思想運動)
 enlist	〈人〉'を'兵籍に入る,兵役につかせる;(軍隊に)〈人〉'を'入れる《+『名』+『for』+『名』》 / 〈援助・支持〉'を'得る;〈人〉'の'支持(援助)を得る / (…の)徴兵に応ずる;(志願して)(…に)入隊する《+『in』+『名』》 / (事業・運動などに)参加する,協力する《+『for』+『名』》
@@ -775,7 +775,7 @@ enmity	(…に対する)敵意,憎しみ;敵対《+『against』(『towards』)+
 ennoble	…'を'高尚にする,高潔にする / 〈人〉'を'貴族にする,〈人〉'に'爵位を授ける
 ennoblement	品位向上 / 爵位を授けること
 ennui	ものうさ,けん怠感,退屈
-enormity	〈U〉非道,極悪 / 〈C〉大罪,凶行
+enormity	〈U〉〈C〉極悪 / 非道 / 〈U〉（影響・出来事の）重大さ・重大性
 enormous	『巨大な』,ばく大な
 enough	『不足のない』,十分な / 『十分な量(数)』,足りる量 / 『十分に』(sufficiently) / 全く,すっかり / もうたくさんだ,やめてくれ(Stop!)
 enplane	飛行機に乗る(《英》emplane)
@@ -805,7 +805,7 @@ ensure	〈物事が〉〈成功など〉'を'『保証する』,『確実にす�
 entablature	(ギリシア・ローマ建築の)エンタブラチュア(柱頭の上に載っている水平部分)
 entail	(…に)〈損失・労力・出費など〉'を'負わせる,課する《+『名』+『on』(『for』)+『名』》 / 《受動態で》(…に)〈土地〉'を'限嗣(げんし)相続させる《+『名』+『on』(『upon』)+『名』》 / 限嗣(げんし)相続権の土地の分配
 entangle	(…に,…で)…'を'『もつれさせる』,からませる《+『名』+『in』(『among, with』)+『名』》 / 〈事態など〉'を'『混乱させる』,紛糾(ふんきゅう)させる(confuse) / (困難などに)〈人〉'を'『巻き込む』(involve)《+『名』+『in』+『名』》
-entanglement	〈U〉もつれさせること;〈C〉もつれ,紛糾 / 〈C〉からませるもの
+entanglement	〈U〉もつれさせること;〈U〉もつれ,紛糾
 entente	〈C〉〈U〉(2か国・数か国間の)友好関係 / 〈U〉《the~》《集合的に》(友好関係を結んでいる)2か国,数か国
 enter	…'に'『入る』,入り込む / 〈弾丸などが〉…'を'突き通す,'に'入り込む(penetrate) / …'の'『一員となる』,'に'入る;…'に'参加する / (…に)〈人〉'を'入学させる;(競争などに)〈人・動物など〉'を'参加させる《+『名』+『in』(『for』)+『名』》 / (…に)…'を'記入する,登録する《+『名』+『in』(『into, on』)+『名』》 / 〈新しい生活・局面など〉'に'入る / 〈異議など〉'を'正式に申し出る / 『入る』 / 登場する
 enteritis	腸炎
@@ -826,7 +826,7 @@ enthusiast	…狂;(…に)熱中している人《+『about』+『名』》
 enthusiastic	『熱狂的な』,熱烈な
 enthusiastically	熱狂的に
 entice	(快楽や報酬によって)〈人〉'を'引き付ける,誘惑する
-enticement	〈U〉誘惑 / 〈C〉誘惑するもの
+enticement	〈U〉誘惑;誘惑する行為・ことば / 〈C〉誘いの手段・魅力的なもの
 entire	《名詞の前にのみ用いて》『全体の』,全部の(whole) / 『壊れていない』,無傷の / 《名詞の前にのみ用いて》『無条件の』,『完全な』,全くの
 entirely	『全く』,『すっかり』,完全に
 entirety	〈U〉完全[であること] / 〈C〉全体,全部
@@ -992,14 +992,14 @@ erbium	エルビウム(希土類元素;化学記号は『Er』)
 ere	…の前に / …する前に,しないうちに(before)
 erect	『直立した』,まっすぐな(upright) / …'を'建てる,建設する / …'を'まっすぐに立てる,直立させる・勃起している
 erectile	(特に男性性器が)勃起する,勃起性の
-erection	〈U〉直立,起立 / 〈U〉建設,建立(こんりゅう) / 〈C〉建造物,建物
+erection	〈U〉建設;設置 / 〈C〉(生理現象)勃起
 erectly	直立して,まっすぐに
 erectness	直立,垂直性
 erelong	まもなく,遠からず
 eremite	=hermit
 erg	エルグ(エネルギーの単位)
 ergo	それ故に,したがって
-ergonomics	=biotechnology
+ergonomics	人体工学〈C〉
 ergot	麦角(ばっかく)病(麦角菌によるライ麦など穀物の病気) / 麦角(止血剤・子宮収縮剤用)
 Erie	エリー湖(北米五大湖の一つ)
 Erin	アイルランド(Ireland)
@@ -1023,7 +1023,7 @@ erratum	誤字,誤記,誤植
 erroneous	誤りのある,まちがった
 error	〈C〉『誤り』,『まちがい』 / 〈U〉思い違い,誤解 / 〈U〉〈C〉過ち,過失 / 〈U〉(計数の)誤差 / 〈C〉(野球で)エラー,失策
 ersatz	代用の;合成の
-Erse	=Gaelic
+Erse	〈U〉アイルランド語 / スコットランド・ゲール語《古風》
 erst	昔は,以前は
 erstwhile	昔の,以前の / 昔は,以前は,かつては
 eruct	〈おくび・げっぷ〉'を'出す / 〈火山などが〉〈煙など〉'を'噴出する / おくびを出す;吐き出す
@@ -1116,7 +1116,7 @@ estrangement	(…との,…間の)仲たがい《+『with』(『between』)+『�
 estrogen	エストロゲン(動物の雌を発情させる卵胞ホルモン)(《英》oestrogen)
 estrous cycle	(雌の)発情期(《英》oestrus cycle)
 estuary	(潮のさす大きな川の)河口
-et al	et alibiおよびその他の箇所に;et aliiおよびその他の者
+et al	〈略〉他（およびその他）/ その他の人々 (ラテン語et aliiの略)
 et seq.	and the following…以下参照
 eta	エータ(ギリシア語アルファベットの第7字Η,η;英語のE,eに相当)
 ETA	estimated time of arrival到着予定時刻
@@ -1128,7 +1128,7 @@ etching	〈U〉食刻法,エッチング(銅板にろうを塗り,その上に�
 ETD	estimated time of departure出発予定時刻
 eternal	『永遠の』,永久不変の,不滅の / 《話》絶え間のない,果てしない / 《the E-》神(God),永遠なるもの
 eternal triangle	(男女間の)三角関係
-eternity	〈U〉永遠,無限の時間;(神・魂などの)永遠性,不滅 / 〈U〉来世,あの世 / 《an~》際限なく思われる長い時間
+eternity	〈U〉永遠,無限の時間;(神・魂などの)永遠性,不滅 / 〈U〉永遠の時間
 ethane	エタン(無色・無臭の引火性の気体;燃料ガス用)
 ethanol	=alcohol
 ether	エーテル(麻酔などに用いる) / (またaether)《詩》天空,青空
@@ -1155,7 +1155,7 @@ ethyl	エチル / エチルの
 ethyl alcohol	エチルアルコール
 ethylene	エチレン(引火性の気体;吸入麻酔薬に用いる)
 etiolate	(光をあてずに)〈植物〉'を'白く生長させる
-etiological	病原学[上]の
+etiological	病因学的（原因を調べる学問）
 etiology	〈U〉病原学 / 〈C〉〈U〉病気の原因,病因
 etiquette	『礼儀』,『作法』,エチケット / (同業者仲間の)礼儀,仁義
 Eton College	イートン校(ロンドンに近いEtonの町にある有名なpublic school)
@@ -1167,7 +1167,7 @@ ETV	educational television教育テレビ
 etym.	etymological / etymology
 etymological	語源の,語源学上の
 etymologist	語源研究者,語源学者
-etymology	〈C〉〈U〉語源,語の由来 / 〈U〉語源研究,語源学
+etymology	〈U〉語源,語の由来 / 〈U〉語源研究,語源学
 Eu	europiumの化学記号
 eucalyptus	ユーカリ樹(オーストラリア産の芳香ある常緑の巨木)
 Eucharist	《the~》聖餐(せいさん)式(Holy Communion) / 〈U〉聖餐用のパンとぶどう酒
@@ -1199,7 +1199,7 @@ eureka	分かった,しめた
 eurhythmic	調和のとれた / リズム体操の
 eurhythmics	リズム体操
 Euripides	エウリピデス(ギリシア三大悲劇詩人の一人;480‐406?B.C.)
-Eurocrat	欧州共同市場の行政官
+Eurocrat	C〉欧州連合（EU）の行政官・官僚
 Eurodollar	ユーロダラー(ヨーロッパの銀行に預金されて米ドルで国際間の信用の決済,特に貿易支払に用いられる)
 Europe	『ヨーロッパ』,欧州
 European	『ヨーロッパ』[『人』]『の』,欧州[人]の / 『ヨーロッパ人』,欧州人
@@ -1385,7 +1385,7 @@ excrement	排泄(はいせつ)物,大便
 excrescence	(動植物にできる)異常成長物(いぼ・まめ・こぶなど) / よけいなもの,無用の長物
 excreta	排出長(汗・尿・便など)
 excrete	…'を'排泄(はいせつ)する,分泌する
-excretion	〈U〉排泄,排泄作用 / 〈U〉〈C〉排泄物,分泌物
+excretion	〈U〉排泄, 排泄作用 / 〈U〉排泄物, 分泌物
 excretory	排泄の
 excruciating	(頭痛・心労などが)非常に苦しい,耐えがたい
 exculpate	〈証拠などが〉〈人〉'の'罪を免れさせる;(…から)〈人〉'を'無罪にする《+『名』+『from』+『名』》
@@ -1531,7 +1531,7 @@ explode	〈火薬など爆発物が〉『爆発する』,破裂する / (怒り�
 exploded	(図・模型などが)分解された;分解組立の
 exploit	英雄的行為,めざましい功績,偉業 / 〈鉱山・資源など〉'を'『開発する』;〈機会など〉'を'活用する / …'を'食いものにする,搾取する
 exploitation	(鉱山・資源などの)開発;活用《+『of』+『名』》 / (…の)利己的な利用,(労働などの)搾取《+『of』+『名』》
-exploiter	(人・物などを)利用する人,搾取者;開発者
+exploiter	(人・物などを)利用する人, 搾取者
 exploration	(未知・未調査の場所の)『探検』,『実地調査』《+『of』+『名』》 / (問題の)探索,調査《+『of』+『名』》
 exploratory	探検の;調査の
 explore	〈未知・未調査の場所〉'を'『探検する』,実地調査する / …'を'『詳しく調べる』,調査する / 探検する
@@ -1594,7 +1594,7 @@ extermination	絶滅,根絶;駆除
 external	『外側の』,外部の / (作用・動作などが)『外側からの』,外部からの / 表面上の,見せかけの / 体外の;体外用の / 外国の(foreign) / (…の)外観,外形《+『of』+『名』》
 external ear	外耳
 external evidence	外的証拠
-externalize,externalise	〈感情〉'を'言葉で表現する / 〈行動〉'を'理屈で説明する,理論化する
+externalize,externalise	{他動詞}（感情・考えなどを）外に表す / {他動詞}（費用・責任などを）外部に転嫁する / {動} 外在化する
 extinct	(生物・民族などが)絶滅した;(貫習などが)滅びてしまった / (火山などが)活動をやめた / (火が)消えた,燃えていない
 extinction	消滅(絶滅)すること,(火などが)消えること;(…を)消滅(絶滅)させること,(火などが)消すこと《+『of』+『名』》
 extinguish	〈火・光など〉'を'『消す』,〈燃えているもの〉'の'炎(火)を消す / 〈希望・熱意など〉'を'失わせる

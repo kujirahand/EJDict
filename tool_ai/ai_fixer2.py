@@ -72,7 +72,7 @@ for i, row in enumerate(kudb.get_all()):
     mean1 = row["意味"]
     word2 = row["修正後の英単語"]
     mean2 = row["修正後の意味"]
-    mean3 = row["校正後の意味"]
+    mean3 = row.get("校正後の意味", mean2)
     reason = row["理由"]
     place = row["修正点"] if "修正点" in row else "意味"
     if place == "英単語":

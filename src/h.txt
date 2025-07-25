@@ -250,7 +250,7 @@ handspring	(手を地に着けてする)とんぼ返り
 handstand	逆立ち
 handwork	手仕事
 handwrite	…'を'手書きする
-handwriting	〈U〉肉筆,手書き / 〈C〉〈U〉筆跡,書体
+handwriting	〈U〉肉筆,手書き / 〈C〉筆跡,書体
 handwritten	手で書いた
 handy	『取り扱いに便利な』,手ごろな,重宝な / 《話》すぐ手元の,すぐ使える(at hand) / (人が)『器用な』,手先の達者な;(…を)巧みに使う《+『at』(『about, with』)+『名』》
 handyman	(特にアパート・事務所などの)雑役夫,便利屋
@@ -436,10 +436,10 @@ hatchable	ふ化し得る
 hatchback	ハッチバック,リフトバック(背部に上に開くドアの付いた車)
 hatchery	(魚卵の)ふ化場
 hatchet	『手おの』 / (北米インディアンの)戦争用おの,まさかり
-hatchet job	中傷,悪口
+hatchet job	〈C〉（報道・記事・批評などによる）徹底的な中傷 / 酷評 / 〈C〉（意図的な）破壊行為 / 破壊工作
 hatchet man	(ボスの命令で動く)殺し屋 / 上役に代わっていやな仕事をする人
 hatching	線影を引くこと
-hatchway	=hatch
+hatchway	〈C〉昇降口 / ハッチ（特に船・飛行機・建物などの床や甲板にある出入口） / 〈C〉小さな開口部（人や物の出入り用）
 hate	…'を'『憎む』,『ひどくきらう』;《話》…'を'いやだと思う / 憎しみ,憎悪(hatred)
 hateful	『憎い』,憎むべき,いまいましい,嫌な
 hath	=has
@@ -580,7 +580,7 @@ hearse	霊きゅう車,葬儀車
 heart	〈C〉『心臓』;胸 / 〈C〉(感情の中心をなす)『心』,気持ち / 〈U〉愛情,同情 / 〈U〉『勇気』,元気,熱意 / 《the ~》『中心』,内部,(物事の)本質,核心 / 〈C〉ハート形の物;(カードの)ハートの札
 heart attack	心臓発作,心臓まひ
 heart disease	心臓病
-heart failure	心臓停止
+heart failure	〈U〉心不全（心臓が十分な血液を全身に送り出せなくなる状態） / 〈U〉心停止
 heart's blood	(人の)命
 heart-to-heart	心を打ち明けた,隠しだてのない
 heartache	心痛,悲嘆
@@ -640,7 +640,7 @@ heavy hydrogen	重水素
 heavy industry	重工業
 heavy petting	(性交を伴わない)濃密な愛撫
 heavy water	重水(重水素と普通の酸素から成る水)
-heavy-duty	(機械などが)長持ちのする,頑丈な
+heavy-duty	{形}(機械などが)長持ちのする,頑丈な / {形}過酷な用途向けの / {形}《口》非常に強力な / 重大な
 heavy-handed	手荒に扱う,無器用な / 横暴な,粗野な
 heavy-hearted	重い心の,悲しい
 heavy-laden	重荷を負わされた / 悩み事の多い
@@ -800,7 +800,7 @@ herculean	大力を必要とする,非常に困難な / 《しばしばHerculean
 Hercules	ヘラクレス(ギリシア神話でZeusの子で12の難業を成し遂げた大力と勇気で知られる英雄)
 herd	(動物の)『群れ』《+『of』+『名』》 / 《軽べつして》[the ～] 民衆，下層民;《a herdとして》大ぜい(の…)《+『of』+『名』》 / 〈人・動物〉'を'集める / 〈牛・羊など〉'の'番をする / 集まる,群がる
 herder	家畜の番人,牧夫,家畜の飼い主
-herdsman	= herder / 〈U〉牛飼い座
+herdsman	〈C〉牧夫 / 家畜番(=herder) / 〈C〉遊牧民
 herdswoman	女性の家畜番人
 here	《場所・位置》『ここで(に)』,ここへ,(図などを指して)この場所に(へ),この地点で(に) / 《関連》『この点で』,このあたりで;『この場合』,この時 / 《文頭において,相手の注意を話者のほうに引き付ける》ほら(さあ),ここに / この世で,現世で / 《名詞の後に用いて》ここの,ここにいる(ある) / 《前置詞の後で》『ここ』,この場所 / 『さあ』,ほら,おい
 here's	here isの短縮形
@@ -945,7 +945,7 @@ high jinks	お祭り騒ぎ
 high jump	走り高跳び[の競技]
 high mass	(カトリックの)荘厳ミサ(歌・音楽を伴うミサ)
 high noon	正午
-high priest	高僧
+high priest	大祭司
 high relief	(彫刻の)高浮き彫り
 high school	『ハイスクール』(小学校卒業後に入学する中等学校;8‐4制では9‐12年級の学校;6‐3‐3制では,7‐9年級のjunior high schoolと,10‐12年級のsenior high schoolから成る;6‐2‐4制では7‐8年級のjunior high schoolと,9‐12年級のsenior high schoolから成る)
 high seas	公海
@@ -954,7 +954,7 @@ High Sheriff	州長官(countyの執務長官で任期1年の名誉職)
 high spot	満足のいったこと,忘れられないこと
 high street	(商店などの集まった)町の大通り,本通り
 high table	(英国の大学の食堂の)教授専用食卓
-high tea	昼食と夕食の間に取る肉(魚)料理のつく軽食
+high tea	《英》〈U〉夕方にとる軽食を兼ねたお茶の時間 / 〈U〉（家庭的で実質的な）夕食風のお茶会（アフタヌーンティーより遅い時間に取られる）
 high tide	〈C〉〈U〉高潮(たかしお),満潮 / 〈C〉《単数形で》最高潮,絶頂
 high time	潮時,ころあい,いい時
 high treason	大逆罪(国家・政府などに対する反逆)
@@ -1087,7 +1087,7 @@ hit	〈人・物〉'を'『打つ』,なぐる / …'に'『ぶつかる』,衝�
 hit man	(プロの)殺し屋
 hit parade	ヒット曲レコードの売り上げ順位表
 hit the bull's eye beautifully	見事に的のど真ん中に命中する
-hit-and-run	ひき逃げする / 電撃的な,奇襲の / (野球で)ヒットエンドランの
+hit-and-run	〈C〉ひき逃げ（事件） / {形}ひき逃げの / 〈C〉すぐ立ち去る行為
 hit-or-miss	成り行きまかせの,行きあたりばったりの
 hitch	(かぎ・ロープ・皮ひもなどで)(…に)…'を'つなぐ《+『名』+『to』+『名』》 / …'を'ぐいと動かす,引き上げる《+『up』+『名』,+『名』+『up』》 / (…に)引っかかる《+『on(onto)』+『名』》 / =hitchhike / 引っかけ結び / (進行などの)思いがけない支障(障害) / 急激な動き,ぐいと引くこと
 hitchhike	通りがかりの自動車に無料で便乗して旅行する,ヒッチハイクする
@@ -1240,7 +1240,7 @@ homemaking	家庭管理,家庭
 homeopath, homoeopath	同毒(同種)療法医
 homeopathy, homoeopathy	同毒(同種)療法(同種の病原体を含む薬物を少量ずつ服用させる治療法)
 homeostasis	定常性(生体内が平衡を保とうとする傾向)
-homer	=home run / ホームランを打つ
+homer	〈C〉《米》ホームラン（home run の略） / 〈C〉伝書鳩（= homing pigeonの略）/ 古代ギリシャの詩人ホメロス
 Homer	ホメロス,ホーマー(紀元前8世紀ごろのギリシアの詩人;IliadおよびOdysseyの2大叙事詩の作者といわれる)
 Homeric	ホメロスの,ホメロスの詩の / (笑いが)大声の
 homeroom	ホームルーム
@@ -1256,7 +1256,7 @@ homewards	=homeward
 homework	(生徒の)『宿題』,学庭学習 / (教師の)授業準備,講義の下調べ / 自宅でする仕事;内職
 homey,homy	家庭のような,居ごこちのよい
 homicidal	殺人の,殺人を犯す傾向のある
-homicide	〈U〉殺人;〈C〉殺人行為 / 〈C〉殺人者,殺人犯人
+homicide	〈U〉殺人;〈C〉殺人行為
 homiletic	説教の,説教術の
 homiletics	説教術(法)
 homily	(宗教上の)説教(sermon) / (長々しい)訓戒
@@ -1426,7 +1426,7 @@ horseshit	たわごと,くだらないこと / くだらん,ばかな
 horseshoe	てい鉄;馬てい形のもの / 〈馬〉'に'てい鉄をつける
 horseshoe crab	カブトガニ
 horsetail	馬の尾(昔トルコで軍旗として用いた) / トクサ(シダ植物トクサ属の多年草の総称)
-horsewhip	馬を打つむち / 〈馬〉'を'むちで打つ;〈人〉'を'激しく打つ
+horsewhip	馬を打つむち / (人や馬を)むちで打つ
 horsewoman	女騎手,婦人乗馬者
 horsey,horsy	馬の[ような] / 馬好きの,競馬好きの
 hort.	horticultural / horticulture
@@ -1834,4 +1834,4 @@ hysteria	ヒステリー / (一般に)病的興奮;(群衆などの)熱狂,狂�
 hysteric	=hysterical / 《複数形で》ヒステリーの発作 / 〈C〉ヒステリー患者
 hysterical	ヒステリー[性]の;ヒステリー症にかかった(かかりやすい) / 病的に興奮した / 《話》爆笑を引き起こすような,非常におかしい
 hysterically	ヒステリーを起こして;異常に興奮して
-Hz	hertz
+Hz	〈略〉ヘルツ（Hertz の略。周波数の単位で「1秒間の周期数」を表す）

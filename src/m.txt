@@ -1,5 +1,5 @@
 M	Mach number / mark[s] / Monsieur
-m.	male / married / masculine / medium / meter[s] / midnight / mile[s] / minute[s] / month / mach
+M,m	〈C〉英語アルファベットの第13字 / 〈C〉M字形のもの / 〈U〉(ローマ数字の)1,000
 M.	Medieval / Monday / Monsieur
 M.A.	Master of Arts
 M.B.A.	Master of Business Administration経営学修士
@@ -9,38 +9,326 @@ M.E.	Mechanical Engineer / Middle English / Mining Engineer
 M.Ed.	Master of Education
 M.F.A.	Master of Fine Arts 美術修士
 M.H.	Medal of Honor(米軍の)名誉勲章
-M,m	〈C〉英語アルファベットの第13字 / 〈C〉M字形のもの / 〈U〉(ローマ数字の)1,000
 M.O.	mail order / Medical Officer / modus operandi / money order
-m.o.m.	middle of month
 M.P.,MP	《英》Member of Parliament国会議員,特に下院議員・Military Police
 M.S.,M.Sc.	Master of Science理学修士
 M.Sgt	Master Sergeant
 M.T.	metric tonメートルトン(1,000キログラム) / Mountain Time
-ma	《M-》《話》おかあちゃん(mamma)
 MA	Massachusetts / mental age
-ma'am	《話》『奥様』,先生 / 《英》女王様,王女様,奥方様
+MASH	mobile army surgical hospital陸軍野戦病院・(陸軍)移動外科病院
+MC	Marine Corps海兵隊 / Medical Corps医療隊 / Member of Congress(米国の)国会議員
+ME	Maine / Middle English / Middle East
+MF	medium frequency 中波
+MHz	megahertz
+MI	Michigan / Military Intelligence 陸軍情報部
+MIA	= M.I.A. / missing in action 戦闘中行方不明兵士 / 戦闘中行方不明
+MIRV	Multiple Independently targeted Reentry Vehicle多数弾頭独立目標再突入ミサイル
+ML	Medieval Latin
+MM.	Messieurs
+MN	Minnesota
+MRA	Moral Re-Armament道徳再武装
+MS	Mississippi
+MS.,MS,ms.,ms	manuscript
+MST	Mountain Standard Time
+MT	Montana
+MVP	most valuable player(野球で)最優秀選手
 Mac	おい,君,名前の分からない相手(男)に対して呼びかけるときに使う, Apple社のMacintoshコンピューター
+Macao	マカオ(中国の南東岸のポルトガルの海外州;その首都)
+Macbeth	マクベス(Shakespeare作の悲劇の主人公の名)
+Mace	メース・催涙ガス・不能化学剤(目や皮膚に炎症を起こさせ,一時的に活動できなくする薬剤の商標名;おもに暴徒の鎮圧に使用される)
+Macedonia	(また『Macuedon』)マケドニア(古代ギリシア北方の地でアレキサンダー大王の生地)
+Macedonian	マケドニアの;マケドニア人の / マケドニア人
+Mach number, mach number	マッハ数(物体の速度の音速に対する比率;《略》『M』)
+Mach, mach	=Mach number
+Machiavelli	マキャベリ(1469‐1527;イタリアFlorenceの政治家,著作家)
+Machiavellian	{形} マキャベリ主義の / 権謀術数にたけた / 狡猾な
+Machiavellism	マキャベリ主義,権謀術数, = Machiavellianism
+Macintosh	アップル社のパソコン（Macの正式名称,商標）
+Madagascar	マダガスカル(アフリカ南東岸沖にある共和国)
+Madeira	マデイラ群島(アフリカ西北岸沖のポルトガル領) / 〈U〉マデイラ産の白ぶどう酒
+Madeira cake	マテイラケーキ(カステラふうの甘いケーキ;《米》pound cake)
+Madison	マディソン(米国Wisconsin州の州都)
+Madonna	《the ~》聖母マリア / 〈C〉聖母マリア像
+Madonna lily	シロユリ(白百合)(絵で聖母が手に持っているユリの花)
+Madrid	マドリード(スペインの首都)
+Maeterlinck	メーテルリンク(Maurice ~;1862‐1949;「青い鳥」を書いたベルギーの劇作家・詩人)
+Mafia	マフィア(イタリアや米国に勢力をもつ秘密結社)
+Mafioso	マフィアの一員
+Magdalene	《まれ》更生した売春婦
+Magellan	マゼラン(Ferdinand ~;1480?‐1521・ポルトガルの航海家) / マゼラン海峡(the Strait of ~;南米南端の大西洋と太平洋を結ぶ海峡)
+Magi	東方の3博士(キリスト降誕のとき東方から供物を持ってエルサレムに来た賢者たち)
+Magna Charta,Magna Carta	大憲章(人民の自由と権利を保証したもので,1215年イングランド王Johnが貴族に迫られて承認した)
+Magnificat	マリアの賛歌(英国国教会の礼拝で歌われる)
+Magyar	マジャール族(人,語)の / マジャール人(ハンガリーの主要な民族);〈U〉マジャール語,ハンガリー語
+Mahican	モヒカン族(アメリカインディアンの一族), = Mohican
+Mahomet	=Muhammad
+Maine	メーン州(米国北東部大西洋岸の州で,州都はAugusta,《略》『Me.,ME』)
+MajGen	Major General
+Majorca	マジョルカ島(地中海西部,スペイン領の島)
+Malacca	マラッカ(マライ半島南西部にあるマレーシア連邦の州およびその州都) / マラッカ海峡(『the Strait of~』;スマトラとマライ半島の間の海峡)
+Malacca cane	マラッカ杖(マライのシュロの木で作ったステッキ)
+Malawi	マラウィ(アフリカ南東部にある共和国)
+Malay	マライ[半島]の;マライ人(語)の / 〈C〉マライ人;〈U〉マライ語
+Malay Archipelago	マライ諸島(スマトラ,ボルネオ,フィリピンなどを含む)
+Malay Peninsula	《the~》マライ半島
+Malaya	=Malay Peninsula
+Malayan	=Malay
+Malaysia	マレーシア(首都はKuala Lumpur) / マライ群島(the Malay Archipelago)
+Malaysian	マレーシアの;マレーシア人の;マライ群島の / マレーシア人
+Maldives	《the~》マルダイブ(マルディブ)(インド洋中の群島で,現在はマルディブ共和国)
+Malta	マルタ島;マルタ(1964年に英国から独立;首都Valletta)
+Maltese	〈C〉マルタ[島]人;〈U〉マルタ語 / マルタ[島]の;マルタ[島]人の;マルタ語の・マルチーズ犬 (Maltese dog)
+Maltese cat	マルタネコ(青灰色の飼いネコの一種)
+Malthus	マルサス(Thomas Robert~;1766‐1834;英国の経済学者で「人口論」の著者)
+Malthusian	マルサス学派(主義)の
+Man	マン島(『the Isle of~』;アイルランド海にある,イングランド北西の英国の島)
+Manchester	マンチェスター(英国Lancashire州の商工業都市)
+Manchuria	満州(中国北東部の大地域の旧称)
+Manhattan	マンハッタン区(ニューヨーク市内南東部の島で商業地区;国連本部などがある) / 〈C〉〈U〉《しばしばm-》《米》マンハッタン(カクテルの一種)
+Manila hemp	マニラ麻
+Manila paper	マニラ紙(マニラ麻で作ったじょうぶな薄茶色の紙)
+Manila,Manilla	マニラ(フィリッピンの首都)
+Mann	マン(『Thomas~』;1875‐1955;ドイツの小説家)
+Manx	英国マン島(the Isle of Man)の;マン島人(語)の / 《the Manx》《集合的に》マン島人 / 〈U〉マン島語
+Manx cat	マン島猫(尾がない)
+Mao Tse-tung,Mao Zedong	毛沢東(1893‐1976;中華人民共和国の指導者)
+Maoism	毛沢東主義
+Maoist	毛沢東主義[支持]者 / 毛沢東主義の
+Maori	〈C〉マオリ人(ニュージーランドに住むPolynesia人) / 〈U〉マオリ語 / マオリ人の;マオリ語の
+Mar.	March
+March	『3月』(《略》『Mar.』)
+Marco Polo	マルコポーロ(1254?‐1324?; Veniceの旅行家；元のKublai Khanに仕え，中国を旅行する・「東方見聞録」の口述者)
+Marconi	マルコーニ(『Guglielmo』 Marconi;1874‐1937;無線電信を発明したイタリアの電気学者)
+Mardi Gras	告解(ざんげ,食肉)火曜日(Lentの始まる前日で,謝肉祭の最終日)(Shrove Tuesday)
+Marian	聖母マリアの
+Mariana Islands	《the ~》マリアナ諸島(フィリッピン諸島東方にある15の小島から成る列島でGuam島を含む)
+Marie Antoinette	マリーアントワネット(1755‐93;Louis16世の王妃で,フランス革命のとき処刑された)
+Marine Corps	米国海兵隊
+Marineland	マリンランド(水族館を中心とする公園)
+Maritime Provinces	(カナタの)大西洋岸地域(Nova Scotia, New Brunswick, Prince Edward Islandの3州)
+Mark	聖マルコ(『St.~』;4人の福音書の記者の一人) / 新約聖書の「マルコによる福音書」
+Mark Twain	マークトウェイン(1835‐1910;米国の作家;本名Samuel Langhorne Clemens)
+Mars	マルス(ローマ神話の戦争の神;ギリシア神話のAresにあたる) / 火星
+Marseilles	マルセーユ(地中海沿岸にあるフランス第2の都市で商港)
+Marshall Plan	マーシャルプラン(第二次大戦後,米国務長官George C.Marshallの提唱した欧州復興計画)
+Martian	火星の,火星人の / 火星人
+Marx	マルクス(『Karl~』;1818‐83;ドイツの経済学者・哲学者)
+Marxism	マルクス主義,マルキシズム
+Marxism-Leninism	マルクスレーニン主義(共産主義の基盤となる理論)
+Marxist	マルクス主義者 / マルクスの;マルクス主義の
+Mary	聖母マリア(また『Virgin Mary, Saint Mary』)
+Mary Jane	マリファナ(marijuana)
+Mary Magdalene	(また『Mary of Magdala』)マグダラのマリア(イエスによって改心した聖書中の女性)
+Maryland	メリーランド州(米国東部の州;州都はAnnapolis;《略》『Md.,MD』)
+Mason Dixon line	メイソンディクソン線(ペンシルバニア州の南部の州境;昔のアメリカ合衆国を北部と南部に分ける線)
+Masonic	フリーメーソン(Freemason)主義の
+Mass.	Massachusetts
+Massachusetts	マサチューセッツ州(米国北東部の州;州都はBoston;《略》『Mass.,MA』)
+Master Chief Petty Officer	(米国海軍の)特務曹長
+Master Gunnery Sergeant	(米国海兵隊の)特務曹長
+Master of Arts	文学修士号(《略》『M.A.』また『A.M.』)
+Master of Hounds	キツネ狩りの総指揮者
+Master of Science	理学修士号(《略》『M.S.』)
+Matt.	Matthew
+Matterhorn	マッターホーン(アルプス山脈の高峰)
+Matthew	聖マタイ(『St.~』;4人の福音書の記者の一人) / 新約聖書の「マタイによる福音書」;《略》『Matt.』
+Maundy Thursday	洗足木曜日,聖木曜日(復活祭の前の聖週間中の木曜日;キリストの晩餐(ばんさん)を記念する日)
+Maupassant	モーパッサン(『Guy de~』;1850‐93;フランスの作家)
+Mauritania	モーリタニア(アフリカ北西部のイスラム教共和国)
+Mauritius	モーリシャス(インド洋の西部,モーリシャス島および周辺の小島を含む独立国) / モーリシャス島
+May	『5月』
+May Queen	5月の女王(5月祭の舞踏・競技などの女王に選ばれた少女)
+May apple	ミヤオソウ(黄色で卵型の果実を結ぶアメリカ産食用草本)
+May day	五月祭(春の到来を祝う5月1日の祭り;広場にMaypoleを建てMay Queenを選んで踊り楽しむ) / メーデー,労働祭
+Maya	〈C〉マヤ人 / 《the~》マヤ族(16世紀以前メキシコ南部および中米にマヤ文明を作った中米インディアン) / 〈U〉マヤ語 / マヤ人の / マヤ族の,マヤ文化の,マヤ語系の
+Mayflower	メイフラワー号(1620年Pilgrim Fathersを乗せて英国から新大陸へ渡った船)
+McCarthyism	マッカーシズム(米国で共産主義者を追放しようとした運動)
+McCoy	[the real ～ で] 《口語》 (高品質の)本物，逸品; (亜流でない)本物の人，正真正銘の人
+McKinley	マッキンレー山(『Mount』(『Mt.』)~;アラスカ州中南部にある北米の最高峰(6192m))
+Md	mendeleviumの化学記号
+Md.,MD	Maryland
+Me.,ME	Maine
+Mecca	メッカ(Saudi Arabiaの商業都市;Muhammadの誕生地でイスラム教の霊地) / 〈C〉《しばしばm-》行ってみたい(あこがれの)所;(…の)発祥地《+『of』(『for』)+『名』》
+Medicaid	医療扶助(一定限度の収入しかない人に対する,州または連邦の医療保険制度)
+Medicare	老人医療保障制度(米国・カナダでは65歳以上)
+Medieval Latin	中世ラテン語(A.D.700‐1500ごろに,特に文学で用いられたラテン語)
+Medina	メジナ(Saudi Arabia西部の都市;Muhammadの墓があり,Meccaとともにイスラム教徒の聖地とされる)
+Mediterranean	=Mediterranean Sea / 地中海地方 / 『地中海の』;地中海地方[の住民]特有の
+Mediterranean Sea	『地中海』
+Mekong	メコン川(南シナ海に注ぐ東南アジアの大河)
+Melanesia	メラネシア(オーストラリアの東,南太平洋上の群島の総称)
+Melanesian	メラネシアの;メラネシア人(語)の / メラネシア人;〈U〉メラネシア語
+Melba toast	メルバトースト(かりかりに焼いた薄切りのトースト)
+Melbourne	メルボルン(オーストラリア南東部Victoria州の首都で海港市)
+Member of Parliament	(英国の)下院議員(《略》『M.P.』)
+Memorial Day	(米国の)戦死将兵記念日(南北戦争以後の戦死者の墓を花で飾る;最初5月30日に行われたが,今では大多数の州で5月の最終月曜日)
+Memphis	メンフィス(Tennessee州南西部ミシシッピー川流域の港市)
+Mendel	メンデル(『Gregor~』;1822‐84,オーストリアの遺伝学者)
+Mendelian	メンデルの法則の,メンデルの
+Mendelssohn	メンデルスゾーン(『Felix』 ~;1809‐47;ドイツの作曲家)
+Menelaus	メネラーオス(ギリシア神話で,スパルタの王でHelenの夫)
+Mennonite	メノー派教徒(兵役・宣誓を拒否し質素な生活を営むキリスト教福音教会の一派)
+Mephistopheles	メフィストフェレス(中世ドイツ伝説の悪魔;特にゲーテの詩劇「ファウスト」(Faust)で有名) / 〈C〉悪賢い人
+Mercator projection	メルカトル[投影]図法(地図製作法の一種)
+Mercurochrome	マーキュロクローム,赤チン(消毒液の商標名)
+Mercury	水星 / 『マーキュリー』(ローマ神話で,商業をつかさどり,神々の使者をつとめた神;ギリシア神話のHermesにあたる)
+Merlin	マーリン(アーサー王伝説の中の高徳の魔術師・予言者)
+Mesopotamia	メソポタミア(チグリス・ユーフラテス両川の流域の総称で,現在のイラク共和国の大部分を占めていた;古代文明の発祥地)
+Mesopotamian	メソポタミアの / メソポタミア人
+Mesozoic	(地質時代の)中生代 / 中生代の
+Messeigneurs	Monseigneurの複数形
+Messiah	(ユダヤ教で)メシア(神に約束されたユダヤ人の救い主) / (キリスト教で)救世主たるキリスト / 〈C〉《m-》救世主(平和と繁栄の時代の到来を約束する指導者)
+Messianic	救世主の[ような]
+Messrs.	Mr(Mr.)の複数形 / messieurs
+Met Office	気象庁
+Methodism	メソジスト派の信仰(教義,礼拝方式)(メソジスト派は18世紀英国において John Wesley がおこしたキリスト新教の一派)
+Methodist	メソジスト教会員 / メソジスト派の;メソジスト教会[員]の
+Methuselah	〈C〉メトセラ(旧約聖書の登場人物で,969歳まで生きたとされる)
+Mex.	Mexico / Mexican
+Mexican	メキシコの;メキシコ人の;メキシコ語の;メキシコ文化の / メキシコ人
+Mexican Spanish	メキシコで話されるスペイン語
+Mexican War	メキシコ戦争(1846年から1848年にかけて戦われた,アメリカ合衆国とメキシコとの間の戦争)
+Mexico	メキシコ合衆国
+Mexico City	メキシコシティ(メキシコ合衆国の首都)
+Mg	magnesiumの化学記号
+Mgr.	Manager / Monseigneur / Monsignor
+Miami	マイアミ(米国Florida州南東部大西洋岸の都市で臨海避寒地)
+Mich.	Michigan
+Michael	天使長ミカエル(旧約聖書「ダニエル書」)
+Michaelmas	ミカエル祭(天使長ミカエルを祝って9月29日に行う祭日)
+Michaelmas daisy	《英》アスター(秋の初めに青味をおびた赤や桃色の花をつける)
+Michelangelo	ミケランジェロ(1475‐1564;イタリアの彫刻家・画家・建築家)
+Michigan	ミシガン州(米国中北部の州;州都はLansing;《略》『Mich,MI』) / ミシガン湖(『Lake~』;米国の五大湖の1つ)
+Mickey Mouse	《米俗》平凡な,単調な・ミッキーマウス (Disneyのアニメ・キャラクター); 〔俗〕(またm- m-) くだらない［安っぽい］(もの); 〔俗〕 楽勝科目
+Micronesia	ミクロネシア(Mariana,Caroline,Marshall諸島などを含む,大洋州の3大区分の一つ;1979年アメリカ合衆国信託統治領より独立;公式名はthe Federated States of Micronesia(ミクロネシア連合州);首都Saipan)
+Micronesian	ミクロネシアの,ミクロネシア人(語)の / 〈C〉ミクロネシア人 / 〈U〉ミクロネシア語
+Midas	ミダス(手に触れるものを金に変える力を持っていたギリシア神話の王)
+Middle Ages	(西洋史の)中世(ローマ帝国滅亡からルネサンスの初期まで,5‐15世紀中ごろまでを指す)
+Middle America	中部アメリカ(メキシコ・中央アメリカを含む地域) / 《集合的に》中産階級に属するアメリカ人
+Middle East	中東(西はリビアから東はイラク・サウジアラビアまでの地域,時にはトルコ・イラン・アフガニスタン・パキスタンを含む)
+Middle Eastern	中東の
+Middle English	中[世]英語(12世紀中ごろから15世紀末まで話された英語;《略》『ME』)
+Middle French	中世フランス語
+Middle Kingdom	中国
+Middle West	米国中西部(オハイオ州とロッキー山脈の間にあり,ネブラスカ州・カンザス州以北の平原地帯)
+Middle Western	米国中西部の
+Middle Westerner	米国中西部の人
+Mideast	=Middle East
+Midsummer Day	洗礼者ヨハネの祝日(6月24日)
+Midwest	=Middle West
+Midwestern	=Middle Western
+Mig,MIG	ミグ(旧ソ連製ジェット戦闘機)
+Milan	ミラノ(イタリア北部の都市;イタリア名はMilano)
+Milky Way	銀河,天の川(the Galaxy)
+Milton	ミルトン(john~;1608‐74;英国の詩人,Paradise Lostの作者)
+Milwaukee	ミルウォーキー(米国Wisconsin州の都市)
+Minerva	ミネルバ(ローマ神話で知恵・芸術・工芸の女神;ギリシア神話ではアテネと呼ばれる)
+Ming	(中国の)明,明朝(1368‐1644)
+Minn.	Minnesota
+Minneapolis	ミネアポリス(ミネソタ州の東南部にある州最大の都市)
+Minnesota	ミネソタ州(米国北中部の州;州都はSt.Paul;《略》『Minn.,MN』)
+Minoan	ミノス文明の(紀元前2500‐1100年にクレタ島で栄えた文明) / ミノス人
+Minos	ミノス(ギリシア神話でクレタ島の王、迷宮(labyrinth)を造営してミノタウロスをその迷宮に閉じこめた;よみの国の死者の裁判官)
+Minotaur	ミノタウロス(ギリシア神話で人身牛頭の怪獣;ミノスによって迷宮に閉じこめられ,テセウスに殺された)
+Minuteman	《時にm-》緊急召集に備えて待機していた民兵
+Miocene	(地質時代の)中新世(草食哺乳(ほにゅう)類の存在を特徴とする第三紀の一つの世に相当する時代) / 中新世の
+Miss.	Mississippi
+Mississippi	ミシシッピ州(米国南中部の州;州都はJackson《略》『Miss.,MS』) / 《the ~》ミシシッピ川(米国中部にある世界的な大河の一つ)
+Mississippian	ミシシッピ川の,ミシシッピ州の / 〈C〉ミシシッピ州の住民 / 〈U〉(地質年代で)ミシシッピ紀
+Missouri	ミズーリ州(米国中部の州;州都はJefferson City;《略》『Mo.,MO』) / 《the ~》ミズーリ川(Mississippi川の支流)
+Mlle.	Mademoiselle
+Mme.	Madame
+Mn	manganeseの化学記号
+Mo	molybdenumの化学記号
+Mo.,MO	Missouri
+Mocha, mocha	モカコーヒー(もとYemenのMocha港から送り出された上等品)(mocha coffee);モカ香味料 / (手袋用などの)上質のヤギ革
+Mod.E.,ModE	Modern English
+Modern English	近代英語(1500年ごろから現代まで;《略》『Mod.E.,mod E』)
+Mohammed	=Muhammad
+Mohammedan	=Muslim
+Mohawk	モホーク族[の人](ニューヨーク州中心部に住んでいたアメリカンインディアンの一部族、現在では高層ビルの建築現場などで「鳶：トビ」として働くことが得意な部族として有名) / 〈U〉モホーク語・モヒカン刈り
+Mohegan	モヒガン族(コネティカット州に住んでいたアメリカンインディアンの一部族)
+Mohican	=Mahican
+Mohs scale	モース硬度(鉱物の硬度測定基準), = Mohs hardness
+Molière	モリエール(1622‐73;フランスの劇作家)
+Molotov cocktail	モロトフカクテル(火炎びんの一種)
+Mon.	Monday
+Monaco	モナコ(地中海沿岸にある小さな公園;その首都)
+Monday	『月曜日』(《略》『Mon.』)
+Mongol	〈C〉モンゴル(蒙古)人・〈U〉モンゴル語
+Mongolia	蒙古・モンゴリア(モンゴル人民共和国を含む東中央アジア地域)
+Mongolian	モンゴルの / モンゴル人の / モンゴル語の / 〈C〉モンゴル人 / 〈U〉モンゴル語 / ・モンゴル人(の); モンゴル語 (Mongolian); 〔軽蔑〕 (m-) ダウン症患者：(英語では「モンゴル」は「国・場所」の「蒙古」を指しません。「国、場所」には「Mongolia」を使います。同様に、アフガニスタン(国・場所)を指して「アフガン」と日本語で述べる例を多々耳にしますが、国は「Afghanistan」で、「アフガン」は誤用です。「アフガン」は、「アフガニスタン人・アフガニスタンの」という意味になります)
+Mongolism	蒙古症,モンゴリズム(白痴の一種)
+Mongoloid	モンゴル人種(モンゴル人・中国人・朝鮮人・日本人を含む) / モンゴル人種の / 蒙古症の
+Monroe	モンロー(『James ~』;1758‐1831;米国第5代の大統領)
+Monroe Doctrine	モンロー主義(南北米大陸に対する干渉と植民を排除するというモンロー大統領の唱えた主義)
+Monseigneur	殿下,閣下(フランスの王族・大司教の尊称)
+Monsignor	モンシニョール(ローマカトリック教会で高位聖職者に与えられる尊称)
+Mont.	Montana
+Montana	モンタナ州(米国北西部の州;州都はHelena;《略》『Mont.,MT』)
+Monte Carlo	モンテカルロ(モナコ公国の避寒地;国営大とばく場で有名)
+Montevideo	モンテビデオ(ウルグアイの首都)
+Montgomery	モントゴメリー(米国Alabama州の州都)
+Montpelier	モントピーリア(米国Vermont州の州都)
+Montreal	モントリオール(カナダ南東部にあり,同国最大の都市)
+Moor	ムーア人(アフリカ北西部に住むイスラム教徒)
+Moorish	ムーア人の
+Moorish arch	馬蹄形アーチ
+Mormon	モルモン教徒
+Mormonism	モルモン教(米人Joseph Smithが1830年に始めた新教の一派)
+Morning Prayer	(英国国教会・聖公会の)朝の礼拝(matins)
+Morningstar	明けの明星(Venus)
+Moroccan	モロッコの,モロッコ人の / モロッコ人
+Morocco	モロッコ(アフリカ北西部の王国;首都はRabat)
+Morpheus	(ギリシア神話の)モルフェウス(夢・眠りの神)
+Morse	モールス(『Samuel F.B.~』;1791‐1872;電信機を発明した米国人) / 《話》=Morse code
+Morse code	モールス式電信符号
+Mosaic	モーセ(Moses)の
+Mosaic law	《the ~》モーセ(Moses)の律法 / モーセの五書(旧約聖書の最初の5書)
+Moscow	モスクワ(ロシアの首都) / ロシア政府
+Moses	モーセ(旧約聖書でヘブライの預言者・立法者;シナイ山でエホバから十戒を授かった)
+Moslem	=Muslim
+Mother Carey's chicken	=stormy pettrel1・=storm petrel・ウミツバメ
+Mother Goose	グースおばさん(英国古来の民俗童話集Mother Goose's Nursery Rhymes(1760)の伝説上の作者)
+Mother Nature	母なる自然(世の中をつかさどる力,自然を意味して言う)
+Mother's Day	母の日(一般に5月の第2日曜日)
+Mount Vernon	マウントバーノン(米国Virginia州Potomac河畔にあるGeorge Washingtonの居住地跡で墓もある)
+Mount Zion	=Zion 1
+Mountain Daylight Time	(米国の)山地夏時間(日本との時差はマイナス15時間;《略》『MDT,M.D.T.』)
+Mountain Standard Time	(米国の)山地標準時(日本との時差はマイナス16時間;《略》『MST,M.S.T.』)
+Mountie, Mounty	カナダ騎馬警察隊員
+Mozambique	モザンビーク(アフリカ南東部の共和国)
+Mozart	モーツアルト(『Wolfgang Amadeus』~;1756‐91;オーストリアの作曲家)
+Mr.,Mr	Mister / 《成人男子の姓・姓名の前に付けて》…『氏』,様,殿,君,さん,先生 / 《官職名・役職名の前に付けて》…殿 / 《電話で自分を名乗って》 / 《まれ》《自分の夫のことを他人に話すとき,また改まって》夫,主人 / 《一国・一団の代表的な男性に用いて》
+Mrs.,Mrs	Mistress / 《既婚女性の姓・姓名の前に付けて》…『夫人』,様,殿,さん,先生 / 《電話で自分を名乗って》
+Ms.,Ms	《未婚・既婚にかかわらず女性の姓・姓名の前につけて》…さん,様,女史
+Msgr.	Monseigneur / Monsignor
+Mt.,Mt,mt.	mount
+Mt.Rev.	Most Reverend大主教(大司教)の称号
+Mts.,mts.	mountains
+Muhammad	マホメット(570?‐632;イスラム教の開祖)
+Muhammedanism	イスラム教,回教
+Munich	ミュンヘン(西ドイツ南西部の都市)
+Muscovite	〈C〉モスクワ住民;《古》ロシア人(Russian) / 〈U〉《m-》白雲母(電気の絶縁体に用いる)
+Muse	ミューズの神(詩・音楽など芸術・科学をつかさどるギリシア神話の9女神の一人) / 《m-》詩神;詩的霊感,詩才
+Muslim	イスラム教徒,回教徒 / イスラム教の,回教の
+Mussolini	ムッソリーニ(『Benito』~;1883‐1945;イタリアの国粋党首領,首相となり独裁政治を強行した)
+Mussulman	イスラム教徒
+m.	male / married / masculine / medium / meter[s] / midnight / mile[s] / minute[s] / month / mach
+m.o.m.	middle of month
+ma	《M-》《話》おかあちゃん(mamma)
+ma'am	《話》『奥様』,先生 / 《英》女王様,王女様,奥方様
 macabre	気味の悪い,死を思わせる
 macadam	〈C〉(またmacadam road)(砕石を敷いた)マカダム道路 / 〈U〉その砕石
-Macao	マカオ(中国の南東岸のポルトガルの海外州;その首都)
 macaque	マカク(アジア・東インド産のサル)
 macaroni	マカロニ
 macaroon	マカロン(卵白・砂糖・アーモンドなどで作った菓子)
 macaw	コンゴウインコ(熱帯アメリカ産の鳥)
-Macbeth	マクベス(Shakespeare作の悲劇の主人公の名)
 mace	戦棍(せんこん),鎚(つち)ほこ(中世の武器) / 職杖(しょくじょう)(市長・大学総長などの職の象徴としての杖(つえ)) / メース(ニクズク(nutmeg)の外皮を乾燥した香味料)
-Mace	メース・催涙ガス・不能化学剤(目や皮膚に炎症を起こさせ,一時的に活動できなくする薬剤の商標名;おもに暴徒の鎮圧に使用される)
 macebearer	職杖(しょくじょう)を持つ人
-Macedonia	(また『Macuedon』)マケドニア(古代ギリシア北方の地でアレキサンダー大王の生地)
-Macedonian	マケドニアの;マケドニア人の / マケドニア人
 macerate	〈物〉を液体につけて柔らかにする,ふやけさせる
 maceration	水に浸して柔らかくすること,ふやけさせること
-Mach, mach	=Mach number
-Mach number, mach number	マッハ数(物体の速度の音速に対する比率;《略》『M』)
 machete	なた(中南米で砂糖キビを切ったり,また武器として用いる)
-Machiavelli	マキャベリ(1469‐1527;イタリアFlorenceの政治家,著作家)
-Machiavellian	{形} マキャベリ主義の / 権謀術数にたけた / 狡猾な
-Machiavellism	マキャベリ主義,権謀術数, = Machiavellianism
 machicolation	はねだし狭間(はざま)(中世の城で敵に石や溶かした鉛を投下するため胸壁などに設けた穴)
 machination	陰謀,策謀
 machine	『機械』 / 自動車,飛行機,自転車 / 加えられた力を強めたり方向を変えたりする機械(器具);てこ,滑車,くさび,斜面など / 組織,(特に)派閥 / (自主性も意欲もない)機械のような人,機械的に働く人 / …'を'機械で作る(仕上げる);(特に)…'に'ミシンをかける,'を'ミシンで作る;(印刷機で)…'を'印刷する / …'を'きっちり計って作る《+『down』+『名,』+『名』+『down』》
@@ -54,7 +342,6 @@ machinist	機械[修理]工;ミシン工;機械技術者(運転者)
 machismo	男性的であること,男らしさ
 macho	強く男らしい男 / 強くて男らしい
 macintosh	〈C〉防水コート / レインコート / Macintosh(アップル社のパソコン)
-Macintosh	アップル社のパソコン（Macの正式名称,商標）
 mackerel	サバ;サバ類の魚
 mackerel sky	うろこ雲(いわし雲)の出ている空
 mackintosh	〈C〉防水コート / レインコート（特にゴム引きのもの） / ゴム引き防水布（まれ）
@@ -66,7 +353,6 @@ macron	長音符(記号)(母音の上につけて長母音を示す)
 macroscopic	肉眼で見える / 巨視的な
 maculate	よごれた,しみのついた / …'を'よごす
 mad	『気が狂った』,気違いの / ばかげた,無謀の,向こう見ずな / 《補語にのみ用いて》《話》(人・物事に)夢中になって,(…を)熱望して《+『about』(『for』)+『名』》 / 《補語にのみ用いて》《話》『怒った』,腹を立てた(angry) / 狂ったように興奮した,熱狂した / (イヌが)狂犬病にかかった
-Madagascar	マダガスカル(アフリカ南東岸沖にある共和国)
 madam	《未婚・既婚を問わず婦人に対するていねいな呼び掛け》《しばしばM-》『奥様』,お嬢様 / 《まれ》《一家の主婦を表すていねいな三人称として》奥様 / (女性の姓または肩書きの前につけて)…夫人,…殿 / 売春宿の女主人
 madame	〈U〉《M-》…夫人 / 〈C〉既婚のフランス婦人
 madcap	向こう見ずな,無鉄砲な / 向こう見ずな人;無鉄砲な娘
@@ -78,35 +364,23 @@ made	makeの過去,過去分詞 / 成功確実な / 《複合語を作って》�
 made-to-measure	= made-to-order
 made-to-order	あつらえの,注文の
 made-up	作り上げた,でっちあげた;人工的の / 化粧した,メイキャップした
-Madeira	マデイラ群島(アフリカ西北岸沖のポルトガル領) / 〈U〉マデイラ産の白ぶどう酒
-Madeira cake	マテイラケーキ(カステラふうの甘いケーキ;《米》pound cake)
 mademoiselle	〈U〉《M》…嬢,令嬢 / 〈C〉未婚のフランス婦人;フランス人の女性家庭教師
 madhouse	精神病院 / 《話》《単数形で》(混乱して)てんやわんやの場所
-Madison	マディソン(米国Wisconsin州の州都)
 madly	気が狂って;狂乱して;熱狂して / 《話》非常に,猛烈に / 愚かにも
 madman	気違い,狂人
 madness	『狂気』;狂気のさた / (…に対する)熱狂,狂喜《+『for』+『名』》
-Madonna	《the ~》聖母マリア / 〈C〉聖母マリア像
-Madonna lily	シロユリ(白百合)(絵で聖母が手に持っているユリの花)
 madras	マドラス木綿(インド原産;しまやチェックあや織りで,シャツやドレス用)
-Madrid	マドリード(スペインの首都)
 madrigal	マドリガル / 16世紀ごろからヨーロッパで流行した短い恋歌 / 一種の無伴奏の声楽合唱曲
 madwoman	気違い女,狂女
 maelstrom	《文》大うず巻 / 《単数形で》動乱,激動 / 《the M-》ノルウェー西海岸の大うず巻き
 maenad	(ギリシア・ローマ神話で)酒神バッカス(Bacchus)の侍女
 maestro	大音楽家,大指揮者
-Maeterlinck	メーテルリンク(Maurice ~;1862‐1949;「青い鳥」を書いたベルギーの劇作家・詩人)
-Mafia	マフィア(イタリアや米国に勢力をもつ秘密結社)
-Mafioso	マフィアの一員
 mag.	magazine / magnetism / magneto / magnitude
 magazine	『雑誌』 / 武器弾薬庫,火薬庫 / (連発銃の)弾倉 / (カメラの)フイルム巻き取り枠
-Magdalene	《まれ》更生した売春婦
-Magellan	マゼラン(Ferdinand ~;1480?‐1521・ポルトガルの航海家) / マゼラン海峡(the Strait of ~;南米南端の大西洋と太平洋を結ぶ海峡)
 magenta	マゼンタ(深紅色のアニリン染料) / 深紅色
 maggot	ウジ(ハエなどの幼虫)
 maggoty	ウジだらけの、ウジのわいた
 magi	《話》=magazine
-Magi	東方の3博士(キリスト降誕のとき東方から供物を持ってエルサレムに来た賢者たち)
 magic	『魔法』,魔術;呪術(じゅじゅつ) / 『手品』,奇術 / 心を奪う力,魔力;(…の)神秘的な魅力《+『of』+『名』》 / 魔法の / 手品の,奇術の
 magic eye	マジックアイ(光波により物の存在を探知する器械)
 magic lantern	幻灯機
@@ -118,7 +392,6 @@ magisterial	《名詞の前にのみ用いて》行政長官(治安判事)の(�
 magistracy	magistrateの職; (the ～) (集合的) 行政官; 治安判事・行政長官、判事の職(任期,管区)・《the ~》《集合的に》長官(判事)たち
 magistrate	(行政・司法を兼ねる)『行政長官』 / (下級裁判所における限定された権限の)治安判事
 magma	マグマ(地下の深い部分にある溶融状態の岩漿(がんしょう))
-Magna Charta,Magna Carta	大憲章(人民の自由と権利を保証したもので,1215年イングランド王Johnが貴族に迫られて承認した)
 magnanimity	〈U〉寛大さ / 気高さ / 心の広さ
 magnanimous	寛大な,太っ腹な
 magnate	(ある階級・職業などの)大立者,有力者,…王
@@ -139,7 +412,6 @@ magnetize,magnetise	…'に'磁気を帯びさせる / 〈人〉'を'引き付�
 magneto	磁石発電機(特に内燃機関の点火に用いる)
 magnetometer	磁力計(地球の磁場の強さを測定する計器)
 magnetosphere	(地球の周囲の)磁気圏
-Magnificat	マリアの賛歌(英国国教会の礼拝で歌われる)
 magnification	拡大;(レンズの)倍率 / 誇張;賛美
 magnificence	壮大,壮麗,雄大
 magnificent	『壮大な』,壮麗な / すばらしい,無類の
@@ -155,16 +427,13 @@ magnum	(ぶどう酒などが約2リットルはいる)大びん
 magnum opus	(特に本の)代表作,傑作(masterpiece)
 magpie	カササギ(黒と白の羽をもち,カチカチと鳴くカラス科の鳥) / 《話》(カササギのような)おしゃべり屋
 magus	古代ペルシアの僧 / 《文》魔術師
-Magyar	マジャール族(人,語)の / マジャール人(ハンガリーの主要な民族);〈U〉マジャール語,ハンガリー語
 mahalo	(ハワイの言葉で)ありがとう・マハロ
 maharaja, maharajah	マハラージャ(インドで回教君主の位;その位を持つ君主)
 maharani,maharanee	マハラージャの妃
 mahatma	マハトマ / (バラモン教の)大知識,大聖 / 《Mahatma》インドで高貴な人の名に添える敬称
-Mahican	モヒカン族(アメリカインディアンの一族), = Mohican
 mahjongg, mahjong	マージャン(麻雀)
 mahlstick	=maulstick
 mahogany	〈C〉マホガニー(熱帯フメリカ産の赤褐色の堅い木;家具の材料) / 〈U〉赤褐色 / マホガニー製の / 赤褐色の
-Mahomet	=Muhammad
 mahout	(インドの)象使い
 mai tai	マイタイ(ラム酒と果物ジュースで作った甘いカクテル)
 maid	《文》《古》『少女』,おとめ;処女 / 『未婚の女性』 / 『お手伝いさん』,女中
@@ -193,7 +462,6 @@ main chance	(金もうけなどの)可能性,絶好の機会
 main clause	主節(複文の中で定動詞を持ち独立した文になることのできる節)
 main deck	(船の)上甲板,主甲板
 main drag	本通り(main street)
-Maine	メーン州(米国北東部大西洋岸の州で,州都はAugusta,《略》『Me.,ME』)
 mainframe	主枠 / メンフレーム(コンピューターの中心となる制御装置などを含む装置)
 mainland	《通例 the~》本土,大陸(付近の島と区別した)
 mainline	(鉄道の)幹線 / 《米俗》(麻薬などを注射する)静脈
@@ -210,12 +478,9 @@ maintainable	維持できる / 扶養できる / 主張できる
 maintenance	(…の)維持,持続,保全,保守[管理]《+『of』+『名』》 / (…の)維持(持続)された状態《+『of』+『名』》 / 維持費,生活費
 maintenance order	扶養命令(特に裁判所が妻子の養育費支払を命ずるもの)
 maisonette,maisonnette	〈C〉メゾネット（集合住宅の一戸） / 《英》小さな一戸建て住宅 / フランス語「maison（家）」に小さいを表す接尾辞「-ette」に由来
-maître d'	《話》=maître d'hôtel
-maître d'hôtel	給仕長 / (ホテルのレストランの)支配人
 maize	とうもろこし / とうもろこし色,薄黄色
 majestic,majestical	威厳のある,荘厳な,堂々とした,雄大な
 majesty	〈U〉(人・態度などの)『威厳』,『尊厳』;(風景などの)威容《+『of』+『名』》 / 〈U〉(…の)至高の力;(…の)最高の権威《+『of』+『名』》 / 〈C〉《M-》陛下
-MajGen	Major General
 majolica	マジョリカ焼(イタリアの陶器の一種)
 major	『大きい』(『多い』)『ほうの』,いっそう重要な / (音階が)長調の,長音階の / 《英》《昔の学校で同姓または兄弟生徒を区別するために姓の後につけて》年長の,兄の / 《しばしばM-》陸軍(空軍)少佐 / 《米》専攻科目;専攻学生 / 《the majors》《米》=major leagues / (科目を)専攻する《+『in』+『名』》
 major general	陸軍(空軍)少将
@@ -225,7 +490,6 @@ major premise	(論理で)大前提
 major scale	(音楽の)長音階
 major suit	(ブリッジで)ハート,(または)スペード(クラブ・ダイヤよりも得点・順位が上)
 major-medical	高額医療保険の(医療費がかかり過ぎた場合に支払われる保険で)
-Majorca	マジョルカ島(地中海西部,スペイン領の島)
 majordomo	(昔のスペインやイタリヤの貴族・王家などの)召使頭,執事
 majorette	=drum majorette
 majority	〈U〉《集合的に;時にa majority》《単数・複数扱い》『大多数』,『過半数』 / 〈C〉《単数形で》(下位との)得票の差;(…の)票のひらき《+『of』+『名』》 / 〈C〉《単数形で》成年,成人(英米とも21歳) / 〈C〉《単数形で》陸軍(空軍)少佐の位
@@ -239,8 +503,6 @@ maker	〈C〉『製作者』,作る人,メーカー / 《複合語を作って�
 makeshift	当座の間に合わせの物,代用品 / 間に合わせの,一時しのぎの
 makeup,make-up	〈U〉〈C〉化粧;(俳優などの)メーキャップ,(かつら・つけひげなどの)ふん装 / 〈C〉《単数形で》(…の)構造,構成,(出版物の)割付け《+『of』+『名』》 / 〈C〉《単数形で》体質;性質 / 〈C〉作り話,八百長 / (また『make-up test』)〈C〉《米》再(追)試験
 making	〈U〉作ること,でき上がること;(…の)製造《+『of』+『名』》 / 〈U〉《the~》(人を)成功(進歩)させる原因《+『of』+『名』〈人〉》 / 《the makings》(…の)適性,素質;(…の)材料,原料《+『of』+『名』》
-Malacca	マラッカ(マライ半島南西部にあるマレーシア連邦の州およびその州都) / マラッカ海峡(『the Strait of~』;スマトラとマライ半島の間の海峡)
-Malacca cane	マラッカ杖(マライのシュロの木で作ったステッキ)
 malachite	クジャク石(装飾品に用いる);マラカイト色(鮮やかな緑)
 maladapted	適合しない,不調和の
 maladjusted	調節の悪い,(特に人が)環境に適応できない
@@ -257,17 +519,8 @@ malapropos	《文》《大げさに》適当でない,不都合な / 不適当�
 malaria	(また『swamp fever』)マラリア / 《古》毒気
 malarial	マラリア[性]の;マラリアにかかった
 malarkey,malarky	くだらない話(文)
-Malawi	マラウィ(アフリカ南東部にある共和国)
-Malay	マライ[半島]の;マライ人(語)の / 〈C〉マライ人;〈U〉マライ語
-Malay Archipelago	マライ諸島(スマトラ,ボルネオ,フィリピンなどを含む)
-Malay Peninsula	《the~》マライ半島
-Malaya	=Malay Peninsula
-Malayan	=Malay
-Malaysia	マレーシア(首都はKuala Lumpur) / マライ群島(the Malay Archipelago)
-Malaysian	マレーシアの;マレーシア人の;マライ群島の / マレーシア人
 malcontent	不平の,不満の,反抗的な;(…に)不満を抱いた《+『with』+『名』》 / (特に政治・体制に対する)不満家,反抗者,造反者
 malcontented	=malcontent
-Maldives	《the~》マルダイブ(マルディブ)(インド洋中の群島で,現在はマルディブ共和国)
 male	『男性の』,男の;(動物が)雄の,(植物が)雄性の / 《名詞の前にのみ用いて》(機械・器具などが)雄の差し込み口のある / 『男性』;(動物の)雄,雄性植物
 malediction	《文》のろい,のろいの言葉(curse)
 malefactor	《文》悪人,悪党;犯罪者
@@ -302,13 +555,8 @@ malocclusion	不正咬合(こうごう)(歯がうまくかみ合わないこと)
 malodorous	悪臭のひどい / (社会的に)受け入れがたい
 malpractice	(官吏などの)不正行為;(医師の)不当治療
 malt	麦芽,麦もやし / (また『malt liquor』)麦芽酒(麦芽から作ったビール・エールなど) / 〈C〉=malted milk 2 / 〈麦〉'を'麦芽にする;〈酒など〉'を'麦芽で作る / 〈麦が〉麦芽になる
-Malta	マルタ島;マルタ(1964年に英国から独立;首都Valletta)
 malted	=malted milk2
 malted milk	麦芽乳粉(ドライミルク・麦芽粉末・小麦粉で作った可溶性の粉末) / (またmalted)モルト入りミルク(麦芽乳粉をミルクで溶かした飲物)
-Maltese	〈C〉マルタ[島]人;〈U〉マルタ語 / マルタ[島]の;マルタ[島]人の;マルタ語の・マルチーズ犬 (Maltese dog)
-Maltese cat	マルタネコ(青灰色の飼いネコの一種)
-Malthus	マルサス(Thomas Robert~;1766‐1834;英国の経済学者で「人口論」の著者)
-Malthusian	マルサス学派(主義)の
 maltose	麦芽糖
 maltreat	…'を'虐待する,酷使する
 maltreatment	虐待,酷使,冷遇
@@ -324,8 +572,6 @@ mammon	(悪の根源としての)富,財宝 / 《M-》(富・強欲の擬人的�
 mammoth	マンモス(洪積世に生息した長毛の巨象) / 巨大な
 mammy	『おかあちゃん』(mother)
 man	〈C〉(成人の)『男』,男子;(男の)おとな / 〈U〉《冠詞をつけないで》(動物と区別して)『人類』,『人』,人間(mankind) / 〈C〉《性別に関係なく用いて》人;《否定文で》だれも / 《複数形で》従業員,雇い人;兵士,下士官 / 〈C〉夫,亭主(husband);《話》(内縁の夫,愛人など同棲している)男 / 〈C〉男らしい男,一人前の男 / 《the~,one's~》うってつけの人,意にかなう人,適任者 / 〈U〉《男性に親しく呼び掛けて》君,おい / 《俗》《驚き・喜び・軽べつなどを表す間投詞として》おや,まあ,これは / 〈C〉(将棋・チェッカーなどの)こま / 〈C〉《the~》《米俗》権力者;警官 / 〈要さい・砲・船など〉'に'人を配置する;〈地位・勤務など〉'に'人をつける
-Man	マン島(『the Isle of~』;アイルランド海にある,イングランド北西の英国の島)
-man.	Manual
 man Friday	忠実な召使い,従僕
 man in the street	《通例the~》(専門家・くろうとに対して)普通の人,しろうと,一般の意見の代表
 man jack	《単数形で》(個々の)人, 個人, 一人, every man Jack 「誰も彼も皆」
@@ -338,6 +584,7 @@ man-hour	(労働者などの)延べ時数,人時(にんじ)(1名1時間の仕事
 man-of-war	軍艦(warship)
 man-sized	(特に広告で)男性用のサイズの;大きな;おとな向きの
 man-to-man	堅苦しくない,率直に打ちあけた,あからさまの
+man.	Manual
 manacle	《複数形で》 / 手錠 / 束縛,拘束 / 〈人〉'に'手錠を掛ける / …'を'束縛する
 manage	《しばしばcan, be able toと共に》…'を'『管理する』,運営する;…'を'処理する / 〈道具・機械など〉'を'『じょうずに扱う』,操る;〈人・動物〉'を'うまく使う / 《『manage to』do》『なんとか』(…)『する』,うまく(…)する;《時に皮肉に》愚かにも(…)する / 管理する,運営する,事を処理する;世話をする / なんとかやっていく;(…で,…なしで)間に合わせる《+『with』(『without』)+『名』》
 manageability	扱いやすいこと,処理しやすいこと
@@ -349,8 +596,6 @@ managerial	《名詞の前にのみ用いて》経営上の;経営者の
 managing	支配する,管理する,経営する
 manana	あす;いつかそのうち / あす;いつかそのうち
 manatee	カイギュウ(海牛)(西インド・メキシコ湾内に群生する哺(ほ)乳動物)
-Manchester	マンチェスター(英国Lancashire州の商工業都市)
-Manchuria	満州(中国北東部の大地域の旧称)
 mandamus	(上級裁判所から下級裁判所への)職務執行令状
 mandarin	〈C〉(中国清朝時代の)官吏 / 〈U〉《M-》北京(ペキン)官話(中国の標準語として使われる) / (また『mandarin orange』)〈C〉マンダリンミカン(日本のミカンはこれに属する)
 mandarin duck	オシドリ(アジア原産のカモの一種)
@@ -377,7 +622,6 @@ mangosteen	マンゴスチン[の実](東アジア産の植物)
 mangrove	マングローブ,紅樹林(熱帯の川や海辺に密生する)
 mangy	(家畜が)かいせんにかかった / 《話》(衣服・場所などが)みすぼらしい,汚い
 manhandle	〈機械など〉'を'人力で動かす / 〈人〉'を'手荒く扱う
-Manhattan	マンハッタン区(ニューヨーク市内南東部の島で商業地区;国連本部などがある) / 〈C〉〈U〉《しばしばm-》《米》マンハッタン(カクテルの一種)
 manhole	(下水道などの)マンホール
 manhood	『男』(おとな)『であること』,(男子の)『成年』 / 男らしさ,勇気 / 《まれ》《集合的に》男子
 manhunt	人間狩り,(特に)犯罪者捜索
@@ -394,9 +638,6 @@ manifestly	明白に,はっきりと
 manifesto	(君主・政府・政党などの)宣言[書],声明[書]
 manifold	いろいろの,多種多様の / 多方面の / (エンジンの)多岐管(エンジンのガスの吸排をする) / (カーボン紙でとった)写し
 manikin,mannikin	小人,一寸法師(dwarf) / =mannequin
-Manila hemp	マニラ麻
-Manila,Manilla	マニラ(フィリッピンの首都)
-Manila paper	マニラ紙(マニラ麻で作ったじょうぶな薄茶色の紙)
 manioc	=cassava
 maniple	腕帛(ばく)(ミサのときに司祭などが左腕にかける飾りバンド)
 manipulable	操作できる,あやつることができる
@@ -410,7 +651,6 @@ manlike	人間らしい,人間のような / 男らしい(manly);(女が)男ま�
 manliness	男らしさ,男性的であること
 manly	『男らしい』,勇ましい;男性的な;男まさりの
 manmade	人造の,人工の
-Mann	マン(『Thomas~』;1875‐1955;ドイツの小説家)
 manna	マナ(聖書で,昔イスラエル人が放浪中に,天から与えられたという食物) / 思いがけずにはいるありがたいもの
 manned	(特に宇宙船が)有人の,人間が乗っている
 mannequin	《ややまれ》マネキン,ファッションモデル / マネキン人形,モデル人形
@@ -457,15 +697,9 @@ manumission	奴隷(どれい)(農奴)からの解放;解放証書
 manumit	(特に古代ローマで)〈人〉'を'奴隷(農奴)から解放する
 manure	肥料,こやし / 〈土地〉'に'肥料をやる
 manuscript	〈C〉(手書きまたはタイプされた印刷用の)『原稿』;〈U〉原稿の状態(《略》『MS.,MS,ms.,ms』) / 〈C〉(特に印刷術発明以前で,手書きの)『写本』
-Manx	英国マン島(the Isle of Man)の;マン島人(語)の / 《the Manx》《集合的に》マン島人 / 〈U〉マン島語
-Manx cat	マン島猫(尾がない)
 many	『多くの』,『たくさんの』,多数の / 《many a(an)…の形で》《文》《単数名詞を従えて》多くの,多数の / 《複数扱い》 / (…の)『多数』《+『of』+『名』(複数形)》;多数の人(もの) / 《the~》『大多数』,大衆 / 心の狭い人,卑しい人
 many-sided	(図形が)多辺の,多辺形の / (問題などが)各方面にわたる / (人が)多才の,多芸の
-Mao Tse-tung,Mao Zedong	毛沢東(1893‐1976;中華人民共和国の指導者)
 mao-tai	マオタイ酒(トウモロコシで作る中国の酒)
-Maoism	毛沢東主義
-Maoist	毛沢東主義[支持]者 / 毛沢東主義の
-Maori	〈C〉マオリ人(ニュージーランドに住むPolynesia人) / 〈U〉マオリ語 / マオリ人の;マオリ語の
 map	(1枚1枚の)『地図』;天体図 / …'の'地図を作る;…'を'地図にかく
 map-reader	地図を解読できる人
 maple	『カエデ』,『モミジ』;〈U〉カエデ材(堅くて木目が美しく,家具用)
@@ -475,7 +709,6 @@ mapping	(数学で)関数 / 地図製作 / (時間の)割当て
 maquis	マキ(フランスなど地中海岸地域の常緑の雑木林) / 《the ~》《複数扱い》《しばしばM-》マキ団(第二次大戦でドイツ軍と戦ったフランスの武装秘密グループの一団)
 mar	…'を'汚す,傷つける / 《文》…'を'損なう(spoil)
 mar.	maritime / married
-Mar.	March
 marabou	ハゲコウ(アフリカ産のコウノトリの一種) / マラブー(ハゲコウの翼や尾の下の羽毛;婦人帽などの装飾用)
 maraca	マラカス(リズム楽器)
 maraschino	マラスキノ酒(ヨーロッパ産の野生サクランボから作るリキュール酒)
@@ -490,14 +723,10 @@ marbling	大理石模様(飾り) / (肉の)縞模様の脂肪のつき方
 marc	マーク(ぶどうやりんごのしぼりかすで作ったブランデー)
 marcasite	白鉄鉱(宝石類似の装飾品を作るのに用いられる)
 march	《方向・状態を表す副詞[句]を伴って》 / (歩調をそろえて)『行進する』,行軍する / 〈人が〉堂々と(ゆうゆうと)歩く / 〈事件などが〉進展する,進む / 《方向・状態を表す副詞[句]を伴って》 / …'を'行進(行軍)させる / 〈人〉'を'急いで連れて行く,追い立てる / 〈U〉『行進』,進軍;〈C〉行進距離;行軍行程 / 〈U〉《the march》(事件などの)『進展』,進行 / 〈U〉(兵隊の)行進歩調 / 〈C〉『マーチ』,『行進曲』 / 国境[地方],境界[地域] / 《the marches》《しばしばM-》(イングランドの)境界地方 / (…と)境を接する《+『on(upon, with)』+『名』》
-March	『3月』(《略》『Mar.』)
 march-past	パレード,行列;(特に軍隊の)分列行進
 marcher	行進をする人
 marching orders	(軍隊の)行軍命令 / 《英話》=walking papers
 marchioness	侯爵(こうしゃく)夫人(未亡人);女侯爵
-Marco Polo	マルコポーロ(1254?‐1324?; Veniceの旅行家；元のKublai Khanに仕え，中国を旅行する・「東方見聞録」の口述者)
-Marconi	マルコーニ(『Guglielmo』 Marconi;1874‐1937;無線電信を発明したイタリアの電気学者)
-Mardi Gras	告解(ざんげ,食肉)火曜日(Lentの始まる前日で,謝肉祭の最終日)(Shrove Tuesday)
 mare	雌ウマ / 月面・火星面の大きな暗い平原(Galileoが望遠鏡で見て海だと信じた)
 mare's-nest	〈C〉(思い違いによる)ありもしない発見 / 〈U〉混乱状態
 margarine	マーガリン
@@ -508,10 +737,7 @@ margrave	(中世ドイツの)辺境伯(国境地域防衛を任とする地方�
 marguerite	マーガレット(ヒナギクの一種)
 maria	mareの複数形
 mariachi	マリアッチ (民族衣装をつけたメキシコの小人数編成路上楽団) ; 〈C〉その団員,楽士; 〈U〉マリアッチ(音楽) (マリアッチの演奏するメキシコのダンス音楽)
-Marian	聖母マリアの
-Mariana Islands	《the ~》マリアナ諸島(フィリッピン諸島東方にある15の小島から成る列島でGuam島を含む)
 mariculture	海水魚人工養殖
-Marie Antoinette	マリーアントワネット(1755‐93;Louis16世の王妃で,フランス革命のとき処刑された)
 marigold	キンセンカ(キク科の植物;花は赤みを帯びた黄色)
 marijuana, marihuana	インド大麻(たいま) / マリファナ(乾燥した大麻)
 marimba	マリンバ(木琴の一種)
@@ -519,17 +745,12 @@ marina	マリーナ(モーターボート・ヨットなど小船舶用の港)
 marinade	マリネード(酢・ぶどう酒に油・香料などを混ぜたつけ汁で,魚肉などを浸す);〈C〉マリネードにつけた肉(魚) / =marinate
 marinate	〈肉・魚など〉'を'マリネードにつける
 marine	『海の』,海洋の;海産の,海洋に住む / 海事の;航海[用]の;船舶[用]の / 〈U〉《集合的に》(一国の)『船舶』 / 〈C〉『海兵』;《通例M-》『米国海兵隊員』(the Marine Corpsの一員)
-Marine Corps	米国海兵隊
-Marineland	マリンランド(水族館を中心とする公園)
 mariner	海員,船員,水夫(sailor)
 marionette	マリオネット,あやつり人形(puppet)
 marital	結婚の
 maritime	海の;海事の;沿海の;海岸に住む
-Maritime Provinces	(カナタの)大西洋岸地域(Nova Scotia, New Brunswick, Prince Edward Islandの3州)
 marjoram	マヨラナ(ハッカに似た植物);〈U〉(香料として料理・調剤に用いる)マヨラナ
 mark	〈C〉(…の表面についた)『跡』,汚れ,はん点《+『on』+『名』》 / 〈C〉『印』,記号,符号,標章 / 〈C〉《おもに英》(学業などの)『点数』,成績,評価,(…の)得点《+『in』(『for』)+『名』》 / 〈C〉(ある性質の)『徴候』,『特徴』,現れ,様相《+『of』+『名』》 / 〈C〉(思想・生活などに及ぼす)『影響』,感化《+『on』+『名』》 / 〈C〉(境界などの)位置を示すもの,指標,目印 / 〈C〉『的』,標的 / 〈C〉《the mark》水準,標準 / 〈U〉《文》著名,重要性;名声 / 〈C〉(軽べつ・もの笑いなどの)対象,的 / 〈U〉《通例M-》武器記号,…型 / 〈C〉スタートライン / (…で)…'に'『印をつける』,跡をつける《+『名』+『with』+『名』》 / 〈物が〉…'を'印となっている,'を'示している / …'を'印(記号など)で示す / 〈物・事柄などが〉…'を'『特徴づける』,目立たせる / 〈答案など〉'に'点(印)をつける / (…の候補に)…'を'選び出す《+『名』+『out for』+『名』》 / …'に'注意を払う,注目する / マルク(ドイツの貨幣単位;《略》『MK.』)
-Mark	聖マルコ(『St.~』;4人の福音書の記者の一人) / 新約聖書の「マルコによる福音書」
-Mark Twain	マークトウェイン(1835‐1910;米国の作家;本名Samuel Langhorne Clemens)
 markdown	値下げ,値引き / 値下げ分
 marked	印(記号)のついた / (物・行為などが)著しい,目立つ,明らかな / (嫌疑などの対象として)目星をつけられている
 markedly	著しく,きわだって,明瞭に
@@ -573,13 +794,10 @@ marrow	髄(ずい),骨髄 / 精髄,粋 / 力,活力
 marrowbone	(だしを取る料理用の)髄骨
 marrowfat	(また『marrowfat pea』)大粒のエンドウ改良品種
 marry	…'と'『結婚する』,'を'夫(妻)にする;《しばしば比喩(ひゆ)的に》〈金・人の財産など〉'と'結婚する / 〈牧師などが〉…'を'結婚させる / 〈特に両親が〉(…に)…'を'嫁にやる,嫁がせる《+『off』+『名』+『to』+『名』》 / 〈いくつかの…〉'を'結合させる,融合させる;(…と)…'を'結びつける《+『名』+『with』+『名』》 / 『結婚する』
-Mars	マルス(ローマ神話の戦争の神;ギリシア神話のAresにあたる) / 火星
-Marseilles	マルセーユ(地中海沿岸にあるフランス第2の都市で商港)
 marsh	沼地,湿地(swamp)
 marsh gas	沼気(沼地・湿地に発生する腐敗ガス)
 marsh marigold	リュウキンカ(キンポウゲ科;北米の湿地帯にはえ黄色い花が咲く)
 marshal	(英国,その他いくつかの国の)軍司令官,元帥,将官 / 《米》連邦裁判所の執行官 / 《米》警察(消防)署長 / 儀式(パレードなどの)準備担当者 / 〈兵隊など〉'を'整列させる,結集させる / 〈事,特に事実・考え〉'を'整理する,整とんする / (所定の位置に)〈人〉'を'案内する《+『名』〈人〉+『into』+『名』》
-Marshall Plan	マーシャルプラン(第二次大戦後,米国務長官George C.Marshallの提唱した欧州復興計画)
 marshalling yard	鉄道操車場
 marshmallow	マシマロ(でん粉・シロップ・砂糖・ゼラチンなどで作った柔らかい菓子)
 marshy	沼地の,湿地の;沼地のような
@@ -588,7 +806,6 @@ mart	市場,店;商業中心地
 marten	〈C〉テン(イタチに似た動物) / 〈U〉テンの毛皮
 martial	戦争の,軍事の / 勇ましい,軍人らしい;好戦的な
 martial law	戒厳令
-Martian	火星の,火星人の / 火星人
 martin	イワツバメ
 martinet	訓練のきびしい軍人;規律の厳格な人,やかまし屋[フランスの将軍の名から]
 martingale	むながい(馬の頭を安定する馬具)・(船)第2斜檣(しゃしょう)を固定する支索
@@ -599,14 +816,6 @@ marvel	〈C〉『驚異』,驚き / 〈C〉《話》《a~》驚くほど(…)の
 marvelous,marvellous	『驚嘆すべき』,信じがたい / 優秀な,すばらしい
 marvelously, marvellously	不思議に;すばらしく,奇妙に
 marvelousness,marvellousness	不思議;すばらしさ,奇妙
-Marx	マルクス(『Karl~』;1818‐83;ドイツの経済学者・哲学者)
-Marxism	マルクス主義,マルキシズム
-Marxism-Leninism	マルクスレーニン主義(共産主義の基盤となる理論)
-Marxist	マルクス主義者 / マルクスの;マルクス主義の
-Mary	聖母マリア(また『Virgin Mary, Saint Mary』)
-Mary Jane	マリファナ(marijuana)
-Mary Magdalene	(また『Mary of Magdala』)マグダラのマリア(イエスによって改心した聖書中の女性)
-Maryland	メリーランド州(米国東部の州;州都はAnnapolis;《略》『Md.,MD』)
 marzipan	マーチパン(すりつぶしたアーモンドに砂糖・卵を加えて煮つめて作った菓子)
 masc.	masculine
 mascara	マスカラ(まつげ・まゆげを染める化粧品)
@@ -617,7 +826,6 @@ masculinely	男らしく,男性的に
 masculinity	男らしさ,男性的なこと
 maser	メーザー(マイクロ波増幅器)
 mash	もやし汁(ビールの原料) / ふすま(ひき割りなど)を湯で溶かした家畜の飼料 / どろどろにすりつぶしたもの / (調理などで)…'を'すりつぶす
-MASH	mobile army surgical hospital陸軍野戦病院・(陸軍)移動外科病院
 mask	(顔の一部または全部をおおう)『仮面』,覆面 / (防護用の)『マスク』,面 / (石膏(せっこう)などの)面型 / (物・事柄を)覆い隠すもの;見せかけ / 〈顔〉'に'面をかぶせる / (…から)〈物・事柄など〉'を'隠す《+『名』+『from』+『名』》
 masked	仮面をかぶった;変装した
 masking tape	保護用紙テープ(塗装のとき非塗装部にはってはみだしを防ぐ)
@@ -626,22 +834,18 @@ masochist	被虐性変態性欲者,マゾヒスト
 masochistic	嗜虐(しぎゃく)性の,被虐性変態性欲の
 masochistically	嗜虐的に
 mason	=stonemason / 《M-》=Freemason
-Mason Dixon line	メイソンディクソン線(ペンシルバニア州の南部の州境;昔のアメリカ合衆国を北部と南部に分ける線)
-Masonic	フリーメーソン(Freemason)主義の
 masonry	石工職,れんが職 / 石(れんが)工事;石造(れんが造り)建築・《M-》=Freemasonry
 masque	仮面劇(16‐17世紀ごろ英国貴族間に流行した一種の無言劇) / 仮装舞踏会
 masquerade	仮装舞踏会 / 仮装;見せかけ / 仮面舞踏会に出る / (…に)仮装する,変装する《+『as』+『名』》
 masquerader	仮面舞踏者;仮装(変装)した人
 mass	〈C〉(一定の形をもたない物に用いて)(…の)『固まり』,集まり《+『of』+『名』》 / 〈C〉『多数』,多量(の…)《+『of』+『名』》 / 〈C〉《the ~》『大部分』(の…),(…の)主要部《+『of』+『名』》 / 〈U〉(物体の)大きさ,かさ / 《the masses》『一般大衆』,庶民 / 〈U〉質量(物体の基本的性質を表す量) / 〈人・物〉'を'集める,一団にする / 〈人・物が〉一かたまりになる,一団となる / 大衆の,一般に普及した / 大規模な
-Mass.	Massachusetts
 mass communication	(新聞・ラジオ・テレビなどによる)大衆伝達,マスコミ
-mass, Mass	ミサ(カトリック教会の聖餐(せいさん)式)
 mass media	大衆伝達の媒体(放送,新聞,映画など)
 mass number	質量数(原子核を構成する中性子と陽子の個数の和)
 mass production	大量生産
+mass, Mass	ミサ(カトリック教会の聖餐(せいさん)式)
 mass-market paperback	大市場用ペーパーバック(スーパーなどで売る)
 mass-produce	(特に機械を利用して)〈物〉'を'大量生産する,量産する
-Massachusetts	マサチューセッツ州(米国北東部の州;州都はBoston;《略》『Mass.,MA』)
 massacre	大虐殺,皆殺し / …'を'虐殺する,皆殺しにする
 massage	マッサージ,あんま術 / …'を'マッサージする
 masscult	大衆文化[mass cultureの略]
@@ -657,14 +861,9 @@ mast	『マスト』,帆柱 / (装飾用の)高い柱;(無電用・起重機用�
 mastectomy	乳房切除の手術;〈U〉乳房が切除された状態
 master	〈C〉『主人』,支配者(人),雇主;(動物の)飼い主 / 〈C〉(…を)自由に駆使できる人,処理する能力のある人《+『of』+『名』》 / 〈C〉(…の)『大家』,『名人』,精通者;師匠《+『of』(『in, at』)+『名』(do『ing』)》 / 〈C〉(商船の)船長 / 〈C〉(学校の男の)『先生』 / 《the M-, our M-》主キリスト(Jesus Christ) / 〈C〉《しばしばM-》修士;修士号 / 〈U〉《M-》《古》…様 / 〈C〉(レコードなどの)原盤,金型,(フイルムの)原板,ネガ / 《名詞の前にのみ用いて》 / 一本立ちで仕事のできる職人の,自営の / 主要な,最上の / 腕のいい,名人の,達人の / (機械・レコードなどの)親になる,元になる / 〈人・物〉'を'『征服する』,支配する;〈感情・欲望〉'を'『抑える』 / 〈特技・技術など〉'を'修得する,'に'熟達する
 master card	(カードゲームで)他のカードに負けないカード / もっともらしい理由
-Master Chief Petty Officer	(米国海軍の)特務曹長
-Master Gunnery Sergeant	(米国海兵隊の)特務曹長
 master key	マスターキー(1個で多種の錠をあけられる親かぎ;合いかぎはa duplicate key)
 master mariner	商船の船長
-Master of Arts	文学修士号(《略》『M.A.』また『A.M.』)
 master of ceremonies	(宮中の宴会などをつかさどる)式部官 / (また《米話》『emcee』)(会合・放送などの)司会者,進行係(《略》『M.C.』)
-Master of Hounds	キツネ狩りの総指揮者
-Master of Science	理学修士号(《略》『M.S.』)
 master sergeant	(米国陸軍・海兵隊の)一等曹長
 master-at-arms	(海軍の)先任衛兵伍長, 警備主任
 master-hand	〈C〉熟練者,大家 / 〈U〉熟練した技術
@@ -717,8 +916,8 @@ math.	mathematical / mathematics
 mathematical	数学の,数学的 / (非常に)正確な
 mathematician	数学者
 mathematics	(また《米話》math,《英話》maths)《単数扱い》『数学』 / 《複数扱い》数学的処理,計算
-matinee,matinée	マチネー,昼興行
 matinee coat	(純毛で作った)赤ん坊用の長上着
+matinee,matinée	マチネー,昼興行
 matins	(また『mattins』)《しばしばM-》(英国国教会の)朝の祈祷(きとう);(カトリック教会の)夜半(夜明け)の祈り / 《しばしば単数形で》《詩》朝の鳥の歌
 matriarch	女家長,女族長 / 尊敬すべき老女
 matriarchy	女家長制,女族長制度
@@ -733,15 +932,12 @@ matrixing	マトリクシング(4チャンネルに再生転換できる2チャ�
 matron	《文》(品位のある年配の)既婚婦人;夫人 / 看護婦長,寮長,保母,女囚監督者
 matron of honor	花嫁の介添役の既婚婦人
 matronly	既婚婦人らしい;品のある,落ち着いた
-Matt.	Matthew
 matt, matte	mat(色[つや]の鈍い，光らない，つや消しの)
 matted	もつれた
 matter	〈U〉『物質』,物体(個体・液体のいづれの状態も含む) / 〈U〉《修飾語を伴って》…体,…質,…素 / 〈C〉(論議・関心の的となる)『事柄』,『問題』;(…に関わる)事,(…で決まる)問題《+『of』(まれ『for』)+『名』》 / 〈U〉《the~》(漠然と)(…にとって)困った事,やっかいな事,事故,支障《+『with』+『名』》 / 〈U〉『重大事』,重要性(importance),関心法 / 〈U〉(演説・論文などの)内容《+『of』+『名』》;(演説などの)題材《+『for』+『名』》 / 〈U〉《修飾語を伴って》…郵便物,…印刷物 / 〈U〉(傷口から出る)うみ(pus) / 『重要である』,大切である
 matter of course	自然の成りゆき,あたりまえの事
 matter-of-course	当然の,もちろんの
 matter-of-fact	(描写などが)事実を扱う,ありのままの / 事務的な,そっけない
-Matterhorn	マッターホーン(アルプス山脈の高峰)
-Matthew	聖マタイ(『St.~』;4人の福音書の記者の一人) / 新約聖書の「マタイによる福音書」;《略》『Matt.』
 matting	マット(むしろ,ござ,たたみ類)
 mattins	=matins
 mattock	根掘りぐわ(一種のつるはし)
@@ -757,10 +953,6 @@ maudlin	いやに感傷的な,ひどく涙もろい,泣きじょうごの
 maul	(くいなどを打ち込む)大づち,かけや / …'を'打って傷つける / …'を'手荒に扱う
 maulstick,mahlstick	腕枕(わんちん)(画家が絵筆を持つ手を支えるのに使う杖)
 maunder	(…について)だらだら話す《+『on about』+『名』》 / ぼんやり歩き回る(さまよう)《+『along』(『about』)》
-Maundy Thursday	洗足木曜日,聖木曜日(復活祭の前の聖週間中の木曜日;キリストの晩餐(ばんさん)を記念する日)
-Maupassant	モーパッサン(『Guy de~』;1850‐93;フランスの作家)
-Mauritania	モーリタニア(アフリカ北西部のイスラム教共和国)
-Mauritius	モーリシャス(インド洋の西部,モーリシャス島および周辺の小島を含む独立国) / モーリシャス島
 mausoleum	霊廟(れいびょう)
 mauve	薄紫色,ふじ色 / ふじ色の
 maven,mavin,mayvin	《米話》くろうと,目きき
@@ -775,16 +967,10 @@ maximal	最上限の,最高度の
 maximize,maximise	…'を'最大限にする
 maximum	(量・数・程度の)『最大限』 / (数学で)極大;最大値;極大点 / 最高の,最大の
 may	《現在・未来の事柄・可能性の推量》…『かもしれない』,たぶん…だろう,…のこともある;《「may have+過去分詞」の形で過去の事柄の推量》…した(だった)かもしれない,たぶん…だったろう / 《but節を伴って譲歩を表して》…『かもしれない』 / 《まれ》《疑問文で強い不確実の意を強めて》いったい…だろうか,…かしら / 《許可》…『してもよい』,してもさしつかえない / 《容認》…『しても』(『と言っても』)『さしつかえない』,…する(と言う)のももっともだ / 《能力》…『できる』 / 《文》《祈言・願望・のろい》…『することを祈る』,…しますように / 《おもに文》《願望・恐れなどの名詞節に》…するように,…しないかと / 《目的の副詞節に》…『するために』,…できるように / 《譲歩の副詞節に》『[たとえ]…であっても』,…かもしれないが
-May	『5月』
-May apple	ミヤオソウ(黄色で卵型の果実を結ぶアメリカ産食用草本)
-May day	五月祭(春の到来を祝う5月1日の祭り;広場にMaypoleを建てMay Queenを選んで踊り楽しむ) / メーデー,労働祭
-May Queen	5月の女王(5月祭の舞踏・競技などの女王に選ばれた少女)
-Maya	〈C〉マヤ人 / 《the~》マヤ族(16世紀以前メキシコ南部および中米にマヤ文明を作った中米インディアン) / 〈U〉マヤ語 / マヤ人の / マヤ族の,マヤ文化の,マヤ語系の
 maybe	『たぶん』,おそらく,ことによると
 maybeetle	コフキコガネ(コガネムシの一種)
 mayday	メーデー(船舶・航空機が発する救難無線信号)
 mayflower	5月に花の咲く植物(《米》ではイワナシ(trailing arbutus)など,《英》ではサンザシ(hawthorn))
-Mayflower	メイフラワー号(1620年Pilgrim Fathersを乗せて英国から新大陸へ渡った船)
 mayfly	カゲロウ,トビケラ
 mayhem	《米》(法律で)身体傷害[行為] / 《話》大混乱[状態]
 mayn't	may notの短縮形
@@ -799,17 +985,11 @@ mayst	=you may, mayの直説法二人称単数現在形
 maze	迷路 / 混乱,当惑,混迷
 mazurka	マズルカ(ポーランドの軽快な4拍子のダンス) / マズルカの曲
 mazy	迷路のような
+maître d'	《話》=maître d'hôtel
+maître d'hôtel	給仕長 / (ホテルのレストランの)支配人
 mc	megacycle[s]メガサイクル
-MC	Marine Corps海兵隊 / Medical Corps医療隊 / Member of Congress(米国の)国会議員
-McCarthyism	マッカーシズム(米国で共産主義者を追放しようとした運動)
-McCoy	[the real ～ で] 《口語》 (高品質の)本物，逸品; (亜流でない)本物の人，正真正銘の人
-McKinley	マッキンレー山(『Mount』(『Mt.』)~;アラスカ州中南部にある北米の最高峰(6192m))
-Md	mendeleviumの化学記号
-Md.,MD	Maryland
 mdnt.	midnight
 me	『私を』(『に』) / 《話》『私』(=『I』)
-ME	Maine / Middle English / Middle East
-Me.,ME	Maine
 mead	=meadow / はちみつ酒
 meadow	『牧草地』,草原
 meadowlark	マキバドリ属の鳴鳥;北米産
@@ -852,7 +1032,6 @@ meathead	《俗》まぬけ,ばか
 meatiness	肉の多いこと,肉付きのよいこと / 内容の充実
 meatpacking	精肉業(家畜を屠殺(とさつ)し市場へ肉を卸す;肉の販売店はa meat(butcher) shop,《英》 butcher's)
 meaty	肉の,肉のような / 肉の多い,肉付きのよい / 内容の充実した
-Mecca	メッカ(Saudi Arabiaの商業都市;Muhammadの誕生地でイスラム教の霊地) / 〈C〉《しばしばm-》行ってみたい(あこがれの)所;(…の)発祥地《+『of』(『for』)+『名』》
 mech.	mechanical / mechanics / mechanism
 mechanic	『機械工』,職工
 mechanical	『機械の』,道具の;機械(道具)を必要とする / 機械仕掛けの,機械操作の,機械製の / 機械に適した,機械向きの;(人・行動などが)機械的な,自動的な
@@ -883,11 +1062,9 @@ mediation	調停,仲裁
 mediator	調停者,仲裁者
 medic	医学生,インターン / 医学関係者;《特に米》衛生兵,看護兵
 medicable	医療が可能な,治療できる
-Medicaid	医療扶助(一定限度の収入しかない人に対する,州または連邦の医療保険制度)
 medical	『医学の』,医術の;医者の / 内科の;内科治療を要する / 診察
 medically	医学(医術)的に;医学(医術)によって
 medicament	薬,医薬品
-Medicare	老人医療保障制度(米国・カナダでは65歳以上)
 medicate	〈人・病気・傷など〉'を'薬で治療する / …'に'薬を加える,薬剤を投入(添加)する
 medicated	薬を混入した
 medication	〈C〉〈U〉薬剤,医薬品 / 〈U〉薬剤を添加(投入)すること;薬物治療
@@ -897,16 +1074,12 @@ medicine ball	メジシンボール(バスケットボールより大きくて�
 medicine chest	薬箱
 medicine man	(北米インディアンの)呪医(じゅい)
 medico	医師,医学生
-Medieval Latin	中世ラテン語(A.D.700‐1500ごろに,特に文学で用いられたラテン語)
 medieval,mediaeval	『中世の』,中世に属する;中世ふうの / 《話》旧式の
-Medina	メジナ(Saudi Arabia西部の都市;Muhammadの墓があり,Meccaとともにイスラム教徒の聖地とされる)
 mediocre	月並みの,平凡な;中途半端な
 mediocrity	〈U〉普通,並み / 〈C〉並みの人
 meditate	(…を)『慎重に考える』,熟考する《+『on』(『upon』)+『名』(do『ing』)》 / (特に宗教的な意味で)瞑想(めいそう)する / …'を'『もくろむ』,企てる
 meditation	〈U〉深く考えにふけること,沈思黙考;(宗教的)瞑想 / 〈C〉《しばしば複数形で》(ある題目についての)深い論究
 meditative	深く考えにふける,沈思黙考する
-Mediterranean	=Mediterranean Sea / 地中海地方 / 『地中海の』;地中海地方[の住民]特有の
-Mediterranean Sea	『地中海』
 medium	中間(中程度)にあるもの,中庸(mean) / 媒介物,媒体 / 《複数形mediaで》=mass media / 『手段』,方法(means) / (芸術の)表現手段,手法 / (動植物がそこで生存し機能を発揮する)環境;(細菌の)培地,培養基 / 霊媒者 / 『中間の』,並みの
 medium wave	(無線で)中波
 mediumistic	霊媒の,心霊術の
@@ -937,18 +1110,13 @@ megillah	長ったらしい説明,くどい話
 megohm	メグオーム,百万オーム(電気抵抗の単位;《略》『meg』)
 megrim	偏頭痛
 meiosis	(細胞核の)減数分裂 / 控え目な表現,譲歩表現
-Mekong	メコン川(南シナ海に注ぐ東南アジアの大河)
 melamine	メラミン(白色の結晶でおもに合成樹脂の製造に用いる)
 melancholia	憂うつ病,うつ病
 melancholic	憂うつな,ふさぎ込んだ / うつ病の,うつ病にかかった
 melancholy	憂うつ,もの悲しさ / もの悲しいふんい気 / (人・気持ちが)憂うつな,ふさぎ込んだ / (事柄・話などが)もの悲しい気持ちにさせる,悲しげな
-Melanesia	メラネシア(オーストラリアの東,南太平洋上の群島の総称)
-Melanesian	メラネシアの;メラネシア人(語)の / メラネシア人;〈U〉メラネシア語
 melange,mélange	混合物,寄せ集め
 melanin	メラニン(皮膚・毛髪などに見られる黒色色素)
 melanism	黒色症(皮膚や髪に多量の黒い色素の出る病気)
-Melba toast	メルバトースト(かりかりに焼いた薄切りのトースト)
-Melbourne	メルボルン(オーストラリア南東部Victoria州の首都で海港市)
 meld	(カードゲームで)〈ある組み合せのカード〉'を'見せて得点を宣言する / 得点宣言をする / 得点になる組合せ
 melee,mêlée	《単数形で》乱闘
 meliorate	…'を'改善する,改良する / 改善される,良くなる
@@ -972,7 +1140,6 @@ melting point	(固体の)融解点
 melting pot	(金属などを溶かす)るつぼ / (人種・文化の)るつぼ(いろいろな人種・考えの人が同居して一つの文化を作っている所)
 mem.	member / memoir / memorial
 member	(集団の)『一員』,会員,メンバー《+『of』+『名』》 / 《またM-》国会議員 / (数式の)項,辺 / 《文》身体の一部;(特に)手,足 / 《遠回しに》男根
-Member of Parliament	(英国の)下院議員(《略》『M.P.』)
 membership	〈U〉(団体の)一員(成員,メンバー)であること / 〈C〉《単数形で》(団体・組織の)全会員 / 《単数形で》(団体・組織の)構成員の数,会員数
 membrane	(生物の)膜,皮膜
 membranous	膜の;皮膜に似ている
@@ -985,38 +1152,29 @@ memorably	忘れ得ずに
 memoranda	memorandumの複数形
 memorandum	メモ,覚え書き / (会社内などの)連絡メモ,回覧,回報 / (契約・取引きなどの条件の)要約,摘要書;(会社の)定款(ていかん)
 memorial	『記念の』,追悼の / 『記念物』,記念像(碑);記念行事,記念式 / 《通例複数形で》(歴史の)記録,年代記 / 《まれ》(政府,議会などへ出す)請願書,陳情書
-Memorial Day	(米国の)戦死将兵記念日(南北戦争以後の戦死者の墓を花で飾る;最初5月30日に行われたが,今では大多数の州で5月の最終月曜日)
 memorialize,memorialise	…'を'記念する / 〈政府,議会など〉'へ'請願書を提出する,請願する
 memorization,memorisation	記憶,暗記
 memorize,memorise	…'を'『記憶する』,暗記する
 memory	〈C〉〈U〉『記憶』[『力』] / 〈C〉『思い出』,思い出の人(物,事) / 〈U〉《the~》記憶している期間 / 〈C〉死後の名声
-Memphis	メンフィス(Tennessee州南西部ミシシッピー川流域の港市)
 men	manの複数形
 men's room	男子用手洗所(《英話》Gents)
 men-at-arms	man-at-armsの複数形
 menace	〈U〉(…に対する)『脅迫』,威嚇(いかく);〈C〉(…を)おびやかす人(物)《+『to』+『名』》 / 〈C〉《話》やっかいな人(物) / …'を'おびやかす,危険にさらす(threaten)
 menacing	脅迫的な,威嚇(いかく)的な
 menad	=maenad
-ménage,menage	〈C〉家庭 / 〈U〉家政,家事
-ménage à trois,menage a trois	夫婦とその一方の愛人が同居している関係・三角関係
 menagerie	《集合的に》(動物園の)動物 / 動物園
 mend	…'を'『直す』,修繕する / 〈行い・誤りなど〉'を'『改める』,改善する / (繕って)元通りになる / 〈病人・けがなどが〉快方に向かう / 修繕箇所 / かがった部分
 mendacious	偽りの;うそをつく
 mendacity	うそをつくこと,虚偽
-Mendel	メンデル(『Gregor~』;1822‐84,オーストリアの遺伝学者)
-Mendelian	メンデルの法則の,メンデルの
-Mendelssohn	メンデルスゾーン(『Felix』 ~;1809‐47;ドイツの作曲家)
 mender	修理(改良)者
 mendicant	物もらい;托鉢僧
 mending	つくろい[物]
-Menelaus	メネラーオス(ギリシア神話で,スパルタの王でHelenの夫)
 menfolk	《話》男たち / 男性の親類
 menhaden	ニシンの一種(油や肥料用)
 menial	(仕事などが)くだらない / 《古》召使の,召使にふさわしい / 《しばしば軽べつして》召使,奉公人
 meninges	髄膜
 meningitis	脳膜炎
 meniscus	〈C〉三日月形の物体 / 〈C〉凹凸(おうとつ)レンズ / 〈U〉(器の中の液体の表面の)凸面,凹面
-Mennonite	メノー派教徒(兵役・宣誓を拒否し質素な生活を営むキリスト教福音教会の一派)
 menopause	《the ~》(また《話》『change of life』)月経閉止期,更年期
 menorah	(ユダヤ教でおもに宮清めの祭り(Hanukkah)に用いる)大燭台
 mensch	りっぱな人間, あれー, おやおや
@@ -1046,11 +1204,9 @@ mention	…'を'『簡潔に述べる』 / …の名を挙げる / 〈U〉(…�
 mentor	指導者,師・(良き)助言者,顧問
 menu	(レストランの)『メニュー』,献立表 / 料理
 meow	ニャー(猫の鳴き声) / 〈猫が〉ニャーと鳴く[擬声語]
-Mephistopheles	メフィストフェレス(中世ドイツ伝説の悪魔;特にゲーテの詩劇「ファウスト」(Faust)で有名) / 〈C〉悪賢い人
 mer.	meridian
 mercantile	商業の,貿易の / 商人の
 mercantilism	重商主義
-Mercator projection	メルカトル[投影]図法(地図製作法の一種)
 mercenary	金銭(報酬)目あての / (兵士が)外国の軍隊に雇われた / 外国人雇い兵
 mercer	服地商人
 mercerize,mercerise	〈綿糸・綿布〉'を'マーセル法で処理する(苛性(かせい)ソーダで処理し,つやや強さを増す)
@@ -1067,10 +1223,8 @@ merciless	無慈悲な,残酷な
 mercurial	(比較変化なし)水銀の,水銀を含む,水銀の作用による / 機敏な,快活な / 気まぐれの,移り気の
 mercuric	{形}水銀の/水銀を含む
 mercuric chloride	塩化第二水銀,昇汞(しょうこう)
-Mercurochrome	マーキュロクローム,赤チン(消毒液の商標名)
 mercurous	第一水銀を含んだ
 mercury	〈U〉『水銀』(化学記号は『Hg』) / 《the~》(温度計・晴雨計の)『水銀柱』
-Mercury	水星 / 『マーキュリー』(ローマ神話で,商業をつかさどり,神々の使者をつとめた神;ギリシア神話のHermesにあたる)
 mercy	〈U〉『慈悲』,寛大,あわれみ / 〈C〉《a~》ありがたいこと,感謝すべきこと
 mercy killing	安楽死
 mere	『ほんの』,単なる / 湖,池
@@ -1087,7 +1241,6 @@ merit	〈U〉『価値』,優秀さ;〈C〉《しばしば複数形で》(賞賛
 meritocracy	《おもに英》(門閥でなく)実力主義[の人々]
 meritorious	《文》賞賛(報奨)に値する,勲功(価値)のある
 merle,merl	ヨーロッパ黒鳥
-Merlin	マーリン(アーサー王伝説の中の高徳の魔術師・予言者)
 mermaid	(女の)人魚
 merman	(男の)人魚
 merrily	『愉快に』,楽しそうに
@@ -1110,29 +1263,21 @@ mesmerism	催眠術(hypnotism)
 mesmerist	《古》催眠術師(hypnotist)
 mesmerize,mesmerise	《おもに古》…'に'催眠術をかける / (金縛りにあったように)…'を'びっくりさせる
 meson	中間子(素粒子の1つ;陽子と電子の中間の質量)
-Mesopotamia	メソポタミア(チグリス・ユーフラテス両川の流域の総称で,現在のイラク共和国の大部分を占めていた;古代文明の発祥地)
-Mesopotamian	メソポタミアの / メソポタミア人
 mesosphere	中間圏(地表約50から80キロメートルの所に広がっている大気層)
 mesospheric	{形}地球の大気圏にある中間圏の
-Mesozoic	(地質時代の)中生代 / 中生代の
 mesquite	メスキート(アメリカ南部およびメキシコ原産の豆科の植物)
 mess	〈U〉《時にa ~》『雑然としていること』,ごちゃごちゃ,混乱 / 〈C〉《単数形で》雑然とした物,ごちゃごちゃになった物;頭の中が混乱した人 / 《話》(雑多な種類の混じった,魚などの)1回の捕獲量《+『of』+『名』》 / 〈C〉《集合的に》(特に陸・海軍の)会食グループ,食事仲間 / 〈U〉(会食グループがとる)食事 / 〈C〉=mess hall / …'を'めちゃくちゃにする,乱雑にする《+『up』+『名』,+『名』+『up』》 / (…と)会食をする《+『together with』+『名』》
 mess hall	軍隊内の食堂
 message	〈C〉(文書・言葉・信号などによる)『伝書』,通信,メッセージ / 〈C〉教書 / 〈U〉《the~》要旨,意図,訴え;お告げ,神託
-Messeigneurs	Monseigneurの複数形
 messenger	『使いの者』,走り使い;(電報・郵便物・小包の)配達人;(公文書の)送達吏
-Messiah	(ユダヤ教で)メシア(神に約束されたユダヤ人の救い主) / (キリスト教で)救世主たるキリスト / 〈C〉《m-》救世主(平和と繁栄の時代の到来を約束する指導者)
-Messianic	救世主の[ような]
 messieurs	monsieurの複数形(《略》『Messrs.,M.M.』)
 messily	取り散らかして,ごたごたと
 messmate	(軍隊の)食事仲間,同宿同飯の友
-Messrs.	Mr(Mr.)の複数形 / messieurs
 messuage	(法律用語で,付属の建物や庭園・土地を含む)家屋敷
 messy	(場所・部屋などが)乱雑な,取り散らかした;(物が)汚れた,きたない / やっかいな,面倒な
 mestizo	混血人(特にスペイン人とインディアンとの混血)
 met	meetの過去・過去分詞
 met.	meteorology / metropolitan
-Met Office	気象庁
 metabolic	新陳代謝の
 metabolism	新陳代謝,物質交代
 metabolite	代謝物質(新陳代謝によって生じる物質)
@@ -1182,12 +1327,9 @@ methanol	=methyl alcohol
 methinks	《古》(…と)私には思われる
 method	〈C〉(特に秩序だった)(…の)『方法』,方式《+『of』+『名』(do『ing』)》 / 〈C〉〈U〉(思考・行為・行動の)きちょうめんさ;秩序,筋道
 methodical	秩序立った,組織的な / (習慣・行動の点で)きちんとした
-Methodism	メソジスト派の信仰(教義,礼拝方式)(メソジスト派は18世紀英国において John Wesley がおこしたキリスト新教の一派)
-Methodist	メソジスト教会員 / メソジスト派の;メソジスト教会[員]の
 methodize,methodise	…'を'方式化する
 methought	methinksの過去
 methuselah	〈U〉長寿の人(旧約聖書のメトセラに由来) / メトセラ瓶(酒瓶の大型ボトル,約6リットル)
-Methuselah	〈C〉メトセラ(旧約聖書の登場人物で,969歳まで生きたとされる)
 methyl alcohol	メチルアルコール
 methylated spirits	変性アルコール(ランプ・ヒーターに用いる)
 meticulous	細かなことに気を配る;(…に)細かく気を配る《+『in』+『名』(do『ing』)》
@@ -1208,39 +1350,19 @@ mettle	気性,気質 / 元気,勇気;根性,気力
 mettlesome	元気のある,威勢のよい
 mew	〈C〉（猫やカモメなどの鳴き声）ミャー / =meow /  {動}(猫やカモメが)鳴く / 《古》馬小屋の並ぶ路地,うまや / うまやを改築したアパート / (文語)(古語)…を閉じこめる
 mewl	(赤ん坊が泣くように)弱弱しく泣く / 弱々しい泣き声
-Mex.	Mexico / Mexican
-Mexican	メキシコの;メキシコ人の;メキシコ語の;メキシコ文化の / メキシコ人
-Mexican Spanish	メキシコで話されるスペイン語
-Mexican War	メキシコ戦争(1846年から1848年にかけて戦われた,アメリカ合衆国とメキシコとの間の戦争)
-Mexico	メキシコ合衆国
-Mexico City	メキシコシティ(メキシコ合衆国の首都)
 mezzanine	(階と階の間の)中二階 / (劇場の)二階さじき[前列]
 mezzo	{形} 中間の / 中くらいの / (音楽で)中音域の女声 / =mezzo-soprano
 mezzo-soprano	〈U〉メゾソプラノ,次高音(sopranoより低く,altoより高い女性の声) / 〈C〉メゾソプラノ歌手
 mezzotint	〈U〉メゾチント彫刻(あらくした銅版面の所々をならして明暗をつける法) / 〈C〉メゾチント版
-MF	medium frequency 中波
 mg	milligram[s]
-Mg	magnesiumの化学記号
-Mgr.	Manager / Monseigneur / Monsignor
 mgt.	management
-MHz	megahertz
 mi	ミ(全音階の第3音)
-MI	Michigan / Military Intelligence 陸軍情報部
-MIA	= M.I.A. / missing in action 戦闘中行方不明兵士 / 戦闘中行方不明
-Miami	マイアミ(米国Florida州南東部大西洋岸の都市で臨海避寒地)
 miaow	=meow
 miasma	(沼や腐った物から発して病気のもととなると考えられていた)毒気 / 悪影響,悪い雰囲気
 miasmal	毒気の,沼気の / 有毒な
 mica	雲母(うんも),きらら
 mice	mouseの複数形
-Mich.	Michigan
-Michael	天使長ミカエル(旧約聖書「ダニエル書」)
-Michaelmas	ミカエル祭(天使長ミカエルを祝って9月29日に行う祭日)
-Michaelmas daisy	《英》アスター(秋の初めに青味をおびた赤や桃色の花をつける)
-Michelangelo	ミケランジェロ(1475‐1564;イタリアの彫刻家・画家・建築家)
-Michigan	ミシガン州(米国中北部の州;州都はLansing;《略》『Mich,MI』) / ミシガン湖(『Lake~』;米国の五大湖の1つ)
 mick	《俗》《軽べつして》アイルランド人
-Mickey Mouse	《米俗》平凡な,単調な・ミッキーマウス (Disneyのアニメ・キャラクター); 〔俗〕(またm- m-) くだらない［安っぽい］(もの); 〔俗〕 楽勝科目
 micra	micronの複数形
 micro miniature	(特に電子装置が)超小型の
 microbe	微生物,(特に)細菌
@@ -1260,8 +1382,6 @@ microgroove	(LPレコードの)細い溝
 micrometer	測微計,マイクロメーター(微小な寸法・距離・角度などを精密に測定する各種の装置)
 microminiaturization	(電子装置などの)超小型化
 micron	ミクロン(100万分の1メートル;記号はμ)
-Micronesia	ミクロネシア(Mariana,Caroline,Marshall諸島などを含む,大洋州の3大区分の一つ;1979年アメリカ合衆国信託統治領より独立;公式名はthe Federated States of Micronesia(ミクロネシア連合州);首都Saipan)
-Micronesian	ミクロネシアの,ミクロネシア人(語)の / 〈C〉ミクロネシア人 / 〈U〉ミクロネシア語
 microorganism	微生物
 microphone	『マイクロフォン』,拡声器
 microscope	『顕微鏡』
@@ -1277,29 +1397,18 @@ mid,'mid	=amid
 mid-off	〈U〉ミッドオフ(クリケットで投手の左側の野手の位置) / 〈C〉この位置にいる野手
 mid-on	〈U〉ミッドオン(クリケットで投手の右側の野手の位置) / 〈C〉この位置にいる野手
 midair	空中,上空
-Midas	ミダス(手に触れるものを金に変える力を持っていたギリシア神話の王)
 midcourse	《名詞の前にのみ用いて》(ロケットなどの)中間軌道の / 中間軌道
 midday	正午,真昼 / 正午の,真昼の
 midden	こやしの山,ごみの山, 貝塚
 middle	(空間的に)『まん中の』 / (時間・順序・数量などが)『中間の』,まん中の / 『平均の』,中ぐらいの / 《M-》(言語史で)中期の / 《the~》(場所・地域の)『まん中』,『中央』《+『of』+『名』》 / (時間・順序などの)まん中,(行為などの)最中《+『of』+『名』+(do『ing』)》 / 《話》《the~,one's~》(人の)胴,腰
-middle age	中年(40‐60歳くらい)
-Middle Ages	(西洋史の)中世(ローマ帝国滅亡からルネサンスの初期まで,5‐15世紀中ごろまでを指す)
-Middle America	中部アメリカ(メキシコ・中央アメリカを含む地域) / 《集合的に》中産階級に属するアメリカ人
 middle C	(楽譜上で)中央のハ
+middle age	中年(40‐60歳くらい)
 middle course	中道
 middle distance	(油絵などの)中景 / 中距離競走
 middle ear	中耳
-Middle East	中東(西はリビアから東はイラク・サウジアラビアまでの地域,時にはトルコ・イラン・アフガニスタン・パキスタンを含む)
-Middle Eastern	中東の
-Middle English	中[世]英語(12世紀中ごろから15世紀末まで話された英語;《略》『ME』)
 middle finger	中指
-Middle French	中世フランス語
-Middle Kingdom	中国
 middle name	中間名(first nameとfamily nameの間の名) / 《the ~》《話》(人の)目立つ点,特徴
 middle school	中等学校(特に私立学校の学年区分で5年生から8年生まで)
-Middle West	米国中西部(オハイオ州とロッキー山脈の間にあり,ネブラスカ州・カンザス州以北の平原地帯)
-Middle Western	米国中西部の
-Middle Westerner	米国中西部の人
 middle-age spread	中年ぶとり
 middle-aged	中年の;中年特有の
 middle-distance	(スポーツで)中距離の
@@ -1313,7 +1422,6 @@ middleweight	ミドル級選手(ボクシング・レスリング・重量あげ
 middling	(大きさ・質・程度などが)中位の,普通の / 中ぐらいに,かなり
 middy	《話》=midshipman / =middy blouse
 middy blouse	セーラー服(女・子供が着るV字形の広いえりのゆったりしたブラウス)
-Mideast	=Middle East
 midge	蚊,(特に小さい)ブヨ
 midget	(体の各部分の釣り合いはとれているが全体が)極端に小さい人,ちび / 超小型のもの / 非常に小さい
 midi	ミディスカート(ドレス)
@@ -1328,14 +1436,11 @@ midships	=amidships
 midst	中央,まん中 / =amid
 midstream	流れの中ほど
 midsummer	真夏 / 夏至(6月21日頃) / 真夏の;夏至の
-Midsummer Day	洗礼者ヨハネの祝日(6月24日)
 midsummer madness	底抜けの狂乱,狂気のさた
 midterm	学期の中間 / (学期の)中間試験 / 中間の
 midtown	市(町)の中心部 / 市(町)の中心部の
 midway	(距離・時・事の経過などの)中ほどの,まん中の / (道・距離の)中ほどに / (博覧会などの)余興場
 midweek	週の中ほど(特に水曜日;火曜日と木曜日が加わることもある) / 週の中ほどの
-Midwest	=Middle West
-Midwestern	=Middle Western
 midwicket	〈U〉ミッドウィッケット(クリケットで投手の右側前方の位置) / 〈C〉この位置にいる野手
 midwife	助産婦,産婆
 midwifery	産婆術,助産術
@@ -1344,7 +1449,6 @@ midyear	1年の中ほど / 1年の中ほどの
 mien	(人柄・感情が分かるような)態度,物腰,様子
 miff	〈人〉'に'腹をたてさせる
 miffed	むっとして
-Mig,MIG	ミグ(旧ソ連製ジェット戦闘機)
 might	mayの過去形 / 《直説法で》《時制の一致により従節に用いて》 / 《仮定法で》 / 《現在の事実と反対の仮定》…『かもしれないのだが』;…してもよい / 《過去の反対の推量》…『したかもしれない』 / 《仮定法から転じて遠回しの表現で》 / 《可能性・推量》『ひょっとしたら』…『かもしれない』 / 《疑問文で》《不確実》いったい…だろうか / 《許可》…『してもよい』 / 《提案・依頼》…『してくれませんか』…してみてはどうだろうか / 《非難・不平》…『してもよさそうなものだ』 / (…の)『巨大な力』,強い影響力《+『of』+『名』》 / 体力,腕力;(一般に物事をする)能力
 might-have-beens	もしかしたらそうなったかもしれないこと
 mightily	力強く,勢いよく,激しく / 《話》非常に
@@ -1362,7 +1466,6 @@ mike	=microphone
 mil	ミル(1000分の1インチ)
 mil.	military
 milady	奥様,夫人
-Milan	ミラノ(イタリア北部の都市;イタリア名はMilano)
 milch	乳を出す
 mild	(人,人の気性・態度などが)『柔和な』,ものやわらかな,温和な / (程度・力・効果などが)『適度な』,ほどよい / (病気などが)そんなにひどくない,軽い / (気温が)おだやかな / (味・においが)強くない,ぴりぴりしない / マイルド(苦みの少ないビールの一種)
 mildew	(植物につく)べと病,うどん粉病 / (湿気により紙・皮革・食物・木材などにつく)白色(灰色)のかび / …'に'かびをはやす / かびがはえる
@@ -1413,7 +1516,6 @@ milkshake	ミルクセーキ
 milksop	弱虫,めめしい奴(sissy)
 milkweed	トウワタ(大きな葉と種の入った長いさやを有し,紫色の花をつける植物で乳状の液を出す)
 milky	乳白色の / 乳を含んだ;乳を出す / (液体が)不透明な;白濁した
-Milky Way	銀河,天の川(the Galaxy)
 mill	『製粉所』 / 『製粉機』;(手動の)ひき器 / 製造所,工場 / 〈穀物・コーヒーなど〉'を'ひいて粉にする,製粉する / 〈金属・鋼鉄〉'を'圧延機(断裁機,打出機など)にかける / 〈貨幣など〉'の'へりにぎざぎざをつける / 〈家畜・人の群れが〉目的もなくうろうろする;ぞろぞろ歩く《+『about(around)』》 / ミル(貨幣計算の単位;1ドルの1000分の1,1セントの10分の1)
 millage	(不動産などの)税率(1ドル当たりをミル(mill)という単位で計算する), ドル当たりミル数
 millboard	ミルボード(書籍の表紙用のじょうぶな板紙)
@@ -1447,8 +1549,6 @@ milometer	=mileometer
 milord	御前(ごぜん)様,だんな
 milquetoast	気の弱い人,いくじなし
 milt	(雄魚の)魚精,白子
-Milton	ミルトン(john~;1608‐74;英国の詩人,Paradise Lostの作者)
-Milwaukee	ミルウォーキー(米国Wisconsin州の都市)
 mime	〈C〉身ぶり道化役者 / 〈U〉身ぶり道化を演じること / 〈C〉(古代ギリシア,ローマの)道化芝居(ものまねで実際の人物や事件を風刺した芝居) / 身ぶりで道化芝居をする;物まねをする / 〈動作など〉'を'身ぶりで演じる;〈人物〉'を'まねる
 mimeo	=mimeograph
 mimeograph	謄写版,複写器 / (謄写版による)写し / …'を'謄写する(duplicate)
@@ -1493,10 +1593,8 @@ mineralize,mineralise	〈金属〉'を'鉱物化する / …'に'鉱物質を含
 mineralogical	鉱物学的の
 mineralogist	鉱物学者
 mineralogy	鉱物学
-Minerva	ミネルバ(ローマ神話で知恵・芸術・工芸の女神;ギリシア神話ではアテネと呼ばれる)
 minestrone	ミネストローネ(肉・野菜・パスタなどを入れて煮たスープ)
 minesweeper	(敵の機雷を除去する)掃海艇
-Ming	(中国の)明,明朝(1368‐1644)
 ming tree	(中国風の)盆栽
 mingle	(…と)…'を'『混ぜる』,混ぜ合わせる《+『名』+『with』+『名』》 / (…と)『混じる』,一つになる《+『with』+『名』》
 mingy	けちな,けちけちした(stingy)
@@ -1526,12 +1624,8 @@ ministration	援助,奉仕 / 牧師の職務,聖職
 ministry	〈U〉《the~》牧師の職 / 《the~》《集合的に》聖職者,牧師(clergy) / 〈C〉(英国・欧州諸国・日本などの)『省』;省の建物 / 〈C〉《通例単数形で》大臣(公使)の職(任期) / 〈C〉《しばしばthe M-》『内閣』,閣僚たち
 miniver	ミニバー(貴族の礼服に用いられる白い毛皮)
 mink	〈C〉ミンク(イタチに似た動物) / 〈U〉ミンクの毛皮(光沢のある茶色で,高価) / ミンクの
-Minn.	Minnesota
-Minneapolis	ミネアポリス(ミネソタ州の東南部にある州最大の都市)
 minnesinger	(12‐14世紀ドイツの)吟遊詩人,叙情詩人
-Minnesota	ミネソタ州(米国北中部の州;州都はSt.Paul;《略》『Minn.,MN』)
 minnow	ウグイに似たコイ科の小さな魚;魚釣りのえさにされる / 小魚,ざこ
-Minoan	ミノス文明の(紀元前2500‐1100年にクレタ島で栄えた文明) / ミノス人
 minor	『小さいほうの,少ない』 / (階級・地位・重要性などが)『劣ったほうの』,重要でない / 重大ではない / 未成年の / (音楽で)短調の / 未成年者 / (大学の科目・課程の)副専攻科目 / (音楽で)短調 / 《the minors》《米》=minor league
 minor key	(音階の)短調
 minor league	マイナーリーグ,小リーグ(野球・アイスホッケーなどの下位のプロスポーツ連盟)
@@ -1542,8 +1636,6 @@ minor third	(音階の)短3度
 minority	〈C〉《単数形で》(ある集団または全体を構成する,多数に対する)『少数』,(過半数に対する)半数以下 / (またminority group)〈C〉(人種・宗教・政治の点で)『少数派』,少数グループ,少数民族 / 〈U〉未成年;未成年期
 minority government	(野党よりも議席の少ない)少数党内閣
 minority leader	(上下両院それぞれの)野党の院内総務
-Minos	ミノス(ギリシア神話でクレタ島の王、迷宮(labyrinth)を造営してミノタウロスをその迷宮に閉じこめた;よみの国の死者の裁判官)
-Minotaur	ミノタウロス(ギリシア神話で人身牛頭の怪獣;ミノスによって迷宮に閉じこめられ,テセウスに殺された)
 minster	修道院に付属した教会堂 / 大寺院(cathedral)
 minstrel	(中世の)吟遊(ぎんゆう)詩人 / minstrel showの出演者
 minstrel show	ミンストレルショー(アメリカで始まったバラエティーショー;白人が黒人にふんして歌い,踊り,お笑い寸劇を演じる)
@@ -1561,10 +1653,8 @@ minute book	=minute
 minute gun	分時砲 / 1分ごとにならす弔砲 / 昔の船の遭難信号
 minute hand	(時計の)分針,長針
 minute steak	即席ステーキ(短時間で料理できる薄切りステーキ)
-Minuteman	《時にm-》緊急召集に備えて待機していた民兵
 minutia	(…の)細目,詳細,ささいなこと《+『of』+『名』》
 minx	おきゃん,おてんば娘,生意気な娘
-Miocene	(地質時代の)中新世(草食哺乳(ほにゅう)類の存在を特徴とする第三紀の一つの世に相当する時代) / 中新世の
 miracle	『奇跡』,神わざ / 『驚嘆すべきこと』;(…の)驚異《+『of』+『名』》
 miracle play	奇跡劇(キリスト・聖徒・殉教者たちの生涯を扱った中世の宗教劇)
 miraculous	奇跡の,奇跡による / 驚くべき,信じがたい / 奇跡を行う力のある
@@ -1576,9 +1666,7 @@ mirror image	(鏡に映した左右逆に見える)(…の)鏡像《+『of』+�
 mirth	陽気な騒ぎ,笑いさざめき;陽気,愉快
 mirthful	楽しい,愉快な,陽気な(merry)
 mirthless	愉快でない
-MIRV	Multiple Independently targeted Reentry Vehicle多数弾頭独立目標再突入ミサイル
 miry	泥だらけの;泥沼の
-mise-en-scène	舞台装置 / 《文》(事件の)状況
 misadventure	不幸,不運(misfortune);〈C〉不運なでき事,災難
 misadvise	〈人〉'に'誤った忠告をする,不適当な助言をする
 misalliance	(特に,家柄・身分などが)不釣り合いな結婚
@@ -1627,6 +1715,7 @@ misdirect	(道案内などで)〈人〉'に'誤った指示を与える / 〈自
 misdirection	(…の)見当違い,誤った指示《+『of』+『名』》
 misdo	…'を'間違ってする,やり損なう
 misdoing	《通例複数形で》《文》非行,悪行(misdeed)
+mise-en-scène	舞台装置 / 《文》(事件の)状況
 miser	『欲ばり』,けちん坊,守銭奴
 miserable	(人が)『みじめな』,ひどく不幸な / (物事が)人の気をめいらせるような,哀れな;ひどく不快な / 《名詞の前にのみ用いて》貧弱な,みすぼらしい,程度の低い
 miserably	みじめに,哀れに,見る影もなく;貧弱に,粗末に
@@ -1683,7 +1772,6 @@ misreport	《しばしば受動態で》…'を'虚報を伝える,'を'誤っ�
 misrepresent	…'を'間違って(偽って)伝える
 misrule	悪政,矢政 / …'の'統治(政治)を誤る
 miss	〈C〉未婚婦人;《複数形で》少女(girl) / 《M-》《未婚婦人の姓・姓名の前に付けて》…『嬢』,…『さん』 / 《通例M-》《おもに英》《生徒が女の先生に対して》…先生 / 《通例M-》《単独で呼び掛けに用いて》お嬢さん;《ふざけて》おねえちゃん / 《M-》《おもに容姿端麗のため一国・一団の代表に選ばれた未婚女性に対して》ミス… / 〈ボールなど〉'を'『打ち損なう』,〈的(まと)など〉'を'『外す』 / 〈人〉'に'『会い損なう』,〈列車・船など〉'を'『捕まえ損なう』;〈約束など〉'に'間に合わない / …'を'『見落とす』,見そこなう,見矢う / 〈物事〉'を'『逃す』,逸する / 〈会合・学校など〉'に'出席しない / …'を'理解できない / …'が'ない(いない)のを残念に思う / …'が'ない(いない)のに気付く / …'を'避ける,免れる(avoid, escape) / …'を'欠く / …'の'答えを間違う / 的(まと)を外れる,当たり損なう;受け損なう / (…で)失敗する《+『in』+『名』》 / 発火しない,点火しない / やり損ない,失敗(failure);免れること,回避(escape)
-Miss.	Mississippi
 missal	《しばしばM-》(ローマカトリック教会の)ミサ典書;(一般に)祈祷書
 misshape	'を'作りそこなう
 misshapen	できそこないの,ぶかっこうな;奇形の(deformed)
@@ -1693,10 +1781,7 @@ missing	紛失した,行方不明の / 欠けている,ない(lacking) / 《the 
 missing link	連鎖しているもので欠けた部分 / 《the ~》類人猿と人間の中間に存在したとされる仮定の動物
 mission	(…への)『使節団』,派遣団《+『to』+『名』》;(特定の任務・使命のための)隊,団 / (派遣される人または団体の)任務,使命 / 軍事作戦上の任務 / 《米》在外公館 / (伝道のために,特に外国に派遣される)牧師団,布教団;伝道所;《複数形で》伝道事業(活動) / (人間としての)使命
 missionary	使節,(特に外国へ派遣される)宣教師,伝道師 / 伝道の,布教の
-Mississippi	ミシシッピ州(米国南中部の州;州都はJackson《略》『Miss.,MS』) / 《the ~》ミシシッピ川(米国中部にある世界的な大河の一つ)
-Mississippian	ミシシッピ川の,ミシシッピ州の / 〈C〉ミシシッピ州の住民 / 〈U〉(地質年代で)ミシシッピ紀
 missive	《時に誇張して》(長々しく,大まじめな)信書,書状;(特に)公文書
-Missouri	ミズーリ州(米国中部の州;州都はJefferson City;《略》『Mo.,MO』) / 《the ~》ミズーリ川(Mississippi川の支流)
 misspell	…'の'つづりを誤る
 misspelling	〈U〉つづりの誤り / 〈C〉間違ったつづり
 misspend	…'を'むだに(間違って)使う
@@ -1753,19 +1838,11 @@ mizzle	《話》《方言》《itを主語にして》こぬか雨が降る
 mk.,MK.	mark マルク
 mks	meter-kilogram-second
 mkt.	market
-ML	Medieval Latin
 ml.	milliliter[s]
-Mlle.	Mademoiselle
 mm.	millimeter[s]
-MM.	Messieurs
-Mme.	Madame
-Mn	manganeseの化学記号
-MN	Minnesota
 mnemonic	記憶の;記憶を助ける
 mnemonically	記憶を助けるために
 mnemonics	《単数扱い》記憶術
-Mo	molybdenumの化学記号
-Mo.,MO	Missouri
 moa	モア(昔,ニュージーランドにいた飛ぶことのできないダチョウに似た鳥)
 moan	〈C〉(悲しみ・苦痛などの)『うめき[声]』《+『of』+『名』》 / 〈U〉《時にa ~》(風・波などの)うめき声に似た音,うなり《『of』+『名』》 / 『うめく』,うめき声をあげる / 〈風・波などが〉うめくような音をてたる,うなる / …'を'うめくように言う(歌う)《+『out』+『名』,『名』+『out』》
 moat	(城壁・とりで・都市の回りの)堀(ほり) / …'に'堀を巡らす
@@ -1778,7 +1855,6 @@ mobilization,mobilisation	軍隊(艦隊)の動員 / (人の)動員;(物の)運�
 mobilize,mobilise	(戦争・非常事態で)〈軍隊・産業など〉'を'動員する,戦時体制にする / 〈軍隊などが〉集結する
 mobster	《俗》ギャング(盗賊)の一員(gangster)
 moccasin	《複数形で》モカシン(北米インディアンがはいた柔らかい皮の靴);(モカシンに似た)室内ばき / =water moccasin
-Mocha, mocha	モカコーヒー(もとYemenのMocha港から送り出された上等品)(mocha coffee);モカ香味料 / (手袋用などの)上質のヤギ革
 mock	〈人,人の言動〉'を'『あざける』,ばかにする / 〈人の言動〉'を'『ふざけてまねる』 / 〈努力・力など〉'を'無視する,無にする / (…を)あざける,ばかにする(scoff)《+『at』+『名』》 / 《名詞の前にのみ用いて》にせの,ごまかしの / あざけり
 mock-heroic	英雄気どりの
 mocker	あざける人,からかう人;(からかって)まねする人 / モノマネドリ
@@ -1788,7 +1864,6 @@ mockingly	あざけって,ばかにして
 mockup, mock-up	実物大の模型
 mod	モッズふうな(服装・音楽などについて伝統にとらわれない考え方の一つ)[modernの短縮形]
 mod.	moderate
-Mod.E.,ModE	Modern English
 modal	様式の,形態上の / 《名詞の前にのみ用いて》(動詞の)法(mood)の,叙法の / =modal auxiliary
 modal auxiliary	法助動詞(can,could,may,might,shall,should,will,would,need,dareなど)
 modcon	(売家の新聞広告で)最新設備完備
@@ -1800,7 +1875,6 @@ moderation	(…に)適度であること,度を過ごさないこと《+『in』
 moderato	(曲の演奏で)モデラートの,ほどよい速さの / モデラートで,ほどよい速さで
 moderator	仲裁者,調停者 / (特に)(討論などの)司会者(chairman) / 調整器
 modern	『現代の』,今の / (ルネサンス以後の)近代の,(中世に続く)近世の / (服装・設備などが)『現代的な』,モダンな(up-to-date) / 現代人 / (考え方・生き方などの面で)現代的な人
-Modern English	近代英語(1500年ごろから現代まで;《略》『Mod.E.,mod E』)
 modernism	現代的な思想(表現・習慣など) / 現代的な言葉,現代語法 / 《しばしばM-》現代芸術,現代哲学
 modernist	現代主義者,現代賛美者,モダニスト
 modernistic	現代主義[者]の;現代的な,新しい
@@ -1823,12 +1897,6 @@ modus vivendi	《単数形で》 / 調停,協定 / 生き方
 moggy	猫
 mogul	重要人物,大立者
 mohair	〈U〉モヘア(アンゴラヤギの毛) / 〈U〉モヘア織物
-Mohammed	=Muhammad
-Mohammedan	=Muslim
-Mohawk	モホーク族[の人](ニューヨーク州中心部に住んでいたアメリカンインディアンの一部族、現在では高層ビルの建築現場などで「鳶：トビ」として働くことが得意な部族として有名) / 〈U〉モホーク語・モヒカン刈り
-Mohegan	モヒガン族(コネティカット州に住んでいたアメリカンインディアンの一部族)
-Mohican	=Mahican
-Mohs scale	モース硬度(鉱物の硬度測定基準), = Mohs hardness
 moiety	(法律用語で)(…の)半分《+『of』+『名』》
 moil	あくせく働く
 moire	波紋織の絹 / 波紋模様
@@ -1853,13 +1921,11 @@ molehill	モグラ塚
 moleskin	モグラの毛皮 / モールスキン(昔,衣服・帽子を作ったじょうぶで滑らかな綿布)
 molest	…'を'悩ます / 《話》(変態性欲で)〈女・小供〉'に'いたずらする
 molestation	(人・動物を)苦しめること,いじめること
-Molière	モリエール(1622‐73;フランスの劇作家)
 moll	(ギャングの)情婦
 mollification	(怒りなどの)鎮静,なだめること
 mollify	〈人・怒り・強い感情など〉'を'なだめる,和らげる
 mollusk,mollusc	軟体動物(貝・イカ・タコの類)
 mollycoddle	(特に甘やかされて)めめしい男,軟弱な男;弱虫 / …'を'甘やかす
-Molotov cocktail	モロトフカクテル(火炎びんの一種)
 molt,moult	〈鳥・犬などが〉羽毛(毛)が抜け替わる;〈昆虫・爬虫(はちゅう)類が〉脱皮する / 〈羽毛・毛・外皮・殻など〉'を'脱ぐ / (羽毛・外皮などの)抜け替わること,脱皮
 molten	(金属などが)熱で溶けた
 molto	(音楽用語で)非常に
@@ -1874,8 +1940,6 @@ momentous	重要な,重大な(serious)
 momentum	〈U〉〈C〉運動量(運動する物体の質量と速度の相乗積) / 〈U〉(一般に)勢い,はずみ
 momma	=mama
 mommy	おかあちゃん(mom)(《英》mummy)
-Mon.	Monday
-Monaco	モナコ(地中海沿岸にある小さな公園;その首都)
 monarch	『君主』,帝王 / オオカバマダラ(北米産の赤茶色と黒のまだらの大きなチョウ)
 monarchic, monarchical	君主の;君主制の / 君主政治の;君主制支持の
 monarchism	君主制 / 君主制主義
@@ -1886,7 +1950,6 @@ monastic	修道院の;修道僧の;修道(禁欲)生活の / 修道士
 monastically	修道院的に,禁欲的に
 monasticism	修道院生活;(修道院の)禁欲生活
 monaural	片耳用の / (レコードなどが)モノラルの(音響再生を1チャンネルでする)
-Monday	『月曜日』(《略》『Mon.』)
 monetarism	通貨主義
 monetary	貨幣の,通貨の / 金銭上の;金銭についての
 money	〈U〉『金』(かね),金銭;通貨 / 〈U〉(金銭的な)利益,もうけ;富,財産 / 《複数形で》(政府・公共事業などの)財源,基金(funds)
@@ -1903,11 +1966,6 @@ moneylender	金貸し
 moneymaker	金もうけのうまい人 / 金もうけになるもの
 moneymaking	金がもうかる,金もうけのできる / 金もうけ
 monger	《英》(特に小規模の)商人 / 《複合語を作って》「…商」「…屋」の意を表す
-Mongol	〈C〉モンゴル(蒙古)人・〈U〉モンゴル語
-Mongolia	蒙古・モンゴリア(モンゴル人民共和国を含む東中央アジア地域)
-Mongolian	モンゴルの / モンゴル人の / モンゴル語の / 〈C〉モンゴル人 / 〈U〉モンゴル語 / ・モンゴル人(の); モンゴル語 (Mongolian); 〔軽蔑〕 (m-) ダウン症患者：(英語では「モンゴル」は「国・場所」の「蒙古」を指しません。「国、場所」には「Mongolia」を使います。同様に、アフガニスタン(国・場所)を指して「アフガン」と日本語で述べる例を多々耳にしますが、国は「Afghanistan」で、「アフガン」は誤用です。「アフガン」は、「アフガニスタン人・アフガニスタンの」という意味になります)
-Mongolism	蒙古症,モンゴリズム(白痴の一種)
-Mongoloid	モンゴル人種(モンゴル人・中国人・朝鮮人・日本人を含む) / モンゴル人種の / 蒙古症の
 mongoose	マングース(イタチに似たネコ科の動物)
 mongrel	雑種の動物;(特に)雑種犬 / 《軽べつして》混血児;雑種 / 《名詞の前にのみ用いて》雑種の,混血の
 monied	=moneyed
@@ -1965,27 +2023,16 @@ monotonous	(音・声・リズムなどが)『単調な』,一本調子な / (�
 monotony	単調,一本調子 / たいくつ
 monotype	モノタイプ(活字の鋳造植字機械) / 〈U〉モノタイプ印刷方式
 monoxide	一酸化物
-Monroe	モンロー(『James ~』;1758‐1831;米国第5代の大統領)
-Monroe Doctrine	モンロー主義(南北米大陸に対する干渉と植民を排除するというモンロー大統領の唱えた主義)
-Monseigneur	殿下,閣下(フランスの王族・大司教の尊称)
 monsieur	…様;あなた(英語のMr.,Sirにあたる敬称;《略》『M.』(複『MM.』))
-Monsignor	モンシニョール(ローマカトリック教会で高位聖職者に与えられる尊称)
 monsoon	モンスーン,季節風(夏期は南西,冬期は北東から吹く季節風) / (季節風による)雨期
 monster	(想像・伝説上の)『怪物』,化け物 / 《a ~》(…の)巨大な(怪異な)物,怪物(のような…)《+『of』+『名』》 / (動・植物の)奇形 / 極悪非道の人,人非人 / 巨大な
 monstrance	聖体顕示台(ローマカトリック教会で礼拝のために聖体がおかれている容器)
 monstrosity	〈U〉奇怪さ,怪異さ / 〈C〉巨大(怪異)な物(人)
 monstrous	『怪物のような』,奇怪な / 『巨大な』 / 《話》恐ろしい,ぞっとするような
-Mont.	Montana
 montage	モンタージュ写真(画像),合成写真 / 合成画[法](いくつかの写真・画像を合成して作った写真・画像;その手法)
-Montana	モンタナ州(米国北西部の州;州都はHelena;《略》『Mont.,MT』)
-Monte Carlo	モンテカルロ(モナコ公国の避寒地;国営大とばく場で有名)
-Montevideo	モンテビデオ(ウルグアイの首都)
-Montgomery	モントゴメリー(米国Alabama州の州都)
 month	(また『calendar month』)(暦の上の1月から12月までのそれぞれの)『月』 / (ある日から翌月のその日までの)ひと月,1か月間 / (また『lunar month』)(太陰暦の)ひと月(月が地球の周りを1公転する期間;太陽暦では『solar month』)
 monthly	『月1回の』,毎月の,月ぎめの / 1か月間の,1か月続く / 『月1回』,毎月 / 月刊雑誌
 monthly period	月経
-Montpelier	モントピーリア(米国Vermont州の州都)
-Montreal	モントリオール(カナダ南東部にあり,同国最大の都市)
 monument	(人物・事件などの)『記念碑』,記念像,記念建造物《+『to』+『名』》 / (故人への)墓碑(tombstone);(地所を示す)標識 / 遺物,遺跡;景勝地 / (…の)後世に残る偉業,金字塔《+『of』+『名』》
 monumental	《名詞の前にのみ用いて》記念碑の[ような] / 歴史に残る;不朽の,不滅の / (大きさ・程度が)とてつもない,途方もない
 moo	モー(牛の鳴き声) / 〈牛が〉モーと鳴く
@@ -2009,11 +2056,8 @@ moonstruck	頭の狂った;(恋に落ちて)ぼうっとした[占星学で狂�
 moonwalk	月面歩行
 moony	月の[光の];月の[光の]のような / 《話》夢ごこちの,ぼんやりした
 moor	《英》荒れ地,荒野(こうや)(特にイングランド・スコットランド地方のヒース(heather)などが一面に生えた湿地) / (綱・錨(いかり)などで)〈船〉'を'係留する,停泊させる / (一般に)(綱などで)…'を'しっかり留める,固定する / 〈船が〉停泊する / (一般に)しっかりつながれる
-Moor	ムーア人(アフリカ北西部に住むイスラム教徒)
 moorhen	バン(川・湖にすむ口ばしがオレンジ色のツグミの類)
 mooring	〈U〉係船,停泊 / 〈C〉《複数形で》係船設備(用具)(錨(いかり)・ロープ・ブイなど) / 〈C〉《複数形で》船つなぎ場,停泊所
-Moorish	ムーア人の
-Moorish arch	馬蹄形アーチ
 moorland	《おもに英》《しばしば複数形で》(ヒースの茂る)荒野
 moose	アメリカヘラジカ(北アメリカに住む大きなシカ)
 moot	論争の種となる / 《受動態で》(討論のために)〈問題など〉'を'提起する
@@ -2047,8 +2091,6 @@ mores	(特定の集団・社会の)慣習,しきたり
 morganatic	貴賎(きせん)相婚の(王族・貴族が平民の女性をめとる場合で、妻子は夫・父の財産・身分を継承できない)
 morgue	死体公示所(身元確認のために死体を保管してある場所) / 《米》(新聞社・出版社の)参考資料室,調査部
 moribund	(人が)死にかけている / (物が)消滅しかけている
-Mormon	モルモン教徒
-Mormonism	モルモン教(米人Joseph Smithが1830年に始めた新教の一派)
 morn	朝,暁(morning)
 morning	〈C〉〈U〉『朝』,午前(午前0時または夜明けから正午まで) / 〈U〉《the~》(物事の)始まり,夜明け,黎明(れいめい)《+『of』+『名』》 / 《名詞の前にのみ用いて》朝の
 morning call	(ホテルで客を起こすための電話・ベルによる)モーニングコール / 朝の訪問(実際は午後3時ごろまでに行う社交的訪問をいう)
@@ -2056,32 +2098,25 @@ morning coat	モーニングコート(男子の昼間の礼服)
 morning dress	モーニング服(昼間の公的・社交的な会合で着用する男子用礼服)
 morning glory	〈C〉アサガオ（朝顔）/ 《比喩・俗語》（まれ）一時的な美しさや成功 / 《俗》《婉曲表現》（男性の生理現象）朝勃ち
 morning paper	朝刊[新聞]
-Morning Prayer	(英国国教会・聖公会の)朝の礼拝(matins)
 morning room	(大邸宅の)午前中使用する居間
 morning sickness	(妊娠初期の)つわり
 mornings	(いつも)朝に,朝はたいてい
-Morningstar	明けの明星(Venus)
-Moroccan	モロッコの,モロッコ人の / モロッコ人
 morocco	モロッコ皮(上質のヤギのなめし皮で製本・手袋用)
-Morocco	モロッコ(アフリカ北西部の王国;首都はRabat)
 moron	(知能が8‐12歳程度の)軽度精神薄弱者 / 《話》低能,薄のろ
 moronic	低能の,愚鈍な
 morose	むっつりした,ふきげんな
 morpheme	形態素(意味を持つ最小の言語の単位)
-Morpheus	(ギリシア神話の)モルフェウス(夢・眠りの神)
 morphine	モルヒネ(鎮痛・麻酔剤)
 morphinism	モルヒネ中毒
 morphology	形態学(生物の構造の研究) / 形態論,語形論(言語の形態の研究)
 morris	モリスダンス(14世紀中ごろの英国の仮装舞踏)
 morrow	《the~》《文》明日,翌日(tomorrow) / 《古》朝
-Morse	モールス(『Samuel F.B.~』;1791‐1872;電信機を発明した米国人) / 《話》=Morse code
-Morse code	モールス式電信符号
 morsel	(食物の)一口,一片《+『of』+『名』》 / 少量,小片
 mortal	『必ず死ぬ運命の』 / 『致命的な』,命とりの(fatal) / 《名詞の前にのみ用いて》(はかない)人間の,現世の / 《名詞の前にのみ用いて》死ぬまで続く;殺さずにはおかない / 死の;死にぎわの / 《名詞の前にのみ用いて》《話》非常な,はなはだしい / 許すことのできない,永遠の死を招く / 《しばしばおどけて》人間
+mortal sin	(ローマカトリック教会で)大罪(死後も消えない神にそむく重大な罪)
 mortality	〈U〉死を免れぬこと,死ぬべき運命 / 〈U〉《時にa~》死亡数;死亡率 / 〈U〉《時にa~》(戦争などによる)多数の死
 mortality table	死亡率統計表
 mortally	死ぬほどに,致命的に / 《話》非常に,はなはだしく
-mortal sin	(ローマカトリック教会で)大罪(死後も消えない神にそむく重大な罪)
 mortar	モルタル / …'を'モルタルで接合する,'に'モルタルを塗る / 乳鉢(にゅうばち),うす / 臼砲(きゅうほう)(砲身が短く高い曲線の弾道を描く砲)
 mortarboard	こて板(石工・左官がモルタルを受けるのに用いる板) / (儀式に用いる大学生の)角帽
 mortgage	『抵当』,担保;抵当権 / 抵当証書 / …'を'抵当に入れる / (あるものを得ようとして)〈命など〉'を'投げ出してかかる,賭ける
@@ -2096,12 +2131,7 @@ mortise,mortice	ほぞ穴(木材などの結合のための穴) / 〈木材な�
 mortuary	(病院内の)死体仮置場;葬儀場,葬式会場(funeral home)・死の;埋葬の
 mos.	months
 mosaic	〈U〉モザイク(ガラス・木材・石などを組み合わせて図案化したもの) / 〈C〉《単数形で》モザイク画;モザイク模様
-Mosaic	モーセ(Moses)の
-Mosaic law	《the ~》モーセ(Moses)の律法 / モーセの五書(旧約聖書の最初の5書)
-Moscow	モスクワ(ロシアの首都) / ロシア政府
-Moses	モーセ(旧約聖書でヘブライの預言者・立法者;シナイ山でエホバから十戒を授かった)
 mosey	《米話》ぶらつく,うろつく
-Moslem	=Muslim
 mosque	イスラム教寺院(外部に数個の尖塔(せんとう)がある独特の建築物)
 mosquito	『カ』(蚊)
 moss	『コケ』(苔)
@@ -2118,16 +2148,12 @@ moth	『ガ』(蛾);(衣類などを食い破る)イガ
 moth-eaten	虫の食った / 使い古しの,古くさい
 mothball	虫よけ玉(ナフタリン・ショウノウなどの防虫剤)
 mother	『母』 / 〈C〉母親のような人 / 〈U〉《the ~》(…の)源(みなもと),原因《+『of』+『名』》 / …'を'生む,'の'母親になる / …'を'母のように世話する / 酢母(酢の表面にできる薄皮)
-Mother Carey's chicken	=stormy pettrel1・=storm petrel・ウミツバメ
 mother country	母国;(植民地から見て)本国
 mother earth	母なる大地;《ふざけて》地面
-Mother Goose	グースおばさん(英国古来の民俗童話集Mother Goose's Nursery Rhymes(1760)の伝説上の作者)
-Mother Nature	母なる自然(世の中をつかさどる力,自然を意味して言う)
 mother ship	母艦,補給船,母船
 mother superior	女子修道院長,尼院長
 mother tongue	母国語
 mother wit	生まれつきの才覚,常識,生まれつきの知恵
-Mother's Day	母の日(一般に5月の第2日曜日)
 mother-in-law	夫(妻)の母,義母,しゅうとめ
 mother-of-pearl	(貝がらの内側の)真珠母,真珠層
 mother-to-be	未来の母,妊婦
@@ -2179,19 +2205,15 @@ mouldy	=moldy
 moult	=molt
 mound	『盛り土』,塚;土手,古墳 / (自然の)『小さい丘』,小山 / (一般に)盛り上げたもの,堆積 / (野球の投手の)マウンド
 mount	…'を'『登る』(ascend, climb) / 〈馬・車〉'に'『乗る』,〈台の上など〉'に'上がる,乗る / (馬などに)〈人〉'を'『乗せる』《+『名』〈人〉+『on』+『名』》 / (…の上に)…'を'『載せる』《+『名』+『on』+『名』》 / (…に)…'を'据え付ける,はめる,取り付ける,はる《+『名』+『in』(『on』)+『名』》 / 〈劇〉'に'舞台装置や衣装を用意する / 〈攻撃など〉'を'仕掛ける;〈作戦など〉'を'展開する / 『登る』,上がる《+『up』》 / 『馬』(乗用の動物)『に乗る』 / (数・量において)ふえる,(程度において)高まる,強まる《+『up』》 / 乗用の動物,(特に)馬 / 台紙;(宝石などの)台;(顕微鏡用の)スライド板 / 〈C〉《文》『山』 / 《『M-』》《固有名詞の前に付けて》…『山』
-Mount Vernon	マウントバーノン(米国Virginia州Potomac河畔にあるGeorge Washingtonの居住地跡で墓もある)
-Mount Zion	=Zion 1
 mountain	『山』 / 《the…Mountains》…『山脈』 / 《a~》山(のような…),(…の)山《+『of』+『名』》 / 《a~》多数(の…),多量(の…)《+『of』+『名』》
 mountain ash	ナナカマド(バラ科の落葉低木)
 mountain chain	山脈,連山
 mountain climbing	登山
-Mountain Daylight Time	(米国の)山地夏時間(日本との時差はマイナス15時間;《略》『MDT,M.D.T.』)
 mountain goat	ロッキーヤギ(北アメリカ山岳地帯のやぎに似たカモシカ)
 mountain laurel	アメリカシャクナゲ
 mountain lion	=cougar
 mountain range	山脈,連山
 mountain sickness	高山病
-Mountain Standard Time	(米国の)山地標準時(日本との時差はマイナス16時間;《略》『MST,M.S.T.』)
 mountain-high	(波などが)山のように高い,山をなす
 mountaineer	登山家,登山者 / 山の住人
 mountaineering	登山,登山の仕事
@@ -2200,7 +2222,6 @@ mountainside	山腹
 mountaintop	山頂
 mountebank	いんちき薬売り / 山師(やまし),いかさま師
 mounted	馬に乗った / 台紙にはった;据えつけた;ちりばめた
-Mountie, Mounty	カナダ騎馬警察隊員
 mounting	〈U〉据えつけ,装着 / 〈C〉(書・画の)表装;(写真の)台紙,スライド枠;(宝石の)台
 mourn	(…を)『悲しむ』,嘆く,いたむ《+『over』(『for』)+『名』(do『ing』)》 / 〈死んだ人,その人の死など〉'を'『嘆き悲しむ』,哀悼(あいとう)する
 mourner	(人の死などを)嘆き悲しむ人,(特に)会葬者
@@ -2242,25 +2263,11 @@ moving van	家具運搬車,有蓋運送トラック
 mow	(かま・機械などで)〈草・麦など〉'を'刈る《+『名』+『with』+『名』》 / 〈畑・芝生など〉[の穀物(草など)]'を'刈る / 刈る / 干し草(穀物)の山 / 干し草(穀物)置き場
 mower	(また『mowing machine』)(人が乗って動かす)草(穀物)刈り機 / (また『law mower』)芝刈り機 / 草(穀物)を刈る人
 mown	mowの過去分詞
-Mozambique	モザンビーク(アフリカ南東部の共和国)
-Mozart	モーツアルト(『Wolfgang Amadeus』~;1756‐91;オーストリアの作曲家)
 mpg	miles per gallon 1ガロンあたりの走行マイル数
 mph,m.p.h.	miles per hour 時速…マイル
-Mr.,Mr	Mister / 《成人男子の姓・姓名の前に付けて》…『氏』,様,殿,君,さん,先生 / 《官職名・役職名の前に付けて》…殿 / 《電話で自分を名乗って》 / 《まれ》《自分の夫のことを他人に話すとき,また改まって》夫,主人 / 《一国・一団の代表的な男性に用いて》
-MRA	Moral Re-Armament道徳再武装
-Mrs.,Mrs	Mistress / 《既婚女性の姓・姓名の前に付けて》…『夫人』,様,殿,さん,先生 / 《電話で自分を名乗って》
-MS	Mississippi
-Ms.,Ms	《未婚・既婚にかかわらず女性の姓・姓名の前につけて》…さん,様,女史
-MS.,MS,ms.,ms	manuscript
 msec	millisecond; millisecondsミリセカンド(1秒の1000分の1)
 msg.	message
-Msgr.	Monseigneur / Monsignor
-MST	Mountain Standard Time
-MT	Montana
-Mt.,Mt,mt.	mount
-Mt.Rev.	Most Reverend大主教(大司教)の称号
 mtn.,Mtn.	mountain
-Mts.,mts.	mountains
 mu	ミュー(ギリシア語アルファベットの第12字М,μ;英語のM,mに相当)
 much	(量・程度などが)『多くの』,多量の / 『たくさん』,多量 / 《通例否定文の補語として》大した物(事),重要な物(事) / 《動詞・過去分詞を強めて》『大いに』,非常に / 《形容詞・副詞の比較級・最上級を強めて》『ずっと』,はるかに / 《「同じ」の意味の語句を修飾して》たいてい,ほとんど
 mucilage	(動植物の)粘液 / ゴムのり(gum, glue)
@@ -2301,8 +2308,6 @@ muggins	ばか,まぬけ
 muggy	(天候が)蒸し暑い,うっとうしい
 mugs game	何の役にも立たない行為,むだ骨
 mugwump	(政治論争上などで)中立主義者;(政治上の)一匹狼,うぬぼれ,愚か者,大物,大立者,独自の立場を取る人,優柔不断な人,親分
-Muhammad	マホメット(570?‐632;イスラム教の開祖)
-Muhammedanism	イスラム教,回教
 mukluk	マクラク(エスキモーのはくアザラシやトナカイの皮で作った長靴)
 mulatto	白人と黒人の混血児
 mulberry	〈C〉クワ;クワの実 / 〈U〉クワの実色,濃い赤紫色 / 赤紫色の
@@ -2360,7 +2365,6 @@ mummy	ミイラ;干からびた死体 / =mommy
 mumps	流行性耳下腺(せん)炎,お多福かぜ
 munch	…'を'むしゃむしゃ食べる(かむ) / (…を)むしゃむしゃ食べる(かむ)《+『at』(『on』)+『名』》
 mundane	現世の,世俗的な / 実際的な;普通の
-Munich	ミュンヘン(西ドイツ南西部の都市)
 municipal	『市の』,『町の』,地方自治体の;市政の;市営の,市立の
 municipality	自治都市(町)
 munificence	気前のよさ,物惜しみをしないこと
@@ -2387,12 +2391,10 @@ muscle	〈U〉(動物体の組織としての)『筋肉』,筋(きん);〈C〉(�
 muscle-bound	(運動しすぎて)筋肉が発達しすぎて / 硬直して
 muscled	筋肉の,筋力のある / 力ずくの
 muscleman	筋肉人間(特別な訓練により筋肉を発達させた人) / 《米》暴力団員
-Muscovite	〈C〉モスクワ住民;《古》ロシア人(Russian) / 〈U〉《m-》白雲母(電気の絶縁体に用いる)
 muscular	『筋肉の』,筋肉でできた / 筋肉による / 筋肉の発達した
 muscular dystrophy	筋萎縮症,筋ジストロフィ
 musculature	(身体の一部の)筋肉構成
 muse	(…について)『深く考える』,瞑想(めいそう)する(meditate)《+『on』(『upon, over』) +『名』(do『ing』)》
-Muse	ミューズの神(詩・音楽など芸術・科学をつかさどるギリシア神話の9女神の一人) / 《m-》詩神;詩的霊感,詩才
 musette bag	野外携帯袋(兵士が肩に掛ける小さなバッグ)
 museum	『博物館』;美術館
 museum piece	博物館の重要美術品;珍品,逸品 / 《ふざけて》古風な人(物)
@@ -2425,13 +2427,10 @@ muskiness	麝香(じゃこう)のにおい
 muskmelon	マスクメロン(表面に網の目模様があり甘い果物)
 muskrat	〈C〉ジャコウネズミ(北米産でじゃ香性のにおいを持つネズミ) / 〈U〉その毛皮
 musky	じゃ香のような;じゃ香の香りのする
-Muslim	イスラム教徒,回教徒 / イスラム教の,回教の
 muslin	綿モスリン,新モス(婦人服・カーテン用生地)・〔米〕 平織り綿布
 musquash	ジャコウネズミの毛皮,マスクラット皮
 muss	《米話》…'を'めちゃくちゃにする…'を'しわくちゃにする《+『up』+『名,』+『名』+『up』》 / 《米話》混乱;騒動
 mussel	ムラサキガイ(食用・ボタン用の二枚貝)
-Mussolini	ムッソリーニ(『Benito』~;1883‐1945;イタリアの国粋党首領,首相となり独裁政治を強行した)
-Mussulman	イスラム教徒
 must	《義務・必要》…『ねばならない』,すべきである / 《命令・強制》…『ねばならない』,…せよ;《否定文では禁止》…『してはいけない』 / …『にちがいない』,きっと…のはずだ;《「must have+過去分詞」の形で》…であったに違いない,きっと…であったはずだ / 『必ず…する』,…は避けられない / どうしても…しないと承知しない / 《話》《過去のあいにくのでき事》あいにく…した / 《話》絶対必要なもの,欠かせないもの,必ず見る(聞く,読む)べきもの / 《名詞の前にのみ用いて》絶対必要な,不可欠の
 mustache,moustache	『口ひげ』
 mustachio	《複数形で》大きな口ひげ
@@ -2467,7 +2466,6 @@ muzzle	(動物の)鼻口部,鼻づら(鼻・口・あごの部分を含む) / (�
 muzzle velocity	砲口速度(銃・砲の口を離れる瞬間の弾丸速度)
 muzzleloader	(銃口から装てんする)前込め砲,前装砲
 muzzy	鮮明でない / (病気やアルコールのために)頭がすっきりいない,ぼんやりした
-MVP	most valuable player(野球で)最優秀選手
 my	『私の』 / 《親しみをこめた呼び掛けに用いて》 / 《驚きを表して》おや,まあ
 myasthenia	筋無力症
 mycelium	菌糸体
@@ -2498,3 +2496,5 @@ mythical	神話の,伝説の / 神話的な,架空の
 mythological	神話の,神話学[上]の / 神話に基づく,架空の
 mythologist	神話作者;神話学者
 mythology	〈U〉《集合的に》神話(myths);〈C〉神話集 / 〈U〉神話学
+ménage à trois,menage a trois	夫婦とその一方の愛人が同居している関係・三角関係
+ménage,menage	〈C〉家庭 / 〈U〉家政,家事

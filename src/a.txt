@@ -1,5 +1,4 @@
 $	dollar[s] ドル記号(通貨単位)
-@	単価…で / …につき
 'em	=them
 'll	will, shallの短縮形
 'm	amの短縮形
@@ -11,60 +10,337 @@ $	dollar[s] ドル記号(通貨単位)
 'tween	=between
 'twixt	《古詩》betwixtの短縮形(=between)
 've	haveの短縮形
-104	通信で用いられる『了解』の意を表す語
+10-4	通信で用いられる『了解』の意を表す語
+@	単価…で / …につき
 A	answer / ampere
-a.	about / acre[s] / adjective
+A level	〈U〉(大学入学検定試験の)上級試験 / 〈C〉上級試験科目
+A&M	Agricultural and Mechanical 農工[大学]
+A&R	artists and repertoire レコード会社でアーティストの才能を発掘する部門
 A,a	〈C〉英語アルファベットの第1字 / 〈U〉(音階の)イ音,イ調 / 〈C〉《米》(学校で成績優秀を表す)A
+A-OK.	申し分のない,抜群な
+A-bomb	=atomic bomb
+A-frame	A型フレーム(枠組が三角形・逆V字型の建造物)
+A-line	Aラインの(衣服の上部が細く裾が広い)
+A-one	第一級の,すぐれた(excellent)
 A.A.	=AA / antiaircraft
-a,an	不定冠詞。ある（程度）の、一つの、～というもの、～につき、同じ、～のような人、～という名の人、～家の人、～の作品、～のような人、～つきの、一組の…と…、一種の、抽象名詞の具体例・種類・行為など、動詞と同形の名詞に続く名詞、1回の
 A.B.	B.A.
-A.C.	ante Christum 紀元前(before Christ)
-a.c.	ante cibum 食前服用(before meals)
+A.C.	ラテン語「ante Christum」の略で『紀元前』;ただし「B.C.(Before Christ)」の方が一般的。
 A.C.L.U.	American Civil Liberties Union 米国自由人権協会
-a cappella	楽器の伴奏なしで
 A.D.	西暦…年
-AD	西暦…年 / 広告 / 広告の
 A.E.F.	American Expeditionary Forces(第一次世界大戦中の)米国海外派遣軍
 A.F.T.	American Federation of Teachers 米国教員連盟
-a fortiori	いっそう有力な理由で;なおさら
-A-frame	A型フレーム(枠組が三角形・逆V字型の建造物)
 A.G.	Adjutant General 軍務局長 / Attorney General 検事総長
-A level	〈U〉(大学入学検定試験の)上級試験 / 〈C〉上級試験科目
-a.m.,A.M.	《時間を表す数字の後につける》『午前』(ラテン語ante meridiemの略)
-a.p.	additional premium 割増保険料 / access point アクセスポイント
 A.P.A.	American Psychiatric Association 米国精神医学会
-a posteriori	(推論が)帰納的に(な);経験的に(な);後天的に(な)
-a priori	(推論が)原因より結果を導いて(導いた);演繹(えんえき)的に(な);先験的に(な);先天的に(な)
 A.R.V.	American Revised Version 米国標準改訳聖書(1901年初版)
 A.S.V.	American Standard Version 米国標準改訳聖書
 A.V.	Authorized Version / 価格に比例して(ad valorem)
-avaunt	(古)去れ、失せろ
 A.W.O.L.,a.w.o.l.	absent without leave (軍務の)無断欠勤, 無断外出, 許可なしで休む
-A&M	Agricultural and Mechanical 農工[大学]
-A&R	artists and repertoire レコード会社でアーティストの才能を発掘する部門
-A-bomb	=atomic bomb
-A-line	Aラインの(衣服の上部が細く裾が広い)
-A-one	第一級の,すぐれた(excellent)
 A/C	account / account current 取引勘定
 A/O,a/o	And/Or (AまたはB、またはその両方) / Account Of …の理由で / As Of …の時点で
 A/P	account paid 支払済 / accounts payable 支払勘定
 A/R	account receivable 《会計》売掛債権
-AR	Augmented Reality 拡張現実
 A/V	audiovisual
 A/W	actual weight 実量 / Autumn Winter 秋冬
 A1,A-1	=A-one
 AA	アルコール中毒患者更生会 / (映画で)14歳以下の児童観賞禁止の表示 / 14歳以下観賞禁止の / Automobile Association(英国の)自動車協会
 AAA	American Automobile Association 米国自動車協会 / antiaircraft artillery 高射砲
 AAM	air-to-air missile 空対空ミサイル
-aardvark	ツチブタ(シロアリを主食とするアフリカ産の哺乳動物)
+ABC	〈U〉アルファベット / 〈U〉〈C〉《the ~》(物事の)初歩,入門,いろは《+『of』+『名』》
+ABM	antiballistic missile 対弾道弾ミサイル
+AC,A.C.,ac,a.c.	Alternating Current (交流電源) / Air Conditioning (空調) / Account (口座)
+ACT	American College Testing / Australian Capital Territory
+ACTH	副腎皮質刺激ホルモン[剤]
+AD	西暦…年 / 広告 / 広告の
+ADA	Americans for Democratic Action 米国人民主行動連盟
+AEC	Atomic Energy Commission 米国原子力委員会
+AF,A.F.	air force 空軍
+AFB	Air Force Base 空軍基地
+AFC	automatic frequency control 自動周波数制御(調整)
+AFL-CIO	American Federation of Labor and Congress of Industrial Organizations 米国労働総同盟産別会議
+AID	artificial insemination by donor 非配偶者間人工受精
+AIH	artificial insemination by husband 配偶者間人工受精
+AK	Alaska
+AL	Alabama
+AM,A.M.	amplitude modulation
+AMA	American Medical Association 米国医師会
+AMVETS	(第二次世界大戦および朝鮮戦争の)退役軍人
+AP	antipersonnel / (またA.P.)Associated Press
+APB	all points bulletin 全地点(非常)警戒通報(警察の無線連絡用語)
+APC	アスピリン(Aspirin)・フェナセチン(Phenacetin)・カフェイン(Caffeine)混合の鎮痛解熱剤
+APO	Army Post Office 陸軍郵便局
+AR	Arkansas
+AR	Augmented Reality 拡張現実
+ARC	American Red Cross（アメリカ赤十字）; arch; arc; area; air route certificate
+AS	Anglo-Saxon
+ATV	all-terrain vehicle全地形万能車(水陸両用の小型自動車)
+AUS	Army of the United States米国陸軍
+AZ	Arizona
 Aaron	アロン(モーセの兄;ヘブライ人最初の大祭司とされる)
+Abel	アベル(聖書で,AdamとEveの第2子;兄のカイン(Cain)に殺された)
+Abominable Snowman	(ヒマラヤに住むといわれる)雪男,イエティ
+Abraham	アブラハム(聖書で,ヘブライ族の始祖とされる)
+Abyssinia	アビシニア(アフリカ北東部の王国;Ethiopiaの旧名)
+Ac	actiniumの化学記号
+Academy Award	アカデミー賞(米国で毎年最優秀映画・映画人に与えられる賞)
+Achilles	アキレス(Homer作のIliadに出てくるギリシア軍の勇将;右足首以外は不死身であったが,ここに矢を射られ戦死をとげたという.このため,「唯一の弱点」のことを『Achilles' heel』「アキレスのかかと」という.《米》では'(アポストロフィ)をつけない)
+Achilles tendon	アキレス腱(けん)
+Act.	active
+Acts	使徒行伝(新約聖書の中の一書)
+Adam	アダム(聖書によれば,神が天地を創造したとき,最初Adamをつくり,そのろっ骨の1本から最初の女Eveを造ったという)
+Adam's apple	のどぼとけ(エデンの園でAdamが食べた禁断の実リンゴの1切れがAdamののどにつかえたという伝説に由来)
+Aden	アデン(イエメン民主人民共和国の首都)
+Adm.	admiral
+Adonis	アドニス(ギリシア神話で,女神アフロディテ(Aphrodite)に愛された美青年) / 〈C〉美青年
+Adriatic Sea	アドリア海(イタリアとクロアチア・モンテネグロ・アルバニアの間の海)
+Adventist	キリスト再臨論者
+Aegean Sea	エーゲ海(小アジアとギリシアの間の海)
+Aeneas	アイネアス(トロイ戦争の勇士でローマの建国の祖)
+Aeolian	アイオロスの(ギリシア神話の風の神) / 風の,風に吹かれた
+Aeolian harp	風琴(かぜごと)(風の吹く所に置くとひとりでに鳴る楽器)
+Aeschylus	アイスキュロス(525‐456B.C.;ギリシアの悲劇詩人)
+Aesop	イソップ(イソップ物語を書いたといわれる古代ギリシアの作者)
+Aesopian	イソップの;イソップ物語風な
+Afghan	アフガニスタンの / アフガニスタン人 / アフガニスタン語
+Afghanistan	アフガニスタン(アジア南西部にある共和国;首都はKabul)
+Afr.	Afriac;African
+Africa	『アフリカ』(《略》Afr.)
+African	『アフリカの』 / アフリカ黒人の / アフリカ[黒]人
+African violet	アフリカすみれ
+Afrikaans	(オランダ語に似た)南アフリカ共和国の言語
+Afrikaner	(オランダ人を祖先とする)南アフリカ人
+Afro	(髪型の)アフロ(黒人の髪のように小さくカールしたもの)
+Afro Asian	アジア=アフリカの
+Afro-American	アメリカ黒人の / アメリカ黒人
+Ag	silverの化学記号[ラテン語argentumから]
+Agnus Dei	神の小羊 / (ローマカトリック教ミサの6番目の)賛歌
+Agt.,agt.	against / agent / agreement
+Airedale	エアデールテリア(英国ヨークシャーのエアデール原産のテリア犬)
+Al	aluminumの化学記号
+Ala.	アラバマ州(Alabama)の略称
+Alabama	アラバマ州(米国南東部の州;州都Montgomery;《略》AL,Ala.)
+Alamo	アラモ(米国Texas州San Antonioにあったフランシスコ派の伝道所;1836年Texas独立戦争の時ここにたてこもった米国人はメキシコ軍の攻撃で全滅した)
+Alas.	Alaska
+Alaska	アラスカ州(米国西北端の州;州都はJuneau;《略》AK,Alas.)
+Alaskan	アラスカの;アラスカ人の / アラスカ人
+Albania	アルバニア(バルカン半島の人民共和国;首都はTirana)
+Albanian	アルバニアの;アルバニア人の;アルバニア語の / 〈C〉アルバニア人 / 〈U〉アルバニア語
+Albany	オルバニー(米国ニューヨーク州の州都)
+Albion	アルビオン(イギリス・大ブリテン島の古名・雅名;「白い国」の意味で南東部海岸が白亜質の絶壁であることからローマ人がつけた名)
+Aleut	(またAleutian)〈C〉アリューシャン列島住民 / アリュート語
+Aleutian	アリューシャン列島の / =Aleut 1
+Aleutian Islands	アリューシャン列島(アラスカとカムチャッカの間の群島)
+Alexander the Great	アレクサンダー大王(またはアレキサンダー大王)(古代マケドニアの王;356‐323B.C.)
+Alexandria	アレキサンドリア(エジプトのナイル河口の港市)
+Alexandrian	アレキサンドリアの / アレクサンダー大王の
+Alexandrine	アレクサンドル格の詩(六脚短長格) / アレクサンドル格の
+Alfred the Great	アルフレッド大王(古英国のWessexの名君;849‐899)
+Algeria	アルジェリア(アフリカ北西部の共和国;首都Algiers)
+Algerian	アルジェリアの / アルジェリア人
+Algiers	アルジェ(アルジェリアの首都)
+Algonquian	〈U〉アルゴンキン語族(アメリカインディアン最大の語族) / アルゴンキン族[の人] / アルゴンキン語族の
+Algonquin	アルゴンキン語族の一人 / =Algonquian
+Alhambra	アルハンブラ宮殿(スペインのグラナダにある宮殿)
+All Fools Day	=April Fools' Day
+All Saints Day	万聖節(11月1日;聖人・殉教者の霊を祭る日)
+All Souls Day	万霊節(11月2日;ローマカトリック教で信者の霊の救いを祈る祭日)
+Allah	アラー神(イスラム教の神)
+Allhallows	=All Saints' Day
+Alpine	アルプス山脈の / 《通例a-》高山の
+Alps	アルプス山脈
+Alsatian	=German shepherd
+Altai Mountains	アルタイ山脈(モンゴルと旧ソ連領アジアにまたがる大山脈)
+Altaic	アルタイ山脈の / アルタイ語の
+Am	americiumの化学記号
+Am.	America / American
+Amazon	アマゾン(ギリシア神話で,昔黒海の近くにいたという女武者の一族) / 《しばしばa-》女傑(じょけつ),勇ましい女 / 《the ~》アマゾン川(南米にある大河)
+Amazonian	アマゾンのような / アマゾン川の / (女性が)男まさりの,勇猛な
+Amer.	American（アメリカの,アメリカ人） の略
+Amerasian	アメリカ人とアジア人の混血(の人)
+America	『アメリカ合衆国』,米国,アメリカ(《略》『Am.,Amer.』) / 《the Americas》南北アメリカ[イタリアの商人・航海者・探検家Amerigo Vespucciの名前に由来]
+American	『アメリカ合衆国の』,米国の;アメリカ人の / 北アメリカの;北米人の / 南アメリカの;南米人の / 南北アメリカの;南北アメリカ人の / 米国人,アメリカ人 / 北(南)アメリカ人 / =American English
+American English	アメリカ英語,米語
+American Indian	アメリカ大陸に原住民族として存在していた人々
+American League	アメリカンリーグ(米国の2大プロ野球連盟の一つ)
+American Legion	米国在郷軍人会
+American Revolution	アメリカ独立戦争(1775‐83)
+American eagle	=bald eagle / 《the ~》ハクトウワシ印(米国の紋章)
+American football	=football 1
+American plan	部屋代・食事代こみホテル料金制度
+Americana	《しばしば複数扱い》アメリカに関する文献(資料) / 《単数扱い》米国誌(アメリカに関する文献・資料のコレクション)
+Americanism	〈C〉アメリカ語法(米語特有の語,つづり,発音,意味,表現をいう) / 〈U〉〈C〉アメリカ風(式);アメリカ精神;アメリカ人かたぎ
+Americanization,Americanisation	アメリカ化,米国化;米国帰化
+Americanize,Americanise	…'を'アメリカ風(式)にする,米語式にする;…'を'アメリカに帰化させる / アメリカ化する,アメリカ風(式)になる;米語式になる;アメリカに帰化する
+Amerind	アメリカ大陸原住民(American IndianまたはEskimoなど)
+Amish	アンマン(Ammann)派の / アンマン派の信徒(新教のメノー派系に属し,厳格な教養を持つ)
+Amsterdam	アムステルダム(オランダの名目上の首都・港市)
+Amtrak	《米》アムトラック(American Trackの略;全国鉄道旅客公社(National Railroad Passenger Corporation)の運行する列車)
+Anchorage	アンカレッジ(米国アラスカ州南部の都市;海港と空港がある)
+Andean	(南米西部の)アンデス山脈(the Andes)の
+Andersen	アンデルセン(Hans Christian Andersen;1805‐75;デンマークの童話作家)
+Andes	《the ~》アンデス山脈(南米西部の大山脈)
+Andorra	アンドラ(フランスとスペインの国境ピレネー山脈東部にある小共和国)
+Andromeda	アンドロメダ(ギリシア神話で祖国を救うために海の怪物にささげられたエチオピアの王女でPerseusがこれを助けた) / アンドロメダ座
+Angelus	(カトリックで)お告げの祈り(天使Gabrielが聖母マリアにイエスの受胎を告げたことを記念して行う祈り) / =Angelus bell
+Angelus bell	お告げの鐘(朝・正午・日没に鳴らすお告げの祈りの合図)
+Angl.	Anglican / Anglicized
+Angles	《the ~》アングル族(もと北ドイツのゲルマン族一派で,5世紀以後英国に渡った)
+Anglian	アングル族の / 〈C〉アングル人 / 〈U〉アングル語
+Anglican	英国国教会の,(英国)聖公会の / 《米》英国の(English) / 英国国教会の信者
+Anglican Church	《the ~》英国国教会(the Church of England)系の教会(英国国教会およびこれと教義を同じくする各国の教会)
+Anglicanism	英国国教会の教義(制度)
+Anglicism	(外国語にとり入れられた)英語慣用語法 / 《米》イギリス語法(Briticism)
+Anglicize,Anglicise	…'を'英国ふう(英国式)にする;〈外国語〉'を'英語化する,英語ふうに発音する
+Anglo-American	英米の / 《古》英国系米人の / 英国系米人
+Anglo-Catholic	英国国教会カトリック派 / 英国国教会カトリック派の
+Anglo-Indian	英国とインドの;英国とインドの混血の / 〈C〉英国とインドの混血児 / 〈U〉インド英語
+Anglo-Saxon	〈C〉アングロサクソン人 / 《the ~s》アングロサクソン族(5世紀に北ドイツの地方からイギリスに渡ったアングル族(Angles)とサクソン族(Saxuns)が合同した種族;今日の英国人の祖先) / 〈U〉アングロサクソン語,古英語(アングロサクソン人が用いていた英語で11世紀ごろまでのもの;今は通例Old Englishという) / 〈C〉(現代の)英国国籍の人,英国系の人,英語国人 / アングロサクソン人(語)の / 英国国籍の,英国系の
+Anglomania	(外国人の)英国かぶれ,英国心酔
+Anglophile,Anglophil	《英ではa-》英国好きの人,英国びいき,親英家
+Anglophilia	《英ではa-》英国好き,英国びいき
+Anglophobe	《英ではa-》英国ぎらい
+Anglophobia	(外国人の)英国ぎらい
+Angola	アンゴラ(南西アフリカの共和国;首都はLuanda)
+Angora	(またAngora cat)〈C〉アンゴラネコ / (またAngora goat)〈C〉アンゴラヤギ / (またAngora rabbit)〈C〉アンゴラウサギ / 〈U〉《しばしばa-》 / =mohair / アンゴラで作った毛糸(生地,織物) / =Ankara
+Angus	アンガス牛(スコットランド原産の角のない肉牛)
+Ankara	アンカラ(トルコ共和国の首都)
+Anne	アン女王(1665‐1714;英国の女王;在位1702‐14)
+Ant.	Antarctica
+Antarctic	『南極の』,南極地域の / 《the A-》『南極』,南極地域(南極大陸と南極海)
+Antarctic Circle	《the ~》南極圏限界線
+Antarctic Ocean	《the ~》南極海,南氷洋
+Antarctica	南極大陸
+Antichrist	〈U〉反キリスト(聖書で,キリスト再来の前に現れるとされるキリストの対立者) / 〈C〉《a-》キリスト[教]反対者
+Antwerp	アントワープ(ベルギー北部の海港)
+Ap.	Apostle / Apothecaries' / April
+Apache	〈C〉アパッチ族(米国南西部のインディアン) / 〈U〉アパッチ語
+Apennines	アペニン山脈(イタリア半島を縦走する山脈)
+Aphrodite	アフロディテ(ギリシア神話の愛と美の女神;ローマ神話のVenusにあたる)
+Apoc.	Apocalypse / Apocrypha / Apocryphal
+Apocrypha	《単数扱い》外典,経典外聖書(典拠が疑わしいので一般の聖書から省かれている14編) / 《a-》出所の疑わしい文書
+Apollo	アポロ(ギリシア・ローマ神話の太陽の神) / (宇宙船)アポロ
+Apostles Creed	使徒信条(使徒信経)(キリスト教の最も基本的な信条;洗礼などの際に唱える)
+Appalachia	アパラチア(米国アパラチア山脈南部の地方)
+Appalachian Mountains	アパラチア山脈(カナダ南東部から米国アラバマ州北部にかけて走る北米東部海岸の大山脈)
+Appaloosa	アパルーサ(米国西部産の乗馬の一種)
+Appomattox	アポマトクス(米国Virginia州中部の町;1865年4月9日南軍のLee将軍が北軍のGrant将軍に降伏し南北戦争が終結した場所)
+Apr.	April
+April	『4月』(《略》『Apr』.)
+April Fools Day	4月ばかの日,万愚節(4月1日)
+Aquarius	(十二宮の)宝瓶宮(ほうへいきゅう) / 水瓶(みずがめ)座 / 〈C〉水瓶座生まれの人
+Ar	argonの化学記号
+Arab	(またArabian)アラブ人 / =Arabian horse / アラブ[人]の
+Arabia	アラビア[半島]
+Arabian	=Arab{名} / 『アラビアの』,アラビア人の
+Arabian Nights	アラビアンナイト,千夜一夜物語(The Thousand and One Nights)
+Arabian Nights Entertainments	アラビアンナイト,千夜一夜物語(The Thousand and One Nights)
+Arabian bird	不死鳥(phoenix)
+Arabian horse	アラビア馬
+Arabic	アラビアの,アラビア人(語)の / アラビア語
+Arabic figures(numerals)	アラビア数字,算用数字
+Aragon	アラゴン(スペイン北東部地方;11‐15世紀まで王国だった)
+Aramaic	アラム語(セム語の一種でイエスキリストの時代にPalestine一帯で使用された)
+Arbor Day	《米》植樹祭(日)(Alaskaを除く米国各州で4月後半から5月初めに行う)
+Arcadia	アルカディア(古代ギリシアの山間にあった理想郷) / 〈C〉《時にa-》平和な理想郷,桃源郷
+Arcadian	アルカディアの / 牧歌的な,田園風の,純真素朴な / アルカディア人 / 純真素朴な人
+Archaeozoic	=Archeozoic,Archae
+Archeozoic,Archae	始生代（地質時代の一つ）〈C〉
+Archimedes	アルキメデス(古代ギリシアの数学者・物理学者で「アルキメデスの原理」の発見者;287?‐212B.C.)
+Arctic Circle	北極圏
+Arctic Ocean	北極洋,北氷洋,北極海
+Arctic Zone	北極帯(北極からthe Arctic Circleまでの地帯)
+Arden	《the Forest of~》アーデンの森(イングランド中部Warwickshireの森林地帯;Shakespeareの喜劇As You Like Itの物語の背景) / 〈C〉桃源郷
+Ares	アレース(ギリシア神話の戦争の神;ローマ神話のMarsにあたる)
+Argentina	アルゼンチン(南米南部の共和国;首都はBuenos Aires;正式名the Argentine Republic)
+Argentine	アルゼンチンの / 〈C〉アルゼンチン人 / 〈U〉《the~》アルゼンチン(Argentina)
+Argo	《the~》アルゴ号(ギリシア神話の伝説中の勇士Jasonが金の羊毛を捜しに出かけた時に乗った船の名)
+Argonaut	(ギリシア神話の)アルゴ号(the Argo)の乗組員
+Argus	アルゴス(雌牛の姿にされた美少女Io[アイオゥ]を見張った100の目を持つギリシア神話の巨人) / 〈C〉厳重な見張り人
+Aries	雄羊座 / (占いで)白羊宮(黄道の第1宮)
+Aristophanes	アリストファネス(古代ギリシアの詩人・喜劇作者;448?‐380?B.C.)
+Aristotelian	アリストテレス(学派)の / アリストテレス学派の人
+Aristotle	アリストテレス(古代ギリシアの哲学者;384‐322B.C.)
+Ariz.	Arizona
+Arizona	アリゾナ州(米国南西部の州,州都はPhoenix;《略》Ariz,AZ)
+Ark.	Arkansas
+Arkansas	アーカンソー州(米国中部の州,州都はLittle Rock;《略》『Ark.,AR』)
+Arlington	アーリントン(バージニア州北東部の郡の名) / 米国国立基地(Arlington National Cemetery)(無名戦士の墓がある)
+Armageddon	ハルマゲドン(聖書で,善と悪との力が最後の決戦を行う場所) / (一般に)最後の大決戦
+Armenia	アルメニア(西アジアにあるソビエト連邦構成共和国の一つ)
+Armenian	アルメニアの;アルメニア人(語)の / アルメニア人;〈U〉アルメニア語
+Armistice Day	(第一次世界大戦の)休戦記念日(普通は11月11日;米国・カナダでは法定休日;米では1954年以後はVeterans Day,カナダではRemembrance Day)
+Artemis	アルテミス(ギリシア神話の月と狩猟の女神;ローマ神話のDianaに当たる)
+Arthur	アーサー王(6世紀ごろの伝説上の英国王;円卓の騎士Knights of the Round Tableを従えた)
+Aryan	アーリア人の;アーリア語族の / アーリア人(印欧語を話した先史時代の民族の一員) / アーリア語族(インドヨーロッパ語族の古称) / (ナチス用語で)非ユダヤ系のコーカソイド人
+As	arsenicの化学記号
+Ascension Day	キリスト昇天祭(復活祭から40日目の木曜日)
+Ash Wednesday	聖灰水曜日,灰の水曜日(四旬節(Lent)の第1日;カトリックではこの日にざんげする者の頭に灰をまいた)
+Asia	『アジア』
+Asia Minor	小アジア(黒海と地中海の間の半島地域で,トルコの大部分を占める)
+Asian	『アジアの』,アジアに住む人々の / 『アジア人』
+Asiatic	=Asian
+Assyria	アッシリア(アジア南西部にあった古代帝国)
+At	astatineの化学記号
+Atalanta	アタランタ(ギリシア神話の足の速い女性で,彼女と競走して負けた求婚者は皆殺されたという)
+Athena,Athene	アテネ(ギリシア神話の知識・芸術・戦争の女神;ローマ神話のミネルバ(Minerva)にあたる)
+Athenian	アテネの;古代アテネ文化の / アテネ人
+Athens	アテネ(ギリシアの古代都市;現在は首都)
+Atl.	Atlantic
+Atlanta	アトランタ(米国Georgia州の州都)
+Atlantic	『大西洋の』 / 《the ~》『大西洋』
+Atlantic Ocean	《the ~》『大西洋』
+Atlas	アトラス(天を肩にになうという罰を受けた大力のギリシア神話の神;メルカトルの地図書の巻頭に,この神の絵をつけたことから地図書をatlasと呼ぶようになった) / 〈C〉アトラス(米空軍の大陸間誘導弾)
+Atropos	アトロポス(ギリシア神話の運命の三女神のひとり)
+Att.Gen.	Attorney General
+Attic	アッチカ(Attica)の,アテネ(Athens)の / 古典ふうの,典雅な / アッチカ人,アテネ人;〈U〉アッチカ方言
+Attica	アッチカ(古代ギリシアの一地方;その中心はAthensであった)
+Atty.Gen.	Attorney General
+Au	goldの化学記号
+Aug.	August
+August	『8月』(《略》『Aug.』) / 《形容詞的に》『August heat wave』{名}〈C〉8月の暑波『August vacation』{名}〈C〉8月の休暇
+Augusta	オーガスタ(米国Main州の州都)
+Augustan	(ローマの)オーガスタス大帝(Augustus)の,オーガスタス大帝時代の / 文芸全盛期の,古典主義の
+Augustine	聖オーガスチン(アウグスチヌス) / 初期キリスト教会の指導者・哲学者(354‐430) / 英国に布教したローマの宣教師,最初のカンタベリー大主教(?‐604)
+Augustinian	聖オーガスチン(アウグスチヌス)の;アウグスチヌス主義の / (ローマカトリック教会で) / アウグスチヌス修道会の修道士 / アウグスチヌスの教義信奉者
+Augustus	オーガスタス(ローマ帝国初代の皇帝;Julius Caesarの後継者;63B.C.‐A.D.14)
+Aunt Sally	パイプ落とし(サリーおばさんと呼ばれる木像の口にくわえさせたパイプを木片などを投げて落とす遊び) / 攻撃の的となる人(物)
+Aureomycin	オーレオマイシン(抗生物質の商品名)
+Aurora	オーロラ(極地方の夜空に見られる光の現象) / ローマ神話の曙の女神
+Aussie	《俗》=Australian
+Australasia	オーストラレーシア州(Australia, New Zealandおよび付近の諸島の総称)
+Australasian	オーストラレーシア州の / オーストラレーシア人
+Australia	『オーストラリア』,豪州(首都はCanberra)
+Australian	オーストラリアの,豪州の / オーストラリア人
+Australian ballot	オーストラリア式投票(全候補者が記された投票用紙に印をつける)
+Australian rules football	オーストラリア式フットボール(2チーム18名で行うラグビーに似た球技)
+Austria	『オーストリア』(ヨーロッパ中部の共和国;首都はVienna)
+Austrian	オーストリアの / オーストリア人
+Austronesia	オーストロネシア(太平洋中南部諸島の総称)
+Austronesian	オーストロネシア[語族]の / オーストロネシア語族
+Authorized Version	欽定(きんてい)訳聖書(英国王James一世の命によって編集され,1611年に発行された英訳聖書;《略》『A.V.』)
+Ave Maria	アベマリア(聖母マリアにささげる祈りの言葉)
+Ave.,ave.	Avenue(通り)
+Avon	エイボン川(イングランドの中部を流れる川) / エイボン(イングランド中部の州)
+Ayrshire	エアシャー州(スコットランド南西部の州で乳牛で有名) / 〈U〉〈C〉エアシャー州産の乳牛
+Azores	アゾーレス諸島(北大西洋にあるポルトガル領の諸島)
+Azov	アゾフ海(『the Sea of~』;黒海の北東に連なる内海)
+Aztec	〈C〉アステカ人(16世紀にスペイン人に征服されたメキシコ中部にいた種族) / 〈U〉アステカ語
+a cappella	楽器の伴奏なしで
+a fortiori	いっそう有力な理由で;なおさら
+a posteriori	(推論が)帰納的に(な);経験的に(な);後天的に(な)
+a priori	(推論が)原因より結果を導いて(導いた);演繹(えんえき)的に(な);先験的に(な);先天的に(な)
+a,an	不定冠詞。ある（程度）の、一つの、～というもの、～につき、同じ、～のような人、～という名の人、～家の人、～の作品、～のような人、～つきの、一組の…と…、一種の、抽象名詞の具体例・種類・行為など、動詞と同形の名詞に続く名詞、1回の
+a.	about / acre[s] / adjective
+a.c.	ante cibum 食前服用(before meals)
+a.m.,A.M.	《時間を表す数字の後につける》『午前』(ラテン語ante meridiemの略)
+a.p.	additional premium 割増保険料 / access point アクセスポイント
+aardvark	ツチブタ(シロアリを主食とするアフリカ産の哺乳動物)
 ab.	Abbreviation 略語 / Antibody 抗体 / Abdomen 腹部
-abaci	abacusの複数形
+abaci	abacus(そろばん)の複数形
 aback	後へ,後ろに
 abacus	そろばん
 abaft	船尾に(へ) / …より船尾に
 abalone	〈C〉アワビ;〈U〉アワビの身
-abandon	〈車・船・家など〉'を'『捨て去る』,見捨てて去る(leave behind) / 〈希望・計画など〉'を'『断念する』;〈習慣など〉'を'『やめる』 / 勝手気まま,放縦
+abandon	…を捨てる,断念する / (詩的・文学的)奔放さ,自由奔放
 abandoned	見捨てられた(deserted) / 身を持ちくずした,捨てばちの
 abandonment	見捨てること,遺棄 / 自暴自棄
 abase	〈品位・地位など〉'を'落とす,下げる;〈自分〉'を'卑しめる
@@ -82,7 +358,6 @@ abbot	大修道院長
 abbr.	abbreviated / abbreviation
 abbreviate	…を短縮する、短くする、簡潔にする
 abbreviation	省略;〈C〉省略された語,略語,略字
-ABC	〈U〉アルファベット / 〈U〉〈C〉《the ~》(物事の)初歩,入門,いろは《+『of』+『名』》
 abdicate	〈地位・権利など〉'を'捨てる,‘から'退く / 〈王が〉(…から)退位する《+『from』+『名』》
 abdication	退位,辞職
 abdomen	腹部,腹;(昆虫の)腹部
@@ -93,7 +368,6 @@ abductor	誘拐犯 / (解剖学で)外転筋
 abeam	(海事用語で)(…の)真横に《+『of』+『名』》
 abecedarian	初心者,初学者
 abed	寝床に(in bed)
-Abel	アベル(聖書で,AdamとEveの第2子;兄のカイン(Cain)に殺された)
 aberrant	正道からはずれた,常軌を逸した;異常な
 aberration	正道からはずれること,非行,異常 / (軽い)精神異常
 abet	(特に悪い事に)…'を'扇動する,そそのかす《+『名』+『in』+『名』(do『ing』)》
@@ -121,12 +395,11 @@ able-bodied	体のじょうぶな,強壮な
 abloom	開花して(した)({形}は補語にのみ用いる)
 ablution	《複数形で》(宗教上の儀式としての)沐浴(もくよく)
 ably	りっぱに,うまく
-ABM	antiballistic missile 対弾道弾ミサイル
 abnegate	〈権利など〉'を'放棄する
 abnegation	権利(欲望など)の放棄;禁欲
 abnormal	『異常な』,普通でない,規準をはずれた
 abnormality	〈U〉異常,変則 / 〈U〉異常なもの(事件)
-abo	《オーストラリア英語》《俗・禁句》原住民(aborigine)
+abo	《差別的表現》《オーストラリア英語》《俗》原住民(aborigine)
 aboard	(船・航空機・列車などに)『乗って』 / (船・航空機・列車など)の中へ(に)
 abode	〈C〉住所,住居 / 〈U〉滞在,居住 / abideの過去・過去分詞
 abolish	〈制度・習慣・規則など〉'を'廃止する,やめる
@@ -135,7 +408,6 @@ abolitionary	廃止の,(特に,米国の)奴隷制度廃止の
 abolitionism	(特に米国の)奴隷制度廃止論
 abolitionist	廃止論者,(特に)奴隷制度廃止論者
 abominable	憎むべき,いまわしい / 《話》実にいやな,ひどい
-Abominable Snowman	(ヒマラヤに住むといわれる)雪男,イエティ
 abominate	《文》…'を'忌みきらう;《話》…'が'大きらい
 abomination	〈U〉嫌悪,憎悪 / 〈C〉嫌悪するもの,いまわしいこと
 abominator	嫌悪(憎悪)する人
@@ -145,7 +417,7 @@ aborning	生まれかかって
 abort	流産する / 〈動植物や器官などが〉十分に発育しない / 〈計画が〉失敗する,中止となる / 〈胎児〉'を'流産させる / 〈計画など〉'を'中止する
 abortion	〈U〉〈C〉流産;妊娠中絶 / 〈U〉(計画などの)失敗;〈C〉(実現しなかった)案,計画
 abortional	流産の / 挫折した
-abortionist	堕胎医（合法・違法両方を含む）
+abortionist	（違法に）堕胎を行う人 / 堕胎医（特に違法な手段で堕胎する者）
 abortive	不成功の,失敗に終わった / 流産の / 発育不全の
 abound	〈人・動物などが〉『たくさんいる』,多い
 about	…『について』,に関して / 《おもに英》(また,おもに《米》『around』)…『の回りに(を)』,の周囲を(で) / 《おもに英》(また,おもに《米》『around』)…『のあちこちに(で,を)』,に点々と / 《おもに英》(また,おもに《米》『around』)…のあたりに(を),の近くに(near) / …『の身の回りに』,を手もとに / …の身辺に,のどこかに / …に従事して,にかかわって / (また《話》『around』)《時を表す名詞を伴って》だいたい…ころ(に) / (また《米》『around』)『周囲に』 / 《おもに英》(また,おもに《米》『around』)『あちこちに』,点々と / 《おもに英》(また,おもに《米》『around』)あたりに / 《しばしば数詞と共に用いて》『およそ』,約 / (また,おもに《米》『around』)ぐるっと回って,反対の位置(方向)に / 順番に,交互に / 《be動詞の後で》(病気・うわさが)広まって;(人の病気がよくなり)元気に動き回って;(ショーなどが)行われて
@@ -157,7 +429,6 @@ abp.	archbishop
 abr.	abridged / abridgment
 abracadabra	呪文 / たわごと
 abrade	〈皮膚〉'を'擦傷する;〈毛・岩など〉'を'すり減らす
-Abraham	アブラハム(聖書で,ヘブライ族の始祖とされる)
 abrasion	〈C〉すり傷 / 〈U〉すりむくこと,摩滅
 abrasive	すり減らす,すりむく / 研磨剤(金剛砂・軽石など)
 abreast	並んで,並行して
@@ -170,7 +441,7 @@ abrupt	『突然の』,不意の(sudden) / (坂道などが)けわしい,急な(
 abruptly	突然に,不意に
 abs.	absolute / absolutely
 abscess	膿瘍(のうよう)(うんだできもの)
-abscise	〈葉などが〉(枝から)離れる
+abscise	（植物が）自然に離れる、落葉する / 離層によって（葉・実などを）落とす
 abscissa	横座標
 abscission	切除,切断;分離,離脱
 abscond	(…から)〈犯人などが〉ひそかに逃亡する,行くえをくらます《+『from』+『名』》
@@ -223,25 +494,21 @@ abuse	〈U〉〈C〉(自分の,あるいは人の権利などの)『乱用』,�
 abusive	悪用された,乱用の / 虐待する / ののしる,口ぎたない
 abut	(…に)接する,隣接する《+『on』(『upon』,『onto』)+『名』》 / (他の建物に)よりかかる《+『against』+『名』》
 abutment	迫持(せりもち)受け(建物の弓形門(arch)の両端を受ける部分)
-abuttal	《複数形で》境界[地]
+abuttal	土地の境界線,隣接部 / 境界記述
 abysmal	底知らずの / 《話》とても悪い
 abyss	底知れぬほど深いもの,奈落
 abyssal	深淵(えん)の;深海の
-Abyssinia	アビシニア(アフリカ北東部の王国;Ethiopiaの旧名)
-Ac	actiniumの化学記号
-AC,A.C.,ac,a.c.	Alternating Current (交流電源) / Air Conditioning (空調) / Account (口座)
 acacia	アカシア属の木,《英》ハリエンジュ,ニセアカシア
 acad.	academic / academy
 academe	《A-》(古代アテネの)アカデミーの森 / 〈C〉(またacademia)大学[周辺]
 academia	=academe
-academic	学園の,大学の / (職業教育に対して)純粋学問の / 理論的な;非実際的な / 大学教師,大学生
+academic	学問の,学術的な,教育の / 学園の,大学の / 大学教員,研究者,学者 / (複数形で)学業,学課,大学課程
 academic freedom	学問の自由
 academical	=academic / 《複数形で》大学の式服
-academician	学士院会員,芸術院会員 / =academic / 伝統主義者
+academician	学士院会員,芸術院会員 / 伝統主義者
 academicism	(美術・文学などの) 伝統主義、アカデミー主義, (思想・態度の)学問主義、知識中心主義、理論偏重
 academism	=academicism
 academy	『学士院』,芸術院 / 《米》私立中等(高等)学校 / (特殊教育の)専門学校
-Academy Award	アカデミー賞(米国で毎年最優秀映画・映画人に与えられる賞)
 acanthus	アカンサス,ハアザミ / (建築物の柱頭の)アカンサス葉飾り
 acc.	acceleration / account / accountant / accusative / accompanied [by] / according [to]
 accede	(要求・提案などに)同意する,承認する(agree)《+『to』+『名』》 / (王位・財産などを)継承する;(公職などに)就任する《+『to』+『名』》
@@ -258,15 +525,15 @@ accept	(喜んで)〈物〉'を'『受け取る』,〈事〉'を'受け入れる
 acceptability	受け入れられること,受容性
 acceptable	受け入れられる,認められる;人に喜ばれる
 acceptance	〈U〉受け取ること,認めること,受け入れられていること;同意 / 〈U〉(手形の)引受け;〈C〉引受済み手形
-acceptation	(語句の)一般に認められた意味
+acceptation	(語句の)特定の意味,一般に受け入れられた意味
 accepted	一般に認められた,受け入れられた
 acceptor, accepter	受取人,受諾者 / 手形引受人
 access	〈U〉(人・物・場所への)『接近』《+『to』+『名』》 / 〈C〉(…へ)接近する手段(方法)《+『to』+『名』》 / 〈U〉(…への)接近(入場)の権利(機会)《+『to』+『名』》 / 《an ~》《文》(病気の)突発;(怒り・激情の)爆発《+『of』+『名』》
+accessary	(法律用語)従犯者,犯人隠匿者
 accessibility	近づきやすさ,到達可能性 / （高齢者・障害者に対する）利用しやすさ,アクセシビリティ / (まれに)影響を受けやすいこと,感受性
 accessible	(またget-at-able)近づきやすい,入りやすい,達しうる / 《補語にのみ用いて》(感情などに)動かされやすい,(…の)影響を受けやすい《+『to』+『名』》
 accession	〈U〉(…へ)到達すること,(地位への)即位,就任《+『to』+『名』》 / 〈U〉(…への)加入,加盟《+『to』+『名』》 / 〈C〉(…に)追加される物《+『to』+『名』》
-accessary	=accessory
-accessory	《通例複数形で》(…への)『付属品』,アクセサリー《+『for』+『名』》 / (法律用語で)従犯者,犯人隠匿(いんとく)者 / 付属の / 従犯の
+accessory	《通例複数形で》(…への)『付属品』,アクセサリー《+『for』+『名』》 / (法律用語で)従犯者,犯人隠匿者 / 付属の / 従犯の
 accidence	語形論,形態論(言語の語形変化など形態に関する学問)
 accident	〈C〉『偶然』,偶発,めぐり合わせ / 〈C〉『事故』,災難
 accident insurance	傷害保険
@@ -308,7 +575,7 @@ accountable	説明責任のある,責任を問える
 accountancy	会計係(計理士)の職務(業務)
 accountant	会計係,会計士,計理士
 accounting	会計,経理 / 会計学
-accouter, accoutre	〈人〉'に'特別の装備(服装)をさせる
+accouter, accoutre	(人に)特別な装備(服装)をさせる
 accouterments, accoutrements	《複数形》(兵士の)装備(武器と軍服以外の装具)
 accredit	（人や団体に）信任を与える,認可する,～の責任であると認める
 accredited	一般に認められた;公認の
@@ -333,7 +600,6 @@ accuser	告訴人,原告 / 非難者
 accustom	(…に)〈人・自分・動物〉'を'『慣らす』,習慣づける《+『名』+『to』+『名』(do『ing』)》
 accustomed	慣れた,〜に慣れる
 ace, Ace	(カード・ドミノ・さいころの)1,エース,Aの札 / (テニスなど球技で)サービスエース / 《話》(何かに)優れている人,ぴか一,エース;名撃墜手 / ぴか一の
-acetonic	アセトンの
 acerb	(味が)すっぱい(sour),苦い,渋い / (ことば・態度が)厳しい,しんらつな
 acerbate	…'を'すっぱく(苦く)する / …'を'怒らせる
 acerbity	〈U〉渋味,にがさ / 〈U〉〈C〉辛らつさ
@@ -342,6 +608,7 @@ acetate	酢酸(さくさん)塩;アセテート(酢酸人造絹糸)
 acetic	酢の,すっぱい
 acetic acid	酢酸
 acetone	アセトン(揮発・可燃性液体;ペンキなどの溶剤として用いる)
+acetonic	アセトンの
 acetylcholine	アセチルコリン(神経を刺激し筋肉運動を起こす化合物)
 acetylene	アセチレン[ガス]
 acetylsalicylic acid	アセチルサリチル酸(aspirinの化学名)
@@ -351,8 +618,6 @@ achievable	成就(じょうじゅ)(達成)できる
 achieve	〈目標など〉'を'『達成する』,'に'到達する / 〈勝利・名声・地位など〉'を'獲得する,勝ち取る
 achievement	〈U〉(…の)『成就』(じょうじゅ),達成《+『of』+『名』》 / 〈U〉『業績』,功績,達成されたこと
 achievement test	学力検査
-Achilles	アキレス(Homer作のIliadに出てくるギリシア軍の勇将;右足首以外は不死身であったが,ここに矢を射られ戦死をとげたという.このため,「唯一の弱点」のことを『Achilles' heel』「アキレスのかかと」という.《米》では'(アポストロフィ)をつけない)
-Achilles tendon	アキレス腱(けん)
 achoo	《米》=atchoo
 achromatic	無色の;色消しの
 acid	酸性の / 酸味のある,すっぱい(sour) / (言葉・態度などが)厳しい,しんらつな / 酸 / すっぱいもの / 《俗》=LSD
@@ -410,10 +675,6 @@ acrylic	=acrylic resin / (画家用の)アクリル絵の具
 acrylic fiber, acrylic fibre	アクリル繊維
 acrylic resin	アクリル樹脂(熱可塑性の透明な樹脂)
 act	『行い』,『行為』 / 《しばしばA-》法令,条令 / 《しばしばA-》(芝居の1つの)『幕』;(演芸などの)出し物の一つ / (見せかけの)お芝居,演技 / 『行動する』,行う / 《様態を表す副詞[句]を伴って》わざとふるまう,見せかける / 〈人・物が〉(…として)動く,役割をはたす《+『as』+『名』》 / 〈薬が〉『作用する』,きく / 舞台に立つ,出演する / 〈…の役〉'を'『演ずる』;〈劇〉'を'上演する / …'に'ふさわしくふるまう / …'に'見せかける,'の'ふりをする
-Act.	active
-ACT	American College Testing / Australian Capital Territory
-actomyosin	アクトミオシン(筋収縮を起こす複合体蛋白質)
-ACTH	副腎皮質刺激ホルモン[剤]
 actin	アクチン(筋肉生成に役立つ純蛋白質の一種)
 acting	代理の,臨時の / 演出用の / 演出,演技
 actinic	（日光の）紫外線に関する; （化学的に）作用する
@@ -432,9 +693,9 @@ actively	活発に;積極的に
 activism	（社会的・政治的な）積極的行動主義,活動主義
 activist	(特に政治信条の)積極行動主義者,実践主義者
 activity	〈U〉『活動』,働き;活力 / 《しばしば複数形で》(種々の)『活動』,行事;(学生の)学内(外)活動,クラブ活動 / 〈U〉(商況・市場などの)活発,活気
+actomyosin	アクトミオシン(筋収縮を起こす複合体蛋白質)
 actor	(男の)『俳優』,『男優』 / 行為者
 actress	〈C〉女優
-Acts	使徒行伝(新約聖書の中の一書)
 actual	『現実の』,実際上の(real) / 現在の,現存の
 actuality	〈U〉現実,実在,現実性 / 《複数形で》現状;事実
 actualize	…'を'実現する;…'を'行動に表す
@@ -452,13 +713,10 @@ ad hoc	特別の目的のための / 特別の目的のために
 ad infinitum	無限に,永久に
 ad interim	中間に(の);臨時に(の)(《略》ad int.)
 ad libitum	(音楽の演奏の指示で)随意に,演奏者の自由に
-ADA	Americans for Democratic Action 米国人民主行動連盟
 adage	格言,ことわざ
 adagio	(音楽で)ゆるやかに / アダージォの曲(楽章)
-Adam	アダム(聖書によれば,神が天地を創造したとき,最初Adamをつくり,そのろっ骨の1本から最初の女Eveを造ったという)
 adamant	(伝説で)絶対に砕けない堅固な物質 / 《文》(人,人の態度・意見などが)堅固無比な;(…するといって)ゆずらない《+『about』do『ing』》,(…だと)ゆずらない《+『that』節》
 adamantine	(決心などが)不動の,ゆるぎない
-Adams apple	のどぼとけ(エデンの園でAdamが食べた禁断の実リンゴの1切れがAdamののどにつかえたという伝説に由来)
 adapt	(…に)…'を'『適応させる』,適合させる《+『名』+『to』+『名』(do『ing』)》 / (…向きに)〈小説・戯曲など〉'を'『脚色する』,翻案する,書きかえる《+『名』+『for』+『名』》 / (環境などに)適応する,順応する《+『to』+『名』》
 adaptability	適応性,順応性
 adaptable	(物・事が)適応できる / (人が)融通のきく,順応性のある
@@ -483,7 +741,6 @@ addn.,addnl	additional
 address	〈C〉『あて名』,住所 / 〈C〉『演説』;(口頭・文書による)あいさつの言葉(speech) / 《文》〈U〉話しぶり,応対のしかた / 〈U〉(物事を扱う)手ぎわのよさ,如才なさ / 《複数形で》くどき,求愛,求婚 / …'に'『あてて手紙』(『小包』)『を出す』 / (人にあてて)…'の'あて名を書いて出す《+『名』+『to』+『名』〈人〉》 / (…と)〈人〉'に'『話にかける』,呼びかける《+『名』+『as』+『名』》 / …'に'演説する,講演する / (…に)〈抗議など〉'を'向ける《+『名』+『to』+『名』》
 addressee	受信人,名あて人
 adduce	〈証拠・理由〉'を'あげる;(証拠として)…'を'引用する
-Aden	アデン(イエメン民主人民共和国の首都)
 adenine	アデニン(DNAやRNAを構成する塩基の一つでプリン塩基の一種)
 adenoidal	アデノイド(腺(せん)様増殖症)の / (声が)鼻にかかった
 adenoids	《複数形》アデノイド,腺(せん)様増殖症(扁桃腺の病気)
@@ -521,7 +778,6 @@ adjuster, adjustor	調整者,調停者 / (保険)精算人 / 調整機
 adjustment	〈U〉(…の)『調停』,調整,調節《+『of』+『名』》 / 〈C〉調整装置
 adjutant	(陸軍の)副官 / 補助員,助手 / (またadjutant stork, adjutant bird)ハゲコウ(インド・アフリカ産のコウノトリ科の鳥)
 adlib	〈楽譜にないもの〉'を'即興的に歌う(演奏する),〈台本にないせりふ〉'を'即興的にしゃべる / 即興的に歌う(演奏する,しゃべる) / 《名詞の前にのみ用いて》即興の,アドリブの / アドリブで,即興で / アドリブ,即興的な演奏(演技,せりふ)
-Adm.	admiral
 adman	広告業者,広告会社社員
 admass	(社会悪となっている)マスコミ広告;(その影響下の)マスコミ社会
 administer	…'を'『治める』,管理運営する / (…に対して)…'を'執行する,実行する(carry out)《+『名』+『to』+『名』》 / (…に)〈薬・手当て・援助など〉'を'与える《+『名』+『to』+『名』》 / (…に)〈一撃・非難・叱責など〉'を'与える,浴びせる《+『名』+『to』+『名』》 / (…に)寄与する,役立つ《+『to』+『名』》
@@ -555,7 +811,6 @@ ado	騒ぎ,騒動(fuss);めんどう
 adobe	〈U〉《集合的に》(泥を固め天日で干して作る)アドービれんが 日干し煉瓦 / 〈C〉アドービれんが造りの家屋(米南西部・メキシコ・南米に多い) / アドービれんが造りの
 adolescence	青春期,思春期
 adolescent	青春期の,青年らしい / 青春期の人,若者
-Adonis	アドニス(ギリシア神話で,女神アフロディテ(Aphrodite)に愛された美青年) / 〈C〉美青年
 adopt	〈考え・習慣など〉'を'『取り入れる』,採用する / (法律によって)(…として)…'を'養子にする,家族(部族)の一員にする《+『名』+『as』+『名』》 / (投票など正式な手順で)…'を'採択する,承諾する
 adoption	(考え・方法・規則・法案などの)採用,採択《+『of』+『名』》 / 養子縁組
 adoptive	養子関係の
@@ -569,7 +824,6 @@ adornment	〈U〉飾ること,装飾 / 〈C〉装飾品
 adrenal	副腎(じん)の
 adrenal gland	副腎
 adrenalin[e]	アドレナリン(副腎髄質ホルモン) / 《A-》アドレナリン剤
-Adriatic Sea	アドリア海(イタリアとクロアチア・モンテネグロ・アルバニアの間の海)
 adrift	(船などが)漂って / (人が)あてもなく,放浪して
 adroit	器用な,機敏な;(…に)巧みな《+『at』(『in』)+『名』(doing)》
 adsorb	〈ガス・液体など〉'を'吸着する
@@ -600,7 +854,6 @@ advantage	〈C〉(…に対する)『有利な立場』,利点,優位《+『over
 advantageous	『有利な』,好都合な
 advantageously	有利に,好都合に
 advent	《the ~》(際立ったもの・事件・人の)出現,到来《+『of』+『名』》 / 《A-》キリストの降臨;降臨節(クリスマス前のおよそ4週間の期間)
-Adventist	キリスト再臨論者
 adventitious	侵入的な,よそ者の,外来の
 adventure	〈U〉〈C〉『冒険』 / 〈C〉珍しい経験,意外なできごと / =venture
 adventurer	冒険家 / やま師,投機家
@@ -632,12 +885,7 @@ advocacy	(考え・主義・政策などの)弁護,擁護;唱道
 advocate	〈考え・主義・政策など〉'を'弁護(擁護)して言う,主唱する / 擁護者,主唱者 / 弁護士
 advt.	advertisement
 adze	(材木をけずる)手おの
-AEC	Atomic Energy Commission 米国原子力委員会
-Aegean Sea	エーゲ海(小アジアとギリシアの間の海)
 aegis	保護,援助
-Aeneas	アイネアス(トロイ戦争の勇士でローマの建国の祖)
-Aeolian	アイオロスの(ギリシア神話の風の神) / 風の,風に吹かれた
-Aeolian harp	風琴(かぜごと)(風の吹く所に置くとひとりでに鳴る楽器)
 aeon,eon	無限に長い時間
 aerate	…'を'空気にさらす,曝気(ばっき)する / 〈液体〉'に'空気(特に炭酸ガス)を入れる
 aeration	曝気,空気にさらすこと / 気体(特に炭酸ガス)を入れること
@@ -665,19 +913,13 @@ aerosol bomb	(殺虫・殺菌剤などの)噴霧器
 aerospace	気圏,航空宇宙(大気圏と大気圏外をまとめた名称) / 気圏の,航空宇宙の
 aertex	《英》エアテックス(シャツ・下着用の織り目の粗い生地;商標名)
 aery	=ethereal / =aerie
-Aeschylus	アイスキュロス(525‐456B.C.;ギリシアの悲劇詩人)
-Aesop	イソップ(イソップ物語を書いたといわれる古代ギリシアの作者)
-Aesopian	イソップの;イソップ物語風な
 aesthete	唯美主義者
 aesthetic	美学の;審美的な
 aesthetics	美学
 aestivate	夏を過ごす;(カタツムリなどが)夏眠する
 aether	=ether
 aetiology	(英国)病因学,原因論,原因の研究 / =etiology (米国)
-AF,A.F.	air force 空軍
 afar	遠くに,はるかに
-AFB	Air Force Base 空軍基地
-AFC	automatic frequency control 自動周波数制御(調整)
 affability	愛想のよさ,人好きのすること
 affable	(人が)近づきやすい,親しみのもてる
 affair	〈C〉(個人的に関心・関係のある)『事』,事柄 / 〈C〉『事件』,でき事 / 《複数形で》仕事,業務 / 〈C〉《話》《修飾語を伴って》物,しろもの / 〈C〉(特に一時期の)恋愛事件,情事
@@ -713,13 +955,10 @@ affricate	破擦音
 affright	(古風)(文語)恐怖や恐れを引き起こす
 affront	(特に,人前で)…'を'侮辱する,恥ずかしめる / (人前の,また意図的な)侮辱,恥ずかしめ
 afft.	affidavit
-Afghan	アフガニスタンの;アフガニスタン人(語)の / アフガニスタン人;〈U〉アフガニスタン語：(アフガニスタン(国・場所)を指して「アフガン」と日本語で述べる例を多々耳にしますが、国は「Afghanistan」で、「アフガン」は誤用です。「アフガン」は、「アフガニスタン人・アフガニスタンの」という意味になります)
-Afghanistan	アフガニスタン(アジア南西部にある共和国;首都はKabul)
 aficionado	熱愛者,こり屋
 afield	《far(farther) afieldの形で》(本来の道筋から)離れて,それて,遠くに / 野外に(で)
 afire	(…で)燃えた(on fire)《+『with』+『名』》 / 燃えて
 aflame	燃え立った(in flames) / (…で)赤くなった《+『with』+『名』》 / 燃え立って / 赤くなって
-AFLCIO	American Federation of Labor and Congress of Industrial Organizations 米国労働総同盟産別会議
 afloat	浮かんだ / 海上の;船上の / 水をかぶって,浸水した / (うわさなどが)広まった / (商売など)財政上の危機を抜け出て / 浮かんで / 海上で,船上で / 水をかぶって / (うわさなどが)広まって
 aflutter	(旗などが)はためいて,ひらひらして
 afoot	《古》徒歩の,歩いて(on foot) / (悪い事が)進行中の(in progress) / 徒歩で / (事が)進行中で
@@ -728,17 +967,8 @@ aforementioned	前述の,前記の
 aforesaid	前述の
 aforethought	計画的な,故意の
 afoul	衝突して;もつれて
-Afr.	Afriac;African
 afraid	『恐れて』,こわがって / 『気づかって』,心配して / 気が進まない
 afresh	あらたに,再び
-Africa	『アフリカ』(《略》Afr.)
-African	『アフリカの』 / アフリカ黒人の / アフリカ[黒]人
-African violet	アフリカすみれ
-Afrikaans	(オランダ語に似た)南アフリカ共和国の言語
-Afrikaner	(オランダ人を祖先とする)南アフリカ人
-Afro	(髪型の)アフロ(黒人の髪のように小さくカールしたもの)
-Afro Asian	アジア=アフリカの
-Afro-American	アメリカ黒人の / アメリカ黒人
 aft	船尾に,船尾の方に / 《補語にのみ用いて》船尾の
 after	《時・順序》…『の後に』,…後に;…の次に / …『を求めて』,の後を追って / …『の名をとって』,にならって;…ふうに(の) / …のことを心配して,に関して / …『だから』,…の結果 / 《前後に同じ名詞を用いて連続・反復など》 / 《時》…『した後で(に)』,してから / 《順序・時》『後に』,後ろから,後で / 後の,次の
 after dinner	正餐(せいさん)後の,食後の
@@ -759,7 +989,6 @@ aftershave	ひげ剃り後につける化粧水(ローション)
 aftertaste	(口に残る)あと口,あと味 / (特に不快な経験・でき事などの)あと味
 afterthought	何かを考えた後に後悔したり,別の考えが浮かぶこと
 afterward, afterwards	『あとで』,以後,その後
-Ag	silverの化学記号[ラテン語argentumから]
 again	『再び』,もう一度(once more);《否定語とともに用いて》二度と(…しない) / 『また元の所へ』,元のように / さらにそれだけ,…の倍も / 《しばしばthen, and thenに続いて》その上に(besides),さらに(furthermore) / 《しばしばand, and thenに続いて》また一方,ところが
 against	…『に対して』,に逆らって(in opposition to);…に不利に / 《保護を表す動詞と共に》…『から』 / …『にぶつかって』,に向かって / …『にもたれて』,に寄りかかって / (災難・事故・万一の場合など)『に備えて』,を避けるように / …『を背景として』,と対照して / …と交換に,と引き換えに
 agape	(驚き・不信などで)あっけにとられて,唖然(あぜん)として / 《補語にのみ用いて》あっけにとられた,ぽかんとした / (神の)愛;(キリスト教徒間の)兄弟愛
@@ -813,7 +1042,6 @@ aglitter	きらきら輝く
 aglow	(空などが)(…で)赤々と輝いて《+『with』+『名』》 / (興奮などで)赤らんで;(誇りなどに)燃えて《+『with』+『名』》
 agnostic	不可知論者 / 不可知論の;不可知論者の
 agnosticism	不可知論(人間には神や死後の世界のことについては知ることができないという説)
-Agnus Dei	神の小羊 / (ローマカトリック教ミサの6番目の)賛歌
 ago	《期間を表す語[句]の後に用いて》(今から)…『前に』 / 《longの後に用いて》『以前に』
 agog	(期待・好奇心などで)興奮した,待ち構えて,熱望して(eager)《+『with』+『名』》 / 熱望して,興奮して,わくわくして
 agogo	=go-go
@@ -839,7 +1067,6 @@ agriculture	『農業』,農学
 agronomist	農学者
 agronomy	作物学,農学(土壌管理と作物生産に関する科学)
 aground	(船が)座礁して / (船が)座礁した
-Agt.,agt.	against / agent / agreement
 ague	マラリア熱,おこり / 寒け,悪寒
 ah	『ああ』(悲しみ・嘆き・驚き・同情・喜び・得意・哀れみ・軽べつなどを表す声)
 aha	ほほう,ほーら,どんなものだ(勝利感・得意・驚き・皮肉・軽べつなどを表す声)
@@ -848,10 +1075,8 @@ ahead	(空間的に)『前方に』,前に(へ) / (時間的に)『前に』,先
 ahem	えへん(人の注意を引いたり,警告・疑いなどを表して,わざとするせき払いの声)
 ahoy	おおい(船乗りが遠方に呼びかける声)
 aid	…'を'『助ける』,援助する / 〈U〉『助力』,援助;(医者などの)手当て / 〈C〉(…の)助けとなるもの,援助者;助手(assistant)《+『to』+『名』》
-AID	artificial insemination by donor 非配偶者間人工受精
 aide	副官(aide-de-camp) / 補佐官,助手
 aide-de-camp	副官
-AIH	artificial insemination by husband 配偶者間人工受精
 ail	〈慢性的・長期的な病気・心配ごとが〉…'を'苦しめる,悩ませる / (慢性・長期の)病気をしている
 ailanthus	ニワウルシ(羽状の葉と緑色の小さな花を咲かせる)
 aileron	補助翼
@@ -917,7 +1142,6 @@ aircrew	航空機乗組員(操縦士・客室乗務員など)
 aircushion	〈C〉空気座ぶとん / 〈U〉空気ばね;(hovercraftを浮上させる)噴射気流
 airdrome	《米》=airport / 《英》=airfield1
 airdrop	（パラシュートによる）空中投下 / （デジタルファイルを）無線で送信する行為
-Airedale	エアデールテリア(英国ヨークシャーのエアデール原産のテリア犬)
 airfield	《米》小飛行場(《英》aerodrome) / (整備設備のない)飛行場,滑走路
 airflow	(航空機・自動車が引き起こす)気流
 airfoil	《おもに米》翼形,翼(《英》aerofoil)
@@ -956,18 +1180,12 @@ aisle seat	(乗り物・劇場などの)通路側の席
 aitch	H,hの字(音)
 aitchbone	《英》(牛の)しり骨,しり肉
 ajar	(戸・窓が)少し開いている,半開きの / 少し開いて,半開きで
-AK	Alaska
 akimbo	両手を腰に当てひじを張った / 両手を腰に当てひじを張って
 akin	(…と)同じ家族の,血族の《+『to』+『名』》 / (…と)類似の,同類の《+『to』+『名』》
-Al	aluminumの化学記号
-AL	Alabama
-Ala.	アラバマ州(Alabama)の略称
 ala carte	メニューから選んだ(で),お好み一品料理の(で)
-Alabama	アラバマ州(米国南東部の州;州都Montgomery;《略》AL,Ala.)
 alabaster	雪花石膏(せっこう) / (雪花石膏のように)白くすべすべした
 alack	(悲しみの叫びで)ああ
 alacrity	敏活,機敏
-Alamo	アラモ(米国Texas州San Antonioにあったフランシスコ派の伝道所;1836年Texas独立戦争の時ここにたてこもった米国人はメキシコ軍の攻撃で全滅した)
 alamode	現代流行の(して) / (デザートなど)アイスクリームをのせた(て)
 alar	翼のある;翼の形をした
 alarm	〈C〉『警報』;『警報器』 / 〈C〉警報装置 / 〈U〉(不意に危険を感じた時の)恐怖,驚愕(がく) / …'に'『警報する』,急を告げる / …'を'『怖がらせる』,おびえさせる(frighten)
@@ -976,17 +1194,10 @@ alarm clock	目覚まし時計
 alarming	人を驚かせる;急を告げる
 alarmist	（必要以上に）騒ぎ立てる人,過度に危険を恐れる人,過剰な警告を発する人
 alas	ああ,あわれ(悲しみ・後悔などを表す声)
-Alas.	Alaska
-Alaska	アラスカ州(米国西北端の州;州都はJuneau;《略》AK,Alas.)
-Alaskan	アラスカの;アラスカ人の / アラスカ人
 alb	アルバ(司祭がミサで着る祭服)
-Albania	アルバニア(バルカン半島の人民共和国;首都はTirana)
-Albanian	アルバニアの;アルバニア人の;アルバニア語の / 〈C〉アルバニア人 / 〈U〉アルバニア語
-Albany	オルバニー(米国ニューヨーク州の州都)
 albatross	〈C〉アホウドリ
 albeit	…にもかかわらず,たとえ…でも(although)
 albino	白子(しらこ)(皮膚の色素の欠けた人) / 白変種(色素の欠けた動植物)
-Albion	アルビオン(イギリス・大ブリテン島の古名・雅名;「白い国」の意味で南東部海岸が白亜質の絶壁であることからローマ人がつけた名)
 album	(写真・切手・切り抜きなどを貼る)『アルバム』 / (いくつかの曲・劇などを収録した)組レコード,アルバム / 画帳
 albumen	卵白 / (植物の種子の)胚乳(はいにゅう) / =albumin
 albumin	アルブミン(蛋白質の一種)
@@ -1009,17 +1220,9 @@ alee	(海事用語で)風下に(の)
 alehouse	=public house
 alembic	ランビキ(昔の蒸留器,浄化器)
 alert	『油断のない』,用心深い / (頭の回転・動作などが)機敏な / (動作が)敏しょうな / 〈U〉《しばしばthe ~》警戒,用心 / 〈C〉警報;警報発令期間 / (…に対して)…'に'警報(警告)を出す,警戒態勢をとらせる《+『名』+『to』+『名』》
-Aleut	(またAleutian)〈C〉アリューシャン列島住民 / アリュート語
-Aleutian	アリューシャン列島の / =Aleut 1
-Aleutian Islands	アリューシャン列島(アラスカとカムチャッカの間の群島)
 alewife	エールワイフ(北アメリカ東海岸に生息するニシン科の回遊魚) / 中世〜近世のイギリスなどで自家製エール（ビール）を醸造・販売していた女性
-Alexander the Great	アレキサンダー大王(古代マケドニアの王;356‐323B.C.)
-Alexandria	アレキサンドリア(エジプトのナイル河口の港市)
-Alexandrian	アレキサンドリアの / アレキサンダー大王の
-Alexandrine	アレクサンドル格の詩(六脚短長格) / アレクサンドル格の
 alexia	失読症(脳が冒され文字・文章が読めなくなる病気)
 alfalfa	ムラサキウマゴヤシ(牛馬の牧草;紫色の花とクローバーに似た葉をつける)(また《英》lucerne)
-Alfred the Great	アルフレッド大王(古英国のWessexの名君;849‐899)
 alfresco	戸外で / 戸外の
 alg.	algebra
 alga	藻(も);《複数形で》藻(そう)類(海草などの隠花植物)
@@ -1028,13 +1231,7 @@ algal	藻の,藻類の
 algebra	『代数』[学]
 algebraic	代数の,代数学上の
 algebraist	代数学者
-Algeria	アルジェリア(アフリカ北西部の共和国;首都Algiers)
-Algerian	アルジェリアの / アルジェリア人
-Algiers	アルジェ(アルジェリアの首都)
-Algonquian	〈U〉アルゴンキン語族(アメリカインディアン最大の語族) / アルゴンキン族[の人] / アルゴンキン語族の
-Algonquin	アルゴンキン語族の一人 / =Algonquian
 algorithm	アルゴリズム（問題解決のための手順や規則の集まり。最大公約数を求める互除法はその一例）
-Alhambra	アルハンブラ宮殿(スペインのグラナダにある宮殿)
 alias	別名では,偽名は / 別名,通称
 alibi	アリバイ,現場不在証明 / 《話》いいわけ,口実 / (…について)言いわけをする《+『for』+『名』(do『ing』)》
 alien	『外国の』,異国の;外国人の,在留外国人の / 《補語にのみ用いて》(…と)性質の異なる《+『from』(『to』)+『名』》 / 《補語にのみ用いて》(…と)相いれない,(…に)反する《+『to』+『名』》 / 異常な / (ある国に在住する)外国人,在留外国人;(citizenと区別して帰化してない)外国人
@@ -1064,10 +1261,7 @@ alkyd resin	アルキド樹脂(接着剤・塗料に用いる)
 all	《単数形,または数えられない名詞につけて》(ある一つのものについて,その)『全体の』,全…,…じゅう,…全体 / 《複数形につけて》(個々を一つにまとめて)『全部の』,すべての / 《複数形,または数えられない名詞につけて》(ある全体の中の)いずれの,およそどの,あらゆる / 《数えられない名詞につけて》できる限りの,最大の / 《単数扱い》(物事について)『全部』,全体,すべて / 《複数扱い》『全員』,みんな / いっさいの所有物,いっさいがっさい / 『すっかり』,『全く』,もっぱら / 《all the+比較級の形で》かえって,いっそう / どちらも,双方とも
 all clear	(通例サイレンによる)[空襲]警報解除
 all fired	《おもに米・話》ひどい,極端な,過度の / 極端に,過度に
-All Fools Day	=April Fools' Day
 all get out	次の句で用いる:as all get-out 最大限に
-All Saints Day	万聖節(11月1日;聖人・殉教者の霊を祭る日)
-All Souls Day	万霊節(11月2日;ローマカトリック教で信者の霊の救いを祈る祭日)
 all-American	全米代表の / もっともアメリカ的な / 全米代表選手
 all-around	多才な,万能の / 多くの目的にかなう
 all-day	終日の,まる1日かかる
@@ -1080,7 +1274,6 @@ all-purpose	あらゆる目的に使用できる,万能の
 all-round	=all-around
 all-star	花形スター総出演の,花形選手総出場の
 all-time	かつてない,前代未聞の / =full-time
-Allah	アラー神(イスラム教の神)
 allay	〈怒り・興奮・心配など〉'を'静める,和らげる / 〈痛み〉'を'軽くする
 allegation	(十分な証拠を持たない)主張,申し立て
 allege	(十分な証拠なしに,また理由・弁解として)…'を'主張する,申し立てる
@@ -1102,7 +1295,6 @@ alleviation	(苦痛・苦悩などの)軽減,緩和《+『of』+『名』》;〈
 alley	小路(こうじ),路地 / (公園・森,植込み・花壇の間などの)小道 / 《米》裏通り / (ボウリングなどの)レーン;《複数形で》ボウリング場 / はじき玉
 alley cat	《米》(雑種の)のら猫
 alleyway	(ビルの間の)横丁,路地
-Allhallows	=All Saints' Day
 alliance	〈U〉〈C〉(国家間の)同盟,協定;〈C〉同盟国 / 〈U〉〈C〉(個人・組織間の)協力,提携 / 〈U〉〈C〉(…との)縁組み,姻戚関係;交友《+『with』+『名』》
 allied	同盟した,連合した / 関連した,同類の
 alligator	〈C〉(米国・中国産の)ワニ / 〈U〉ワニ皮
@@ -1165,16 +1357,11 @@ alphabetical directory	ABC順の電話番号簿
 alphabetically	アルファベット順に
 alphabetize	…'を'アルファベット順に並べる / …'を'アルファベットで表す
 alphanumeric	(電算機の記号が)文字・数字両用の
-Alpine	アルプス山脈の / 《通例a-》高山の
-Alps	アルプス山脈
 already	《肯定文で》『もう』,『すでに』 / 《驚き・意外の意を表して》《疑問文で》もう,早くも;《否定文で》まさか
 alright	=all right
-Alsatian	=German shepherd
 also	…『もまた』(too),やはり / そしてその上,それから
 also-ran	(競馬で)着外の馬 / 落選候補者;落伍者
 alt.	alternate / altitude / alto
-Altai Mountains	アルタイ山脈(モンゴルと旧ソ連領アジアにまたがる大山脈)
-Altaic	アルタイ山脈の / アルタイ語の
 altar	祭壇,聖餐(せいさん)台
 altar boy	侍者(ローマカトリックの礼拝式で司祭を補助する少年)
 altarpiece	(祭壇の背後・上部の)絵画,装飾
@@ -1212,10 +1399,6 @@ alveolar	歯茎音の(舌先を上歯茎にふれて発音する) / 肺胞の;�
 always	『いつも』,常に / いつまでも,永久に(forever) / 《話》いずれにしても,必要なら
 alyssum	ニワナズナ(白・黄色の花をつける雑草)
 am	be動詞の一人称単数,直説法,現在形
-Am	americiumの化学記号
-Am.	America / American
-AM,A.M.	amplitude modulation
-AMA	American Medical Association 米国医師会
 amah	(東洋諸国で)子もり,うば;女中,お手伝い
 amalgam	〈U〉アマルガム(水銀と他の金属の合金) / 〈C〉(一般に)混合物
 amalgamate	〈金属〉'を'水銀との合金にする / 〈会社など〉'を'合同する,合併する / (…と)〈思想・種族など〉'を'混和する,融合する《+『名』+『with』+『名』》 / 水銀との合金になる / 合同(合併)する;混和(融合)する
@@ -1234,8 +1417,6 @@ amaze	…'を'『ひどくびっくりさせる』,驚きあきれさせる
 amazed	びっくりぎょうてんした,驚きあきれた
 amazement	『たいへんな驚き』,びっくりぎょうてん(astonishment)
 amazing	驚くべき,びっくりさせるような
-Amazon	アマゾン(ギリシア神話で,昔黒海の近くにいたという女武者の一族) / 《しばしばa-》女傑(じょけつ),勇ましい女 / 《the ~》アマゾン川(南米にある大河)
-Amazonian	アマゾンのような / アマゾン川の / (女性が)男まさりの,勇猛な
 amb.	ambassador
 ambassador	『大使』
 ambassadorial	大使の;使節の,特使の
@@ -1273,24 +1454,7 @@ amend	…'を'『改める』,改良する / (正式に)〈議案など〉'を'�
 amendment	修正,改正;改心;〈C〉修正案
 amends	賠償,償い,埋め合わせ
 amenity	《the amenities》礼儀正しい行為(言葉) / 〈U〉〈C〉快適さ,ここちよさ;楽しさ
-Amer.	American（アメリカの,アメリカ人） の略
-Amerasian	アメリカ人とアジア人の混血(の人)
-America	『アメリカ合衆国』,米国,アメリカ(《略》『Am.,Amer.』) / 《the Americas》南北アメリカ[イタリアの商人・航海者・探検家Amerigo Vespucciの名前に由来]
-American	『アメリカ合衆国の』,米国の;アメリカ人の / 北アメリカの;北米人の / 南アメリカの;南米人の / 南北アメリカの;南北アメリカ人の / 米国人,アメリカ人 / 北(南)アメリカ人 / =American English
-American eagle	=bald eagle / 《the ~》ハクトウワシ印(米国の紋章)
-American English	アメリカ英語,米語
-American football	=football 1
-American Indian	アメリカ大陸に原住民族として存在していた人々
-American League	アメリカンリーグ(米国の2大プロ野球連盟の一つ)
-American Legion	米国在郷軍人会
-American plan	部屋代・食事代こみホテル料金制度
-American Revolution	アメリカ独立戦争(1775‐83)
-Americana	《しばしば複数扱い》アメリカに関する文献(資料) / 《単数扱い》米国誌(アメリカに関する文献・資料のコレクション)
-Americanism	〈C〉アメリカ語法(米語特有の語,つづり,発音,意味,表現をいう) / 〈U〉〈C〉アメリカ風(式);アメリカ精神;アメリカ人かたぎ
-Americanization,Americanisation	アメリカ化,米国化;米国帰化
-Americanize,Americanise	…'を'アメリカ風(式)にする,米語式にする;…'を'アメリカに帰化させる / アメリカ化する,アメリカ風(式)になる;米語式になる;アメリカに帰化する
 americium	アメリシウム(人工放射性元素;化学記号Am)
-Amerind	アメリカ大陸原住民(American IndianまたはEskimoなど)
 amethyst	〈U〉紫水晶,紫石英;〈C〉その宝石 / 〈U〉紫色(purple)
 amiability	感じのよさ;気だての優しさ;温和;温厚
 amiable	(人物・性格が)感じのよい,好感のもてる,気だてのいい
@@ -1305,7 +1469,6 @@ amidst	《文》=amid
 amigo	友人
 amino acid	アミノ酸
 amir	=emir
-Amish	アンマン(Ammann)派の / アンマン派の信徒(新教のメノー派系に属し,厳格な教養を持つ)
 amiss	誤った,不都合な;《否定文で》場違いの / 間違って,ぐあい悪く
 amity	(人・国などの間の)親善,友好,親和
 ammeter	電流計
@@ -1355,9 +1518,7 @@ ampule	(注射液を入れる)アンプル
 amputate	〈手足など〉'を'外科手術で切断する / 切断する
 amputation	(手足などの)切断[手術]
 amputee	(切断手術で)手足を失った人
-Amsterdam	アムステルダム(オランダの名目上の首都・港市)
 amt.	amount
-Amtrak	《米》アムトラック(American Trackの略;全国鉄道旅客公社(National Railroad Passenger Corporation)の運行する列車)
 amu.	atomic mass unit 原子質量単位
 amuck	アモク 《急に興奮して殺人を犯す精神障害; 元来マレー人特有のものとされた》/ 殺気立って[た]; 怒り狂って[た].
 amulet	お守り,魔よけ
@@ -1368,7 +1529,6 @@ amusement arcade	ゲームセンター(硬貨を入れてゲームする機械�
 amusement park	遊園地(《英》funfair)
 amusing	『おもしろい』,おかしい,楽しい
 amusingly	おもしろく,おかしく
-AMVETS	(第二次世界大戦および朝鮮戦争の)退役軍人
 amylase	アミラーゼ(でんぷん糖化酵素)
 an	(次にくる語の発音が母音で始まるときに用いる)不定冠詞,一つの,一組の
 anabolism	(生物の)同化作用
@@ -1389,15 +1549,15 @@ analgesia	無痛覚[症]
 analgesic	鎮痛の / 鎮痛剤
 analogize	類推する / (…と)類似している《+『with』(『to』)+『名』》 / …'を'類推する
 analogous	類似の,相似;(…に)類似の《+『to』(『with』)+『名』》
-analogue, analog	類似物,相似物
 analogue computer	アナログ計算機(数量を長さ・電圧などにかえて表現する)
+analogue, analog	類似物,相似物
 analogy	(…間の)類似《+『between』+『名』》,(…との)類似《+『to』(『with』)+『名』》 / (論理・言語などの)類推
 analysand	精神分析を受けている患者
 analyse	=analyze
 analysis	(内容・状況などの)『分析』,分解;(詳細な)検討 / (化学・物理で)分析;《米》(心理学で)[精神]分析;(数学で)解析
 analyst	(状況などの)分析者,解説者 / (科学・経済・政治の)分析者 / 《米》精神分析家(医)(psychoanalyst)
-analytic, analytical	分析的な,分解的な,解析的
 analytic geometry	解析幾何学
+analytic, analytical	分析的な,分解的な,解析的
 analyze,analyse	〈状況など〉'を'『分析する』,詳細に検討する / 〈物質など〉'を'(…に)『分析する』,分解する《+『名』+『into』+『名』》;(数学で)…'を'解析する / 《米》〈人〉'を'精神分析する(psychoanalyze) / 〈文〉'を'[文法的に]分解する
 anapest,anapaest	(英詩の韻律で)弱弱強格(弱音節二つのあとに強音節一つがくる)
 anapestic	(英詩の韻律で)弱弱強格の;(古典詩で)短短長格の
@@ -1406,12 +1566,12 @@ anarchism	無政府主義
 anarchist	無政府主義者（国家権力や強制を否定する政治思想を持つ人）
 anarchistic	無政府主義[者]の;《軽べつして》破壊主義[者]の
 anarchy	無政府[状態] / 無秩序,混乱(disorder)
+anastomosis	(血管・神経の)吻合(ふんごう),接合 / (葉脈の)網状連絡
 anat.	anatomical / anatomist / anatomy
 anathema	(宗教上の)破門 / 呪(のろ)い;呪われた人(物);ひどくきらわれる人(物)
 anathematize,anathematise	〈人・物〉'を'呪う / (教会で)…'に'破門を申し渡す
 anatomic, anatomical	解剖の;解剖学上の;解剖組織上の
 anatomist	解剖学者
-anastomosis	(血管・神経の)吻合(ふんごう),接合 / (葉脈の)網状連絡
 anatomize	〈動植物〉'を'解剖する(dissect) / 〈状況など〉'を'詳細に分析する,分析検討する
 anatomy	〈U〉解剖学,解剖論 / 〈U〉〈C〉(動植物の)解剖 / 〈C〉(動植物の)構造,組織;人体
 anc.	ancient
@@ -1421,7 +1581,6 @@ ancestress	(女性の)祖先
 ancestry	《集合的に》先祖,祖先(ancestors) / 家系,家柄(lineage) / (事物の)起源,発達史
 anchor	『いかり』(錨) / (いかりのような)固定装置 / 頼みの綱 / (またanchorman)リレーの最終走者(泳者),アンカー / 〈船〉'を'いかりで留める,停泊させる / (一般に)(…に)…'を'留める,固定する《+『名』+『to』+『名』》 / (…に)〈希望など〉'を'つなぐ《+『名』+『in』(『on』)+『名』》 / 〈船が〉いかりを降ろして停泊する;〈人が〉いかりを降ろして船を停泊させる
 anchorage	〈C〉停泊地,投びょう地 / 〈C〉〈U〉留める(固定する)もの / 〈C〉停泊料(税)
-Anchorage	アンカレッジ(米国アラスカ州南部の都市;海港と空港がある)
 anchoress	女性隠者
 anchorite	隠者,世捨て人,隠世者(hermit)
 anchorman	=anchor4 / (テレビ・ラジオで)多元ニュース解説者 / 頼みになる人,大黒柱
@@ -1433,17 +1592,12 @@ and	《語・句・節を対等に結んで》…『と』…,…や…,およ�
 and/or	…および…またはいずれか
 andante	(音楽の演奏の指示で)アンダンテ,ゆるやかに(な) / アンダンテの楽章(楽曲)
 andantino	(音楽の演奏の指示で)アンダンティーノ(アンダンテ(andante)よりやや速い) / アンダンティーノの楽章(楽曲)
-Andean	(南米西部の)アンデス山脈(the Andes)の
-Andersen	アンデルセン(Hans Christian Andedersen;1805‐75;デンマークの童話作家)
-Andes	《the ~》アンデス山脈(南米西部の大山脈)
 andiron	(炉の)まき載せ台
-Andorra	アンドラ(フランスとスペインの国境ピレネー山脈東部にある小共和国)
 androgen	アンドロゲン(男性ホルモン)
 androgenic	アンドロゲンの
 androgynous	(植物が)雌雄両花のある / 雌雄両性の
 androgyny	雌雄同性(同体)
 android	人造人間
-Andromeda	アンドロメダ(ギリシア神話で祖国を救うために海の怪物にささげられたエチオピアの王女でPerseusがこれを助けた) / アンドロメダ座
 anecdotal	逸話の;逸話の多い
 anecdote	逸話,奇談
 anechoic	(録音室・スタジオなどが)反響のない,無響の
@@ -1465,37 +1619,16 @@ angel food cake	エンゼルケーキ(卵の白身を原料とする一種のカ
 angelfish	エンゼルフィッシュ(観賞用熱帯魚の一種)
 angelic, angelical	天使の;天使のような
 angelica	アンゼリカ(芳香ある植物;茎が食用で根は薬用) / 《『A-』》米国カリフォルニア産白ぶどう酒
-Angelus	(カトリックで)お告げの祈り(天使Gabrielが聖母マリアにイエスの受胎を告げたことを記念して行う祈り) / =Angelus bell
-Angelus bell	お告げの鐘(朝・正午・日没に鳴らすお告げの祈りの合図)
 anger	『怒り』,立腹 / …'を'おこらせる(make angry) / おこる(become angry)
 angina	アンギナ(のどの炎症に関する諸病気) / =angina pectoris
 angina pectoris	狭心症
 angiosperm	被子植物
-Angl.	Anglican / Anglicized
 angle	『かど』,すみ(corner) / 『角』,角度 / 《話》(ものを見る)角度,観点(point of view) / …'を'ある角度に動かす(向ける,曲げる) / …'を'ある角度から見る / (楽しみとして)魚釣りをする;(魚を)釣る《+『for』+『名』》
 angle bracket	(たなを支える)角ブラケット,L字型腕金 / 〈 〉型のかっこ(文章などに使用する)
 angle iron	アングル[鉄](L字形の鉄材で鉄骨の継ぎ手・補強材として用いる)
 angler	(職業としてでなく楽しみに)魚釣りをする人 / アンコウ(頭に発光体を持つ海水魚)
-Angles	《the ~》アングル族(もと北ドイツのゲルマン族一派で,5世紀以後英国に渡った)
 angleworm	(釣りのえさにする)ミミズ(earthworm)
-Anglian	アングル族の / 〈C〉アングル人 / 〈U〉アングル語
-Anglican	英国国教会の,(英国)聖公会の / 《米》英国の(English) / 英国国教会の信者
-Anglican Church	《the ~》英国国教会(the Church of England)系の教会(英国国教会およびこれと教義を同じくする各国の教会)
-Anglicanism	英国国教会の教義(制度)
-Anglicism	(外国語にとり入れられた)英語慣用語法 / 《米》イギリス語法(Briticism)
-Anglicize,Anglicise	…'を'英国ふう(英国式)にする;〈外国語〉'を'英語化する,英語ふうに発音する
 angling	魚釣り(fishing)
-Anglo-American	英米の / 《古》英国系米人の / 英国系米人
-Anglo-Catholic	英国国教会カトリック派 / 英国国教会カトリック派の
-Anglo-Indian	英国とインドの;英国とインドの混血の / 〈C〉英国とインドの混血児 / 〈U〉インド英語
-Anglo-Saxon	〈C〉アングロサクソン人 / 《the ~s》アングロサクソン族(5世紀に北ドイツの地方からイギリスに渡ったアングル族(Angles)とサクソン族(Saxuns)が合同した種族;今日の英国人の祖先) / 〈U〉アングロサクソン語,古英語(アングロサクソン人が用いていた英語で11世紀ごろまでのもの;今は通例Old Englishという) / 〈C〉(現代の)英国国籍の人,英国系の人,英語国人 / アングロサクソン人(語)の / 英国国籍の,英国系の
-Anglomania	(外国人の)英国かぶれ,英国心酔
-Anglophile,Anglophil	《英ではa-》英国好きの人,英国びいき,親英家
-Anglophilia	《英ではa-》英国好き,英国びいき
-Anglophobe	《英ではa-》英国ぎらい
-Anglophobia	(外国人の)英国ぎらい
-Angola	アンゴラ(南西アフリカの共和国;首都はLuanda)
-Angora	(またAngora cat)〈C〉アンゴラネコ / (またAngora goat)〈C〉アンゴラヤギ / (またAngora rabbit)〈C〉アンゴラウサギ / 〈U〉《しばしばa-》 / =mohair / アンゴラで作った毛糸(生地,織物) / =Ankara
 angostura	アンゴスツラビターズ(南米産の木の皮から作り,アルコールの香料に用いる)
 angrily	おこって,腹を立てて
 angry	『おこった』,腹を立てた / (海・波・風などが)おこったような,激しい / (傷が)炎症を起こした
@@ -1505,7 +1638,6 @@ anguish	(…に対する)(心身の)『激しい苦しみ』,苦悶(くもん)�
 anguished	苦悩に満ちた
 angular	かどのある,とがった / かどから成る;かどを成す;角度で測った / 骨ばった,やせこけた / (態度が)ぎこちない,堅苦しい
 angularity	〈U〉かどのあること / 〈U〉やせて骨ばっていること / 〈U〉ぎこちなさ;がんこさ / 《複数形で》かど,ぎざぎざ
-Angus	アンガス牛(スコットランド原産の角のない肉牛)
 anhydride	無水化合物,酸無水物
 anhydrous	(化合物が)無水の,結晶水のない
 anile	老婆の[ような];もうろくした
@@ -1533,7 +1665,6 @@ anis	アニス酒(aniseedで味をつける)
 anise	アニス(地中海沿岸産のセリ科の草;実は香味料)
 aniseed	アニシード(アニスの実;芳香がありアルコール飲料に用いる)
 anisette	アニス入りのリキュール酒
-Ankara	アンカラ(トルコ共和国の首都)
 ankh	(エジプト美術で)輪つき十字形(生殖・長寿の象徴)
 ankle	『足首』,くるぶし
 anklebone	距骨(きょこつ)(くるぶしの骨)
@@ -1541,7 +1672,6 @@ anklet	《通例複数形で》足首までの短い婦人用のソックス / �
 ann.	annals / annual / annuity
 annalist	年代記の編者
 annals	年代記,年譜 / (一般に)歴史的な記録 / (学会などの)年報,紀要
-Anne	アン女王(1665‐1714;英国の女王;在位1702‐14)
 anneal	(ひずみの防止のため)〈金属・ガラス〉'を'焼き入れする / 〈精神など〉'を'強くする,鍛える
 annelid	環形動物(ミミズなど) / 環形動物の
 annex	(…に)〈さらに大きな物〉'を'付け加える,添える《+『名』+『to』+『名』》 / (…に)〈領土・会社など〉'を'併合する《+『名』+『to』+『名』》 / 《話》〈他人の物〉'を'失敬する / (…への)付加物;建て増し,(…の)別館《+『to』+『名』》 / (…の)付属文書(書類),付録《+『to』+『名』》
@@ -1593,21 +1723,14 @@ answer	(質問・要求に対する)『答え』,回答(reply),(手紙に対す�
 answerable	答えることのできる;(…に対して…に)責任のある《+『to』+『名』+『for』+『名』》
 answering service	るす電話取次ぎ業
 ant	『アリ』〈C〉
-ant.	antenna / antonym
-Ant.	Antarctica
 ant bear	オオアリクイ(熱帯アメリカ産)
 ant lion	アリ地獄
-anti-nucleon	=antinucleon
-antinucleon	反核子(反陽子(antiproton)と反中性子(antineutron))
+ant.	antenna / antonym
 antacid	(特に胃の中で)酸を中和する / (特に胃の)酸中和剤,制酸剤
 antagonism	(…に対する)敵意;〈U〉(…への)敵対,対立《+『for』(『toward, against』)+『名』》
 antagonist	対立する人,敵対者,競争相手(opponent)
 antagonistic	敵対する,反目する;(…に)敵対している《+『to』+『名』》
 antagonize	〈人〉'を'敵にまわす,'に'敵意を抱かせる,'の'敵意を招く
-Antarctic	『南極の』,南極地域の / 《the A-》『南極』,南極地域(南極大陸と南極海)
-Antarctic Circle	《the ~》南極圏限界線
-Antarctic Ocean	《the ~》南極海,南氷洋
-Antarctica	南極大陸
 ante	アンティ(ポーカーで新しい札を引く前に出すかけ金) / 《俗》分け前
 anteater	アリクイ(熱帯アメリカ産)
 antebellum	戦前の;《米》南北戦争前の
@@ -1647,12 +1770,12 @@ anti	《話》(特定の慣習・政策・行動などに)反対する人
 anti-Semite	反ユダヤ主義者,ユダヤ人排斥(迫害)者
 anti-Semitic	反ユダヤ人の,反ユダヤ主義の
 anti-Semitism	反ユダヤ主義(運動,思想)
+anti-nucleon	=antinucleon
 antiaircraft	対空の,防空の
 antiballistic missile	対弾道弾ミサイル(《略》ABM)
 antibiotic	抗生物質(ペニシリン,ストレプトマイシンなど) / 抗生[物質]の
 antibody	抗体,免疫体,抗毒素
 antic	おどけたしぐさ,異様な行動 / 《文》おどけた,奇妙な
-Antichrist	〈U〉反キリスト(聖書で,キリスト再来の前に現れるとされるキリストの対立者) / 〈C〉《a-》キリスト[教]反対者
 anticipate	…'を'『予想する』,予期する / 〈事〉'に'『前もって(先に)対処する』 / 〈金など〉'を'見越して使う / 〈人〉‘より'『先に行う』,'に'先んずる
 anticipation	(…の)予想,期待《+『of』+『名』》,(…という)予想《+『that節』》
 anticipatory	予想の,予測の / 見越しての / (文法)先行の
@@ -1684,6 +1807,7 @@ antineutron	反中性子
 antinomian	道徳律超越(廃棄)論者(キリスト教徒は福音書の中の神の恩寵によって道徳律に束縛されないと主張する人)
 antinomy	二律背反(二つの命題が互いに矛盾すること)
 antinovel	反小説,アンチロマン(伝統的手法を否定した小説)
+antinucleon	反核子(反陽子(antiproton)と反中性子(antineutron))
 antioxidant	酸化防止剤;(ゴム・ガソリン・石けんの)劣化防止剤
 antiparticle	反粒子
 antipasto	(食事の主品の前に出る)前菜
@@ -1721,7 +1845,6 @@ antivenin	抗蛇毒(だどく)素を含む血清
 antler	(シカの)枝角(えだづの)
 antonym	反意語(hotに対するcoldなど)
 antrum	骨の空洞,(特に)上あご骨の空洞
-Antwerp	アントワープ(ベルギー北部の海港)
 anus	肛門(こうもん)
 anvil	(かじ屋が使う)金敷き,金床 / (耳の)きぬた骨
 anxiety	〈U〉(…についての)『心配』,不安,気がかり《+『about(for)』+『名』》 / 〈C〉心配事,心配の種 / 〈U〉《話》『切望』,熱望;〈C〉切望する事(物)
@@ -1738,13 +1861,9 @@ anytime	いつでも(at any time) / きまって,常に
 anyway	=anyhow
 anywhere	《疑問文・条件節で》『どこかへ』(『に』),《否定文で》『どこへも』(『にも』) / 《肯定文で》『どこにでも』,どこへでも / (数量が)(…から…まで)ぐらい,(ざっと…)ぐらい
 anywise	どうしても,なんとしても
-AO.K.	申し分のない,抜群な
 aorta	大動脈
 aoudad	アフリカ北部産の野生の羊
-AP	antipersonnel / (またA.P.)Associated Press
-Ap.	Apostle / Apothecaries' / April
 apace	速く(swiftly)
-Apache	〈C〉アパッチ族(米国南西部のインディアン) / 〈U〉アパッチ語
 apanage	=appanage
 apart	(時間的・空間的に)『離れて』,隔って;(…から)離れて《+『from』+『名』》 / 区別して;(…と)別々に《+『from』+『名』》 / ばらばらに
 apartheid	(特に南アフリカにおける)人種隔離政策
@@ -1754,12 +1873,9 @@ apartment house	《米》アパート,共同[貸し]住宅
 apathetic	無感動な;無関心の,冷淡な(indifferent)
 apathy	(…に対する)無感動,冷淡(indifference)《+『to』(『toward』)+『名』》
 apatite	リン灰石(リン酸肥料の製造に用いる)
-APB	all points bulletin 全地点(非常)警戒通報(警察の無線連絡用語)
-APC	アスピリン(Aspirin)・フェナセチン(Phenacetin)・カフェイン(Caffeine)混合の鎮痛解熱剤
 ape	サル(monkey);(特に,チンパンジー・ゴリラなどの)尾なしザル,類人猿 / 人まねをする人 / …のまねをする,'を'まねる(mimic)
 ape-man	〈C〉猿人(えんじん)(猿人類と人間との中間の霊長類)
 apeak	(いかり・オールなど)ほぼ垂直な / ほぼ垂直に[立てて]
-Apennines	アペニン山脈(イタリア半島を縦走する山脈)
 apercu,aperçu	一べつ / 洞察 / 概要
 aperient	《現在まれ》[緩]下剤 / 通じをつける,緩下作用のある
 aperitif,apéritif	食前酒,アペリチフ(食欲増進のため食前に飲むベルモットやシェリー酒など)
@@ -1774,7 +1890,6 @@ aphorism	アフォリズム,警句,格言(maxim)
 aphoristic	警句のような;警句に富んだ / 警句(金言,格言)をしきりに引用したがる
 aphotic	(深海底のように)光のない,暗やみの
 aphrodisiac	催淫(さいいん)剤,媚薬(びやく) / 性欲を起こさせる,催淫の
-Aphrodite	アフロディテ(ギリシア神話の愛と美の女神;ローマ神話のVenusにあたる)
 apiarist	養蜂(ようほう)家
 apiary	ミツバチ飼養場
 apical	頂点の,頂点(頂上)をなす / 舌先で調音する / 舌尖(ぜっせん)音(舌先で調音する[t][d][l]など)
@@ -1785,16 +1900,12 @@ apish	(特に行動が)サルのような,馬鹿なことをする
 aplenty	たっぷりした数(量)の / どっさり,たっぷり
 aplomb	(困難に直面した時の)平静,落ち着き;自信
 apmt.	appointment
-APO	Army Post Office 陸軍郵便局
-Apoc.	Apocalypse / Apocrypha / Apocryphal
 apocalypse	〈C〉天啓,黙示 / 《the A-》(新約聖書の)ヨハネの黙示録
 apocalyptic	終末の, 終焉の, 災厄の
-Apocrypha	《単数扱い》外典,経典外聖書(典拠が疑わしいので一般の聖書から省かれている14編) / 《a-》出所の疑わしい文書
 apocryphal	典拠の疑わしい;にせの / 《A-》外典の
 apocynthion	=apolune
 apogee	遠地点(月・人工衛星が地球と最も離れる点) / 最も高い(遠い)所;絶頂(apex)
 apolitical	政治的に重要でない / 政治に無関心の
-Apollo	アポロ(ギリシア・ローマ神話の太陽の神) / (宇宙船)アポロ
 apologetic	わびの,謝罪の;(…を)わびて《+『for』+『名』》
 apologetically	わびて;弁解して
 apologetics	(キリスト教を弁護する神学上の)護教論,弁証論 / 擁護論(術,学)
@@ -1811,7 +1922,6 @@ apostasy	背教;変節;脱党
 apostate	背教者;変節者;脱党者
 apostatize,apostatise	信仰(主義)を捨てる,背教者となる;(…から)変節する《+『from』+『名』》
 apostle	〈C〉《A-》使徒(キリストの12人の弟子の一人);《the Apostles》(キリストの)12使徒 / 〈C〉(ある地域・国におけるキリスト教の)最初の宣教師,有名な宣教師 / 〈C〉(主義・政策などの)首唱者,唱道者
-Apostles Creed	使徒信条(使徒信経)(キリスト教の最も基本的な信条;洗礼などの際に唱える)
 apostolic	使徒(Apostle)の,使徒時代の / 教皇(Pope)の
 apostrophe	アポストロフィー('印)
 apostrophize	…'に'省略符をつける;(省略符をつけて)…'を'省略する
@@ -1823,11 +1933,8 @@ apothem	辺心距離(正多角形の中心点から一辺までの垂線距離)
 apotheosis	人を神としてあがめること(行為),神格化 / 《文》理想的なもの(人)
 app.	apparatus / appendix / apprentice
 appal	=appall
-Appalachia	アパラチア(米国アパラチア山脈南部の地方)
-Appalachian Mountains	アパラチア山脈(カナダ南東部から米国アラバマ州北部にかけて走る北米東部海岸の大山脈)
 appall,appal	《しばしば受動態で》…'を'ぞっとさせる,'の'肝をつぶす
 appalling	ぞっとするような,恐ろしい / 《話》ひどい
-Appaloosa	アパルーサ(米国西部産の乗馬の一種)
 appanage	《文》(生まれ・身分・地位に付随する)財産,特権,役得 / 《文》特性,属性 / 《古》(王子・王女に与えられる)領地,扶持(ふち)
 apparat	旧ソ連の政治機構
 apparatus	〈U〉〈C〉(一式の)『器具』;装置 / 《集合的に》(ある機能を営む一系統の身体の)器官 / 〈U〉〈C〉(ある目的のための)道具立て
@@ -1879,7 +1986,6 @@ appointed	定められた,決められた;約束の,指定の / 設備された
 appointee	任命された人;(法律で)被指定人
 appointive	任命(任用)による
 appointment	〈C〉(時・場所を決めて会う)(…との)『約束』《+『with』+『名』》 / 〈U〉『任命』;(…を…として)任命すること《+『of』+『名』+『as』+『名』》;〈C〉(任命された)官職,地位 / 《複数形で》(特に家庭の)設備,装備
-Appomattox	アポマトクス(米国Virginia州中部の町;1865年4月9日南軍のLee将軍が北軍のGrant将軍に降伏し南北戦争が終結した場所)
 apportion	…'を'割り当てる,配分する
 apportionment	配分,配当 / 《米》(下院議員数の)各州への割当て
 appose	…'を'並べる,隣りに(近くに)置く
@@ -1920,14 +2026,11 @@ approximation	接近,近似 / 概算 / 近似値
 appt.	appoint / appointment
 appurtenance	付属物 / 従物(法律上財産に付属している権利)
 appurtenant	付属の,従属する;(…に)付属した《+『to』+『名』》
-Apr.	April
-après-ski	スキーをした後のくつろぎの時間 / スキー後のくつろぎの時にふさわしい
 apricot	〈C〉アンズ;アンズの木 / 〈U〉アンズ色 / アンズ色の,黄赤色の
-April	『4月』(《略》『Apr』.)
-April Fools Day	4月ばかの日,万愚節(4月1日)
 apron	『エプロン』,前掛け / (また『apron stage』)張り出し舞台 / エプロン(飛行機の乗降・荷積み・給油などをする所)
 apron strings	エプロンのひも
 apropos	適切な / 適切に,好都合に
+après-ski	スキーをした後のくつろぎの時間 / スキー後のくつろぎの時にふさわしい
 apse	後陣(教会堂の東端に張り出した半円形または多角形の部分)
 apt	《補語にのみ用いて》《『be apt to』 do》(望ましくないことについて)…『しがちである』(be liable to do) / 《補語にのみ用いて》《『be apt to』 do》《米話》…しそうである(be likely to do) / 『適した』,『ふさわしい』,適切な / 利発な,物覚えが早い
 apt.	apartment
@@ -1944,7 +2047,6 @@ aquanaut	海洋潜水士(深海に設置された居住設備内に生活し,学
 aquaplane	水上スキー / 水上スキーに乗る
 aquaregia	王水(金・白金を溶解させる混合液)
 aquarium	水族館 / (魚・水生植物の飼育観察用)水そう,ガラスばち
-Aquarius	(十二宮の)宝瓶宮(ほうへいきゅう) / 水瓶(みずがめ)座 / 〈C〉水瓶座生まれの人
 aquatic	水生の,水の / 水上の,水中で行われる
 aquatint	〈U〉アクアチント(食刻板画法の一種) / 〈C〉アクアチント版画
 aquavit	=akvavit
@@ -1956,22 +2058,10 @@ aquiculture	水耕法 / =aquaculture
 aquifer	水を含む地層,(特に)井戸(泉)の水源
 aquiline	ワシの / ワシのくちばしのような
 ar	are (面積の単位)の変形
-Ar	argonの化学記号
-AR	Arkansas
 ar.	arrival / arrive,arrives
-Arab	(またArabian)アラブ人 / =Arabian horse / アラブ[人]の
 arabesque	アラビア風の,唐草(からくさ)模様の;風変りな / アラビア風のデザイン,唐草模様 / アラベスク(バレーのポーズの一つ) / アラベスク(アラビア風の華麗な楽曲)
-Arabia	アラビア[半島]
-Arabian	=Arab{名} / 『アラビアの』,アラビア人の
-Arabian bird	不死鳥(phoenix)
-Arabian horse	アラビア馬
-Arabian Nights Entertainments	《The~》アラビアンナイト,千[夜]一夜物語(また『The Thousand and One Nights』,『The Arabian Nights』)
-Arabic	アラビアの,アラビア人(語)の / アラビア語
-Arabic figures(numerals)	アラビア数字,算用数字
 arable	(土地が)耕作に適した,耕作された / 耕地,農地
 arachnid	クモ類の動物(クモ,サソリ,ダニなど)
-Aragon	アラゴン(スペイン北東部地方;11‐15世紀まで王国だった)
-Aramaic	アラム語(セム語の一種でイエスキリストの時代にPalestine一帯で使用された)
 arbalest,arbalist	(中世の)強力な大弓
 arbiter	(特に,労働争議の)調停者,仲裁者 / (…の)最高の権威者《+『of』(『in』)+『名』》
 arbitrage	(為替・株式などの)さやとり売買;裁定取引
@@ -1982,24 +2072,19 @@ arbitrate	(…間で)…'を'仲裁する(settle)《+『名』+『between』+『
 arbitration	仲裁,裁定;仲裁裁判
 arbitrator	(特に,労働争議の)仲裁人,調停者 / 最終決定者
 arbor	(庭園の)木陰のあずまや,藤棚,緑のトンネル / (機械)回転軸,心棒
-arbour	(英国で)(庭園の)木陰のあずまや,藤棚,緑のトンネル
-Arbor Day	《米》植樹祭(日)(Alaskaを除く米国各州で4月後半から5月初めに行う)
 arboreal	樹木の,樹上に住む
 arboretum	植物園,樹木園
+arbour	(英国で)(庭園の)木陰のあずまや,藤棚,緑のトンネル
 arbutus	アービュタス(シャクナゲ科の常緑低木) / 北米産イワナシ
 arc	『弧』,円弧 / 電弧(2点間を弧状に流れる電流) / 弧を描く / 電弧を生じる
-ARC	American Red Cross（アメリカ赤十字）; arch; arc; area; air route certificate
 arc lamp(light)	アーク灯
 arcade	拱廊(きょうろう)(建物の側面につけた廊下状の通路) / アーケード(両側に商店が並ぶ屋根つき街路)
-Arcadia	アルカディア(古代ギリシアの山間にあった理想郷) / 〈C〉《時にa-》平和な理想郷,桃源郷
-Arcadian	アルカディアの / 牧歌的な,田園風の,純真素朴な / アルカディア人 / 純真素朴な人
 arcane	神秘的な,不可思議な
 arch	(建物の)『アーチ』,迫持(せりもち) / アーチ型の記念碑,弓形門 / 『弓形のもの』 / (足の)土踏まず / …'を'弓形にする / …'に'アーチをかける / 弓形になる,弓状に伸びる / 《名詞の前にのみ用いて》おもな,主要な(chief) / (おもに女・子供が)ずるそうな,いたずらそうな(mischievous)
 archaeological, archeological	孝古学の,考古学的な
 archaeologist, archeologist	考古学者
 archaeology, archeology	考古学
 archaeopteryx,archeopteryx	始祖鳥(絶滅した鳥類の祖先)
-Archaeozoic	=Archeozoic,Archae
 archaic	(言葉が)今は一般に用いられない,古風な,すたれた / 古代の
 archaism	古語,古風な表現 / 〈U〉古文体,擬古体
 archangel	(ユダヤ教・キリスト教・イスラム教の)大天使,天使長
@@ -2014,7 +2099,6 @@ archenemy	大敵
 archeological	=archaeological
 archeologist	=archaeologist
 archeology	=archaeology
-Archeozoic,Archae	始生代（地質時代の一つ）〈C〉
 archer	〈C〉(弓の)射手,弓術家 / 〈U〉《A-》射手(いて)座
 archery	〈U〉アーチェリー,弓術 / 〈C〉(弓の)射手隊
 archetypal	原型の,典型の
@@ -2022,7 +2106,6 @@ archetype	(…の)原型,模範,手本《+『of』+『名』》
 archetypical	=archetypal
 archfiend	大悪魔,悪魔の頭目 / 魔王
 archimandrite	〈C〉修道院長 / 〈U〉独身のすぐれた聖職者に贈られる称号
-Archimedes	アルキメデス(古代ギリシアの数学者・物理学者で「アルキメデスの原理」の発見者;287?‐212B.C.)
 archipelago	群島 / 群島のある海 / 《the A-》(ギリシアと小アジアの間の)多島海,エーゲ海(the Aegean Sea)
 archit.	architecture
 architect	『建築家』,建築技師 / (特に長期にわたる作業計画・事業などの)創始者,創案者,計画者
@@ -2037,11 +2120,7 @@ archway	アーチの下の通路 / 入口(通路)にかかっているアーチ
 arcked	arcの過去・過去分詞
 arcking	arcの現在分詞形
 arctic	『北極の』 / 極寒の(frigid) / 〈U〉《the A-》北極(地方) / 《複数形で》《米》(くるぶしの上までくる)防水靴
-Arctic Circle	北極圏
-Arctic Ocean	北極洋,北氷洋,北極海
-Arctic Zone	北極帯(北極からthe Arctic Circleまでの地帯)
 arcuate	弓形の,アーチ状の
-Arden	《the Forest of~》アーデンの森(イングランド中部Warwickshireの森林地帯;Shakespeareの喜劇As You Like Itの物語の背景) / 〈C〉桃源郷
 ardent	熱心な,熱烈な(eager)
 ardor,ardour	熱情,熱心,熱意
 arduous	骨の折れる,困難な / (山などが)登りにくい,けわしくて骨の折れる / (努力などが)しんぼう強い,奮闘する(strenuous)
@@ -2052,16 +2131,11 @@ areaway	地下勝手口(採光・通行のために設けた地下室前の空�
 aren't	are notの短縮形 / 《おもに英話》am notの短縮形
 arena	(古代ローマ時代の円形劇場の中央にある)闘技場 / (一般にスポーツなどの)競技場,競演場 / 競争の場,活躍の舞台
 arena theater	円形劇場(中央に舞台があって,それを囲んで観客席がある)
-Ares	アレース(ギリシア神話の戦争の神;ローマ神話のMarsにあたる)
 arete,arête	斜面がけわしい山の背,やせ尾根
 argent	銀(silver);銀色 / 銀製の;銀色の
-Argentina	アルゼンチン(南米南部の共和国;首都はBuenos Aires;正式名the Argentine Republic)
 argentine	銀の;銀色の / 銀;銀色
-Argentine	アルゼンチンの / 〈C〉アルゼンチン人 / 〈U〉《the~》アルゼンチン(Argentina)
 argillaceous	粘土の,粘土質の
-Argo	《the~》アルゴ号(ギリシア神話の伝説中の勇士Jasonが金の羊毛を捜しに出かけた時に乗った船の名)
 argon	アルゴン(気体元素;化学記号は『Ar』)
-Argonaut	(ギリシア神話の)アルゴ号(the Argo)の乗組員
 argosy	(特に高価な貨物を積んだ)大商船 / 大商船団
 argot	(ある仲間の間で使われる,特に盗人の)隠語
 arguable	論議の余地がある,疑わしい / 論じうる,論証できる
@@ -2069,22 +2143,17 @@ argue	(人と…について)『議論する』,論争する,言い争う《+『
 argument	〈U〉〈C〉《議論》,論争,口論 / 〈C〉論拠,理由(reason) / 〈C〉《文》(本・詩などの)要旨,概要
 argumentation	議論,討論 / 立論,論証
 argumentative	議論好きの,理屈っぽい
-Argus	アルゴス(雌牛の姿にされた美少女Io[アイオゥ]を見張った100の目を持つギリシア神話の巨人) / 〈C〉厳重な見張り人
 argy-bargy	《英話》口やかましいけんか
 argyle	(対照的な色を用いた)ひし形編み模様 / ひし形模様編みの短靴下
 aria	(オペラにおける)アリア,詠唱
 arid	(土地などが)乾燥した,不毛の / (本・話などが)つまらない,無味乾燥な
 aridity	不毛 / 無味乾燥
-Aries	雄羊座 / (占いで)白羊宮(黄道の第1宮)
 aright	《文》正しく,まちがいなく
 arise	〈問題・事件などが〉『起こる』,現れる / (…から)生じる(result)《+『from』+『名』》 / 《古・詩》起き上がる,立ち上がる / 《英ではまれ》〈霧・煙などが〉立ちのぼる,湧きあがる
 arisen	〈自〉ariseの過去分詞
 aristocracy	〈U〉貴族政治;貴族政治の国,貴族による政府 / 《the~》《集合的に》『貴族』,貴族階級(社会) / 〈C〉(富・知性・教養などで)第一流の人々
 aristocrat	『貴族』[『の一人』] / 貴族的な人,貴族趣味の人 / 貴族政治主義者
 aristocratic	『貴族の』,貴族らしい / 貴族政治の,貴族階級の;貴族主義の
-Aristophanes	アリストファネス(古代ギリシアの詩人・喜劇作者;448?‐380?B.C.)
-Aristotelian	アリストテレス(学派)の / アリストテレス学派の人
-Aristotle	アリストテレス(古代ギリシアの哲学者;384‐322B.C.)
 arith	arithmetic / arithmetical
 arithmetic	『算数』,算術 / =arithmetical
 arithmetic mean	算術平均,相加平均,等差中項
@@ -2092,17 +2161,11 @@ arithmetic progression	等差数列(1,4,7,10,13など)
 arithmetic series	等差級数
 arithmetical	算術[上]の
 arithmetician	算術家,計算のうまい人
-Ariz.	Arizona
-Arizona	アリゾナ州(米国南西部の州,州都はPhoenix;《略》Ariz,AZ)
 ark	〈U〉箱舟(Noahが家族や家畜を乗せて大洪水をのがれたという舟) / (また『the Ark of the Covenant』)約櫃(やくひつ)(モーセの十戒を刻んだ石を納めた箱 )
-Ark.	Arkansas
-Arkansas	アーカンソー州(米国中部の州,州都はLittle Rock;《略》『Ark.,AR』)
-Arlington	アーリントン(バージニア州北東部の郡の名) / 米国国立基地(Arlington National Cemetery)(無名戦士の墓がある)
 arm	(人・猿の)『腕』;(四つ足の動物の前肢の)腕(手首から肩までの間;手はhand) / 腕のような物;(特に)いすのひじ掛け,樹の大枝 / 〈C〉《通例複数形で》『武器』,『兵器』 / 〈C〉(特別な行動をする)部局,支部,支局 / (また『coat of arms』)〈C〉《通例複数形で》(国・会社・学校・家の)紋章 / (…で)…'を'『武装させる』《+『名』+『with』+『名』》 / (必要・有用なもので)〈人〉'を'防備させる,堅固にする《+『名』〈人〉+『with』+『名』》 / (…に)武装して備える,武装する《+『for』(『against』)+『名』》 / (…で)防備する,身を固める《+『with』+『名』》
 arm ring	(上膊(じょうはく)部につける)腕輪
 armada	〈C〉《集合的に》艦隊,軍用飛行隊 / 《the A-》スペインの無敵艦隊(16世紀の海を制圧していたが1588年英国海軍に破れた)
 armadillo	アルマジロ(中南米産の小動物)
-Armageddon	ハルマゲドン(聖書で,善と悪との力が最後の決戦を行う場所) / (一般に)最後の大決戦
 armament	〈C〉《通例複数形で》軍事力,軍備 / 〈C〉《通例複数形で》(特に戦闘機・戦車・戦艦などに装備する兵器) / 〈C〉(一国の)軍隊;(特に)海軍 / 〈U〉(国が)軍備を整えること,戦争の準備
 armature	よろいかぶと(armor) / (電気モーター・発電機の)発電子,電動子;(電磁石の)接極子 / (動・植物の)防護器官(歯・とげ・殻など)
 armband	腕章
@@ -2111,18 +2174,15 @@ armchair critic	《しばしば軽べつして》観念的批評家
 armed	武装した / (ある目的のために)用意した
 armed forces	(一国・連合国の)軍隊(陸・海・空の全軍)
 armed services	(特に平時の)軍隊全体,軍事機関
-Armenia	アルメニア(西アジアにあるソビエト連邦構成共和国の一つ)
-Armenian	アルメニアの;アルメニア人(語)の / アルメニア人;〈U〉アルメニア語
 armful	(…の)腕いっぱいの量《+『of』+『名』》
 armhole	そでぐり(そでを付けるための穴)
 armistice	(一定期間の)休戦,停戦
-Armistice Day	(第一次世界大戦の)休戦記念日(普通は11月11日;米国・カナダでは法定休日;米では1954年以後はVeterans Day,カナダではRemembrance Day)
 armlet	腕輪,腕飾り(手首でなく腕上膊(じょうはく)部にはめる) / 小さな入り江
-armor,armour	『よろい』,よろいかぶと / (軍艦・戦車などの)装甲,装甲用鋼板 / (うろこ・殻などの)保護器官 / …'に'よろい[かぶと]をつける,装甲する
 armor plate	(軍艦・戦車などの)装甲用鋼板,装甲
+armor,armour	『よろい』,よろいかぶと / (軍艦・戦車などの)装甲,装甲用鋼板 / (うろこ・殻などの)保護器官 / …'に'よろい[かぶと]をつける,装甲する
 armor-clad, armour-clad	装甲したよろいに身を固めた
-armored,armoured	武装した,装甲の
 armored car	(軍用の)装甲車
+armored,armoured	武装した,装甲の
 armorer,armourer	(昔の)武具師;(今の)兵器工 / 兵器係,武器管理係
 armorial	紋章の
 armory	兵器庫 / 《米》造兵廠(しょう),兵器工場 / (特に予備役・州軍の)部隊本部
@@ -2176,7 +2236,6 @@ arsonist	放火犯人
 art	〈U〉〈C〉『芸術』;《集合的に》芸術作品 / 〈C〉『技術』,技法,技巧;(何かをする)わざ,術,こつ / 〈U〉人為,人工 / 《複数形で》《単数扱い》『人文科学』(自然科学と区別して文学・哲学・音楽など);《複数扱い》=liberal arts / 〈U〉こうかつさ,ずるさ;(態度などの)わざとらしさ,作為 / 《通例複数形で》術策,手くだ(artifice) / =are (主語がthouの場合のbe動詞に用いる;第二人称・単数・現在・直説法形)
 art.	article / artificial / artillery / artist
 artefact	=artifact
-Artemis	アルテミス(ギリシア神話の月と狩猟の女神;ローマ神話のDianaに当たる)
 arterial	動脈の,動脈状の / 動脈血の / 幹線の
 arteriole	小動脈
 arteriosclerosis	動脈硬化[症]
@@ -2187,7 +2246,6 @@ artful	こうかつな,ずるい / 巧妙な,巧みな
 arthritic	関節炎の / 関節炎患者
 arthritis	関節炎
 arthropod	節足動物(トンボ・ノミ・クモ・カニ・エビなど)
-Arthur	アーサー王(6世紀ごろの伝説上の英国王;円卓の騎士Knights of the Round Tableを従えた)
 artichoke	(また『globe artichoke』)チョウセンアザミ;そのつぼみ / (また『Jerusalem artichoke』)キクイモ
 article	(新聞・雑誌などの)(…についての)『記事』,論説《+『on』+『名』》 / (条約・契約などの)条項,箇条;《複数形で》契約 / 《複数形で》(また『articles of apprenticeship』)徒弟年季契約 / (同種の物の)『一個』,『一品』,品物,商品《+『of』+『名』》 / 冠詞
 articular	関節の,分節の
@@ -2214,16 +2272,12 @@ arts and crafts	(実用と楽しみを兼ねた)手工芸(編物,焼物など)
 artsy-craftsy	芸術品のつもりだが役に立たない〈家具〉; 芸術家ぶった
 arty	芸術的 / 〈C〉芸術的である / 芸術ぶった,芸術家気取りの
 arty-crafty	=artsy-craftsy
-Aryan	アーリア人の;アーリア語族の / アーリア人(印欧語を話した先史時代の民族の一員) / アーリア語族(インドヨーロッパ語族の古称) / (ナチス用語で)非ユダヤ系のコーカソイド人
 as	(…と)『同じくらい』,『同様に』 / 《比較》『…ほど』,『…くらい』,…ように / 《様態・程度》『…のように』,…と同じように / 《時》『…のときに』(when);…の間に,…するうちに(while) / 《話》《原因・理由》『…だから』,…なので / 《譲歩》《文》…だけれども(though) / 《先行する名詞の内容を制限して》『…のような』 / 《先行の,または後続の節の内容を受けて》『それは…だが』,…のように / 《役割・資格・機能などを表して》『…として』 / 《seem,appear,consider,pass,regard,treat,know,think of などの動詞の後で補語の働きをする語の前に置いて》…と[して] / 《前置詞・形容詞・分詞などの前に置いてその意味を限定して》…として[の],…とみなして,…と考えて / たとえば(for instance)
-As	arsenicの化学記号
-AS	Anglo-Saxon
 asbestos	(耐火・断熱用の)石綿
 ascend	『登る』,『上る』,上昇する / 〈地位・声の調子などが〉高くなる,上がる / …'に'『登る』,'を'『上る』 / 〈王位など〉'に'つく,'を'継ぐ
 ascendancy,ascendency	(…より)優勢,優位,(…に対する)主導権《+『over』+『名』》
 ascendant, ascendent	上昇する / 優勢な / 優勢,優位
 ascension	上昇 / 《the A-》キリストの昇天
-Ascension Day	キリスト昇天祭(復活祭から40日目の木曜日)
 ascent	上昇,登ること / (地位・名声などの)(…への)向上,昇進《+『to』+『名』》 / 登り,上り道(坂)
 ascertain	〈事実など〉'を'『確かめる』,つきとめる
 ascertainable	確かめられる
@@ -2237,7 +2291,6 @@ asepsis	無菌状態
 aseptic	(傷が)病原(腐敗)菌がついていない,無菌の;(包帯・ガーゼなどが)防腐処置をした
 asexual	(生物が)無性の,性器のない / 性とは無関係の
 ash	〈U〉《しばしば複数形で;単数扱い》『灰』 / 〈U〉火山灰 / 《複数形で》(火葬された)遺骨,なきがら;(火事で焼けた)廃墟(はいきょ) / 〈C〉西洋トネリコの木 / 〈U〉トネリコ材(スキー・バット・家具などの用材)
-Ash Wednesday	聖灰水曜日,灰の水曜日(四旬節(Lent)の第1日;カトリックではこの日にざんげする者の頭に灰をまいた)
 ashamed	『恥じて』,恥ずかしく思って / 《補語にのみ用いて》《『be ashamed to』 do》(…するのを)ためらって,気おくれして
 ashbin	=dustbin
 ashcan	《米》(金属製の)灰入れ,ごみ入れ
@@ -2247,10 +2300,6 @@ ashore	『岸へ(に)』
 ashram	アーシュラム(ヒンズー教の人々が宗教の教えを受けに来る所)
 ashtray	(たばこの)灰ざら
 ashy	灰の / 灰のような;青白い
-Asia	『アジア』
-Asia Minor	小アジア(黒海と地中海の間の半島地域で,トルコの大部分を占める)
-Asian	『アジアの』,アジアに住む人々の / 『アジア人』
-Asiatic	=Asian
 aside	『わきに(へ)』;(ある位置・方向から)それて;(…から)少し離れて《+『from』+『名』》 / 別にしておいて,しまっておいて / 忘れて,考慮しないで / (演劇の)傍白,わきぜりふ / ひとり言 / わき道にそれた発言
 asinine	ロバの,ロバのような / 愚鈍な,無知な
 ask	〈事〉'に'『ついて質問する』,'を'『尋ねる』,問う / (…について)〈人〉'に'『質問する』,尋ねる,問う《+『名』〈人〉+『about』+『名』(do『ing』)》 / 〈事〉'を'『頼む』,求める,必要とする / (…を)〈人〉'に'『頼む』,求める《+『名』〈人〉+『for』+『名』》 / (…に対して)〈ある金額〉'を'請求する《+『名』+『for』+『名』》 / 〈人〉'を'招待する,招く(invite) / (…について)『質問する』,尋ねる《+『about』+『名』》 / 頼む,求める
@@ -2338,7 +2387,6 @@ assumptive	仮定の,推測の / 生意気な
 assurance	〈C〉『保証』,請け合い / 〈U〉『確信』,自信 / 〈U〉《英》保険(insurance)
 assure	〈人・自分〉'に'『確信させる』,『保証する』,分からせて安心させる / 〈事柄・地位など〉'を'『確実にする』(ensure) / 《英》…に保険をかける(insure)
 assured	保証された,確実な(guaranteed) / 自信のある,確信をもった / 保険をつけた(insured) / 《英》《the~》(生命保険の)被保険者
-Assyria	アッシリア(アジア南西部にあった古代帝国)
 astatine	アスタチン(放射性元素の一つ;化学記号は『At』)
 aster	アスター,エゾギク(庭に植えるキク科の一年草)
 asterisk	星印(*)(脚注への参照などを示す) / …'に'星印をつける
@@ -2387,12 +2435,10 @@ asylum	(孤児・盲人・狂人などの)保護収容所,養育院;〈U〉避�
 asymmetric, asymmetrical	非対称的な,不均整の
 asymptote	(数学で)漸近線
 at	《場所・位置のある一点》『…で』,『…に』 / 《時間・年齢・目盛りなどの一点》『…に』,『…で』 / 『…の最中で』,に出席して / 『…の状態に』(『で』) / 『…を目指して』,に向かって / 《移動の経路》…を通って,…から / 《動作・感情などの原因・理由・動機》『…によって』,…を見て(聞いて,知って) / 《運動・動作の方法・様態》…で,…のやり方で / 《数量・割合・率》…で,…に / 《能力・性質などの存在場所》…が,…の点で
-At	astatineの化学記号
-at.	atomic
 at home	(特に午後に行われる)家庭への気軽な招待
+at.	atomic
 at.no.	atomic number
 at.wt.	atomic weight
-Atalanta	アタランタ(ギリシア神話の足の速い女性で,彼女と競走して負けた求婚者は皆殺されたという)
 atavism	隔世遺伝,先祖返り
 atavistic	隔世遺伝的な,先祖返りの
 atchoo	ハクション(くしゃみの擬声語)
@@ -2401,10 +2447,7 @@ atelier	アトリエ,画室;(芸術家の)仕事場(studio)
 atheism	無神論;不信心
 atheist	無神論者;不信心者
 atheistic,atheistical	無神論[者]の;不信心の
-Athena,Athene	アテネ(ギリシア神話の知識・芸術・戦争の女神;ローマ神話のミネルバ(Minerva)にあたる)
 athenaeum	学術振興協会 / 《古》図書館
-Athenian	アテネの;古代アテネ文化の / アテネ人
-Athens	アテネ(ギリシアの古代都市;現在は首都)
 atherosclerosis	動脈硬化症
 athirst	(…を)渇望して(eager)《+『for』+『名』》 / 《おもに詩》のどがかわいて(thirsty)
 athlete	競技者,運動家;強壮な人;《英》陸上競技選手
@@ -2415,16 +2458,11 @@ athletics	運動競技;《英》陸上競技 / 《単数扱い》体育[実技]
 athwart	(海事用語で)横切って;逆らって / 《まれ》…を横切って;…に逆らって
 atilt	《補語にのみ用いて》傾いた,傾斜した / 傾斜して / 槍を構えて
 atishoo	=atchoo
-Atl.	Atlantic
-Atlanta	アトランタ(米国Georgia州の州都)
-Atlantic	『大西洋の』 / 《the ~》『大西洋』
-Atlantic Ocean	《the ~》『大西洋』
 atlas	『地図帳』 / 図解,表解
-Atlas	アトラス(天を肩にになうという罰を受けた大力のギリシア神話の神;メルカトルの地図書の巻頭に,この神の絵をつけたことから地図書をatlasと呼ぶようになった) / 〈C〉アトラス(米空軍の大陸間誘導弾)
 atm.	atmosphere / atmospheric
 atmosphere	《the ~》(地球を取り巻く)『大気』 / 〈C〉(特定の場所の)『空気』 / 〈C〉『雰囲気』,環境,周囲の状況 / 〈C〉気圧単位(1cm²に1.013ダインの力が働いたときの圧力《略》『atm』.)
-atmospheric,atmospherical	大気の;大気中の,大気によって起こる
 atmospheric pressure	=air pressure
+atmospheric,atmospherical	大気の;大気中の,大気によって起こる
 atmospherics	空電(大気中の電磁波の妨害により受信器に混じる雑音)
 atoll	環状サンゴ礁,環礁
 atom	『原子』 / 微量,非常な少量;《a~》微量,わずか(の…)《+『of』+『名』》
@@ -2453,12 +2491,10 @@ atrium	(古代ローマの住宅建築で)中央広間 / (心臓の)心房
 atrocious	残虐な,凶暴な / 《話》ひどい;いやらしい
 atrocity	〈U〉残虐,凶暴;〈C〉残虐行為 / 〈C〉《話》ひどいへま
 atrophy	(栄養不良などによる)萎縮(いしゅく) / (一般的に)衰退,退化 / 萎縮する,衰退する / …'を'萎縮させる,衰退させる
-Atropos	アトロポス(ギリシア神話の運命の三女神のひとり)
-Att.Gen.	Attorney General
 attaboy	《米》でかした,すごいぞ,あっぱれ[That's the boy.から]
 attach	(…に)…'を'『つける』,『取りつける』,はりつける《+『名』+『to』+『名』》 / (…に)…'を'所属させる,付属させる《+『名』+『to』+『名』》 / (…に)〈サインなど〉'を'添える《+『名』+『to』+『名』》 / (…に)〈重要性・意味など〉'を'置く,帰する《+『名』+『to』+『名』》 / (法律用語で)…'を'逮捕する;…'を'差し押える / (…に)付着する,所属する(belong)《+『to』+『名』》
-attache,attaché	大使(公使)館員,外交官補,(大・公使の)随行員
 attache case,attaché case	(書類を入れる)手さげ折りかばん,アタッシュケース
+attache,attaché	大使(公使)館員,外交官補,(大・公使の)随行員
 attachment	〈U〉(…に)付くこと,付着,付属;〈C〉(…の)付属品,付属装置;留め金,締め具《+『to』(『for』)+『名』》 / 〈C〉(人・物・主義・理想などへの)愛着,愛情《+『for』+『名』》 / 〈U〉(法律用語で)逮捕,差し押え
 attack	…'を'『襲う』,『攻撃する』;(ゲームで)…'を'攻める / (演説・文書などで)…'を'『非難する』,攻撃する / 〈病気・不運などが〉…'を'襲う,冒す / 〈仕事など〉'に'勢いよく取りかかる,着手する / 『攻撃をする』 / 〈U〉〈C〉(…に対する)『攻撃』;(ゲームの)攻め;非難《+『on』(『upon, against』)+『名』》 / 〈C〉発病,発作 / 〈U〉(仕事への)着手,開始
 attain	〈目的・望みなど〉'を'『達成する』,獲得する(gain, accomplish) / 〈高い所・ある年齢など〉'に'『達する』(reach, come to) / (努力して)(…に)到達する《+『to』+『名』》
@@ -2482,8 +2518,6 @@ attest	〈真実性など〉'を'証明する,'の'証拠となる / (…を)証
 attestation	証明,証拠,保証
 attested	無病(無菌)であることを証明された / 《英》=certified 1
 attic	『屋根裏』;屋根裏部屋
-Attic	アッチカ(Attica)の,アテネ(Athens)の / 古典ふうの,典雅な / アッチカ人,アテネ人;〈U〉アッチカ方言
-Attica	アッチカ(古代ギリシアの一地方;その中心はAthensであった)
 attire	(…に)…'に'装わせる,盛装させる《+『名』+『in』+『名』》 / 《文》衣装,服装
 attitude	(人・物に対する)『姿勢』,身構え,感じ方,(特に精神的な)傾向,性向《+『toward』(『to』,『on』)+『名』》 / (行為・感情などを示す)姿勢,身構え
 attitudinize,attitudinise	《軽べつして》(人目を引くために)気取る,かっこうをつける
@@ -2502,11 +2536,8 @@ attributive	(形容詞が)限定的な(通例名詞の前にきて直接に名�
 attrition	摩擦 / 磨(す)り減ること,消耗 / (人員の)自然減
 attune	(…に)…'を'一致させる,調和させる,《+『名』+『to』+『名』(do『ing』)》
 atty.	attorney
-Atty.Gen.	Attorney General
-ATV	all-terrain vehicle全地形万能車(水陸両用の小型自動車)
 atwitter	興奮した,そわそわした
 atypical	型にはまらない,異常な
-Au	goldの化学記号
 au fait	(…に)精通した,熟知した《+『with』+『名』》
 au fond	根底は,実際は,実は
 au gratin	グラタン料理の
@@ -2539,7 +2570,6 @@ audition	〈C〉視聴テスト,オーディション(歌手・俳優など声�
 auditor	《まれ》聞き手,傍聴人 / 会計検査官,監査役 / 《米》(大学で単位を取らない)聴講生
 auditorium	(教会・劇場などの)聴衆席,観客席 / (学校などの)講堂;(演劇などのための)公会堂
 auditory	耳の,聴覚の
-Aug.	August
 auger	らせん形のきり(大工用でT字型の柄がついている)
 aught	《古・詩》 何か, 何でも; あらゆること / 少しも, どの程度にもせよ / 零, ゼロ; 《古》 無
 augment	…'を'増す,増大(増加)させる / 〈物・事が〉増す,増大(増加)する
@@ -2547,49 +2577,28 @@ augmentation	増大,増加 / 増加した物,付加物
 augur	卜占(ぼくせん)官(古代ローマで鳥の鳴き声などによって国事の吉凶を占った祭司) / (一般)占い師,予言者 / 〈事〉'を'占う,予言する,予測する / 〈物・事〉'の'前兆を示す / (前兆などから)占う,予測する / 前兆となる
 augury	占い / 占いの儀式 / きざし,前兆
 august	威厳のある,堂々とした / 身分の高い,尊い
-August	『8月』(《略》『Aug.』) / 《形容詞的に》『August heat wave』{名}〈C〉8月の暑波『August vacation』{名}〈C〉8月の休暇
-Augusta	オーガスタ(米国Main州の州都)
-Augustan	(ローマの)オーガスタス大帝(Augustus)の,オーガスタス大帝時代の / 文芸全盛期の,古典主義の
-Augustine	聖オーガスチン(アウグスチヌス) / 初期キリスト教会の指導者・哲学者(354‐430) / 英国に布教したローマの宣教師,最初のカンタベリー大主教(?‐604)
-Augustinian	聖オーガスチン(アウグスチヌス)の;アウグスチヌス主義の / (ローマカトリック教会で) / アウグスチヌス修道会の修道士 / アウグスチヌスの教義信奉者
-Augustus	オーガスタス(ローマ帝国初代の皇帝;Julius Caesarの後継者;63B.C.‐A.D.14)
 auk	ウミスズメ科の鳥(ウミガラス,ウミスズメなど)
 auld langsyne	《スコットランド》なつかしい昔(スコットランド詩人Robert Burnsの詩の題名にもなっている;日本の「ほたるの光」はこの歌曲のメロディー)
 aunt	『おば』 / おばさん(年長の婦人に対する敬称)
-Aunt Sally	パイプ落とし(サリーおばさんと呼ばれる木像の口にくわえさせたパイプを木片などを投げて落とす遊び) / 攻撃の的となる人(物)
 auntie, aunty	おばちゃん
 aura	(人・物がかもし出す)独持の雰囲気
 aural	耳の;聴覚の
 aureate	金色の / さん然と輝く,華麗な
 aureole	(聖者・殉教者などの絵に見られる)光の輪,輪光,後光 / (太陽・月にかかる)かさ
-Aureomycin	オーレオマイシン(抗生物質の商品名)
 auricle	(心臓の)心耳(しんじ);(耳の)外耳 / 耳状のもの
 auricular	耳の;聴覚の / (心臓の)心耳の
 auriferous	(岩石が)金を含んだ(産する)
 aurochs	ヨーロッパの野牛(今は絶滅している)
-Aurora	アウローラ(ローマ神話の曙(あけぼの)の女神) / 〈C〉《a-》オーロラ,極光
 aurora australis	《the~》南極光
 aurora borealis	《the~》北極光
 auroral	オーロラの,オーロラに似た / 夜明け(暁)の[ような]
-AUS	Army of the United States米国陸軍
 auscultate	…'を'聴診する / 聴診する
 auscultation	聴診
 auspices	(持に)よいきざし,前兆 / 保護,援助,支持
 auspicious	さい先のよい,好都合の
-Aussie	《俗》=Australian
 austere	(人・表情・態度などが)厳しい,厳格な / (生活などが)質素な,禁欲的な / (文体・様式・場所などが)簡素な,飾らない
 austerity	〈U〉(態度・生活などの)厳しさ,厳格さ;(文体・様式などの)簡潔さ / 《複数形で》禁欲(耐乏)生活
 austral	(おもに測地学で)南の,南方の
-Australasia	オーストラレーシア州(Australia, New Zealandおよび付近の諸島の総称)
-Australasian	オーストラレーシア州の / オーストラレーシア人
-Australia	『オーストラリア』,豪州(首都はCanberra)
-Australian	オーストラリアの,豪州の / オーストラリア人
-Australian ballot	オーストラリア式投票(全候補者が記された投票用紙に印をつける)
-Australian Rules football	オーストラリア式フットボール(2チーム18名で行うラグビーに似た球技)
-Austria	『オーストリア』(ヨーロッパ中部の共和国;首都はVienna)
-Austrian	オーストリアの / オーストリア人
-Austronesia	オーストロネシア(太平洋中南部諸島の総称)
-Austronesian	オーストロネシア[語族]の / オーストロネシア語族
 autarchy	〈U〉独裁(専制)政治 / 〈C〉独裁(専制)国家 / =autarky 2
 autarky	〈U〉(国家の)経済的自給自足 / 〈C〉(また『autarchy』)経済的自給自足国家
 auth.	authentic / author / authority / authorized
@@ -2607,7 +2616,6 @@ authority	〈U〉(地位の持つ,また職能上与えられた)『権威』,�
 authorization	権限を与えること,委任;許可すること
 authorize	〈人〉'に'(…する)権限を与える《+『名』〈人〉+『to』 do》 / 〈物事〉'を'正式に認可する,公認する;(慣例によって)…'を'認める
 authorized	権限を与えられた / 正式に認可された,認められた
-Authorized Version	欽定(きんてい)訳聖書(英国王James一世の命によって編集され,1611年に発行された英訳聖書;《略》『A.V.』)
 authorship	著述業 / 原著者,原作者;出所
 autism	(特に児童の)自閉性(症)
 autistic	自閉性(症)の
@@ -2667,10 +2675,9 @@ avarice	(金・富に対する)どん欲,強欲
 avaricious	どん欲な,強欲な
 avast	(海事用語で)やめ,待て
 avatar	(インドの神話に出てくる)神の化身(けしん),権化(ごんげ)
+avaunt	(古)去れ、失せろ
 avdp.	avoirdupois
 ave	ばんざい;ようこそ / ごきげんよう
-Ave.,ave.	Avenue
-Ave Maria	アベマリア(聖母マリアにささげる祈りの言葉)
 avenge	(…に対して)…'の'あだを討つ《+『名』+『on』(『upon』)+『名』》
 avenger	報復者
 avenue	(門から家に向かう)『並木道』 / (都市の)『大通り』,『街路』,…街 / (…に)近づく道(手段)《+『to』+『名』》
@@ -2699,7 +2706,6 @@ avoidable	避けられる
 avoidance	(…を)避けること,(…の)回避《+『of』+『名』(do『ing』)》
 avoirdupois	=avoirdupois weight(《略》『avdp』)
 avoirdupois weight	常衡(16オンスを1ポンドと定めた衡量;貴金属・宝石・薬品外のものの衡量用)
-Avon	エイボン川(イングランドの中部を流れる川) / エイボン(イングランド中部の州)
 avouch	…'を'公然と認める,公言する,断言する
 avow	…'を'率直に言う,率直に認める
 avowal	公言,言明
@@ -2744,12 +2750,7 @@ axolotl	アホロートル(メキシコ産のサンショウウオ)
 axon,axone	(脊椎動物の神経細胞の)軸索
 ay,aye	はい,そのとおり(yes) / 賛成,賛成投票;《複数形で》賛成者,賛成投票者 / 常に,絶えず
 ayah	《インド・パキスタン英語》(インド人の)女中,乳母
-Ayrshire	エアシャー州(スコットランド南西部の州で乳牛で有名) / 〈U〉〈C〉エアシャー州産の乳牛
-AZ	Arizona
 az.	azimuth
 azalea	ツツジ
 azimuth	方位角,方位《略》『az.』
-Azores	アゾーレス諸島(北大西洋にあるポルトガル領の諸島)
-Azov	アゾフ海(『the Sea of~』;黒海の北東に連なる内海)
-Aztec	〈C〉アステカ人(16世紀にスペイン人に征服されたメキシコ中部にいた種族) / 〈U〉アステカ語
 azure	空色の;青空の(sky-blue) / 空色;《詩》青空,天空(sky)

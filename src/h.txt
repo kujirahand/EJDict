@@ -1,11 +1,9 @@
-hiccup	〈C〉しゃっくり[の音] / ちょっとした問題[遅れ]/ 〈V〉しゃっくりをする
 H	hydrogenの化学記号 / 鉛筆の硬度 / 《俗》heroin
+H,h	英語アルファベットの第8字 / H型[のもの]
+H-bomb	=hydrogen bomb
 H.B.M.	His(Her) Britannic Majesty英国国王(女王)陛下
 H.C.	Holy Communion聖餐(せいさん)式,聖体拝領
-h.c.f.	highest common factor 最大公約数
 H.E.	His Eminence 猊下(げいか)(枢機卿に対する尊称) / His(Her) Excellency《間接的に》閣下(夫人)
-H,h	英語アルファベットの第8字 / H型[のもの]
-h.,H.	hour / harbor / high
 H.H.	His Highness / Her Highness / His Holiness
 H.I.	Hawaiian Islands
 H.J.	hic jacet(ラテン語)ここに[埋葬されて]眠る(=here lies)
@@ -18,7 +16,167 @@ H.R.H.	His(Her) Royal Highness 殿下
 H.S.	High School
 H.T.	high-tension 高電圧
 H.V.,h.v.	high velocity 高速
-H-bomb	=hydrogen bomb
+HF	high frequency 短波,高周波
+HG	High German 高地ドイツ語
+HI	Hawaii
+HP,H.P.,hp,h.p.	horsepower馬力
+HST	Hawaiian Standard Time ハワイ標準時
+HUD	Department of Housing and Urban Development 米国住宅都市開発省
+Hades	(ギリシア神話で)地下の国,よみの国,よみの国の王(Pluto) / 〈U〉《しばしばh-》《話》地獄(hell)
+Hague	ハーグ(オランダ王国の都市;政府官庁の所在地)
+Hail Mary	=Ave Maria
+Haiti	ハイチ(西インド諸島中にある共和国)
+Haitian	ハイチの,ハイチ人(語)の / ハイチ人;〈U〉ハイチ語
+Halley comet	ハレー彗星(すいせい)
+Halloween,Hallowe'en	万聖節(All Saints' Day)の宵祭り(10月31日の夜;カトリック教徒は親類縁者の墓参りをし,米国では,夜,子供たちがjack-o'=lantern(カボチャをくり抜いたちょうちん)を玄関先に飾り,おばけや鬼などに仮装して知人の家を訪ね,お菓子をねだったりして騒ぎ回る習慣がある)
+Hamburg	ハンブルク(西ドイツ北部,ヨーロッパ大陸最大の港湾都市)
+Hamlet	ハムレット(Shakespeare作の悲劇の題名;その主人公の名)
+Handel	ヘンデル(George Frederick ~;1685‐1759;英国で活躍したドイツ生まれの作曲家)
+Hanoi	ハノイ(ベトナム社会主義共和国の首都)
+Hansard	《英》議会議事録, ハンサード
+Hanukkah	(ユダヤ教の)宮清めの祭(12月に行う)
+Harbin	ハルビン(中国東北区の都市)
+Harding	ハーディング(『Warren Gamaliel Harding;1865‐1923;米国第29代大統領1921‐23)』
+Hardy	ハーディ(Thomas ~;1840‐1928;英国の小説家・詩人)
+Harlem	ハーレム(ニューヨーク市マンハッタン島(Manhattan)北部の黒人居住区域)
+Harley Street	ハーレー街(Londonの街;一流の医師の居住地)
+Harley-Davidson	ハーレーダビッドソン・米国製大型オートバイ
+Harpy	ハーピー(ギリシア神話で鳥の翼とつめを持った女面・女身の強欲な怪物) / 〈C〉《harpy》どん欲な女
+Harris Tweed	ハリスツィード(スコットランドHarris島産の毛織り物の商標名)
+Harrisburg	ハリスバーグ(米国Pennsylvania州の州都)
+Hartford	ハートフォード(米国Connecticut州の州都)
+Harvard	ハーバード大学(マサチューセッツ州ケンブリッジにある米国最古の大学;1636年創立)
+Havana	ハバナ(キューバ共和国の首都) / 〈C〉ハバナ産葉巻きたばこ
+Hawaii	『ハワイ州』(ハワイ諸島より成る米国の州;州都はHonolulu) / ハワイ島(ハワイ諸島中の最大の島)
+Hawaiian	ハワイの,ハワイ人の,ハワイ語の / ハワイ人 / ハワイ語
+Hawaiian Islands	ハワイ諸島(太平洋中の群島;米国の一州)
+Hawthorne	ホーソーン(『Nathaniel~』;1804‐64;米国の小説家)
+Haydn	ハイドン(Franz Joseph ~;1732‐1809;オーストラリアの作曲家)
+Hb	hemoglobin
+He	heliumの化学記号
+Hearn	ハーン(『Lafcadio Hearn』;1850‐1904;小説家・著述家;1890年来日,小泉八雲と名乗った)
+Heaviside layer	電離層
+Heb.	Hebrew[s]
+Hebraic	=Hebrew
+Hebraism	ヘブライ的性格,ヘブライ精神,ヘブライ人の慣習
+Hebrew	〈C〉ヘブライ人,イスラエル人,ユダヤ人 / 〈U〉古代ヘブライ語(旧約聖書はほとんどこの言語で書かれた);現代ヘブライ語 / (またHebraic)ヘブライ人の,ヘブライ語の,ヘブライ文化の
+Hebrews	(新約聖書の)ヘブル人への手紙
+Hector	ヘクトール(HomerのIliadに出てくるトロイの勇士)
+Hegira	ヘジラ(メッカ(Mecca)からメジナ(Medina)へのマホメット(Mohammed)の逃走;紀元622年) / (622年を元年とする)回教紀元
+Hejira	=Hegira
+Helen	ヘレン(ギリシア神話でZeusとLedaの間に生まれた美女;TroyのParisに連れ去られたためキリシア軍はTroyに遠征しトロイ戦争が起こった)
+Helen of Troy	=Helen
+Helena	ヘレナ(米国Montana州の州都)
+Helicon	ヘリコン(ギリシア神話でギリシアの中南部の山;ApolloとMusesの住所と考えられた) / 〈C〉《h-》ヘリコン(肩に掛けて吹く大型の管楽器)
+Hellene	(古代)ギリシア人
+Hellenic	ギリシア人の,ギリシア語の,ギリシア文化の(特に,アレキサンダー大王の時代よりも前の古代ギリシアについていう)
+Hellenism	ギリシア精神,ギリシア思想;ギリシア文化
+Hellenistic	ギリシア人の,ギリシア語の,ギリシア文化の(特に,アレキサンダー大王の時代から紀元前1世紀までの期間)
+Helsinki	ヘルシンキ(フィンランド共和国の首都)
+Helvetia	ヘルベチア(現スイスにあったローマ帝国の属領) / 《詩》スイス
+Helvetian	ヘルベチアの / 《詩》スイスの / ヘルベチア人 / 《詩》スイス人
+Hemingway	ヘミングウェー(『Ernest~』;1899‐1961;米国の作家)
+Henry	ヘンリー(1世から8世にいたる英国王の名の一つ)
+Hera	ヘラ(ギリシア神話でZeusの姉でまた妻;天界の女王;ローマ神話のJunoに当たる)
+Hercules	ヘラクレス(ギリシア神話でZeusの子で12の難業を成し遂げた大力と勇気で知られる英雄)
+Hereford	ヘレフォード種の牛(英国原産の食肉牛)
+Hermes	ヘルメス(ギリシア神話で神々の使者で商業・旅行・発明・盗みなどの神;ローマ神話のMercuryに当たる)
+Herod	ヘロデ王(キリスト降誕当時のヤダヤの王;残虐で有名)
+Herodotus	ヘロドトス(484?‐425?B.C.;ギリシアの歴史家)
+Herr	(男性に対する敬称)=Mr.
+Hesperus	宵の明星
+Hessian	ヘッセン人(東ドイツのHesse州の住民) / (米国独立戦争の時,英国が雇った)ドイツ人庸(よう)兵
+Hf	hafnium の化学記号
+Hg	mercuryの化学記号
+Hibernia	ヒベルニア 《Ireland のラテン名》
+High Church	高教会派(儀式・制度を重んずる英国国教会の一派)
+High German	高地ドイツ語;標準ドイツ語
+High Sheriff	州長官(countyの執務長官で任期1年の名誉職)
+Highland fling	スコットランドのダンス
+Highlander	スコットランド高地人(スコットランド北部の高地地方に住むゲール人)
+Highway Code	(英国の)交通法
+Himalayan	ヒマラヤの,ヒマラヤ山脈の
+Himalayas	ヒマラヤ山脈(インドとチベットの間にあるEverest山を含む世界最高の山脈)
+Hind.	Hindi / Hindu / Hindustan / Hindustani
+Hindi	ヒンディー語(北部インド地方で話される印欧語系の言語)・北部インドの
+Hindu	ヒンズー教徒 / インド人,(特に)北部インド人,ヒンズー人 / ヒンズー教[徒]の;インド(ヒンズー)人の
+Hinduism	ヒンズー教,インド教
+Hindustan	ヒンドスタン(インド中央部の平原地方)
+Hindustani	ヒンドスタン語(インドの主要な公用語)
+Hippocrates	ヒポクラテス(460?‐357B.C.;古代ギリシアの医者で医学の父と称される)
+Hippocratic oath	ヒポクラテスの誓い(医者の倫理綱領;ヒポクラテスが作ったとされる)
+Hispanic	スペインの / ラテンアメリカの / スペイン系アメリカ人
+Hispaniola	ヒスバニョラ島(西インド諸島の島でハイチ共和国とドミニカ共和国に分かれる;旧称Haiti)
+Hitler	ヒトラー(『Adolf Hitler』;1889‐1945;ドイツ国家社会党(the Nazis)の党首)
+Hitlerism	ヒトラー主義(ヒトラーによるドイツ国家社会主義)
+Hittite	〈C〉ヒッタイト人(小アジアおよびシリアの古代民族) / 〈U〉ヒッタイト語{形}ヒッタイト人の;ヒッタイト語の
+Ho	holmiumの化学記号
+Ho Chi Minh	ホーチミン(1890‐1969)ベトナム民主共和国の初代大統領
+Ho Chi Minh City	ホーチミン市(ベトナム南部の港市;旧名Saigon)
+Hobson's choice	選択の余地のない選択,えり好みの許されない選択
+Hodgkin's disease	ホジキン病(リンパ系の疾患)
+Hogmanay	大みそか,大みそかの集まり
+Holland	『オランダ』(王国で公式にはthe Netherlands) / 〈U〉《h-》オランダ布(ブラインドなどに用いる目のあらい麻布)
+Hollander	オランダ人(Dutchman)
+Hollywood	ハリウッド(カリフォルニア州ロサンゼルス市郊外にある映画産業の中心地) / 米国映画界
+Holmes	ホームズ(Oliver Wendell~;1809‐94;米国の詩人・小説家) / (Sherlock~; 1 シャーロックホームズ 《Conan Doyle 作の推理小説中の主人公で名探偵》)
+Holocene	=the Recent現世の, 完新世の, the ... 完新世
+Holstein	ホルスタイン種の牛(白黒ぶちのすぐれた乳牛の一品種)(《おもに英》Frisian)
+Holy Bible	聖書(the Bible)
+Holy Communion	=communion4
+Holy Father	ローマ教皇(Pope)の尊称
+Holy Ghost	=Holy Spirit
+Holy Grail	=Grail
+Holy Land	聖地(キリストの住んだPalestineをいう)
+Holy Roman Empire	神聖ローマ帝国(962‐1806)
+Holy See	ローマ教皇の地位(権威);ローマ教皇庁
+Holy Sepulchre	聖墓,聖陵(復活までのキリストの死体が横たわっていた墓)
+Holy Spirit	聖霊(三位(さんみ)一体(Trinity)の第三位)
+Holy Thursday	聖木曜日(Easter前の木曜日) / (キリストの)昇天の祝日(Ascension Day)
+Holy Week	聖週間(Easter前の1週間)
+Holy Writ	聖書
+Home Counties	英国London近郊の諸州
+Home Guard	国防義勇兵;《the~》《集合的に》(第二次世界大戦中の英国の国防市民軍)
+Home Office	英国内務省
+Homer	ホメロス,ホーマー(紀元前8世紀ごろのギリシアの詩人;IliadおよびOdysseyの2大叙事詩の作者といわれる)
+Homeric	ホメロスの,ホメロスの詩の / (笑いが)大声の
+Homo	ヒト属(霊長目ヒト科の一属),ヒト[の学名]
+Homo sapiens	ヒト,人類(動物学での学名)
+Hon.	The Honorable
+Honduras	ホンジェラス(中央アメリカの共和国;首都はTegucigalpa)
+Hong Kong	ホンコン(香港;英国植民地) / =Victoria 4
+Honolulu	『ホノルル』(米国Hawaii州の州都)
+Hoosier	米国Indiana州の住民(出身者)のあだ名
+Hoover	フーバー(Herbert Clark~;1874‐1964;米国第31代大統領1929‐33)
+Horace	ホラチウス(65‐8B.C.;ローマの詩人)
+Horn	ホーン岬(みさき)(『Cape~』;南米の南端にある)
+Host	ホスチア,聖餐式のパン,聖体
+Hottentot	〈C〉ホッテントット人(南アフリカの原住民) / 〈U〉ホッテントット語
+House of Commons	英国下院 / (イギリス・カナダ・オランダの)下院
+House of Councilors	(日本の)参議院
+House of Lords	(イギリスの)上院
+House of Representatives	(米国・オーストラリアなどの)下院;(日本の)衆議院
+Houses of Parliament	国会議事堂
+Houston	ヒューストン(米国Texas州東南部の都市:NASAの宇宙船飛行管制センターがある)
+Hoyle	カードゲームの本
+Hts.	Heights (地名として)…台,…丘
+Hudson	ハドソン川(米国New York湾に注ぐ川)
+Hugo	ユーゴー(Victor Hugo;180285;フランスの詩人・小説家・劇作家)
+Huguenot	ユグノー(16‐17世紀のフランスの新教徒)
+Hun	フン族(4‐5世紀ヨーロッパに浸入したアジアの遊牧民族) / 《しばしばh-》(文化の)破壊者,野蛮人
+Hun.	Hungarian / Hungary
+Hundred Years War	百年戦争(1337‐1453,王位継承をめぐる英仏間の戦争)
+Hung.	=Hungarian / Hungary
+Hungarian	ハンガリーの;ハンガリー人の;ハンガリー語の / ハンガリー人;〈U〉ハンガリー語
+Hungary	ハンガリー(ヨーロッパ中部の共和国;首都はBudapest)
+Hunnish	フン族の,フン族のような / 野蛮な,破壊的な
+Huron	ヒューロン湖(『Lake~』;米国北部五大湖の一つで,2番目に大きい)
+Hyde Park	ハイドパーク(ロンドンにある大公園)
+Hydra	ヒドラ(ギリシア神話の九頭の蛇でHerculesに退治された) / 〈C〉《h-》ヒドラ(ヒドラ属の腔腸(こうちょう)動物)
+Hymen	ヒューメン(ギリシア神話の婚姻の神) / 〈U〉《the h-》処女膜
+Hz	〈略〉ヘルツ（Hertz の略。周波数の単位で「1秒間の周期数」を表す）
+h.,H.	hour / harbor / high
+h.c.f.	highest common factor 最大公約数
 ha	おや,はああ,ああ(驚き・喜び・疑い・ためらいなどを表す声) / hectare; hectares
 ha-ha	はは(笑い声) / 境界溝, 隠れ垣, 景観を損なうことなく土地の境界を示すのに使われた擁壁(ようへき)付きの溝
 habanera	ハバネラ(キューバ起源の2拍子のスローダンス・その曲)
@@ -48,7 +206,6 @@ hacksaw	(金属を切る)弓のこ
 hackwork	二番煎(せん)じの仕事(著作),おざなりの仕事
 had	haveの過去・過去分詞 / haveの過去形・《過去のある時における動作の完了・結果》…『して[しまって]いた』 / 《過去のある時までの経験》…『したことがあった』 / 《過去のある時までの継続》(ずっと)…『していた,してきた』 / 《過去のある時より前の事柄を表す》 / 《時制の一致により間接話法の従節に用いられて》 / 《仮定法》《過去の事実と反対の仮定》 / 《実現されなかった希望や意図》
 haddock	(北太平洋産)タラ
-Hades	(ギリシア神話で)地下の国,よみの国,よみの国の王(Pluto) / 〈U〉《しばしばh-》《話》地獄(hell)
 hadji	=hajji
 hadn't	had notの短縮形
 hadst	=had, haveの二人称単数・過去形
@@ -63,10 +220,8 @@ haggler	値切る人,押し問答する人
 hagiographer	聖人伝の著者
 hagiography	聖人伝
 hagridden	悪夢などに悩まされた
-Hague	ハーグ(オランダ王国の都市;政府官庁の所在地)
 hah	=ha
 hail	〈U〉『あられ』,ひょう / 《a~》(…の)雨あられ,あらし《+『of』+『名』》 / あられ(ひょう)が降る / (人に)〈石・悪口など〉'を'雨あられと浴びせる《+『名』+『on』+『名』》 / …'を'『歓呼して迎える』 / あいさつ;呼び掛け / 万歳
-Hail Mary	=Ave Maria
 hail-fellow-well-met	慣れ慣れしい,愛想のよい
 hailstone	あられ,ひょう
 hailstorm	あられ(ひょう)を伴うあらし
@@ -75,6 +230,7 @@ hair shirt	ばす(馬巣)織りシャツ(修道僧などが苦行の時に着た
 hair slide	髪留めクリップ
 hair trigger	(銃の)触発引き金
 hair weaving	人工植毛
+hair's breadth,hair's-breadth	=hairbreadth
 hair-raising	身の毛もよだつような,ぞっとする(terrifying)
 hair-restorer	発毛促進剤
 hairball	毛球(猫などが飲み込んだ毛が腸の中で球状になったもの)
@@ -92,15 +248,12 @@ hairnet	ヘアネット
 hairpiece	ヘアピース,入れ毛;(はげ隠し用の小さい)かつら
 hairpin	ヘアピン / U字型の
 hairpin bend	(道路・川などの)U字形カーブ
-hair's breadth,hair's-breadth	=hairbreadth
 hairsplitter	細かいことにうるさい人
 hairsplitting	細かいことにうるさいこと,重箱の隅をほじくること / 細かいことにうるさい
 hairspray	ヘアスプレー
 hairspring	(懐中時計の)ひげぜんまい
 hairstyle	髪型
 hairy	毛深い,毛だらけの・粗い,ざらざらした・《俗》 ぞっとするほど危険な; 困難な，難しい
-Haiti	ハイチ(西インド諸島中にある共和国)
-Haitian	ハイチの,ハイチ人(語)の / ハイチ人;〈U〉ハイチ語
 hajji,hadji	メッカ参りを済ませたイスラム教徒[の称号]
 hake	タラ科の食用魚
 halberd	ほこやり(中世に用いられた,やりとまさかりを兼ねたもの)
@@ -158,14 +311,12 @@ hall	『会館』,公会堂,集会場;本部,事務所 / (大きな建物の一�
 hall of residence	寄宿舎(hall)
 hallah	=challah
 hallelujah, halleluiah	ハレルヤ(神をたたえて唱える声) / (神を賛美して歌う)ハレルヤ聖歌
-Halley comet	ハレー彗星(すいせい)
 halliard	=halyard
 hallmark	(金・銀の純度を証明する)極印(ごくいん);(一般に)品質証明印 / (…の)品質を証明するもの,特徴となるもの《+『of』+『名』》 / …'に'極印を押す,折り紙をつける;…'の'品質を証明する
 hallo	おーい,もしもし,やあ,ええっ,まあ(人の注意を引いたり,驚いたりするときに発する声) / それっ,ほれっ(猟犬をけしかけるときの掛け声) / “hallo"の叫び声 / “hallo"と叫ぶ
 halloo	=hallo
 hallow	…'を'神聖にする,神聖なものとする
 hallowed	神聖な;(神聖なものとして)あがめられる
-Halloween,Hallowe'en	万聖節(All Saints' Day)の宵祭り(10月31日の夜;カトリック教徒は親類縁者の墓参りをし,米国では,夜,子供たちがjack-o'=lantern(カボチャをくり抜いたちょうちん)を玄関先に飾り,おばけや鬼などに仮装して知人の家を訪ね,お菓子をねだったりして騒ぎ回る習慣がある)
 hallower	聖人
 hallstand	(玄関の)コート掛け
 hallucinate	幻覚を生じる
@@ -188,10 +339,8 @@ halyard,halliard	(帆げた・帆・旗などを所定の位置に上げる)揚�
 ham	〈U〉〈C〉(豚肉の)『ハム』 / 〈C〉(動物,特に豚の)もも / 〈C〉《しばしば複数形で》(豚肉の)しりとももを合わせた部分 / 〈C〉アマチュア無線家(radio ham) / 〈C〉(大げさに演じる)へぼ役者 / 〈役〉'を'大げさに演じる / 大げさに演技する
 ham-fisted	無器用な
 hamadryad	(ギリシア神話の)木の精 / マントヒヒ / インドコブラ(king cobra)
-Hamburg	ハンブルク(西ドイツ北部,ヨーロッパ大陸最大の港湾都市)
 hamburger	《米》〈U〉牛のひき肉(ground beef) / (また『Hamburg steak』)〈C〉ハンバーグステーキ(牛のひき肉を焼いたもの) / 〈C〉(また《米話》『burger』)ハンバーガー(ハンバーグステーキをはさんだサンドイッチ)
 hamlet	小さな村,村落
-Hamlet	ハムレット(Shakespeare作の悲劇の題名;その主人公の名)
 hammer	『金づち』,ハンマー / ハンマーに似た物,(銃の)撃鉄,(ピアノの弦を打つフェルトの)つち,(競売人の)木づち,(ベル・ゴングなどの)打ち子 / (ハンマー投げの)ハンマー / (耳の中の)槌骨(ついこつ) / (金づち・こぶしなどで)…'を'『こつこつとたたく』(『打つ』)《+『名』+『with』+『名』》 / …'を'つちでたたいて作る《+『名』+『out,』+『out』+『名』》 / (人の頭に)〈考え・事柄など〉'を'繰り返して教え込む《+『名』+『into』(『in』)+『名』》 / 《話》〈相手〉'を'打ち負かす,やっつける / (…を)金づちで打つ;(つえやこぶしなどで)(…を)ドンドンとたたく《+『at』(『on』)+『名』》
 hammer and sickle	つちとかま(共産主義の標章;旧ソ連邦の国旗)
 hammerhead	シュモクザメ(頭部がハンマーの頭に似ている)
@@ -220,7 +369,6 @@ handclasp	(友情・連帯をあらわす)固い握手
 handcraft	=handicraft / …'を'手仕事で作る
 handcuff	手錠 / …'に'手錠を掛ける
 handed	「…の手をした;…の手でする」の意を表す / 「…人(にん)でする」の意を表す
-Handel	ヘンデル(George Frederick ~;1685‐1759;英国で活躍したドイツ生まれの作曲家)
 handful	(…の)『一握り』,一つかみ《+『of』+『名』》 / 《a handful》(…の)わずか,少量,少数《+of+名》 / 《話》手に負えない人(物事)
 handgun	(片手で扱う)短銃,ピストル
 handhold	(岩・壁画などの)手がかり,つかまえ所
@@ -271,10 +419,7 @@ hanker	(禁じられたもの・手に入らないものを)切望する,(…に
 hankering	(…に対する)切望,あこがれ《+『for』(『after』)+『名』》
 hankie, hanky	ハンカチ
 hanky-panky	ちょろまかし
-Hanoi	ハノイ(ベトナム社会主義共和国の首都)
-Hansard	《英》議会議事録, ハンサード
 hansom	つじ馬車(御者台は後部に一段高くなっている)
-Hanukkah	(ユダヤ教の)宮清めの祭(12月に行う)
 hap	運,幸運
 haphazard	偶然 / 偶然の;でたらめの / 偶然に;むやみに
 hapless	不運な,不幸せな
@@ -293,7 +438,6 @@ happy-go-lucky	のんきな,その時しだいの
 harangue	熱弁,演説,(時に)長い非難攻撃の演説 / …に向かって熱弁をふるう / 熱弁をふるう
 harass	〈人〉'を'悩ませる,苦しめる,困らせる(worry) / 〈敵〉'を'しつように攻撃する
 harassment	悩ませること;悩むこと;悩み[の種]
-Harbin	ハルビン(中国東北区の都市)
 harbinger	(…の)先駆者; 先触れ,前兆《+『of』+『名』》 / …'の'先駆者となる,前触れをする
 harbor,harbour	港 / 避難所,隠れ場所 / 〈人〉'に'避難所を与える,〈犯人など〉'を'かくまう / (心の中に)〈考え・感情など〉'を'抱く / 〈船が〉港に停泊する
 harborage,harbourage	〈C〉(船の)避難所，停泊所,〈U〉避難，保護
@@ -334,7 +478,6 @@ hardheaded	(特に商売で)抜けめのない,現実的な
 hardhearted	不人情な,冷酷な
 hardihood	大胆(boldness);ずぶとさ,厚かましさ
 hardiness	頑健;耐久力
-Harding	ハーディング(『Warren Gamaliel Harding;1865‐1923;米国第29代大統領1921‐23)』
 hardlabor,hardlabour	(懲罰としての)重労働
 hardliner	信条を曲げない人
 hardly	『ほとんど』…『ない』,おそらく…ない;《遠回しに》少しも(全く)…ない
@@ -350,7 +493,6 @@ hardwearing	(衣類・靴など)長持ちのする
 hardwood	(カシ・マホガニーなど材質の堅い)堅木(かたぎ)
 hardworking	働き者の,勤勉な
 hardy	(人・動物が)『がんじょうな』(strong);耐久力のある / (植物などが)耐寒性の
-Hardy	ハーディ(Thomas ~;1840‐1928;英国の小説家・詩人)
 hare	『野ウサギ』(rabbitよりも大きく穴居(けっきょ)性がない) / 速く走る《+『off』(『away』)》
 hare and hounds	=paper chase
 harebell	イトシャジン(青い釣鐘形の花をつける植物・夏から秋にかけて薄青の花を開く)
@@ -362,11 +504,8 @@ harem	〈C〉ハレム(回教国の婦人部屋) / 〈U〉《集合的に》ハ�
 haricot	インゲン豆
 hark	聞く(listen)
 harken	=hearken・》〔…に〕耳を傾ける 〔to〕
-Harlem	ハーレム(ニューヨーク市マンハッタン島(Manhattan)北部の黒人居住区域)
 harlequin	《H-》ハーレクィン,アルルカン(無言劇などの道化役) / 〈C〉道化師,道化もの
 harlequinade	道化芝居,道化が主役の無言劇
-Harley Street	ハーレー街(Londonの街;一流の医師の居住地)
-Harley-Davidson	ハーレーダビッドソン・米国製大型オートバイ
 harlot	《古》売春婦(prostitute)・みだらな女・あばずれ女
 harlotry	売春
 harm	『害』,『損害』;危害 / (精神的な)害,災い;不幸;不都合 / …'を'『害する』,'に'損害を与える,危害を加える
@@ -387,12 +526,9 @@ harpist	ハープ奏者
 harpoon	捕鯨用もり / …'に'もりを打ち込む,もりでしとめる
 harpoon gun	捕鯨砲
 harpsichord	ハープシコード(16‐18世紀に用いられた有鍵(けん)楽器の一種;ピアノの前身)
-Harpy	ハーピー(ギリシア神話で鳥の翼とつめを持った女面・女身の強欲な怪物) / 〈C〉《harpy》どん欲な女
 harquebus	火縄銃
 harridan	口やかましい意地悪の老女,鬼ばば
 harrier	ハリヤー犬(ウサギ狩りに用いる) / クロスカントリーレースの走者
-Harris Tweed	ハリスツィード(スコットランドHarris島産の毛織り物の商標名)
-Harrisburg	ハリスバーグ(米国Pennsylvania州の州都)
 harrow	まぐわ(農具の一種) / 〈掘り起こした土〉'を'まぐわでならす《+『up』+『名,』+『名』+『up』》 / 〈人〉'に'精神的な苦痛を与える;〈人の心〉'を'傷つける
 harrowing	痛ましい,悲惨な,胸のはり裂けるような
 harry	…'を'繰り返し攻撃する / (…のことで)〈人〉'を'苦しめる,悩ます《+『名』〈人〉+『for』+『名』》
@@ -400,9 +536,7 @@ harsh	(感触や目・耳など五感に)『不快な』,いやな / 『厳し�
 hart	雄ジカ(特に5歳以上のアカシカ)
 hartal	(インド・パキスタンで)同盟閉店,同盟休業,ストライキ
 hartebeest	シカレイヨウ(南アフリカ産の大カモシカ)
-Hartford	ハートフォード(米国Connecticut州の州都)
 harum-scarum	むちゃな(に),無鉄砲の(に) / 無鉄砲な人
-Harvard	ハーバード大学(マサチューセッツ州ケンブリッジにある米国最古の大学;1636年創立)
 harvest	〈C〉(穀物・果物などの)『収穫』,取り入れ / 〈C〉『収穫期』,取り入れの時期 / 〈C〉収穫物;収穫高(量) / 《a~,the~》(仕事などの)結果,報い / 〈作物〉'を'取り入れる,〈畑〉'の'作物を取り入れる / 〈結果など〉'を'獲得する
 harvest festival	(教会での)収穫[感謝]祭
 harvest home	収穫祭
@@ -462,7 +596,6 @@ haut couture	オートクチュール(最新流行の婦人服の創作・デザ
 haut cuisine	高級料理
 hautboy	オーボエ(oboe)
 hauteur	高慢,尊大
-Havana	ハバナ(キューバ共和国の首都) / 〈C〉ハバナ産葉巻きたばこ
 have	(また《話》『have got』)〈物〉'を'『持っている』,所有している(進行形にできない)・(また《話》『have got』)〈親類・友人など〉'が'『いる』,'を'持っている,〈召使など〉'を'かかえている;〈動物〉'を'飼っている(進行形にできない) ・(また《話》『have got』)(特質・付属物として)…'を'『備えている』,'が'ある(進行形にできない) ・(また《話》『have got』)〈感情・意見など〉'を'持つ,抱く(進行形にできない) ・《『have to』do》(また《話》『have got to』do)…『しなければならない』;《不定文で》…する必要がある・《『have to be』…》…に違いない・〈ある状態〉'を'経験する,〈病気〉'に'かかる / …'を'食べる,飲む,〈たばこ〉'を'吸う・《動作を表す名詞を目的語にして》《話》〈ある動作・行為〉'を'する,行う・《『have』+『名』〈人〉+do》《しばしばwill, wouldと共に》〈人〉'に'(…)させる,してもらう,される / 《『have』+『名』+『過分』》…'を'(…)させる,される,してもらう・《+『have』+『名』+『形』(『名』,『過分』,do『ing』)〈補〉》…'を'(…の)状態に保つ,(…の)ままにしておく(進行形にできない) / …'を'得る,もらう,受ける(進行形にできない) ・〈人・動物が〉〈子〉'を'産む,もうける・《通例否定文で》…'を'許す,認める・(財産・社会的地位などを)持っている人;(資源・核兵器を)持っている国 / 《現在完了》《have(has)+過去分詞》・《現在における動作の完了・結果》…『した』,…『してしまった』・《現在までの経験》…『したことがある』・《現在までの継続》(ずっと)…『している』,…『してきた』・《時・条件の副詞節で未来完了に代えて》…してしまう・《過去完了》《had+過去分詞》・《未来完了》《will(shall) have +過去分詞》・《未来のある時における動作の完了・結果》…『して』[『しまって』]『いるだろう』・《未来のある時までの経験》…『したことになる』・《未来のある時までの継続》…『していることになる』・《完了形不定詞》・《述語動詞の表す時より前に事柄を表す》・《期待・意図・願望・予定などを表す動詞の過去形に付いて実現されなかった事柄を表す》・《完了形分詞または動名詞》《述語動詞の表す時までに完了した事柄またはその結果を表す》
 have-not	(富を)持たない人(国)
 haven	安全な所,避難場所 / 《まれ》港
@@ -471,20 +604,15 @@ haver	くだらないおしゃべりをする
 haversack	《まれ》(兵士の食料・衣類を入れる)雑のう
 havoc	(自然の力・暴動などによる)大破壊,荒廃,大混乱,大騒ぎ
 haw	サンザシ(hawthorn)の実 / (口ごもって発する)ええ[という声] / 「ええ」と言う,口ごもる
-Hawaii	『ハワイ州』(ハワイ諸島より成る米国の州;州都はHonolulu) / ハワイ島(ハワイ諸島中の最大の島)
-Hawaiian	ハワイの,ハワイ人の,ハワイ語の / ハワイ人 / ハワイ語
-Hawaiian Islands	ハワイ諸島(太平洋中の群島;米国の一州)
 hawk	『タカ』 / 《話》(国際問題などで)強硬論者,タカ派の人 / 〈商品〉'を'呼び売りする,行商する / 〈うわさなど〉'を'ふれ回る,広める
 hawker	タカ匠 / 呼び売り商人,行商人
 hawkeyed	(タカのように)目の鋭い
 hawkish	タカのような / タカ派的な,好戦的な
 hawser	(船で使う)大索(だいさく),太綱
 hawthorn	サンザシ(バラ科の落葉低木;おもに生け垣用)
-Hawthorne	ホーソーン(『Nathaniel~』;1804‐64;米国の小説家)
 hay	『干し草』(家畜の飼料) / 干し草を作る / 'を'干し草にする;'に'干し草を与える
 hay fever	枯草熱,花粉熱(花粉などで目や鼻の粘膜が冒されるアレルギー性の病気)
 haycock	(畑のあちこちに作った円すい状の)干し草の小山
-Haydn	ハイドン(Franz Joseph ~;1732‐1809;オーストラリアの作曲家)
 hayfork	干し草用くまで
 hayloft	(馬小屋の納屋の2階にある)干し草置き場
 haymaker	干し草を作る人(機械) / 《米話》強烈な一撃
@@ -502,14 +630,12 @@ hazelnut	ハシバミの実
 hazily	かすんで,もうろうとして
 haziness	かすんだ状態,ぼんやりした様子
 hazy	もやのかかった,かすんだ / (考えなどが)もうろうとした,はっきりしない
-Hb	hemoglobin
 hd.	hand / head
 hdbk	handbook
 hdkf.	handkerchief
 hdqrs.	headquarters
 hdw.,hdwe.	hardware
 he	彼は,彼が / 《指す人の性別が分からないか,または分かる必要のない場合に》その人,あの人,自分 / 《he who(that)の形で》《文》…するものはだれでも / (動物の)おす(雄) / 鬼ごっこ(tag,tick,tig)
-He	heliumの化学記号
 he'd	he had; he wouldの短縮形
 he'll	he will; he shallの短縮形
 he's	he is, he hasの短縮形
@@ -574,7 +700,6 @@ hearer	聞き手;傍聴人
 hearing	〈U〉『聴力』,聴覚,〈U〉〈C〉(…を)『聞くこと』,(…の)聞き取り《+『of』+『名』》・〈C〉聞いてもらう機会,聞いてやること・聴取・聴聞会〈C〉(法廷などでの)尋問,審問,;(刑罰の減免を求める)釈明,意見陳述 / 〈U〉聞こえる距離(範囲)
 hearing aid	補聴器
 hearken	(…を)注意して聞く,傾聴する(listen)《+『to』+『名』》
-Hearn	ハーン(『Lafcadio Hearn』;1850‐1904;小説家・著述家;1890年来日,小泉八雲と名乗った)
 hearsay	うわさ,風聞
 hearse	霊きゅう車,葬儀車
 heart	〈C〉『心臓』;胸 / 〈C〉(感情の中心をなす)『心』,気持ち / 〈U〉愛情,同情 / 〈U〉『勇気』,元気,熱意 / 《the ~》『中心』,内部,(物事の)本質,核心 / 〈C〉ハート形の物;(カードの)ハートの札
@@ -634,7 +759,6 @@ heavenward	天に向かう / 天の方へ
 heavenwards	=heavenward
 heavily	『重く』,どさりと / 重そうに,のろのろと;重苦しく / 『激しく』,ひどく,大いに
 heaviness	重いこと,重さ / 無気力 / ぎこちなさ / 重苦しさ
-Heaviside layer	電離層
 heavy	『重い』,重量のある / (分量・程度・規模・強さなどが)『激しい』,大きい / 『厳しい』,耐えがたい,つらい / 悲しい,陰気な / (動作が)のろい,ぎごちない / ものうい,だるい / (空が)曇った,うっとうしい,(海が)荒れた / (食物が)消化の悪い / 敵役,悪役
 heavy hydrogen	重水素
 heavy industry	重工業
@@ -646,12 +770,7 @@ heavy-hearted	重い心の,悲しい
 heavy-laden	重荷を負わされた / 悩み事の多い
 heavyset	やや太めの,がっしりした
 heavyweight	目方の重い,重量のある / ヘビー級の / 平均体重以上の人(動物) / (ボクシング・レスリングの)ヘビー級選手(175ポンド,約79.4キログラム以上)3有力者
-Heb.	Hebrew[s]
 hebdomadal	1週間の,1週1回の
-Hebraic	=Hebrew
-Hebraism	ヘブライ的性格,ヘブライ精神,ヘブライ人の慣習
-Hebrew	〈C〉ヘブライ人,イスラエル人,ユダヤ人 / 〈U〉古代ヘブライ語(旧約聖書はほとんどこの言語で書かれた);現代ヘブライ語 / (またHebraic)ヘブライ人の,ヘブライ語の,ヘブライ文化の
-Hebrews	(新約聖書の)ヘブル人への手紙
 hecatomb	《文》大虐殺 / (古代の)雄牛100頭のいけにえ
 heck	ちぇ,ちくしょう / (強意語として)hellの遠回しの語
 heckle	〈弁士・演説〉'を'やじり倒す,質問攻めにする / やじる
@@ -663,7 +782,6 @@ hectogram	ヘクトグラム(100グラム;《略》『hg』)
 hectoliter,hectolitre	ヘクトリットル(100リットル;《略》『hl』)
 hectometer,hectometre	ヘクトメートル(100メートル;《略》『hm』)
 hector	〈人〉'を'脅す,いじめる(bully) / いばりちらす
-Hector	ヘクトール(HomerのIliadに出てくるトロイの勇士)
 hedge	『生け垣』 / (一般に)障壁,境界 / (危険などから)守るもの,(…に対する)保護手段《+『against』+『名』》 / …'を'生け垣(垣根,さく)で囲む / 〈かけ,投資〉'を'両方にかけて丸損を防ぐ / (自由に動けないように,障害などで)…'を'囲む,束縛する《+『名』+『in』(『round』)+『with』+『名』,+『in』(『round』)+『名』+『with』+『名』》 / 確答をしない,逃げ道を作っておく
 hedge sparrow	ヨーロッパカヤクグリ(欧米に多いイワヒバリの一種)
 hedgehog	ハリネズミ
@@ -683,7 +801,6 @@ heeled	金持ちの,裕福な
 heft	…'を'持ち上げる / …'を'持ち上げて重さをみる / 目方,重量
 hefty	(物が)重くて動かせない,重い / 大柄でたくましい,屈強な,強力な;ばかでかい
 hegemony	優位,支配;(特にある国が他の国に対して持つ)指導権,覇権
-Hegira	ヘジラ(メッカ(Mecca)からメジナ(Medina)へのマホメット(Mohammed)の逃走;紀元622年) / (622年を元年とする)回教紀元
 heifer	(子を生んだことのない)若い雌牛
 heigh-ho	あーあ,やれやれ(心配・疲労などのため息)
 height	〈U〉(物の)『高さ』《+『of』+『名』》 / 〈U〉《時にa~》(一定の平面からの)高さ,海抜,標高 / 〈U〉〈C〉身長 / 〈C〉《しばしば複数形で単数扱い》高い所,高台 / 〈C〉《the~》『絶頂』,極致,まっ最中
@@ -695,14 +812,9 @@ heir presumptive	推定相続人
 heiress	女子相続人
 heirloom	先祖伝来の家財,家宝
 heist	(特に押し入って)…'を'盗む / (特に)押し込み強盗
-Hejira	=Hegira
 held	holdの過去・過去分詞
-Helen	ヘレン(ギリシア神話でZeusとLedaの間に生まれた美女;TroyのParisに連れ去られたためキリシア軍はTroyに遠征しトロイ戦争が起こった)
-Helen of Troy	=Helen
-Helena	ヘレナ(米国Montana州の州都)
 helical	らせん形の
 helicoid,helicoidal	らせん状の
-Helicon	ヘリコン(ギリシア神話でギリシアの中南部の山;ApolloとMusesの住所と考えられた) / 〈C〉《h-》ヘリコン(肩に掛けて吹く大型の管楽器)
 helicopter	『ヘリコプター』
 heliocentric	太陽を中心とした,太陽の中心から測った
 heliograph	日光反射信号機(反射鏡に日光を当てて信号を送る装置) / …'を'日光反射信号機を使って信号を送る
@@ -714,10 +826,6 @@ helix	らせん / らせん形のもの
 hell	〈U〉死者の国,冥土(めいど) / 〈U〉《しばしば『H-』》『地獄』 / 〈U〉〈C〉地獄のような場所(状態),苦痛,苦悩 / 〈U〉《時にa~》苦労(悩み)の種 / 〈U〉《乱暴な強意語として,特に疑問詞の後に置いて》《俗》いったいぜんたい / (怒り・いらだち・驚きなどを表して)ちくしょう,やれやれ
 hell-bent	無謀な決心をする,無鉄砲な / ものすごい速力の
 hellcat	意地悪女,じゃじゃ馬 / 魔女
-Hellene	(古代)ギリシア人
-Hellenic	ギリシア人の,ギリシア語の,ギリシア文化の(特に,アレキサンダー大王の時代よりも前の古代ギリシアについていう)
-Hellenism	ギリシア精神,ギリシア思想;ギリシア文化
-Hellenistic	ギリシア人の,ギリシア語の,ギリシア文化の(特に,アレキサンダー大王の時代から紀元前1世紀までの期間)
 hellgrammite	ヘビトンボの幼虫(釣りのえさに用いる)
 hellhole	不快な(不潔な)場所
 hellion	乱暴者,無法者・乱暴者・わんぱく・いたずらっ子
@@ -738,15 +846,11 @@ helplessly	どうすることもできず,頼るものもなく
 helplessness	どうしようもないこと,無力
 helpmate	協力者,仲間;連れ合い(夫または妻)
 helpmeet	=helpmate
-Helsinki	ヘルシンキ(フィンランド共和国の首都)
 helter-skelter	あわてふためいて / でたらめに,乱雑に / 大あわての,うろたえた / 遊園地のらせん式すべり台
 helve	(おの・ハンマーなどの)柄
-Helvetia	ヘルベチア(現スイスにあったローマ帝国の属領) / 《詩》スイス
-Helvetian	ヘルベチアの / 《詩》スイスの / ヘルベチア人 / 《詩》スイス人
 hem	(折り返して縫った衣類や布の)へり,縁 / (一般に)へり,縁 / 〈布・着物〉'の'へりを折り返して縫う;…'の'縁どりをする / へん!えへん!(注意・疑い・ちゅうちょ・当惑などを表するための発声) / へん(えへん)と言う,せき払いをする
 hematite	赤鉄鉱
 hematology	血液学
-Hemingway	ヘミングウェー(『Ernest~』;1899‐1961;米国の作家)
 hemisphere	(地球の)『半球』 / 半球体
 hemispheric, hemispherical	半球状の,半球の
 hemistich	(詩の韻律で)半行,不完全行
@@ -772,7 +876,6 @@ henhouse	鶏小屋,鶏舎
 henna	ヘンナ染料(頭髪などを染める) / ヘンナ(ミソハギ科の低木;エジプト産で染料の原料) / 赤かっ色 / 〈頭髪など〉'を'ヘンナ染料で染める / 赤かっ色の
 henpeck	〈亭主〉'に'絶えず文句を言って悩ませる
 henpecked,hen pecked	妻からいつも文句を言われている
-Henry	ヘンリー(1世から8世にいたる英国王の名の一つ)
 hep	=hip, 最新情報にくわしい
 heparin	ヘパリン(肝臓などにあり血液の凝固を防ぐ物質)
 hepatic	肝臓の;肝臓にきく,肝臓のような色の
@@ -782,7 +885,6 @@ hepcat	ジャズ気違い, 新事情通, ジャズ通, ジャズミュージシ�
 heptagon	七角形,七辺形
 heptameter	(詩の韻律で)七歩格
 her	《sheの所有格》『彼女の』 / 《sheの目的格》『彼女に』 / 《口語》[be の補語に用いて] = her
-Hera	ヘラ(ギリシア神話でZeusの姉でまた妻;天界の女王;ローマ神話のJunoに当たる)
 herald	(昔の国王や領主の)使者 / 先触れ,先駆者 / 『使者』,伝達者,報道者 / …'を'先触れする;…'を'布告する,告知する
 heraldic	使者の / 紋章の,紋章学の
 heraldist	紋章学者
@@ -797,7 +899,6 @@ herbicide	除草剤
 herbivore	草食動物
 herbivorous	(動物が)草食の
 herculean	大力を必要とする,非常に困難な / 《しばしばHerculean》(特に,力や勇気などの点で)ヘラクレスのような
-Hercules	ヘラクレス(ギリシア神話でZeusの子で12の難業を成し遂げた大力と勇気で知られる英雄)
 herd	(動物の)『群れ』《+『of』+『名』》 / 《軽べつして》[the ～] 民衆，下層民;《a herdとして》大ぜい(の…)《+『of』+『名』》 / 〈人・動物〉'を'集める / 〈牛・羊など〉'の'番をする / 集まる,群がる
 herder	家畜の番人,牧夫,家畜の飼い主
 herdsman	〈C〉牧夫 / 家畜番(=herder) / 〈C〉遊牧民
@@ -811,7 +912,6 @@ hereditament	(法律で)相続(世襲)財産(特に不動産)
 hereditary	世襲の,親譲りの / 遺伝的な,遺伝性の
 hereditary peer	世襲貴族
 heredity	遺伝 / 遺伝形質
-Hereford	ヘレフォード種の牛(英国原産の食肉牛)
 herein	この場所(事,事情)に,この中に(へ)
 hereinafter	(法律で)以下に,下文に
 hereof	これの,これについて
@@ -829,7 +929,6 @@ heritable	(財産など)相続できる / (病気・性格が)遺伝性の
 heritage	世襲財産 / 祖先から伝えられたもの,(有形・無形の)遺産,伝統
 hermaphrodite	両性具有者 / 雌雄同体(株),両性動物
 hermaphroditic	両性具有の,雌雄同体の
-Hermes	ヘルメス(ギリシア神話で神々の使者で商業・旅行・発明・盗みなどの神;ローマ神話のMercuryに当たる)
 hermetic	空気(気体)の通らない,気密の
 hermetical	=hermetic
 hermit	(しばしば,宗教上の理由による)世捨て人,隠者
@@ -840,8 +939,6 @@ hernial	ヘルニアの,脱腸の
 herniate	脱腸する
 hero	(偉業・勇敢な行為などで名を知られた)『英雄』,勇士,ヒーロー / (詩・小説・映画などの)『主人公』,主役 / 《米話》=hero sandwich
 hero sandwich	ヒーローサンドイッチ(肉・チーズ・たまねぎなどを豊富に入れたもの)
-Herod	ヘロデ王(キリスト降誕当時のヤダヤの王;残虐で有名)
-Herodotus	ヘロドトス(484?‐425?B.C.;ギリシアの歴史家)
 heroic	『英雄的な』,勇ましい,大胆な,高潔な / (神話・伝説中の)英雄の行為を歌った / 誇張した / 誇張した言葉(動作)
 heroic couplet	(詩の韻律で)英雄詩体[の詩](2ずづ韻を踏んで対句をなす)・二行連句
 heroical	=heroic
@@ -853,7 +950,6 @@ heron	アオサギ
 heronry	アオサギが群居し巣を作る所
 herpes	疱疹(ほうしん)
 herpetology	爬(は)虫類学
-Herr	(男性に対する敬称)=Mr.
 herring	ニシン
 herringbone	杉あや(矢はず)模様(織物・寄せ木・石畳などの模様に用いる) / 杉あや(矢はず)模様の
 hers	《sheの所有代名詞》『彼女のもの』 / 《of hersの形で》彼女の
@@ -865,8 +961,6 @@ hesitate	『ためらう』,ちゅうちょする / 口ごもる,どもる
 hesitater,hesitator	ためらう人,ちゅうちょする人
 hesitatingly	ためらいながら,ちゅうちょして;口ごもって
 hesitation	『ためらい』,ちゅうちょ / 口ごもり
-Hesperus	宵の明星
-Hessian	ヘッセン人(東ドイツのHesse州の住民) / (米国独立戦争の時,英国が雇った)ドイツ人庸(よう)兵
 heterodox	(特に信仰が)異端の,異説の
 heterodoxy	〈U〉(宗教上の)異端 / 〈C〉異端の教義,異説
 heterogeneity	異種,異種混成
@@ -888,23 +982,18 @@ hexapod	六脚類,昆虫
 hey	おや,おい,へえ,ちょっと(注意を促したり,喜び・驚き・困惑などの突然わき起こった感情の発声)
 hey presto	突然,あっという間に / (手品で)はい,さあどうしょう
 heyday	(若さ・人気・繁栄などの)盛り,全盛,最盛期
-Hf	hafnium の化学記号
-HF	high frequency 短波,高周波
 hf.	half / high frequency
-Hg	mercuryの化学記号
-HG	High German 高地ドイツ語
 hgt.	height
 hgwy.	highway
 hi	《話》(あいさつとして)『やあ』,こんにちは / 《英》(注意を促す発声として)おい,ちょっと(hey)
-HI	Hawaii
 hi-fi	〈U〉ハイファイ(high fidelity),原音再生忠実度が高いこと / 〈C〉ハイファイ音声再生装置 / ハイファイの
 hiatus	《文》すきま,割れ目 / 欠文,脱字 / 《文》(時間などの)中絶,とぎれ
 hibachi	火鉢、小型のバーベキュー用コンロ
 hibernate	〈動物が〉冬眠する,冬ごもりする
 hibernation	冬眠
-Hibernia	ヒベルニア 《Ireland のラテン名》
 hibiscus	ハイビスカス(ハワイ州の州花)
 hiccough	=hiccup
+hiccup	〈C〉しゃっくり[の音] / ちょっとした問題[遅れ]/ 〈V〉しゃっくりをする
 hick	いなか者 / いなかの
 hickey	道具,装置
 hickory	〈C〉ヒッコリー(北米産のクルミ科の落葉高木) / 〈U〉(特に道具の柄に用いられる)ヒッコリー材
@@ -930,7 +1019,6 @@ hifalutin	=highfalutin
 higgledy-piggledy	めちゃめちゃの,ひどく乱雑な / ひどく乱雑に,めちゃめちゃに
 high	『高い』,高い所にある / 《数の後に置いて》高さが…ある / (数量・程度などが標準より)『高い』,大きい,激しい / (身分・地位が)『高い』,高貴な / 『気高い』,高潔な / (声の調子が)『高い』,鋭い / 値段の高い,金の掛かる,ぜいたくな / 楽しい,陽気な,上得意の / (時・季節が)盛りの,たけなわの / (色が)濃い,赤い / 《話》(酒・麻薬などに)酔って / 『高く』,高い所に / (価値・程度などが)高く,高度に,激しく / 〈C〉《話》高水準,高値 / 〈U〉(自動車の)高速ギア / 〈C〉《話》(麻薬などによる)酔った状態
 high beam	(自動車のヘッドライトの)上向きライト,遠方照射ライト
-High Church	高教会派(儀式・制度を重んずる英国国教会の一派)
 high commission	高等弁務官事務所[員]
 high commissioner	高等弁務官(植民地などに駐在する首席事務官)
 high court	最高裁判所
@@ -938,7 +1026,6 @@ high explosive	高性能爆薬
 high fidelity	高忠実度(ラジオ・録音機などで原音再生度が高いこと;《略》『hi-fi』)
 high frequency	高周波
 high gear	(自動車の)高速ギア,トップギア
-High German	高地ドイツ語;標準ドイツ語
 high hat	シルクハット(top hat)
 high horse	傲慢な態度, 高慢
 high jinks	お祭り騒ぎ
@@ -950,7 +1037,6 @@ high relief	(彫刻の)高浮き彫り
 high school	『ハイスクール』(小学校卒業後に入学する中等学校;8‐4制では9‐12年級の学校;6‐3‐3制では,7‐9年級のjunior high schoolと,10‐12年級のsenior high schoolから成る;6‐2‐4制では7‐8年級のjunior high schoolと,9‐12年級のsenior high schoolから成る)
 high seas	公海
 high season	(商売の)最盛期,(観光地などの)書き入れ時
-High Sheriff	州長官(countyの執務長官で任期1年の名誉職)
 high spot	満足のいったこと,忘れられないこと
 high street	(商店などの集まった)町の大通り,本通り
 high table	(英国の大学の食堂の)教授専用食卓
@@ -995,8 +1081,6 @@ highflying	高く飛ぶ / 野心的な
 highhanded	高圧的な,高飛車の,横暴な
 highjack	=hijack
 highland	〈C〉《おもに複数形で》高地[地方] / 《the Highlands》スコットランドの北部および中部の高地地方
-Highland fling	スコットランドのダンス
-Highlander	スコットランド高地人(スコットランド北部の高地地方に住むゲール人)
 highlife	《しばしばthe~》上流社会の生活 / 西アフリカの強烈なリズムの踊り
 highlight	(絵画・写真などの)最も明るい部分,ハイライト / (事件・勝負・ニュースなどの)最も目立つ部長,最高潮の場面,呼び物 / 〈絵画・写真などの部分〉'に'ハイライトを置く,…'を'最も明るくする / …'を'強調する
 highly	『高度に』,『非常に』,大いに / 高い位に,高貴に / 高価で(に),高給で(に)
@@ -1005,7 +1089,6 @@ highness	(…の位置・程度・地位などが)高いこと《+『of』+『�
 highroad	《おもに英》幹線道路,本道(highway) / 《比喩(ひゆ)的に》楽な道
 hightail	そそくさと立ち去る,急いで逃げる
 highway	(特に都市間を結ぶ)『幹線道路』,公道 / 《比喩(ひゆ)的に》楽な道
-Highway Code	(英国の)交通法
 highwayman	(特に馬に乗って公道に出没する)追いはぎ
 hijack, highjack	〈輸送中の貨物〉'を'盗む / 〈運行中の飛行機など〉'を'乗っ取る / ハイジャック事件
 hijacker,highjacker	ハイジャック犯人
@@ -1022,23 +1105,15 @@ hilltop	丘(小山)の頂上
 hilly	丘の多い / 丘(小山)のような,険しい
 hilt	(刀剣の)つか,柄
 him	『彼を』,『彼に』 / 《話》彼(=he)
-Himalayan	ヒマラヤの,ヒマラヤ山脈の
-Himalayas	ヒマラヤ山脈(インドとチベットの間にあるEverest山を含む世界最高の山脈)
 himself	《強意用法》 / 《[代]名詞と同格に用いて》『彼自身』,彼自ら / 《再帰用法》《動詞・前置詞の目的語として》『彼自身を』(『に』)
 hincty	お高くとまった,うぬぼれた,つんとした, 白人
 hind	雌ジカ,(特に)3歳以上の雌のアカシカ / (特に動物の)後ろの,後方の,後部の / 農場労働者
-Hind.	Hindi / Hindu / Hindustan / Hindustani
 hinder	後方の,後部の / 〈物事〉'を'『運行を妨げる』;〈人〉'を'『じゃまする』
 hindermost	=hindmost
-Hindi	ヒンディー語(北部インド地方で話される印欧語系の言語)・北部インドの
 hindmost	いちばん後ろの,最後部の
 hindquarter	(牛・羊などの体の)後四半部の肉・後部・臀部・《複数形で》(動物の足を含めた)腰から下の部分
 hindrance	〈C〉(…を)じゃまする人(物),(…の)妨害物《+『to』+『名』》 / 〈U〉妨害,じゃま
 hindsight	あと知恵
-Hindu	ヒンズー教徒 / インド人,(特に)北部インド人,ヒンズー人 / ヒンズー教[徒]の;インド(ヒンズー)人の
-Hinduism	ヒンズー教,インド教
-Hindustan	ヒンドスタン(インド中央部の平原地方)
-Hindustani	ヒンドスタン語(インドの主要な公用語)
 hinge	(ドアなどの)『ちょうつがい』 / ちょうつがいのような働きをするもの(ひじやひざの関節など);かなめ / …'に'ちょうつがいを付ける,'を'ちょうつがいで取り付ける / チョウツガイで働く / (…に)よる,(…)次第である《+『on』(『upon』)+『名』(do『ing』)》
 hinged	ちょうつがいの付いた
 hint	『暗示』,ほのめかし / 《しばしば複数形で》(…に)役に立つ情報,(…に対する)心得,(…の)手がかり《+『for』(『on』,『to』)+『名』(do『ing』)》 / (…の)微量,わずか《+『of』+『名』》 / …'を'『ほのめかす』 / (…を)ほのめかす《+『at』+『名』》
@@ -1052,8 +1127,6 @@ hipflask	腰ポケットにはいる酒類の小びん
 hipped	腰の(ある) / 《複合語を作って》「腰が…のような」の意を表す / (…に)熱中した,夢中の《+『on』+『名』》
 hippie	(また『hippy』)ヒッピー族の人(既成の文化・社会に無関心で,特異な服装をした若者たち)
 hippo	= hippopotamus
-Hippocrates	ヒポクラテス(460?‐357B.C.;古代ギリシアの医者で医学の父と称される)
-Hippocratic oath	ヒポクラテスの誓い(医者の倫理綱領;ヒポクラテスが作ったとされる)
 hippodrome	(古代ギリシア・ローマの戦車競技などの)競技場 / 馬術演技場,曲馬場
 hippopotamus	カバ
 hippy	=hippie
@@ -1063,8 +1136,6 @@ hire purchase	=installment plan
 hireling	金目当てに働く人;雇い人 / 金を目当てに働く;雇われて働く
 hirsute	毛深い(hairy) / (ひげも髪も)伸ばしほうだいの
 his	《heの所有格》『彼の』 / 《heの所有代名詞》『彼のもの』 / 《of hisの形で》彼の
-Hispanic	スペインの / ラテンアメリカの / スペイン系アメリカ人
-Hispaniola	ヒスバニョラ島(西インド諸島の島でハイチ共和国とドミニカ共和国に分かれる;旧称Haiti)
 hiss	『シュッと音をたてる』 / (非難などを表して)(…に)シーッという《+『at』+『名』》 / (非難などを表して)〈人〉'に'シーッという / (人に)〈非難など〉'を'シーッといって表す《+『名』+『to』+『名』〈人〉》 / シュッ(シーッなど)の音(声)
 hist	(注意・沈黙を促して)シーッ
 histamine	ヒスタミン(子宮収縮・血圧降下の薬)
@@ -1094,17 +1165,11 @@ hitchhike	通りがかりの自動車に無料で便乗して旅行する,ヒッ
 hitchhiker	ヒッチハイクする人
 hither	こちらへ(here)
 hitherto	今まで,これまで(until now)
-Hitler	ヒトラー(『Adolf Hitler』;1889‐1945;ドイツ国家社会党(the Nazis)の党首)
-Hitlerism	ヒトラー主義(ヒトラーによるドイツ国家社会主義)
 hitter	打者
-Hittite	〈C〉ヒッタイト人(小アジアおよびシリアの古代民族) / 〈U〉ヒッタイト語{形}ヒッタイト人の;ヒッタイト語の
 hive	ミツバチの巣箱 / 巣箱に住む一群のミツバチ / 人のおおぜい忙しく集まる所;がやがや集まっている群衆 / 〈ミツバチ〉'を'巣箱に入れる / 〈みつ〉'を'蓄える
 hives	発しん,じんましん
 hm	=hum
 ho	ほう(驚き・賞賛・冷笑などの発声);おーい(呼びかけ・注意などの発声) / 娼婦・売春婦：(whoreの発音をくずしたもの)
-Ho	holmiumの化学記号
-Ho Chi Minh	ホーチミン(1890‐1969)ベトナム民主共和国の初代大統領
-Ho Chi Minh City	ホーチミン市(ベトナム南部の港市;旧名Saigon)
 hoagy,hoagie	=hero sandwich
 hoar	=hoary
 hoard	(財宝などの)秘蔵;(食物などの)秘密の蓄え,買いだめ《+『of』+『名』》 / (ひそかに)…'を'貯蔵する,貯蓄する,ため込む
@@ -1129,14 +1194,12 @@ hobnail	(靴の底に打つ頭の大きい)びょうくぎ
 hobnailed	(靴など)びょうくぎを打った
 hobnob	(人と)親しくつきあう,打ち解けあう《+『together with』+『名』》
 hobo	浮浪労働者,ルンペン(tramp)
-Hobson's choice	選択の余地のない選択,えり好みの許されない選択
 hock	(馬・牛などの後脚の)ひざ,飛節・(特に豚の)足肉 / …'を'質に入れる(pawn) / 質入れ / =Rhine wine 1
 hockey	《英》[陸上]ホッケー;《米》アイスホッケー
 hockshop	質屋
 hocus-pocus	(奇術師の)呪文(じゅもん) / 手品,奇術 / ごまかし
 hod	ホッド(長い柄がついた木製の容器でれんが・しっくいを入れ肩にかついで運ぶ) / 石炭入れ
 hodgepodge	(いろいろな物の)ごったまぜ
-Hodgkin's disease	ホジキン病(リンパ系の疾患)
 hoe	(長い柄がついた)くわ(土を掘ったり,除草などに使う) / 〈土地〉'を'くわで耕す,〈草〉'を'くわで除く《+『up』+『名,』+『名』+『up』》 / くわを使う(耕す)
 hoecake	(昔のくわの上で焼いた)とうもろこしパン
 hoedown	(スクエアダンスを中心にした)地域ぐるみのダンスパーティー
@@ -1145,7 +1208,6 @@ hog-wild	すごく熱中(興奮)した
 hogan	ホーガン(北米Navajoインディアンの住居)
 hogback	けわしい尾根,(地質用語で)丘
 hoggish	豚のような;がつがつした,どん欲な;不潔な
-Hogmanay	大みそか,大みそかの集まり
 hogshead	(特に63‐140ガロンはいる)大だる / ホッグズヘッド(液量の単位で,《英》では52 1/2ガロン,《米》では63ガロン)
 hogtie	〈動物〉'の'四つ足をいっしょに縛る / 〈人〉'の'手足をいっしょに縛る / 《話》…'を'じゃまする,妨害する
 hogwash	(豚のえさにする)残飯,台所くず / 《米》くだらない話(作品)
@@ -1170,8 +1232,6 @@ holidaymaker	休日の行楽客
 holier-than-thou	聖人ぶった,独善的な
 holiness	神聖,高潔 / 《His H-,Your H-》ローマ教皇に対する尊称
 holism	全体論(全体はその構成部分の総和よりも価値があるという哲学理論)
-Holland	『オランダ』(王国で公式にはthe Netherlands) / 〈U〉《h-》オランダ布(ブラインドなどに用いる目のあらい麻布)
-Hollander	オランダ人(Dutchman)
 holler	叫ぶ[声] / 〈何か〉'を'大声で言う / 大声をあげる,叫ぶ
 hollo	=hallo
 hollow	『空洞のある』,(物の内側が)からになっている,うつろの / おわんの(凹(おう))形をした,(表面が)へこんだ / (ほお・目が)落ちくぼんだ / (音・声が)低くこもった,にぶい,うつろな / 実質(内容)のない,うわべだけの / 『穴』(木などの)うつろ;(物の表面の)『くぼみ』,へこみ / (山間の)くぼ地,谷間 / (中をくり(掘り)ぬいて)〈物〉'を'作る《+『out』+『名』,+『名』+『out』》 / 〈物〉'を'うつろにする《+『out』+『名』,+『名』+『out』》 / 徹底的に
@@ -1180,45 +1240,25 @@ hollowness	うつろなこと,空虚・くぼんでいること
 hollowware	銀・ガラス・銀器製の深皿(容器)
 holly	セイヨウヒイラギ(赤い実をつけクリスマスの飾りに使う)
 hollyhock	タチアオイ
-Hollywood	ハリウッド(カリフォルニア州ロサンゼルス市郊外にある映画産業の中心地) / 米国映画界
-Holmes	ホームズ(Oliver Wendell~;1809‐94;米国の詩人・小説家) / (Sherlock~; 1 シャーロックホームズ 《Conan Doyle 作の推理小説中の主人公で名探偵》)
 holmium	ホルミウム(希土類金属元素;化学記号は『Ho』)
 holocaust	(特に火による)大虐殺・全燔(はん)祭の供物(ユダヤ教で獣を丸焼きにしていけにえとする)・全焼死・[the H-] (第二次大戦中のナチスによる)ユダヤ人の大量虐殺
-Holocene	=the Recent現世の, 完新世の, the ... 完新世
 holocrine	(腺細胞分裂による)完全分泌性の
 hologram	レーザー写真
 holograph	自筆の / 自筆の書類(文書)
 holographic	自筆書類の
 holography	レーザー写真術
-Holstein	ホルスタイン種の牛(白黒ぶちのすぐれた乳牛の一品種)(《おもに英》Frisian)
 holster	ホルスター(ベルト・肩につるした皮のピストル入れ)
 holy	『神聖な』,神にささげられた / 信仰のある,神に身をささげた / 《俗》ひどい,はなはだしい / 至高の聖所
-Holy Bible	聖書(the Bible)
-Holy Communion	=communion4
-Holy Father	ローマ教皇(Pope)の尊称
-Holy Ghost	=Holy Spirit
-Holy Grail	=Grail
-Holy Land	聖地(キリストの住んだPalestineをいう)
-Holy Roman Empire	神聖ローマ帝国(962‐1806)
-Holy See	ローマ教皇の地位(権威);ローマ教皇庁
-Holy Sepulchre	聖墓,聖陵(復活までのキリストの死体が横たわっていた墓)
-Holy Spirit	聖霊(三位(さんみ)一体(Trinity)の第三位)
-Holy Thursday	聖木曜日(Easter前の木曜日) / (キリストの)昇天の祝日(Ascension Day)
 holy water	(司祭によって聖別された)聖水
-Holy Week	聖週間(Easter前の1週間)
-Holy Writ	聖書
 holystone	(船の甲板を磨く)磨き石 / 〈甲板〉'を'磨き石で磨く
 homage	尊敬,敬意,服従 / (中世に臣下が主君に対して行った)忠誠の誓い
 homburg	ホンブルグ帽(フェルト製の中折れ帽)
 home	〈C〉〈U〉《おもに米》(家族の住む)『家』,住居,わが家 / 〈U〉〈C〉『家庭』,家庭生活 / 〈U〉『生まれ故郷』,長く住んでいる所;故国,本国 / 〈C〉(動物の)生息地,(植物の)原産地;(物・思想などの)発祥地,本場 / 〈C〉(家のない人・病人などの)『収容施設』,ホーム《+『for』+『名』》 / 〈U〉〈C〉決勝点,ゴール;(野球で)本塁,ホーム / 『家庭の』;故郷の / 『国内の』,自国の / ぐさりと急所をつく,胸にこたえる / (スポーツの試合などが)地元(ホームグランド)で行われる / 『家へ』(に);故郷へ(に);本国(母国)へ(に) / (ねらった所に)ずぶりと,深々と / 胸にこたえるほど,ぎくりと / 〈人が〉帰宅(帰国)する;〈ハトなどが〉巣に帰る / 〈誘導弾・飛行機などが〉(目標に)向かう,(…へ)誘導される《+『in on』+『名』》 / (特定の場所に)家を持つ,住む / 〈誘導弾・飛行機など〉'を'誘導する / 〈人〉'に'家を与える
 home base	(また『home plate』)(野球の)ホームプレート,本塁 / 本拠地
-Home Counties	英国London近郊の諸州
 home economics	家政学,家庭科(料理・裁縫・育児および食品や衣料の購入などを含む)
 home from home	=home away from home
 home front	(国外で戦っている人々に対し)国内戦線,銃後の人々
-Home Guard	国防義勇兵;《the~》《集合的に》(第二次世界大戦中の英国の国防市民軍)
 home help	ホームヘルパー(老人や病人の家庭奉仕をする人)
-Home Office	英国内務省
 home plate	本塁,ホームベース
 home rule	地方自治
 home screen	テレビ
@@ -1241,8 +1281,6 @@ homeopath, homoeopath	同毒(同種)療法医
 homeopathy, homoeopathy	同毒(同種)療法(同種の病原体を含む薬物を少量ずつ服用させる治療法)
 homeostasis	定常性(生体内が平衡を保とうとする傾向)
 homer	〈C〉《米》ホームラン（home run の略） / 〈C〉伝書鳩（= homing pigeonの略）/ 古代ギリシャの詩人ホメロス
-Homer	ホメロス,ホーマー(紀元前8世紀ごろのギリシアの詩人;IliadおよびOdysseyの2大叙事詩の作者といわれる)
-Homeric	ホメロスの,ホメロスの詩の / (笑いが)大声の
 homeroom	ホームルーム
 homerun	ホームラン
 homesick	ホームシックの,自分の家(国)をなつかしがる
@@ -1263,8 +1301,6 @@ homily	(宗教上の)説教(sermon) / (長々しい)訓戒
 homing	家に帰る;(ハトなどが)巣にもどる / (目的地への)誘導装置をもつ / 帰ること,帰還;(ハトなどの)帰巣性
 homing pigeon	伝書バト
 hominy	ひき割りトウモロコシ
-Homo	ヒト属(霊長目ヒト科の一属),ヒト[の学名]
-Homo sapiens	ヒト,人類(動物学での学名)
 homogeneity	同種,同性;均質,均等性
 homogeneous	同種の,同性の;均質の,等質の
 homogenize,homogenise	…'を'均質にする
@@ -1276,9 +1312,7 @@ homophone	同音字(c[s]とs, c[k]とkなど) / 同音異形異義語(=homonym)
 homosexual	同性愛の / 同性愛の人
 homy	=homey
 hon.	honor / honorable
-Hon.	The Honorable
 honcho	長,親方,ボス・日本語の「班長」が語源
-Honduras	ホンジェラス(中央アメリカの共和国;首都はTegucigalpa)
 hone	砥石(特にかみそり用) / (砥石で)〈かみそりなど〉'を'研ぐ
 honest	(人が)『正直な』,信頼できる / (行動などが)誠実さのある,偽りのない,ありさまの / 正当[手段で得た] / 本物の,混ぜ物のない(genuine)
 honest broker	仲裁人,調停者
@@ -1296,16 +1330,14 @@ honeymoon	新婚旅行(休暇),ハネムーン / みつ月;幸福な期間 / …
 honeymoon bridge	二人するブリッジ
 honeymooner	新婚旅行者
 honeysuckle	スイカズラ(常緑のつる植物)
-Hong Kong	ホンコン(香港;英国植民地) / =Victoria 4
 honk	ガンの鳴き声 / (自動車などの)警笛の音 / 〈ガンが〉鳴く / 〈人・自動車が〉警笛を鳴らす / 〈自動車の警笛〉'を'鳴らす
 honky,honkie	白人
 honky-tonk	安キャバレー(ナイトクラブ,ダンスホール) / 陽気なピアノ演奏の
-Honolulu	『ホノルル』(米国Hawaii州の州都)
-honor,honour	〈U〉(自分の信念・行為に対する)道義心,誠実,高潔 / 〈U〉(人から受ける)『尊敬』,信用 / 〈U〉(広く世間から受ける)『名誉』,栄光,名声 / 〈C〉《単数形で》名誉になる物(事,人),誉れ / 《H-》閣下(判事・市長などに対する敬称) / 〈C〉《複数形で》儀礼 / 〈C〉《複数形で》(学校などの)優等 / 〈C〉《複数形で》褒章,名誉賞 / 〈C〉《複数形で》(カードゲームの)最高の役礼 / …'を'『尊敬する』 / 〈人〉'に'『名誉』(『栄光』)『を与える』 / 〈手形など〉'を'引き受ける,支払う
 honor roll	名誉戦死者名簿;優等生名簿(《英》roll of honour)
 honor system	(試験などで生徒の自主性にまかせた)無監督試験制度
-honorable,honourable	(道徳的に)『りっぱな』,高潔な / 名誉(栄光)をもたらす,賞賛に値する / 身分の高い,高名の / 栄誉をもってなされる / 《名詞の前にのみ用いて》《H-》(敬称として)…閣下,様,殿
+honor,honour	〈U〉(自分の信念・行為に対する)道義心,誠実,高潔 / 〈U〉(人から受ける)『尊敬』,信用 / 〈U〉(広く世間から受ける)『名誉』,栄光,名声 / 〈C〉《単数形で》名誉になる物(事,人),誉れ / 《H-》閣下(判事・市長などに対する敬称) / 〈C〉《複数形で》儀礼 / 〈C〉《複数形で》(学校などの)優等 / 〈C〉《複数形で》褒章,名誉賞 / 〈C〉《複数形で》(カードゲームの)最高の役礼 / …'を'『尊敬する』 / 〈人〉'に'『名誉』(『栄光』)『を与える』 / 〈手形など〉'を'引き受ける,支払う
 honorable mention,honourable mention	佳作賞
+honorable,honourable	(道徳的に)『りっぱな』,高潔な / 名誉(栄光)をもたらす,賞賛に値する / 身分の高い,高名の / 栄誉をもってなされる / 《名詞の前にのみ用いて》《H-》(敬称として)…閣下,様,殿
 honorably,honourably	りっぱに,正しく
 honorarium	(一定の額にきまっていない)謝礼金
 honorary	名誉として与えられる / (実権・報酬などのない)名誉職の
@@ -1338,12 +1370,10 @@ hoopla	大騒ぎ,熱狂;から宣伝 / 輪投げ
 hoopskirt	フープスカート(つり鐘のような形にふくらんだ張り骨入りスカート)
 hooray	=hurray
 hoosegow,hoosgow	《米俗》刑務所,豚箱
-Hoosier	米国Indiana州の住民(出身者)のあだ名
 hoot	(フクロウの)ホーホーと鳴く声;(汽笛・車の警笛などの)ポー(ブー)という音 / (あざけり・反対などの)フー(ブー)という叫び声 / 《話》《否定文で;a~》わずか,少量 / 〈フクロウが〉ホーホーと鳴く;〈汽笛・警笛などが〉ポー(ブー)と音を出す / 《あざけり・反対などを表して》(…を)ブーとやじる《+『at』+『名』》 / 《話》大笑いする / 〈演説など〉'を'やじる / 《しばしば副詞[句]を伴って》〈人〉'を'やじって追い払う
 hootenanny	フォークソングの集まり(会)
 hooter	(工場などの)サイレン,(車の)警笛 / 《英俗》鼻
 hoover	電気掃除機[もと商標名] / 〈部屋など〉'を'電気掃除機で掃除する / 電気掃除機をかける
-Hoover	フーバー(Herbert Clark~;1874‐1964;米国第31代大統領1929‐33)
 hooves	hoofの複数形
 hop	〈人が〉『片足でぴょんぴょんと跳ぶ』 / 〈鳥・動物が〉足をそろえてぴょんぴょん跳ぶ / …'を'跳び越える / 《話》(特に,ただで)〈乗物〉'に'乗る / ぴょんぴょんと跳ぶこと,跳躍 / 《話》(飛行機の)飛行;一航程 / 《話》ダンス,ダンスパーティー / 《話》(ボールの)バウンド / ホップ / 《通例複数形で》乾燥したホップの雌花(ビールに苦味・芳香をつける) / …'に'ホップで苦味をつける
 hop pole	ホップ用の支柱,ホップ棚
@@ -1363,7 +1393,6 @@ hopsacking	(綿・羊毛などでできた)あらい織物
 hopscotch	石けり遊び
 hor.	horizon / horizontal
 hora	ホラ(イスラエルの伝統的な民族舞踊)
-Horace	ホラチウス(65‐8B.C.;ローマの詩人)
 horde	(中央アジア草原地方の)遊牧民の群れ,遊牧民族 / (…の)群衆《+『of』+『名』》 / (動物などの)大群《+『of』+『名』》
 horehound	ニガハッカ(ヨーロッパ原産のシソ科の多年草;苦い薬用の液が出る) / ハッカで風味をつけた薬(砂糖菓子)
 horizon	『地平線』,水平線 / (知識・関心・経験などの)限界,範囲,視野《+『of』+『名』》
@@ -1372,7 +1401,6 @@ horizontally	水平に,横に
 hormonal	ホルモンの,ホルモンの影響を受けた
 hormone	ホルモン
 horn	〈C〉(牛・羊・ヤギ・シカなどの)『角』;(カタツムリの)触角;(ミミズクの)耳 / 〈U〉(細工の材料としての)角 / 〈C〉角製の物,角笛 / 〈C〉『警笛』 / 〈C〉ホルン(金管楽器で,初めは動物の角で作ったが,現在は金属やプラスチックで作る);フレンチホルモン(French horn);《俗》トランペット / 〈C〉角状のもの;新月(三日月)のとがった先端 / …'を'角で突く / 角でできた,角製の
-Horn	ホーン岬(みさき)(『Cape~』;南米の南端にある)
 horn of plenty	(ギリシア神話で)豊饒(ほうじょう)の角(=cornucopia)
 horn-rimmed	(めがねが)角製(べっ甲製)のふちのついた
 hornbeam	〈C〉北米産のシデ属の樹木 / 〈U〉シデの木材
@@ -1448,7 +1476,6 @@ hospitality	〈U〉(客や他人に対する)『親切なもてなし』,歓待 
 hospitalization,hospitalisation	入院[加療] / 入院期間 / 入院[費]保険
 hospitalize,hospitalise	〈人〉'を'入院させる
 host	(…の)大群,大勢《+『of』+『名』》(multitude) / (客を接待する)『主人』,『主人役』;(…の)主人[役]《+『to』+『名』》 / (旅館の)主人 / 寄生動(植)物の宿主 / 〈晩餐会など〉'の'主人役を務める,'を'主催する
-Host	ホスチア,聖餐式のパン,聖体
 hostage	人質
 hostel	(学生などのための)宿泊施設 / =youth hostel
 hosteler,hosteller	ユースホステルの宿泊者
@@ -1488,7 +1515,6 @@ hotpot	ホットポット(羊肉・じゃがいも・玉ねぎなどを煮こん
 hotrod	ホットロッド(高速が出るように強力なエンジンを取り付けた改造自動車)
 hotshot	腕きき
 hotspot	(政治上などの)係争地域
-Hottentot	〈C〉ホッテントット人(南アフリカの原住民) / 〈U〉ホッテントット語
 hound	『猟犬』;(特に)キツネ狩り犬 / 卑劣な男;嫌われもの / (猟犬のように)…'を'追跡する / 〈人〉'に'しつこく言う,'を'悩ます
 hound's tooth [check]	犬の牙(きば)の形をした格子模様
 hour	〈C〉(60分としての)『1時間』(《略》h,H,hr,複hrs) / 〈C〉(時計で示される)『時刻』,時 / 〈C〉(ある事をする)特定の時間,定刻 / 〈C〉(一般的な)時,時間 / 《複数形》勤務(営業)時間 / 〈C〉1時間の道のり / 〈C〉(授業の)1時間,1時限;(大学などの)履修単位(1週間の授業時間数) / 《the~》現在
@@ -1501,12 +1527,8 @@ house agent	家屋周旋人
 house arrest	自宅監禁,軟禁
 house builder	大工,建築請負人
 house martin	イワツバメ(軒などに巣を作る小型のツバメ)
-house of cards	(カードで作った家のように)不安定な家(物),心もとない計画, 砂上の楼閣
-House of Commons	英国下院 / (イギリス・カナダ・オランダの)下院
-House of Councilors	(日本の)参議院
 house of God	教会
-House of Lords	(イギリスの)上院
-House of Representatives	(米国・オーストラリアなどの)下院;(日本の)衆議院
+house of cards	(カードで作った家のように)不安定な家(物),心もとない計画, 砂上の楼閣
 house party	いなかの邸宅に客を招いて数日にわたって行うパーティー;そのパーティーに参加する一行
 house physician	(病院などの)住み込みの医者
 house sparrow	イエスズメ
@@ -1538,7 +1560,6 @@ houseman	=houseboy / 《英》(病院の)インターン
 housemaster	(男子寄宿舎の)舎監,寮長
 housemother	(寄宿舎などの)寮母
 houseroom	家の中の物の収容力
-Houses of Parliament	国会議事堂
 housetop	屋根(roof)
 housetrained	=housebroken / 《おどけて》(人が)行儀のよい,きちんとした
 housewares	家庭用品
@@ -1551,7 +1572,6 @@ housing	住宅供給;家に収容すること / 《集合的に》家,住宅(hou
 housing association	(住宅購入希望者の組織する)住宅組合
 housing development	私営住宅団地
 housing estate	(低収入の世帯向けの)公営住宅団地・集団住宅(用地)・団地・= housing development = housing project
-Houston	ヒューストン(米国Texas州東南部の都市:NASAの宇宙船飛行管制センターがある)
 hove	heaveの過去・過去分詞
 hovel	物置,家畜小屋 / あばら家,掘っ建て小屋(hut)
 hover	〈鳥・ヘリコプターなどが〉空に浮かぶ;(…の上を)舞う《+about(above, over)+名》 / 〈人などが〉(…の周辺を)うろつく,(…に)つきまとう《+about(around, near)+名》 / (…の間の)さまよう,ぐらつく《+between+名》
@@ -1570,13 +1590,9 @@ howler	どなる(わめく)人;遠ぼえする獣 / 《話》ばかげた失敗,
 howling	ほえる,うなる,わめく / 《話》どえらい,ものすごい
 howsoever	たとえ…でも
 hoyden	おてんば娘
-Hoyle	カードゲームの本
-HP,H.P.,hp,h.p.	horsepower馬力
 hr.	hour[s]
 hrs.	hours
-HST	Hawaiian Standard Time ハワイ標準時
 ht.	height
-Hts.	Heights (地名として)…台,…丘
 hub	(車輪の)こしき,中心部 / (活動などの)中心,中枢《+『of』+『名』》
 hubble-bubble	一種の水ぎせる / ぶくぶく[いう音]
 hubbub	(群集などの)がやがや,わいわい / 騒動(uproar)
@@ -1586,9 +1602,7 @@ hubris	強い自負,ごう慢,おごり高ぶり
 huckaback	ハッカバック織り(タオル地用の粗布)
 huckleberry	ハックルベリー(北米産のコケモモ類の植物でその実は食用になる);その低木
 huckster	(果物・野菜などの)行商人 / 《話》(強引な)セールスマン / 《米話》(ラジオ・テレビの)広告作家
-HUD	Department of Housing and Urban Development 米国住宅都市開発省
 huddle	群がり寄る,体を寄せ合う《+『up』(『together』)》;縮こまる《+『up』》 / (アメリカンフットボールで作戦を打ち合わせるために)スクリメージ線の後方に集合する / 《おもに英》…'を'ごちゃごちゃに集める《+『名』+『up』(『together』)『,』+『up』(together)+『名』》 / 〈体〉'を'縮こまらせる,丸くする / (人・動物の)乱雑な群れ;《英》(物の)ごちゃ混ぜ / (アメリカンフットボールで)スクリメージ線後方の集合
-Hudson	ハドソン川(米国New York湾に注ぐ川)
 hue	(color);〈U〉〈C〉『色合い』(tint) / (追跡の)叫び声
 huff	(突然の短い)怒り,立腹 / フット息を吹く / 〈人〉'を'怒らせる / (チェッカーで)〈相手のこま〉'を'取る
 huffily	腹を立てて
@@ -1598,8 +1612,6 @@ huffy	怒りっぽい;腹を立てた / いばりちらす
 hug	《副詞[句]を伴って》(特に愛情を持って)…'を'『抱き締める』;(両腕・ひざなどで)…'を'ぎゅっと締めつける / (船・車・人などが)…'に'接近して進む / 〈考えなど〉'に'固執する(cling to) / (特に愛情の印としての)抱擁
 huge	(かさ・量・程度などが)『巨大な』,ばく大な;《話》たいへんな
 huggermugger	混乱,無秩序 / 秘密 / 混乱した / 秘密の / 混乱して / ひそかに
-Hugo	ユーゴー(Victor Hugo;180285;フランスの詩人・小説家・劇作家)
-Huguenot	ユグノー(16‐17世紀のフランスの新教徒)
 huh	ふん,へえ;えっ(驚き・軽べつ・質問などを表し,鼻にかけて発音する)
 hula	(ハワイの)フラダンス
 hula-hoop	フラフープ(腰の回転で回して遊ぶプラスチック製の輪)
@@ -1651,20 +1663,14 @@ humpback	ねこ背 / ねこ背の人,せむし
 humpbacked	ねこ背の,せむしの
 humph	ふん,ふふん(不満・軽べつなどを表す)
 humus	(動・植物の腐敗によって作られた)腐植土
-Hun	フン族(4‐5世紀ヨーロッパに浸入したアジアの遊牧民族) / 《しばしばh-》(文化の)破壊者,野蛮人
-Hun.	Hungarian / Hungary
 hunch	〈両肩・背中など〉'を'丸める / 前かがみの(うずくまった)姿勢をとる / 〈C〉(せむし・ラクダなどの)こぶ(hump) / 《単数形で》《話》(…という)感,六感《+『that節』》
 hunchback	=humpback
 hunchbacked	=humpbacked
 hundred	百 / 〈C〉(数の)『100』 / 《複数形で》何百(もの…),多数(の…)《+『of』+『名』〈『複数』〉》 / 〈C〉《米話》100ドル;《英話》100ポンド / 『100の』,100個の,100人の / 《a ~》数多くの
-Hundred Years War	百年戦争(1337‐1453,王位継承をめぐる英仏間の戦争)
 hundredfold	100倍の
 hundredth	《the ~》『第100の』,100番目の / 100分の1の / 〈U〉《the ~》『第100』,100番目[のもの] / 〈C〉100分の1
 hundredweight	重量の単位(《略》『cwt.』)(《英》112ポンド=50.8キロ;《米》100ポンド=45.36キロ)
 hung	hangの過去・過去分詞
-Hung.	=Hungarian / Hungary
-Hungarian	ハンガリーの;ハンガリー人の;ハンガリー語の / ハンガリー人;〈U〉ハンガリー語
-Hungary	ハンガリー(ヨーロッパ中部の共和国;首都はBudapest)
 hunger	〈U〉『飢え』,空腹 / 〈C〉《単数形で》(…に対する)『渇望』,熱望《+『for』(『after』)+『名』》 / 空腹を感じる,腹がへる / (…を)切望する,熱望する(long)《+『for』(『after』)+『名』》
 hunger march	(失業者などが示威として行う)飢餓行進
 hunger strike	ハンスト,ハンガーストライキ
@@ -1675,7 +1681,6 @@ hunk	(パン・肉などの)大きな塊《+『of』+『名』》
 hunker	しゃがむ / 尻(しり)
 hunky	=honky
 hunky-dory	けっこうな,すごい
-Hunnish	フン族の,フン族のような / 野蛮な,破壊的な
 hunt	〈野生の鳥・動物〉'を'『狩る』,〈獲物のいる場所〉'を'狩る,〈馬・犬など〉'を'狩猟に使う / 〈物・仕事など〉'を'捜す,見つけようとする / (…を求めて)〈場所〉'を'くまなく捜す《+『名』+『for』+『名』》 / (…から)…'を'追いやる《+『名』+『away』(+『away』+『名』)+『from』(『off』, 『out of』)+『名』》 / 『狩りをする』 / (…を)捜し求める《+『for』(『after』)+『名』》 / (…を求めて…を)くまなそ捜す《+『in』(『through』)+『名』+『for』+『名』》 / 『狩り』,狩猟;《英》キツネ狩り / 狩猟隊(会) / (…の)捜索;追求《+『for』+『名』》
 hunter	(また『huntsman』)『ハンター』,狩猟家 / 猟犬;(特にキツネ狩りの)猟馬 / (…の)追求者;(…を)探求する人《+『for』(『after』)+『名』》
 hunting	狩り,狩猟;《英》キツネ狩り(fox hunting);《米》銃猟(shooting) / 追求,探求
@@ -1691,7 +1696,6 @@ hurl	(…に)…'を'『強く投げる』,ほうり投げる《+『at』(『upo
 hurler	投手
 hurling	アイルランド式ホッケー(各チーム15人からなる)
 hurly-burly	大騒動,大混乱
-Huron	ヒューロン湖(『Lake~』;米国北部五大湖の一つで,2番目に大きい)
 hurrah	=hurray
 hurray	万歳;フレー,がんばれ / 万歳,歓呼の声;がんばれという掛け声 / 万歳を叫ぶ;応援する(cheer)
 hurricane	(西インド緒島などに発生する熱帯性の)ハリケーン,大旋風;大暴風 / (感情などの)激発
@@ -1731,8 +1735,6 @@ hyalite	玉滴石
 hybrid	(動物植の)雑種,(物の)混成物 / 混種語(語源の異なる二つ以上の要素から成る語;たとえばshortageは英語(short)とフランス語(hybridage)の混種語) / 雑種(混成)の
 hybridization,hybridisation	交配,異種混合
 hybridize,hybridise	〈異種〉'を'交配させる,…'の'雑種を作る / 雑種を生む
-Hyde Park	ハイドパーク(ロンドンにある大公園)
-Hydra	ヒドラ(ギリシア神話の九頭の蛇でHerculesに退治された) / 〈C〉《h-》ヒドラ(ヒドラ属の腔腸(こうちょう)動物)
 hydrangea	アジサイ(紫陽花)
 hydrant	(道路上にある柱状の)消火栓,給水栓(fireplug)
 hydrate	含水化合物,水化物 / 〈化合物〉'を'水和させて水化物を作る
@@ -1773,7 +1775,6 @@ hygienically	衛生的に,衛生上
 hygrometer	湿度計
 hygroscopic	湿りやすい;吸湿性の
 hying	hieの現在分詞
-Hymen	ヒューメン(ギリシア神話の婚姻の神) / 〈U〉《the h-》処女膜
 hymeneal	結婚の,結婚式の
 hymn	(神をたたえる)『賛美歌』,聖歌 / (一般に)賛歌,喜び(感謝)の歌 / 〈神〉'を'賛美歌を歌ってたたえる;〈賛美の念〉'を'賛美歌を歌って表す
 hymnal	賛美歌の,聖歌の / (礼拝で使う)賛美歌集,聖歌集
@@ -1834,4 +1835,3 @@ hysteria	ヒステリー / (一般に)病的興奮;(群衆などの)熱狂,狂�
 hysteric	=hysterical / 《複数形で》ヒステリーの発作 / 〈C〉ヒステリー患者
 hysterical	ヒステリー[性]の;ヒステリー症にかかった(かかりやすい) / 病的に興奮した / 《話》爆笑を引き起こすような,非常におかしい
 hysterically	ヒステリーを起こして;異常に興奮して
-Hz	〈略〉ヘルツ（Hertz の略。周波数の単位で「1秒間の周期数」を表す）

@@ -1,23 +1,139 @@
-f	farad / forte
-f.	female / feminine / franc / farthing / foot; feet
+F,f	〈C〉英語アルファベットの第6字 / 〈U〉《通例F》(音階の)ヘ音;ヘ調 / 〈C〉《F》《米》(学校の成績の)F(日本の不可にあたる)
 F.	Fahrenheit / (数学)function / fluorineの化学記号 / French / Friday / February
-f/	f number
 F.A.S.	free alongside ship船側渡し
-f.b.,fb	freight bill運賃請求書 / fullback
 F.D.	Fire Department
 F.E.T.	Federal Excise Tax連邦消費税
-F,f	〈C〉英語アルファベットの第6字 / 〈U〉《通例F》(音階の)ヘ音;ヘ調 / 〈C〉《F》《米》(学校の成績の)F(日本の不可にあたる)
 F.O.	foreign Office / forward observer
 F.O.B.,f.o.b.	free on board(貨物が)本船(貨車)渡し
 F.O.R.	free on rails貨車(鉄道)渡し
 F.O.S.	free on steamer 汽船渡し
 F.O.T.	free on truck トラック渡し
+FAA	Federal Aviation Agency 米国連邦航空局
+FAO	Food and Agriculture Organization(国連の)食糧農業機構
+FAdm	Fleet Admiral海軍元帥
+FBI	Federal Bureau of Investigation(米国)連邦検察局
+FCC	Federal Communications Commission(米国)連邦通信委員会
+FDA	Food and Drug Administration(米国)食品医薬品局
+FDIC	Federal Deposit Insurance Corporation(米国)連邦預金保険会社
+FEPC	Fair Employment Practices Committee公共雇用委員会
+FHA	Federal Housing Administration(米国)連邦住宅庁
+FIO	free in and out(船が)出入り自由の
+FL	Florida
+FM	frequency modulation 周波数変調
+FPO	field post office / fleet post office
+FRS	Federal Reserve System(米国)連邦準備制度
+FTC	Federal Trade Commission(米国)連邦取引委員会
+FWD	four-wheel drive四輪駆動
+FY	fiscal year 会計年度
+FYI	for your information 参考のために
+FYR	【略語】 =for your reference / ご参考まで(に)
+Fabian	持久戦法の[ローマ将軍Fabius Maximusの戦法から] / フェビアン協会の(英国の平和的社会主義団体the Fabian Societyについていう)
+Fahr.	Fahrenheit
+Fahrenheit	華氏温度計の,華氏の / 華氏温度計[華氏温度計を発明したドイツの物理学者(1686‐1736)の名から]
+Far East	極東(中国,日本など)
+Father Christmas	=Santa Claus
+Fathers Day	父の日(6月の第3日曜日で父親への感謝を示す日)
+Faust	ファウスト(全知全能を望み悪魔に魂を売ったドイツの伝説的な人物;Goetheがこれを悲劇に仕組んだ)
+Fauve	野獣派(20世紀初頭のフランス絵画の一派;マチス,ルオーなど)
+Fe	ironの化学記号
+Feb.	February
+February	『2月』(《略》『Feb.』)
+Fed.	Federal
+Federal Bureau of Investigation	=FBI
+Federal District	連邦区(連邦政府の官庁所在地である特別行政区)
+Federal Reserve Bank	(米国)連邦準備銀行
+Federalist Party	連邦党(中央集権国家を目ざした米国初期の政党;現在の共和党の前身)
+Fedex	フェデラルエクスプレス：(国際)宅配便・フェデラル・エクスプレスで～を送付する
+Fenian	フェニア会員(19世紀にアイルランド共和国の独立を目的としてニューヨークに結成された一員)
+Ferris wheel	(遊園地などにある)大観覧車
+Festschrift	記念論文集
+Fifth Avenue	五番街(米国New York市の繁華街)
+Fiji	フィージー(ニュージーランド北方の南太平洋にある国)
+Filipina	フィリピン人(女性)
+Filipine	=Philippine
+Filipino	フィリピン人 / =Philippine
+Fin.	Finland / Finnish
+Finland	フィンランド(北欧の共和国;首都はHelsinki)
+Finn	フィンランド人
+Finnish	フィンランド(Finland)の;フィンランド人(語)の / フィンランド語
+Fl.	Flanders / Flemish
+Fla.	Florida
+Flanders	フランダース,フランドル(中世紀にヨーロッパ西部にあった国;ベルギー・オランダの南部およびフランスの北部を含む;ルネサンス期の音楽・美術の一中心地)
+Fleet Street	フリート街(Londonの新聞社街) / 英国の新聞界,新聞人
+Flem,Flem.	Flemish
+Fleming	フランダース人,フラマン人;フランダース(フラマン)語を話すベルギー人
+Flemish	《the Flemish》《複数扱い》フランダース(ベルギー・オランダの南部とフランスの北部を含む地方)人 / 〈U〉フランダース(フラマン)語(ベルギーの公用語の一つ) / フランダースの;フランダース人の;フランダース語の
+Flor	Florida
+Florence	フローレンス,フィレンツェ(イタリア中部の都市)
+Florentine	フローレンスの / フローレンス人
+Florida	フロリダ州(米国南東端の州;州都はTallahassee;《略》『Fla.,Flor.,FL』)
+Fm	fermiumの化学記号
+Ford	フォード(『Henry~』;1863‐1947;米国の自動車製造業者)
+Forefathers' Day	清教徒上陸記念日(Pilgrim Fathersの1620年のアメリカ大陸上記念日;12月22日)
+Foreign Office	外務省
+Formica	フォーマイカ(家具に塗る耐熱性合成樹脂;商標名)
+Formosa	台湾(第二次大戦後はTaiwan)
+Foster	フォスター(『Stephen Collins~』;1826‐64;米国の歌謡作曲家)
+Four Hundred	(ある都市・地域の)社交界の人々,お歴々
+Four-H club	4Hクラブ(農業技術・家政の指導をする農業青年団)[head,heart,hands,healthの向上を目標としていることから]
+Fourth of July	米国独立記念日(1776年7月4日に独立を宣言した記念日)(Independence Day)
+Fr	franciumの化学記号
+Fr.	France / French / Father / Friday
+France	『フランス』(ヨーロッパの共和国;首都はParis)
+Francis of Assisi	アシジの聖フランシスコ(1182?‐1226;フランシスコ修道会の創始者)
+Franciscan	フランシスコ修道会の / フランシスコ修道士
+Franco	フランコ(『Francisco』~;1892‐1975;スペインの軍事指導者,総統)
+Frank	フランク人(6世紀にゴール人を征服し広大な王国を建設してFranceという名称の起源となったゲルマン人)
+Frankenstein	〈C〉自分で創造した物に手をやいたり破滅させられたりする人 / (また『Frankenstein's monster』)フランケンシュタイン,破壊的な怪物[Shell夫人の同名小説(1818)にちなんで]
+Franklin	フランクリン(Benjamin Franklin;1706‐90; 米国の政治家・外交官・著述家・物理学者、避雷針の発明者)
+Frau	(ドイツの既婚婦人の)敬称=Mrs. / 〈C〉《f-》既婚夫人
+Fraulein	(ドイツの未婚女性の)敬称=Miss / 〈C〉《fraulein》未婚女性,お嬢さん
+Frederick the Great	フレデリック大王(1712‐86;プロシア第2代の王(1740‐86))
+Free Church	非国教派教会
+Freemason	フリーメーソン(会員間の相互扶助と友愛を目的とする世界的な共済秘密結社の会員)
+French	『フランスの』,フランス人の,フランス語の,フランスふうの / 〈U〉『フランス語』 / 《the ~》《集合的に;複数扱い》『フランス人』(国民)
+French Guiana	(南米北東部の)フランス領ギアナ
+French Revolution	フランス革命(1789‐1799)
+French bean	サヤインゲン
+French bread	フランスパン
+French chalk	チャコ(布地に印をつけるためのチョーク)
+French cuff	フレンチカフス(そで口を折り返したカフス;カフスボタンで留める)
+French door	フランスドア(全面ガラスの通例観音開きのドア)
+French dressing	フレンチドレッシング(油・酢・香料を混ぜ合わせたサラダ用ソース)
+French fry	フレンチフライ(細く千切りにして油で揚げたポテト;《英》chip)
+French horn	フレンチホルン(うず巻き形の金管吹奏楽器)
+French kiss	フレンチキス(舌を使った熱烈なキス)
+French leave	あいさつや予告なしに出て行くこと,無断退出
+French letter	=condom
+French loaf	長円形の棒状のパン
+French polish	フランスニス(シェラックとアルコールの溶液で家具の仕上げ塗料)
+French toast	フレンチトースト(卵入り牛乳に浸してからバターで焼いたパン)
+French window	フランス窓(観音開きになっていて,出入りのできるガラスとびら)
+French-polish	〈家具〉'に'フランスニスをかける
+Frenchman	『フランス人』,(特に)男のフランス人
+Frenchwoman	女のフランス人
+Freud	フロイト(『Sigmund』~;1856‐1939;精神分析学の創始者)
+Freudian	フロイトの,フロイト学派の / フロイト学派の人,精神分析家
+Freudian slip	思わずもらした本音,本音を表す失言
+Fri.	Friday
+Friday	金曜日(《略》Fr.,Fri.)
+Frigid Zone	寒帯
+Fris.	Frisian
+Frisbee	フリスビー(プラスチックの軽い円盤を向き合って投げ合うゲーム;その円盤)
+Frisian	フリージアン種の乳牛(《米》Holstein)
+Frisian Islands	フリジア諸島(オランダ・西ドイツ・デンマーク沿岸の列島)
+Frog,Froggy	〈C〉カエル / 《俗》《軽蔑》フランス人
+Fuehrer	=Fuhrer,Fuehrer
+Fuhrer,Fuehrer	《der~》ナチスドイツの総統(Hitlerの称号) / 指導者
+Furies	(ギリシア神話で)3人姉妹の復しゅうの女神
+f	farad / forte
 f-number	エフナンバー(レンズの直径と焦点距離の比率で数値の小さいほど明るい)
 f-stop	絞りがf値で示されるカメラレンズ
+f.	female / feminine / franc / farthing / foot; feet
+f.b.,fb	freight bill運賃請求書 / fullback
+f/	f number
 fa	ファ(全音階の第4音)
-FAA	Federal Aviation Agency 米国連邦航空局
 fabaceous	豆科植物の
-Fabian	持久戦法の[ローマ将軍Fabius Maximusの戦法から] / フェビアン協会の(英国の平和的社会主義団体the Fabian Societyについていう)
 fable	〈C〉(動物などを擬人化し教訓を含んだ)『寓話』 / 〈C〉伝説;神話 / 〈U〉《集合的に》伝説(legends);神話(myths) / 〈C〉作り話;うそ
 fabled	伝説(物語)に名高い,伝説的な / 作り話の,架空の
 fabric	〈C〉〈U〉『織物』,編物 / 〈U〉織り方;織地 / 〈U〉構造,組織 / 〈U〉構造物,建造物
@@ -73,10 +189,9 @@ fad	つかの間の熱中;一時的流行
 faddish	一時的に熱中する(流行する),気まぐれな
 fade	『衰える』,弱くなる;〈植物が〉『しぼむ』,しおれる / 『しだいに消えてゆく』,姿を消す《+『away』》 / …'を'衰えさせる;…'の'色をあせさせる / 〈映像・音〉をしだいに消えさせる
 fade-in	フェードイン,溶明(音・映像が次第に明りょうになること)
+fade-out	フェードアウト,溶暗(音・映像がしだいにぼんやりすること)
 faded	しおれた色,色あせた,衰えた
 fadeless	しおれない,衰えない;色あせない,不朽の
-fade-out	フェードアウト,溶暗(音・映像がしだいにぼんやりすること)
-FAdm	Fleet Admiral海軍元帥
 faeces	=feces
 faerie,faery	妖精の国,仙境 / 妖精(fairy) / 妖精の
 fag	〈仕事などが〉〈人〉'を'疲れさせる《+『名』+『out』,+『out』+『名』》 / へとへとになるほど働く;(…を)熱心にやる《+『away at』+『名』》 / 《英》(パブリックスクールで)上級生の雑用をする / 《おもに英》《a~》苦しくいやな仕事 / (パブリックスクールで)上級生の雑用をする生徒 / 巻きたばこ(cigarette) 男性同性愛者 おかま
@@ -84,8 +199,6 @@ fag end	くだらぬ切れ端,残りくず / (巻きたばこの)吸い殻
 fagged	へとへとに疲れて
 fagot,faggot	小枝の束,まき束 / そだ束 おかま 男性同性愛者 肉だんご / 《英》いやなやつ
 fagoting,faggoting	束つなぎ
-Fahr.	Fahrenheit
-Fahrenheit	華氏温度計の,華氏の / 華氏温度計[華氏温度計を発明したドイツの物理学者(1686‐1736)の名から]
 faience,faïence	ファイアンス焼き(美しく装飾し堅く焼き上げた陶器)
 fail	『失敗する』,しくじる;落第する / 不足する,欠けている / 『衰える』,弱くなる / 〈会社などが〉破産する,倒産する / (いざというときに)〈人〉'の'『役にたたない』,期待を裏切る,〈人〉'を'見捨てる / (教師が)〈学生・生徒〉'を'落とす,'に'落第点をつける / 〈学科・試験など〉'に'『落第する』 / =failure
 failing	欠点,弱点;失敗,落第;破産 / …がないので,がない場合には
@@ -209,9 +322,7 @@ fantastic	『異様な』,風変わりな,奇妙な / 『想像上の』,根拠�
 fantastically	異様に / 空想的に / 《話》とてもすばらしく
 fantasy	〈U〉想像,空想 / 〈C〉(実在しない,異様な)心象,イメージ / 〈C〉空想的作品;幻想曲
 fanzine	(SF小説や漫画愛好家による)謄写版印刷の雑誌 / ゴシップ雑誌
-FAO	Food and Agriculture Organization(国連の)食糧農業機構
 far	《距離》『遠くに』,遠くへ,はるかに / 《時間》『ずっと後まで(に),ずっと先まで(に)』 / 《程度》《形容詞・副詞[句],およびその比較級を修飾して》『ずっと』,はるかに(much),たいそう / 《おもに文・詩》(場所が)『遠くにある』,遠い / (二つのうち)『遠いほうの』,向こう側の / 長距離(長時間)にわたる / (政治的に)極端な
-Far East	極東(中国,日本など)
 far-flung	広範囲にわたる
 far-gone	(症状などが)手おくれの,進んだ / 酩酊(めいてい)した
 far-off	(距離的,時間的に)遠い;昔の
@@ -283,7 +394,6 @@ fateful	運命を決する,決定的な / 予言的な(prophetic);不吉な / �
 fath.	fathom
 fathead	ばか,おろか者
 father	〈C〉『父』,父親 / 《one's fathers》(男の)『祖先』,父祖(forefather) / 〈C〉(…の)『創始者』,生みの親,始祖,元祖(founder)《+『of』+『名』》 / 《複数形で》(市町村議会などの)長老,元老 / 《[the] F-,Our F-》神,天帝,造物主 / 《敬称として》神父,教父,…師 / …'の'父となる / …'の'父親らしくふるまう / …'を'創始する(originate)
-Father Christmas	=Santa Claus
 father figure	(父親のように)頼れる人,年長の相談相手
 father-in-law	義理の父,養父,しゅうと
 fatherhood	父であること,父の資格
@@ -291,7 +401,6 @@ fatherland	祖国,父祖の地
 fatherless	父のない,父親の分からない / 作者不詳の
 fatherliness	父親らしさ
 fatherly	父としての,父親らしい;父親のように優しい
-Fathers Day	父の日(6月の第3日曜日で父親への感謝を示す日)
 fathom	ひろ(6フィート;1.83メートル;おもに水深を測るのに用いる) / …'の'水深を測る / 《通例不定文で》…'を'十分に理解する,〈人の心など〉'を'見抜く
 fathomless	測れないもど深い,底なしの / 不可解な
 fatigue	〈U〉(心身の激しい)『疲労』,疲れ / 〈C〉労働,労役,疲れさせるもの / 〈U〉(軍でのそうじ,料理などの)雑役 / 《複数形で》《米》(軍での)作業服 / …'を'『疲労させる』
@@ -314,16 +423,14 @@ faultless	過失のない;欠点のない,申し分のない
 faulty	欠点(欠陥)のある
 faun	フォーン(ローマ神話の林野・牧畜の神で半人半羊の姿をし,みだらな性質をもつといわれる;ギリシア神話ではsatyrと呼ばれる)
 fauna	フォーナ,動物相(一地域または一時代の動物群)
-Faust	ファウスト(全知全能を望み悪魔に魂を売ったドイツの伝説的な人物;Goetheがこれを悲劇に仕組んだ)
-Fauve	野獣派(20世紀初頭のフランス絵画の一派;マチス,ルオーなど)
 faux pas	失策,無礼,不品行
 favor,favour	〈C〉『親切な行為』 / 〈U〉『好意』;支持,賛成 / 〈U〉偏愛,えこひいき / 〈C〉(パーティーなどで客に出す)記念品,引出物 / 〈C〉《おもに英》(政党の支持者や試合の応援者のつける)会員章,記章(リボン・バッジなど) / 〈C〉《古》(商業通信文で)書簡 / …'に'『好意を示す』,賛成する,味方する / …'を'『ひいきする』,'に'特に目をかける / …'に'便宜を与える,有利である,好都合である / 《『favor』+『名』〈人〉+『with』+『名』》《文》(恩恵・好意などを)〈人〉'に'与える / …'を'大事に扱う,かばう / 《話》…'の'ように見える,'に'似る
 favorable,favourable	『好意的な』,賛成の / 『有利な』,都合のよい
 favorably,favourably	好意的に / 有利に,都合よく
 favored,favoured	好意(好感)をもたれている / 恵まれている
 favoring,favouring	都合のよい,順調な
-favorite,favourite	『気に入りの』;得意の / 〈C〉(…の)『お気に入り』《+『with』(『of』)+『名』》 / 《the ~》(レースでの)人気選手;(競馬での)人気馬,本命
 favorite son	大統領候補として自州で指名された人,人気候補者
+favorite,favourite	『気に入りの』;得意の / 〈C〉(…の)『お気に入り』《+『with』(『of』)+『名』》 / 《the ~》(レースでの)人気選手;(競馬での)人気馬,本命
 favoritism,favouritism	えこひいき;情実
 favour	=favor
 favourable	=favorable
@@ -331,12 +438,7 @@ favouritism	=favoritism
 fawn	〈C〉(1歳以下の)子ジカ,(特に)黄ジカの1歳児 / 〈U〉淡黄茶色 / 淡黄茶色の / 〈犬が〉(…に)じゃれつく / 〈人が〉(…に)こびへつらう,おもねる
 fay	妖精(ようせい)(fairy)
 faze	…'の'心を騒がせる,'を'あわてさせる,'を'たじろがせる
-FBI	Federal Bureau of Investigation(米国)連邦検察局
-FCC	Federal Communications Commission(米国)連邦通信委員会
 fcy.	fancy
-FDA	Food and Drug Administration(米国)食品医薬品局
-FDIC	Federal Deposit Insurance Corporation(米国)連邦預金保険会社
-Fe	ironの化学記号
 fealty	(領主に対する臣下の)忠誠
 fear	〈C〉〈U〉『恐れ』,恐怖(dread) / 〈C〉〈U〉『不安』,心配,気づかい(anxiety) / 〈U〉(神に対する)おそれ,崇敬(awe) / …'を'『恐れる』,こわがる(進行形にできない) / …'を'『気づかう』,あやぶむ / 《古》〈神など〉'を'恐れる / 恐れる,こわがる / (…を)気づかう,心配する《+『for』+『名』》
 fearful	『恐ろしい』,こわい / 《補語にのみ用いて》心配して,気づかって / 恐ろしがる,心配そうな / 《おもに英話》たいへんな,ひどい
@@ -359,10 +461,8 @@ feathery	羽の生えた,羽でおおわれた / 羽のような,柔らかい,�
 feature	顔の造作の一つ(目・耳・鼻・口など) / 《複数形で》『容ぼう』,目鼻だち / 『特徴』,特色 / (ラジオ・演芸などの)『呼び物』;(店の)目玉商品;(新聞・雑誌の)特別読み物;(映画の上映番組の中で呼び物の)長編映画 / …'の'『特色をなす』 / …'を'特種にする,呼び物にする,目玉商品にする / 〈俳優〉'を'主演させる / 重要な役割を演ずる
 featureless	特徴(特色)のない,おもしろくない,平凡な
 feaze	=faze
-Feb.	February
 febrifuge	解熱作用のある / 解熱剤
 febrile	発熱性の,熱病の
-February	『2月』(《略》『Feb.』)
 fec.	fecit(ラテン語)(昔,作品の作者名にそえて)…作,…筆(=he(she) made it)
 fecal	大便の
 feces	ふん便(《英》faeces)
@@ -371,21 +471,15 @@ fecund	よく実る,多産の(productive),(土地が)肥えた(fertile) / 創造
 fecundate	…'を'肥沃(ひよく)にする,実らせる / …'を'受胎(受精)させる
 fecundity	多産,肥沃 / 豊かな創造力,(創造力の)豊かさ
 fed	feedの過去・過去分詞 / 連邦政府役人
-fed.	federal / federated / federation
-Fed.	Federal
 fed up	うんざりして,がっかりして,不愉快な
+fed.	federal / federated / federation
 fedayeen	(特に反イスラエル運動している)パレスチナのゲリラ隊
 federal	(国・州などが)『連邦の』,連邦制の / 《F-》『米国連邦国家の』,米国国家の / 《F-》(南北戦争当時の)北部同盟の / (南北戦争当時の)北部同盟支持者,北軍兵
-Federal Bureau of Investigation	=FBI
-Federal District	連邦区(連邦政府の官庁所在地である特別行政区)
-Federal Reserve Bank	(米国)連邦準備銀行
 federalism	連邦制度,連邦主義;《F-》(米国初期の)連邦党の主張
 federalist	連邦主義者;《Federalist》(米国初期の)連邦党党員
-Federalist Party	連邦党(中央集権国家を目ざした米国初期の政党;現在の共和党の前身)
 federalize,federalise	…'を'連邦政府の支配下におく / …'を'連邦にする,統合させる
 federate	…'を'連邦制度にする;…'を'連合させて(…を)作る《+『名』+『into』+『名』》 / 連邦化する,連合する
 federation	〈C〉連合,連盟 / 〈C〉連邦制度;連邦政府 / 〈U〉連邦にすること
-Fedex	フェデラルエクスプレス：(国際)宅配便・フェデラル・エクスプレスで～を送付する
 fedn.	federation
 fedora	フェドーラ(へりのそったフェルト製の中折れ帽)
 fee	〈C〉(弁護士などの専門家に払う)(…に対する)『料金』,謝礼,報酬,手数料《+『for』+『名』》 / 〈U〉(封建時代に領主から与えられた)領地,封土 / …'に'料金を払う,謝礼する
@@ -442,10 +536,8 @@ fencing	フェンシング,剣術 / 垣根(柵(さく))の材料;《集合的に
 fend	…'を'避ける / 抵抗する
 fender	《米》フェンダー(自動車の車輪の泥よけ)(《英》wing) / (電車などの前につける)緩衝装置;(船の)防舷材 / (暖炉の前面の)炉ごうし
 fenestration	窓割り(建物の窓や外壁開口部の設計・配置)
-Fenian	フェニア会員(19世紀にアイルランド共和国の独立を目的としてニューヨークに結成された一員)
 fennel	ウイキョウ(小さな黄色の花が咲き,葉と種は香料に用いる)
 feoff	=fief
-FEPC	Fair Employment Practices Committee公共雇用委員会
 fer-de-lance	熱帯アメリカに住む三角頭の大きな毒蛇
 feral	(動植物が)野生の / 野生に返った
 ferment	〈C〉発酵体(酵母,酵素などの発酵を起こさせるものの総称) / 〈U〉発酵 / 〈U〉〈C〉(政治上の)動揺,大騒ぎ / …'を'発酵させる / …'を'大騒ぎさせる / 発酵する / 大騒ぎする
@@ -459,7 +551,6 @@ ferocity	どう猛[性],凶暴性; / どう猛な行為
 ferret	シロイタチ(ネズミやウサギを穴から追い出すのに使われる) / …'を'シロイタチを使って狩り出す / …'を'捜し出す《+『out』+『名』》 / シロイタチを使って狩りをする / 《話》…'を'(求めて)捜す,探る《+『about』(『around』)『for』+『名』》
 ferric	鉄の,鉄を含む
 ferric oxide	酸化第二鉄,べんがら
-Ferris wheel	(遊園地などにある)大観覧車
 ferrite	亜鉄酸塩(酸化第二鉄と塩基性の強い酸化物との化合物の総称)
 ferroconcrete	=reinforced concrete
 ferromagnetic	強磁性の,鉄磁性の
@@ -487,7 +578,6 @@ festival	〈C〉〈U〉『祭り』,祝い,祭典 / 〈C〉『祭日』,祝日 /
 festive	祭りの,祝いの / 陽気な,楽しい
 festivity	〈U〉祝い,祭りの楽しみ / 〈C〉《しばしば複数形で》祭典,祝いの行事,お祭り騒ぎ
 festoon	花綱(花・葉・リボンなどを綱状にして,中だるみにつって飾ったもの) / …'を'花綱で飾る;…'を'花綱に作る
-Festschrift	記念論文集
 fetal,foetal	胎児の
 fetch	(行って)〈物〉'を'『取って来る』;〈人〉'を'連れて来る / 〈返事・笑い・涙など〉'を'引き出す;〈観客など〉'を'引きつける / 《話》〈商品が〉〈ある値〉'で'売れる / 〈ため息・うめき声など〉'を'漏らす,出す / (品物を)行って用る;〈猟犬が〉獲物を取って来る
 fetching	魅力的な
@@ -519,15 +609,14 @@ fey	《軽べつして》(人やふるまいが)気のきかない,役立たず�
 fez	トルコ帽(頂上に黒ふさのついた赤色のフェルト帽)
 ff	fortissimo
 ff.	and the following [pages,verses,etc.] / folios
-FHA	Federal Housing Administration(米国)連邦住宅庁
 fiance	(女性からみた)婚約者,いいなずけの男
 fiancee	(男性からみた)婚約者,いいなずけの女
 fiasco	(企画などの)大失敗
 fiat	(権力者の)命令,布告;(…という)命令《+『that節』》
 fiat money	法定不換紙幣
 fib	(ささいな,罪のない)うそ / 軽いうそをつく
-fiber, fibre	(1本の)『繊維』,すじ / 〈U〉《集合的に》繊維,繊維組織 / 〈U〉(布の)生地,織り地(textile) / 〈U〉性格,性質;根性
 fiber optics	繊維光学(ガラス・プラスチックなどの細長い繊維で光や像を伝達する技術) / 繊維光学に使う繊維
+fiber, fibre	(1本の)『繊維』,すじ / 〈U〉《集合的に》繊維,繊維組織 / 〈U〉(布の)生地,織り地(textile) / 〈U〉性格,性質;根性
 fiberboard,fibreboard	(建築用の)繊維板
 fiberfill	化繊綿(枕などの詰め物に使うポリエステルなどの合成繊維)
 fiberglass,fibreglass	繊維ガラス[商標名Fiberglasから]
@@ -593,16 +682,15 @@ fife	(軍楽隊用の)横笛 / 〈曲〉'を'横笛で吹く / 横笛を吹く
 fifteen	〈C〉(数の)『15』;15記号(15,XVなど) / 〈U〉(24時間制の)15時,15分;15歳 / 〈U〉《複数扱い》15人,15個 / 〈C〉15(15人,15個)一組のもの;ラグビーチームのメンバー / 『15』の,15個の,15人の / 《補語にのみ用いて》15歳の(で)
 fifteenth	『第15の』,15番目の / 15分の1の / 《the~》『第15』,15番目[のもの];(月の)15日
 fifth	《the~》『第5の』,5番目の / 5分の1の / 《the~》『第5』,5番目[のもの];(月の)5日 / 〈C〉5分の1 / 〈C〉《米》5分の1ガロン[びん]
-Fifth Avenue	五番街(米国New York市の繁華街)
 fifth column	第五列(国内のスパイ活動,破壊行為で敵国を助ける集団)
 fifth wheel	転向輪(馬車の転向を容易にするために前車輪に平行して付いている車輪) / 余りもの,無用の長物
 fiftieth	『第50の』,50番目の / 50分の1の / 《the~》『第50』,50番目[のもの] / 〈C〉50分の1
 fifty	〈C〉(数の)『50』;50記号(50,Lなど) / 〈U〉50分;50歳 / 〈U〉《複数扱い》50人,50個 / 《the fifties》(世紀の)50年代;(年齢の)50代 / 『50の』,50個の,50人の / 《補語にのみ用いて》50歳の(で)
 fifty-fifty	半々の,五分五分の / 半々に
 fig	いちじくの木(実) / 《a~》《話》《通例否定文に用いて》取るに足らないもの
-fig.	figure:fig.5(本の中に用いて)第5図
 fig leaf	いちじくの葉 / いちじくの葉形のおおい(絵画・彫刻で局部を隠すのに使われている)
 fig tree	いちじくの木
+fig.	figure:fig.5(本の中に用いて)第5図
 fight	〈両者・数人が〉『戦う』,格闘する,殴り合い(取っ組み合い)のけんかをする;激しく口論する / …'と'『戦う』 / 〈戦い〉'を'交える,〈決闘など〉'を'戦う / …'を'制圧(克服)しようとする / 〈犬など〉'を'戦わせる / 〈軍艦・軍隊など〉'を'指揮する,操縦する / 〈C〉(…との)『戦い』,戦闘;格闘《+『against』(『with』)+『名』》 / 〈C〉(…との)奮闘,闘争(struggle)《+『for』(『with』,『against』)+『名』》 / (また『fighting spirit』)〈U〉『闘志』,ファイト / 〈C〉(…についての)論争,口論《+『over』+『名』》 / 〈C〉(特にボクシングの)試合,勝負
 fighter	戦う人,戦士,闘士 / プロボクサー / (またfighter plane)戦闘機
 fighter pilot	戦闘機の操縦士
@@ -618,7 +706,6 @@ figured	模様入りの,図柄のはいった
 figured bass	=continuo
 figurehead	船首像(船の水切りを飾る全身・半身または首だけの彫像) / (国・団体などの)名目だけの長
 figurine	(金属・陶土などで作った)小立像,人形
-Fiji	フィージー(ニュージーランド北方の南太平洋にある国)
 filament	(くもの巣などの)細糸 / (電球・真空管内の)フィラメント
 filar	糸の,糸飾の
 filbert	ハシバミ;ハシバミの実
@@ -633,9 +720,6 @@ filigree	金(銀)線細工 / (ブローチなどが)金(銀)線細工の
 filing	とじ込み,書類整理 / 〈U〉やすり仕上げ,やすりかけ / 《複数形で》やすりくず
 filing cabinet	(引き出し式の)事務用戸棚
 filing clerk	(事務所・役所などの)書類整理係,文書係
-Filipina	フィリピン人(女性)
-Filipine	=Philippine
-Filipino	フィリピン人 / =Philippine
 fill	〈容器など〉'を'『いっぱいにする』,満たす,'に'つぐ / 〈人・物が〉〈場所・空間〉'を'『占める』,いっぱいにする / (…で)…'を'満たす,埋める,ふさぐ《+『名』+『with』+『名』》 / 〈人の要求など〉'を'満たす,かなえる / 〈注文〉'に'応じる;〈処方箋〉'を'調剤する / 〈地位〉'を'占める;〈職務〉'を'果たす / (…で)『いっぱいになる』,満る《+『with』+『名』》 / 《ones fill》欲しいだけ,存分 / 《a fill》(…の)1杯の量《+『of』+『名』》 / 〈C〉盛り土(石)
 fill-in	埋め合わせ,代用品;補充員
 filled milk	脱脂してから代用バター脂を加えた牛乳
@@ -667,7 +751,6 @@ filtrate	ろ過水,ろ過液 / =filter
 filtration	ろ過,ろ過作用
 fin	(魚などの)ひれ / (形・働きが)ひれに似た物 / (飛行機の)垂直安定板 / 《話》手,腕
 fin.	finance / financial / finish
-Fin.	Finland / Finnish
 finable	罰金を課せられる
 finagle	〈人〉'を'だます;(…を)〈人〉'を'だまして手に入れる《+『名』〈人〉+『out of』+『名』》 / 〈物〉'を'だまし取る / ごまかす
 final	《名詞の前にのみ用いて》『最終の』,最後の / 『最終的な』,決定的な(decisive);究極の(ultimate) / 《しばしば複数形で》(競技などの)『決勝戦』 / 《米》学期末試験;《英》《複数形で》(大学などの)最終試験 / 《the ~》《話》(新聞のその日の)最終版
@@ -722,12 +805,8 @@ finishing school	教養学校(若い女性に社交界での作法を教える�
 finite	限りある,有限の / =finite verb
 finite verb	定形動詞(主語の数・人称また時制・法によって形態が制限される動詞;たとえばbe動詞のam,is,are,was,were)
 fink	密告者 / ストライキ破り / 卑しい人間,いやなやつ
-Finland	フィンランド(北欧の共和国;首都はHelsinki)
-Finn	フィンランド人
 finnan haddie	くん製のタラ
-Finnish	フィンランド(Finland)の;フィンランド人(語)の / フィンランド語
 finny	漁の,魚がたくさんいる / ひれのような,ひれのある
-FIO	free in and out(船が)出入り自由の
 fiord, fjord	フィヨルド(絶壁に深く入込んだ狭い湾でノルウェー海岸に多い)
 fir	モミ,モミの木(クリスマスツリーに用いられる) / モミ材
 fir tree	=fir
@@ -887,11 +966,8 @@ fizzle	(消え入りそうな)シューという音をたてる / 《話》し�
 fizzy	泡立つ
 fizzy lemonade	レモンスカッシュ(lemon squash)
 fjord	=fiord
-FL	Florida
 fl.	florin / fluid / flourished
-Fl.	Flanders / Flemish
 fl.oz.	fluid ounce
-Fla.	Florida
 flab	筋肉などのたるみ(ゆるみ)
 flabbergast	…'を'びっくり仰天させる
 flabby	(筋肉などが)たるんだ,締まりのない / (人・性格などが)気力のない,だらしない,締まりのない
@@ -936,7 +1012,6 @@ flaming	燃えている / 光り輝く;燃えるように赤い;焼けつくよ�
 flamingo	ベニヅル,フラミンゴ
 flammable	=inflammable 1
 flan	フラン(果物・チーズ入りパイ)
-Flanders	フランダース,フランドル(中世紀にヨーロッパ西部にあった国;ベルギー・オランダの南部およびフランスの北部を含む;ルネサンス期の音楽・美術の一中心地)
 flange	フランジ,つば(管の先端などの突出したねじ留め部分) / (車輪の)輪縁(わぶち);(レールなど圧延した金属の)出縁(でぶち)
 flank	(人・動物の)横腹;わき腹の[筋]肉 / (建物・山・道路などの)わき,横側,側面 / (軍隊の編隊・配置,要塞の)右翼(または左翼) / …'の'側面に置く(並べる)
 flanker	側面にある物(人) / (米式フットボールで)フランカー(攻撃側の最前線両端の競技者の外側に並ぶ競技者)
@@ -1020,11 +1095,7 @@ fleecy	羊毛でできた;羊毛でおおわれた / 羊毛のような
 fleer	(…を)嘲笑する,あざ笑う,ばかにする《+『at』+『名』》
 fleet	『艦隊』 / (車・飛行機などの)隊,団《+『of』+『名』》 / 速い(fast, swift) / すばやく動く
 fleet admiral	(米国の)海軍元帥
-Fleet Street	フリート街(Londonの新聞社街) / 英国の新聞界,新聞人
 fleeting	速く過ぎてゆく,つかの間の
-Flem,Flem.	Flemish
-Fleming	フランダース人,フラマン人;フランダース(フラマン)語を話すベルギー人
-Flemish	《the Flemish》《複数扱い》フランダース(ベルギー・オランダの南部とフランスの北部を含む地方)人 / 〈U〉フランダース(フラマン)語(ベルギーの公用語の一つ) / フランダースの;フランダース人の;フランダース語の
 flesh	(人間・動物の)『肉』 / (魚,時には鳥を除く)食肉(meat) / 肉付き,太りぐあい / (くだもの)果肉;(野菜の)葉肉 / 《the~》(精神・魂に対して)『肉体』,身体 / 《the~》肉欲 / 肉色(ピンクがかった肌色)
 flesh fly	ニクバエ(生きた動物の肉に産卵するハエ)
 flesh wound	浅い傷,軽傷
@@ -1111,17 +1182,13 @@ flop	ばったりと倒れる,どさりと腰かける / パタパタ動く / �
 flophouse	安宿,簡易宿泊所
 flopover	フロップオーバー(テレビの画像が上下に流れること)
 floppy	だらりと垂れた
-Flor	Florida
 flora	(ある地方・時代の)植物群(相),全植物
 floral	花の,花のような,花から成る
 floral tribute	花束の贈り物
-Florence	フローレンス,フィレンツェ(イタリア中部の都市)
-Florentine	フローレンスの / フローレンス人
 florescence	開花;開花期 / 盛り,繁栄期
 floret	小さな花・キク科植物の小さな花
 floriculture	草花栽培[法],花作り
 florid	(人の顔が)赤らんでいる,血色のよい / (音楽・文体などが)華やかな,華麗な
-Florida	フロリダ州(米国南東端の州;州都はTallahassee;《略》『Fla.,Flor.,FL』)
 florin	(1971年まで用いられた)英国のフロリン銀貨(2シリングに相当)
 florist	花屋;草花栽培者
 floss	(蚕のまゆの)けば / (刺しゅうに用いる)かま糸 / (とうもろこしの毛・綿花などの)絹綿状のもの
@@ -1239,10 +1306,9 @@ flyway	(繁殖地と越冬地の間の)渡り鳥の飛路
 flyweight	(ボクシング・レスリングの)フライ級の選手(112ポンド(約50.8キログラム)以下)
 flywheel	(回転を助ける)はずみ車
 flywhisk	はえ払い(馬の毛で作り,しばしば権威の象徴)
-Fm	fermiumの化学記号
-FM	frequency modulation 周波数変調
 fm.	fathom / from
 fn	footnote
+fo'c's'le,fo'c'sle	=forecastle
 fo.	folio
 foal	ウマ科の動物(馬・ロバ・シマウマなど)の子;(特に)ウマ科の動物の1歳未満の子 / 〈雌馬が〉子馬を生む / 〈雌馬が〉〈子馬〉'を'生む
 foam	(液体表面の)『泡』(あわ)[のかたまり] / 《話》=foam rubber / 『泡立つ』 / 泡立って流れる(吹き出る)
@@ -1255,7 +1321,6 @@ focal length(distance)	焦点距離
 focal plane	(レンズなどの)焦平面,焦点
 focal point	焦点 / (活動・興味などの)中心,中心部(地)
 foci	focusの複数形
-fo'c's'le,fo'c'sle	=forecastle
 focus	『焦点』 / 焦点距離(focal length) / 焦点整合,ピント / (活動・興味・重要性などの)焦点,中心 / (楕円・放物線・双曲線などの)焦点 / 震源[地] / (…に)〈レンズなど〉'の'『焦点を合わせる』《+『名』+『on』+『名』》 / (…に)〈注意など〉'を'集中する《+『名』+『on』+『名』(do『ing』)》 / (…に)〈レンズなどの〉焦点が合う;〈注意などが〉集まる《+『on』+『名』》
 fodder	(干し草・わらなどの)家畜の飼料,かいば,まぐさ
 foe	敵,かたき;(競技・論争などの)相手,敵対者
@@ -1417,7 +1482,6 @@ forceps	(外科・歯科用)かん子(し),ピンセット
 forcible	力ずくの / 説得力のある,効果的な
 forcibly	力ずくで;効果的に
 ford	(川などの)浅瀬 / 〈川〉'の'浅瀬を渡る
-Ford	フォード(『Henry~』;1863‐1947;米国の自動車製造業者)
 fore	(乗り物の)前部の,前方の / 船首に,(へ) / 前部,前面
 fore-and-aft	船首から船尾まで;船の両端に / 船首から船尾に向かう,船を縦断する
 forearm	前腕(ひじから手首まで) / …'に'前もって武装させる;(危険・困難に対して)〈人〉'に'前もって備えさせる《+『against』+『名』》
@@ -1431,7 +1495,6 @@ foreclosure	抵当流れ
 forecourt	(建物の)前庭 / フォアコート(テニスコートでサービスラインとネットの間の部分)
 foredoom	…'を'前もって運命づける / 前もって定められた運命,予定された運命
 forefather	『祖先』,先祖(ancestor)
-Forefathers' Day	清教徒上陸記念日(Pilgrim Fathersの1620年のアメリカ大陸上記念日;12月22日)
 forefend	=forfend
 forefinger	人さし指
 forefoot	(四足動物の)前足
@@ -1448,7 +1511,6 @@ foreign	『外国の』;外国からの;外国との / 《名詞の前にのみ�
 foreign aid	(大国から発展途上国への)対外援助
 foreign exchange	外国為替
 foreign minister	外務大臣
-Foreign Office	外務省
 foreigner	『外国人』 / 外国から来た物
 foreknow	…'を'予知する,前もって知る
 foreknowledge	(…の)予知,先見[の明]《+『of』+『名』》
@@ -1543,11 +1605,9 @@ former	《名詞の前にのみ用いて》『かつての』,以前の / 《the
 formerly	『以前は』,かつて
 formfitting	(衣服が)身体にぴったりと合った
 formic acid	蟻酸(ぎさん)
-Formica	フォーマイカ(家具に塗る耐熱性合成樹脂;商標名)
 formidable	『恐ろしい』 / 手ごわい / 恐ろしいほどの
 formidably	恐ろしく;手ごわく;非常に
 formless	形のない,無定形の / ぶざまな,ぶかっこうな
-Formosa	台湾(第二次大戦後はTaiwan)
 formula	(あいさつなどの)『決まった言い方』;空虚な言葉 / (…の)習慣的なやり方,決まった方法《+『for』+『名』(do『ing』)》 / (…の)製法,調理法,処方せん《+『for』+『名』》 / (…の)『公式』,式《+『for』+『名』》
 formulaic	決まり文句を使った,公式となる
 formulate	〈考え・理論・計画など〉'を'明確に(系統立てて)述べる / …'を'公式で表す
@@ -1601,7 +1661,6 @@ fossil	化石 / 時代遅れの人 / 化石の,化石となった
 fossilization,fossilisation	化石になること;時代おくれになること
 fossilize,fossilise	…'を'化石にする / …'を'時代遅れにする / 化石になる
 foster	〈里子など〉'を'『養育する』,〈病人など〉'の'世話をする / 〈親善関係・理解など〉'を'促進する,〈才能・興味など〉'を'助長する(promote) / …'を'心に抱く(cherish) / 育ての,里親の
-Foster	フォスター(『Stephen Collins~』;1826‐64;米国の歌謡作曲家)
 foster home	養家,養子さきの家
 fosterling	養子
 fought	fightの過去・過去分詞
@@ -1630,10 +1689,8 @@ fountainhead	水源 / 《通例単数形で》(情報・霊感などの)源泉�
 four	〈C〉(数の)4;4の記号(4,IVなど) / 〈U〉4時,4分;4歳 / 〈U〉《複数扱い》4人,4個 / 〈C〉4個(4人)1組のもの;フォア(4本オールのボートおよびその選手) / 〈C〉(カードの)4の札 / 4の;4人の;4個の / 《補語にのみ用いて》4歳の(で)
 four eyes	めがねをかけた人,四つ目
 four freedoms	4つの自由(1941年Roosevelt米大統領があげた基本的人権;freedom of speech, freedom of worship, freedom from want, freedom from fear(言論と信仰の自由,欠乏と恐怖からの自由))
-Four Hundred	(ある都市・地域の)社交界の人々,お歴々
 four-flush	はったりをかける
 four-footed	(動物が)四つ足の
-Four-H club	4Hクラブ(農業技術・家政の指導をする農業青年団)[head,heart,hands,healthの向上を目標としていることから]
 four-in-hand	(両端をたらす普通の結び方をする)ネクタイ / (御者一人の)四頭立て馬車 4頭1組の馬
 four-leaf clover	四つ葉のクローバー(幸福の印とされている)
 four-letter word	四文字語(ひわいな汚い言葉;通例四文字;fuck,cuntなど)
@@ -1653,7 +1710,6 @@ fourteenth	《the fourteenth》『第14の』,14番目の / 14分の1の / 《th
 fourth	《the fourth》『第4の』,4番目の / 4分の1の / 〈U〉《通例the fourth》『第4番目』;(月の)4日 / 〈C〉4分の1 / 〈C〉(音楽で)4度
 fourth dimension	第四次元,時間
 fourth estate	第四階級(ジャーナリスト,言論人をいう)
-Fourth of July	米国独立記念日(1776年7月4日に独立を宣言した記念日)(Independence Day)
 fourth-class	第4番目,第4級 / 《米》第四種郵便[物] / 第4番目(第4級)の / 《米》(郵便物が)第四種の
 fowl	〈C〉にわとり(鶏)(アヒル・七面鳥など)家で飼う鳥 / 《修飾語を伴って》《集合的に;複数扱い》 / 〈U〉鶏肉,鳥肉
 fowling piece	鳥撃ち銃,猟銃
@@ -1670,11 +1726,8 @@ foxy	悪賢い,ずるい
 foyer	(劇場・ホテルなどの)休憩室,ロビー(lobby) / 《米》玄関の広間
 fp.	foolscap / foot-pound / freezing point
 fpm	feet per minute
-FPO	field post office / fleet post office
 fps	feet per second
-Fr	franciumの化学記号
 fr.	franc / from / fragment
-Fr.	France / French / Father / Friday
 fracas	(通例多人数の)けんか騒ぎ;騒々しい口論
 fraction	『破片』,断片;(…の)一部,わずか《+『of』+『名』》 / 『分数』
 fractional	断片の;わずかの,取るに足りない / 分数の
@@ -1698,22 +1751,15 @@ frame of reference	準拠体系(個人や集団の価値・概念などの構造
 frame-up	(無実の人を罪に陥れるための)でっちあげ,陰謀
 framework	(建物などの)骨組み;(…の)枠組《+『of』+『名』》 / (…の)構成;組織《+『of』+『名』》
 franc	フラン(フランス・ベルギー・スイスなどの貨幣単位)
-France	『フランス』(ヨーロッパの共和国;首都はParis)
 franchise	〈C〉《おもに米》(政府・メーカーが事業を行う個人・団体に与える)(…の)免許,一手販売権《+『of』+『名』》;(する)免許《+『to』do》 / 〈U〉《the~》公民権;(特)に参政権,選挙権 / 〈U〉フランチャイズ[制](プロ野球の球団がある都市に根拠をおいて特別な興行権をもつこと)
 franchisee	(製造主から)一手販売権を与えられた人
 franchiser,franchisor	一手販売権を持つ業者(会社)
-Francis of Assisi	アシジの聖フランシスコ(1182?‐1226;フランシスコ修道会の創始者)
-Franciscan	フランシスコ修道会の / フランシスコ修道士
 francium	フランシウム(放射性元素;化学記号は『Fr』)
-Franco	フランコ(『Francisco』~;1892‐1975;スペインの軍事指導者,総統)
 frangible	壊れやすい,折れやすい
 frank	『率直な』,隠しだてをしない / 無料郵送の印・無料郵送の特典・無料郵送の郵便物・〈郵便物〉'に'料金別納郵便の印を押す・〈公的郵便物〉'を'無料で郵送する / =frankfurter
-Frank	フランク人(6世紀にゴール人を征服し広大な王国を建設してFranceという名称の起源となったゲルマン人)
-Frankenstein	〈C〉自分で創造した物に手をやいたり破滅させられたりする人 / (また『Frankenstein's monster』)フランケンシュタイン,破壊的な怪物[Shell夫人の同名小説(1818)にちなんで]
 frankfurter	フランクフルトソーセージ(牛肉または牛肉と豚肉で作る)
 frankincense	乳香(古くから祭式などに香料としてたかれた樹脂)
 franklin	(14‐15世紀英国中産階級の)自由土地保有者
-Franklin	フランクリン(Benjamin Franklin;1706‐90; 米国の政治家・外交官・著述家・物理学者、避雷針の発明者)
 frankly	『率直に』;あからさまに / 率直に言えば
 frantic	(恐怖・喜びなどのために)『気も狂わんばかりの』,狂乱した / 《話》激しい,すごい
 frantically	狂気のように,死にもの狂いで
@@ -1725,12 +1771,10 @@ fraternization,fraternisation	親交,兄弟づきあい
 fraternize,fraternise	(…と)兄弟のように交わる,親しくつきあう《+『with』+『名』》 / (敵軍と)親しくする
 fratricidal	兄弟(姉妹)殺しの
 fratricide	〈U〉兄弟(姉妹)殺し / 兄弟(姉妹)殺しをした人
-Frau	(ドイツの既婚婦人の)敬称=Mrs. / 〈C〉《f-》既婚夫人
 fraud	〈U〉詐欺,ごまかし / 〈C〉詐欺行為,不正手段 / 〈C〉詐欺師,不正行為者
 fraudulence	詐欺,いかさま,不正
 fraudulent	詐欺の,いかさまの
 fraught	(…を)伴う《+『with』+『名』》 / (…で)いっぱいの《+『with』+『名』》
-Fraulein	(ドイツの未婚女性の)敬称=Miss / 〈C〉《fraulein》未婚女性,お嬢さん
 fray	騒々しいけんか,争い / 〈布のへりなど〉'を'すり切らす,〈ロープの端など〉'を'ほつれさせる / 〈神経など〉'を'緊張せさる,いらだたせる / 〈特に先端が〉すり切れる,ほつれる
 frazzle	ぼろぼろになる,へとへとに疲れる / …ぼろぼろにする,へとへとに疲れさせる / ぼろぼろの状態 / くたくたの状態
 freak	気まぐれ,移り気 / 奇形,変態 / 《話》奇人,変人;熱狂的ファン / 奇形の,異常な
@@ -1740,11 +1784,9 @@ freakish	気まぐれな;奇形の
 freaky	{形}普通ではない / 異様な / 奇妙な / 不気味な《口語》
 freckle	そばかす・しみ / …'に'そばかす(しみ)を生じさせる / そばかす(しみ)ができる
 freckled	そばかす(しみ)のある
-Frederick the Great	フレデリック大王(1712‐86;プロシア第2代の王(1740‐86))
 free	(束縛された状態になく)『自由な』,自由の身の / (国家・国民などが)『独立している』 / (思想・行為などが)強制されない,自発的な / (動作が)拘束されない,無理のない / 《補語にのみ用いて》(苦痛・制約などを)『免れている』,(誤り・偏見などの)ない《+『from』(『of』)+『名』》 / 《補語にのみ用いて》《『be free to』do》『自由に』…『できる』 / (仕事から)解放された,暇になった;(部屋などが)使用されていない,空いた / 『無料の』;無税の / 出し惜しみしない / 遠慮のない,慎みがない / (道路などが)障害のない,自由に通れる / 固定していない,離れた / 無料で / 自由に,妨げられずに(freely) / (…から)〈人・国など〉'を'『自由にする』,解放する《+『名』+『from』+『名』》 / (困難などから)〈人〉'を'救う《+『名』+『form』+『名』》 / (障害などを)〈人・物〉‘から'取り除く《+『名』+『of』(『from』)+『名』》 / (物を)…‘から'片付ける,外す《+『名』+『of』+『名』》
 free agent	自由契約の選手（スポーツ用語） / 独立した専門家
 free association	(心理学で)自由連想(被験者に心に浮かぶまま表現させる)
-Free Church	非国教派教会
 free enterprise	(政府の干渉を受けない)自由企業[体制]
 free fight	乱闘
 free house	自由酒場(特定のビール工場と契約せず何種類かのビールをおいている居酒屋)
@@ -1763,6 +1805,7 @@ free trade	自由貿易
 free university	自由大学(大学生が非公式に運営し従来の大学にはないコースや方法をとった学校)
 free verse	自由詩(伝統的な定型を守らない詩)
 free world	自由世界,自由主義諸国(共産主義などの支配を受けない国々)
+free-fall, freefall	〈U〉自由落下 / 〈U〉（パラシュートが開く前の）降下
 free-floating	(主義・政党に)縛られない;(感情などが)ばく然とした
 free-for-all	飛び入り自由の試合(競技,討論)
 free-living	(飲んだり食ったりして)好き放題に暮している
@@ -1773,7 +1816,6 @@ freebooter	略奪者,海賊(pirate)
 freeborn	(奴隷(どれい)としてでなく)自由の身に生まれた
 freedman	(奴隷(どれい)の身分から解放された)自由民
 freedom	〈U〉〈C〉『自由』 / 〈U〉〈C〉(束縛・義務・不安などからの)『解放』,免除《+『from』+『名』》 / 〈U〉自由自在,のびのびしていること〈C〉なれなれしさ,無遠慮 / 《the~》(市民権・会員権などの)権利享有権(権物などへの)出入りの自由,(…の)自由使用権《+『of』+『名』》
-free-fall, freefall	〈U〉自由落下 / 〈U〉（パラシュートが開く前の）降下
 freehand	(絵などを)(器具の助けを借りずに)手でかいた / 手がきで / 自由行動(裁量)
 freehanded	気前のよい,物惜しみない
 freehold	(期限・条件なしの)土地・不動産の自由保有権
@@ -1784,7 +1826,6 @@ freeload	(飲食物などを)人にたかる
 freeloader	たかり屋,食客,いそうろう
 freely	『自由に』;かってに / 『惜しげなく』,十分に / 率直に;無遠慮に / 自分から進んで
 freeman	自由民 / 公民(citizen)
-Freemason	フリーメーソン(会員間の相互扶助と友愛を目的とする世界的な共済秘密結社の会員)
 freemasonry	(同じ経験に基づく)相互理解,以心伝心 / 《F-》フリーメーソン主義
 freepost	配達された郵便物料金をその会社が支払うという制度
 freesia	フリージア(アヤメ科の植物で芳香性の花をつける)
@@ -1807,27 +1848,6 @@ freight car	貨車
 freight train	貨物列車
 freighter	貨物船;貨物輸送機 / 貨物運送業者
 freightliner	大型貨物(コンテナ)列車
-French	『フランスの』,フランス人の,フランス語の,フランスふうの / 〈U〉『フランス語』 / 《the ~》《集合的に;複数扱い》『フランス人』(国民)
-French bean	サヤインゲン
-French bread	フランスパン
-French chalk	チャコ(布地に印をつけるためのチョーク)
-French cuff	フレンチカフス(そで口を折り返したカフス;カフスボタンで留める)
-French door	フランスドア(全面ガラスの通例観音開きのドア)
-French dressing	フレンチドレッシング(油・酢・香料を混ぜ合わせたサラダ用ソース)
-French fry	フレンチフライ(細く千切りにして油で揚げたポテト;《英》chip)
-French Guiana	(南米北東部の)フランス領ギアナ
-French horn	フレンチホルン(うず巻き形の金管吹奏楽器)
-French kiss	フレンチキス(舌を使った熱烈なキス)
-French leave	あいさつや予告なしに出て行くこと,無断退出
-French letter	=condom
-French loaf	長円形の棒状のパン
-French polish	フランスニス(シェラックとアルコールの溶液で家具の仕上げ塗料)
-French Revolution	フランス革命(1789‐1799)
-French toast	フレンチトースト(卵入り牛乳に浸してからバターで焼いたパン)
-French window	フランス窓(観音開きになっていて,出入りのできるガラスとびら)
-French-polish	〈家具〉'に'フランスニスをかける
-Frenchman	『フランス人』,(特に)男のフランス人
-Frenchwoman	女のフランス人
 frenetic	逆上した;熱狂した
 frenetically	逆上して;熱狂的に
 frenzied	逆上した,血迷った(frantic)
@@ -1849,10 +1869,6 @@ fret	(…のことで)『いらいらする』 / 〈人・人の心〉'を'『�
 fretful	いらだつ,いらいらする
 fretsaw	(くり抜き細工用)糸のこ
 fretwork	(雷文などの)透かし彫り細工[術]
-Freud	フロイト(『Sigmund』~;1856‐1939;精神分析学の創始者)
-Freudian	フロイトの,フロイト学派の / フロイト学派の人,精神分析家
-Freudian slip	思わずもらした本音,本音を表す失言
-Fri.	Friday
 friable	(岩などが)砕けやすい,もろい
 friar	(カトリック托鉢(たくはつ)修道会の)修道士
 friary	(托鉢(たくはつ)修道士の)修道院
@@ -1861,7 +1877,6 @@ fricative	〈C〉摩擦音(言語学) / 摩擦子音([f][v][θ][ð][s][z][ʃ][ʒ
 friction	〈U〉摩擦,こすること / 〈U〉〈C〉衝突,不和
 friction tape	(裸電線に巻く)絶縁テープ
 frictional	摩擦の,摩擦によって起こる
-Friday	金曜日(《略》Fr.,Fri.)
 fridge	(おもに家庭用の)冷蔵庫(refrigerator)
 fried	fryの過去・過去分詞 / 油で焼いた(揚げた)
 fried cake	揚げ菓子(ドーナツなど)
@@ -1882,7 +1897,6 @@ frightful	ぎょっとするような,恐ろしい / 《英話》不愉快な,�
 frightfully	ぎょっとするほど,恐ろしく / (英話)ひどく,非常に
 frightfulness	ぎょっとするようなこと,恐ろしさ
 frigid	寒さの厳しい,極寒の / 冷淡な;形式的な(formal) / (女性が)性的不感症の
-Frigid Zone	寒帯
 frigidity	厳寒 / 冷淡
 frill	〈C〉(えり・そで口などの)ひだ飾り / 《話》《複数形で》気取り / 《複数形で》無用の飾り
 frilled	フリルのついた,ひだのある,ひだ飾りにした
@@ -1893,10 +1907,6 @@ fringe area	フリンジエリア(テレビ局から遠いか電波障害など�
 fringe benefit	給与外給付(年金・有給休暇・健康保険などの給料以外の特典)
 fringe group	(党などの)反主流派
 frippery	〈C〉はでな安ものの服(装飾品) / 〈U〉(言葉・態度などの)虚飾,さぎっぽさ
-Fris.	Frisian
-Frisbee	フリスビー(プラスチックの軽い円盤を向き合って投げ合うゲーム;その円盤)
-Frisian	フリージアン種の乳牛(《米》Holstein)
-Frisian Islands	フリジア諸島(オランダ・西ドイツ・デンマーク沿岸の列島)
 frisk	はね回る,(じゃれて)飛び回る / (特に,隠し持つ武器の有無を知るために)〈人〉'を'衣服の上から触って調べる / 飛びはね,はね回り
 friskily	快活に,はね回って
 friskiness	快活さ,はね回ること
@@ -1911,7 +1921,6 @@ frizzy	=frizzly
 frock	《まれ》(婦人・子供の上下続いた)服 / (聖職者の着る)法衣
 frockcoat	フロックコート(19世紀来の男子の礼服)
 frog	『カエル』 / フロッグ(上着の胸につける装飾的なひもとボタンによる留め具)
-Frog,Froggy	〈C〉カエル / 《俗》《軽蔑》フランス人
 frog kick	(水泳の)カエル足
 frog march	〈人〉'を'後手(うしろで)にして連行する / [人]'を'うつぶせにして4人で手足をつかんで運ぶ
 frogged	(洋服などが)フロッグのついた
@@ -1956,7 +1965,6 @@ frowsty	むっとした,風通しの悪い
 frowzy, frowsy	(髪などが)だらしない,汚い / 《まれ》(部屋などが)いやなにおいのする,むっとする
 froze	freezeの過去形
 frozen	freezeの過去分詞 / 凍った,凍結した / (態度などの)冷たい,冷淡な / (資産などが)凍結された
-FRS	Federal Reserve System(米国)連邦準備制度
 frt.	freight
 fructification	(植物が)実を結ぶこと,結実 / 良い結果を生むこと
 fructify	…'を'実らせる,結実させる / …'を'成功させる / 結実する,実をつける / 良い結果を生む,成功する
@@ -1990,9 +1998,8 @@ fry	…'を'『油で揚げる』,油でいためる / 揚げ物になる,揚が
 fry-up	〈U〉(食物を)揚げること,いためること / 〈C〉フライ,いため物
 fryer,frier	フライパン / フライに適した若鳥
 frying pan	フライパン
-ft.	foot / feet
 ft-lb	foot-pound, foot-pounds
-FTC	Federal Trade Commission(米国)連邦取引委員会
+ft.	foot / feet
 fuchsia	フクシャ(釣り鐘状の桃色,赤,紫の花を咲かせる観賞植物) / 赤紫色の
 fuck	性交する / [男性が]…'と'性交する / 性交 / 性交するためだけの女 / いらいらする時などに発する強勢語
 fucker	(特に男の)ばか者,とんま
@@ -2000,14 +2007,12 @@ fucking	いらいらした時などに用いる強勢語
 fuddle	(ウイスキーなどで)〈人,人の意識〉'を'もうろうとさせる / 意識がもうろうとすること,思考の混乱
 fuddy-duddy	時代遅れの人,古くさい人
 fudge	ファッジ(砂糖・ミルク・バター・チョコレートに香料を入れて柔らかに固めて作ったキャンデー) / (…について)煮えきらない態度をとる《+『on』+『名』》 / …'を'ごちゃまぜにする
-Fuehrer	=Fuhrer,Fuehrer
 fuel	〈U〉『燃料』;〈C〉(特定の種類の)燃料 / 〈U〉(感情などを)たきつけるもの《+『to』(『for』)+『名』》 / 〈炉・船など〉'に'燃料を供給する / 〈船・飛行機などが〉燃料を補給する《+『up』》
 fuel injection	燃料噴射
 fuel injector	燃料噴射装置
 fug	よどんだ空気,むっとする空気,人いきれ
 fugitive	(…からの)逃亡者,脱走者,亡命者《+『from』+『名』》 / 逃亡した / 《文》(考え・色などが)変わりやすい;(草花・幸福などが)はかない
 fugue	フーガ,遁走(とんそう)曲
-Fuhrer,Fuehrer	《der~》ナチスドイツの総統(Hitlerの称号) / 指導者
 fulcrum	(てこの)支点,てこ台 / 支えとなるもの
 fulfill,fulfil	〈命令・約束など〉'を'『果たす』,実行する / 〈要求・希望など〉'を'満たす,かなえる / 〈期限・仕事など〉'を'完了する,終える(finish)
 fulfillment,fulfilment	(義務・約束などの)遂行;(夢・希望などの)実現《+『of』+『名』》
@@ -2097,7 +2102,6 @@ fur seal	オットセイ
 furbelow	(婦人服の)花づな状のすそひだ / 《軽べつして》けばけばしい装飾,よけいな飾り
 furbish	〈剣など〉'を'研ぐ,〈銀器など〉'を'磨く《+『up』+『名,』+『名』+『up』》 / 〈長い間放置していたもの〉'を'一新する,'に'磨きをかける《+『up』+『名,』+『名』+『up』》
 furcula	叉骨(さこつ)(鳥に二またに分かれた鎖骨)
-Furies	(ギリシア神話で)3人姉妹の復しゅうの女神
 furious	(人が)『怒り狂った』 / (風・スピードなどが)すさまじい,猛烈な
 furiously	怒り狂って,激怒して
 furl	〈旗・帆など〉'を'巻く;〈傘・扇子・翼など〉'を'畳む / 巻かれる,畳まれる
@@ -2157,8 +2161,4 @@ fuze	=fuse2
 fuzee	=fusee
 fuzz	《話》ふわふわした物,綿ぼこり,綿毛 / 《時にa ~》《話》うぶ毛 / 《米俗》交番,警察
 fuzzy	毛羽立った / 薄毛のような / はっきりしない,ぼやけた
-FWD	four-wheel drive四輪駆動
 fwd.	forward
-FY	fiscal year 会計年度
-FYI	for your information 参考のために
-FYR	【略語】 =for your reference / ご参考まで(に)

@@ -1,20 +1,67 @@
 U	uraniumの化学記号 / 上流の,上流階級にふさわしい / (映画が)児童観覧用の
-U.	union / unit / university / upper
-u.c.	upper case(活字の)大文字
-u.s.	上述の箇所に,前記の場所に / 上記のように,上述のごとく
-U.S.S.	United States Senates(Senator) / United States Ship 米国船
-U.S.S.R.,USSR	the Union of Soviet Socialist Republics(ソビエト社会主義共和国連邦,ロシア語ではСССРと略す)
-U.S.,US	United States 合衆国
 U,u	英語アルファベットの第21字 / U字形[のもの];a U-tube U字管
 U-boat	ドイツの潜水鑑(第一次および第二次世界大戦中に活躍した)
 U-turn	自動車の U ターン / 《俗》(方針などの)180度転換;(急激な)方向転換,逆行
+U.	union / unit / university / upper
+U.S.,US	United States 合衆国
+U.S.S.	United States Senates(Senator) / United States Ship 米国船
+U.S.S.R.,USSR	the Union of Soviet Socialist Republics(ソビエト社会主義共和国連邦,ロシア語ではСССРと略す)
 U/W,u/w	underwriter
 UAR,U.A.R.	United Arab Republic
+UFO,U.F.O.	Unidentified Flying Object 未確認飛行物体,空飛ぶ円盤
+UK,U.K.	United Kingdom
+UMT	universal military training 一般人軍事教練
+UN,U.N.	United Nations
+UNCTAD	United Nations Conference of Trade and Development 国連貿易開発会議
+UNESCO	ユネスコ,国際連合教育・科学・文化機構
+UNICEF	ユニセフ,国際連合国際児童緊急基金(United Nations International Children's Emergency Fund)
+UNO	United Nations Organization 国際連合[機構]
+UNRWA	United Nations Relief and Works Agency 国連難民救済事業機関
+UPC	universal product code
+UPI	United Press International UPI 通信社
+US	unserviceable
+USA,U.S.A.	《通例 the~》United States of America アメリカ合衆国 / United States Army 米国[常備]陸軍
+USAF,U.S.A.F.	United States Air Force 米国空軍
+USCG	United States Coast Guard米国沿岸警備隊
+USDA	United States Department of Agriculture 米国農務省
+USES	United States Employment Service全米雇用局
+USIA	United States Information Agency 米国情報局
+USM	United States Mail 米国郵便[制度]
+USMC	United States Marine Corps 米国海兵隊
+USN	United States Navy 米国海軍
+UT,Ut.	Utah
+UV	ultraviolet
+Uganda	ウガンダ(アフリカ東部の独立国;首都 Kampala)
+Ukraine	ウクライナ(旧ソ連南西部の共和国;豊かな農産地で首都は Kiev)
+Ukrainian	〈C〉ウクライナ人 / 〈U〉ウクライナ語 / ウクライナの,ウラクイナ人(語)の
+Ulysses	ユリシーズ(トロイ戦争の勇士)
+Uncle Sam	アンクルサム(米国政府・米国人を擬人化していったもの)
+Uncle Tom	白人に従順な黒人[Harriet Beecher Stoweの小説 Uncle Tom's Cabin の黒人主人公の名にちなむ]
+Union Jack	ユニオンジャック,英国国旗
+Union of Soviet Socialist Republics	ソビエト社会主義共和国連邦(ソビエト連邦(the Soviet Union)の公式名;《略》U.S.S.R.,USSR)
+Unitarian	一神論者;ユニテリアン派の信者
+United Arab Emirates	アラブ首長国連邦
+United Arab Republic	アラブ連合共和国(現在のエジプトアラブ共和国(the Arab Republic of Egypt)の旧名;《略》UAR,U.A.R.)
+United Kingdom	『イギリス連合王国』(英本国のこと;大ブリテンと北アイルランドとの連国王国;公式名は the United Kingdom of Great Britain and Northern Ireland;《略》UK)
+United Nations	『国際連合』(1945年 San Francisco において世界50か国の共同署名により発足した国際的連盟で,かつての国際連盟(the League of Nations)に代わる新たな機関;本部は New York 市にある;《略》UN,U.N.)
+United States [of America]	『アメリカ合衆国』,米国
+Univ.	University
+Upper House	上院(《英》the House of Lords,《米》the Senate の別名)
+Upper Volta	オートボルタ (アフリカ西部の共和国Burkina Fasoの旧名)
+Ural Mountains	ウラル山脈(ヨーロッパとアジアの自然境界をなす)
+Uranus	ウラノス(ギリシア神話の天の神で世界の支配者) / 天王星
+Urdu	ウルドゥー語(パキスタンの公用語の一つ;Hindustani語から派生した)
+Ursa Major	大グマ座(北斗七星(the Big Dipper)を含む星座)
+Ursa Minor	小グマ座(北極星(Polaris)を含む星座)
+Uruguay	ウルグアイ(南米南東部の共和国;首都は Montevideo)
+Utah	ユタ州(米国西部の州;州都はSalt Lake City;《略》『UT』,『Ut.』：モルモン教徒が多いので有名)・北米インディアン ユテ族の言葉「山の住民」の意
+Utopia	ユートピア(Sir Thomas More の作 Utopia に説かれた理想郷) / 〈C〉《しばしば u-》理想郷
+Utopian	理想郷(国)の;《u-》空想的な,夢物語のような / 理想郷の住民,空想的社会改良家
+u.c.	upper case(活字の)大文字
+u.s.	上述の箇所に,前記の場所に / 上記のように,上述のごとく
 ubiquitous	《文》同時にいたる所に存在する,偏在する
 ubiquity	同時にいたる所に存在すること,偏在
 udder	(雌牛・ヤギなどの)乳房
-UFO,U.F.O.	Unidentified Flying Object 未確認飛行物体,空飛ぶ円盤
-Uganda	ウガンダ(アフリカ東部の独立国;首都 Kampala)
 ugh	うふ,うっ,あっ(嫌悪.不満.恐怖などを表す声)
 uglily	醜く,見苦しく,ぶかっこうに
 ugliness	見苦しさ,醜さ
@@ -24,10 +71,7 @@ uh	あのー,ええ,そのー(ちゅうちょなどで次の言葉が出ない�
 uhf,UHF	ultrahigh frequency 極超短波
 uhhuh	うん,うん(Yes)(鼻にかけて上昇調に発音し肯定・同意を表す)
 uhuh	うーん(No)(鼻にかけて発音し否定・不同意を表す)
-UK,U.K.	United Kingdom
 ukase	(帝政ロシアの)勅令 / (絶対者・専制者の)命令,布告
-Ukraine	ウクライナ(旧ソ連南西部の共和国;豊かな農産地で首都は Kiev)
-Ukrainian	〈C〉ウクライナ人 / 〈U〉ウクライナ語 / ウクライナの,ウラクイナ人(語)の
 ukulele	ウクレレ
 ulcer	潰瘍
 ulcerate	潰瘍を生じる / …に潰瘍を生じさせる
@@ -54,7 +98,6 @@ ultrasonics	超音波学
 ultrasound	(金属のひずみなどを調べる)超音波
 ultraviolet	紫外[線]の / 《名詞の前にのみ用いて》紫外線を生じる(用いる) / 紫外線
 ululate	〈犬などが〉ほえる / 泣き叫ぶ,わめき悲しむ
-Ulysses	ユリシーズ(トロイ戦争の勇士)
 umbel	散形花序
 umber	アンバー(黄褐色の天然鉱物顔料) / こげ茶色 / こげ茶色の
 umbilical	へその
@@ -68,9 +111,7 @@ umlaut	母音変異(後続母音または半母音の影響による母音変化
 umpire	(野球・テニス・バドミントン・バレー・クリケットなどの)審判員,アンパイア / …'の'審判をする / 審判をする
 umpteen	多くの(many)
 umpteenth	十何度目か数えられないほどの
-UMT	universal military training 一般人軍事教練
 un,'un	〈C〉《話》やつ / 奴（= one）(口語)(非標準)
-UN,U.N.	United Nations
 un-American	(風俗・習慣・主義などが)米国ふうでない,非アメリカ的な
 unabashed	恥ずかしがらない,平然とした
 unabated	衰えない,弱らない
@@ -167,8 +208,6 @@ uncivilized, uncivilised	未開の,野蛮の
 unclad	unclotheの過去・過去分詞形 / 裸の,着物を着ていない
 unclasp	…'の'留め金をはずす;〈留め金〉'を'ゆるめる
 uncle	『おじ』 / おばの夫 / 《話》(年輩者に)おじさん,おっさん
-Uncle Sam	アンクルサム(米国政府・米国人を擬人化していったもの)
-Uncle Tom	白人に従順な黒人[Harriet Beecher Stoweの小説 Uncle Tom's Cabin の黒人主人公の名にちなむ]
 unclean	汚い,不潔な / (道徳的に)汚れた
 uncleanly	不潔な;汚らわしい(発音に注意：アンクレンリです) / 不潔に;汚らわしく
 uncleanness	不潔[さ]
@@ -216,7 +255,6 @@ uncritical	批評(批判)的でない,批判能力のない;無批判な
 uncross	〈両腕・両足〉の交差を解く
 uncrowned	[まだ]王冠を戴かない(いただかない) / 王位につかずに実権を持つ
 uncrushable	(布地など)しわのよらない / 《おもに文》(意志が)くじけない,不屈な
-UNCTAD	United Nations Conference of Trade and Development 国連貿易開発会議
 unction	(聖別の印として)油を塗ること,塗油式 / (塗油の儀式に用いる)聖油 / 和らげる物 / (話をするときなどの)うわべだけの感激(熱心)
 unctuous	油(軟膏)のような,つるつる(すべすべ)した / うわべだけ感激した(熱心)な,お世辞たっぷりの
 uncut	(一般に)切られていない,刈られていない / (小説・映画フィルムなど)未削除の / (ダイヤなど)原石のままの,未カットの
@@ -386,7 +424,6 @@ unequal	(量・質・価値などが)等しくない / つり合わない,かた
 unequaled, unequalled	匹敵するものがない,無比の
 unequivocal	あいまいでない,明確な
 unerring	誤りのない,的をはずれない,確実な
-UNESCO	ユネスコ,国際連合教育・科学・文化機構
 unessential	本質的(重要)でない / 本質的(重要)でないもの
 uneven	まっすぐでない,平行でない / (表面などが)平らでない,なめらかでない,でこぼこのある / (性質・色・形などが)一様でない,むらのある / つり合わない,かたよった,不公平な / 奇数の(odd)
 uneventful	波乱のない,平穏無事な
@@ -471,7 +508,6 @@ unhoped-for	思いがけない,予期しない,意外な
 unhorse	〈人〉'を'くら(馬)から落とす,落馬させる
 unhurt	けが(傷)のない
 unicameral	(議会が)一院制の
-UNICEF	ユニセフ,国際連合国際児童緊急基金(United Nations International Children's Emergency Fund)
 unicellular	単細胞の
 unicorn	一角獣(想像上の動物) / (紋章として使われるライオンの尾をした)一角獣
 unicycle	(スポーツまたは曲芸用の)一輪車
@@ -503,8 +539,6 @@ uninterested	無関心な;(…に)興味をいだかない《+in+名》
 uninterrupted	とぎれない,連続した
 uninvited	招かれていない;差し出がましい
 union	〈U〉(…の,の間の)『結合』,合同,合併;調和,一致《+of(between)+名》 / 〈C〉『結合したもの』,結合体,統一組織 / 《the U-》アメリカ合衆国;(南北戦争時に)連邦政府側についた北部諸州 / 《the U-》英連合王国(1706年イングランドとスコットランドが合併) / 〈C〉『労働組合』,同盟,ユニオン / 〈C〉〈U〉結婚[生活] / 〈C〉連合旗章(米国国旗の白星;英国国旗の3本十字の三国連合旗章など) / 〈C〉(機械の部品をつなぐ)接合管
-Union Jack	ユニオンジャック,英国国旗
-Union of Soviet Socialist Republics	ソビエト社会主義共和国連邦(ソビエト連邦(the Soviet Union)の公式名;《略》U.S.S.R.,USSR)
 union shop	ユニオンショップ(全従業員が労働組合に加入する制度の企業体)
 unionism	(特に)労働組合主義 / 《U-》(特に米国南北戦争時の)連邦主義 / 《英》連合主義(大英帝国時代に全属領を中央政府に統合しようとした政策)
 unionist	労働組合員,労働組合主義者 / 《U-》《米》(南北戦争のとき南北分離に反対して)連邦主義者 / 《U-》《英》(アイルランド独立に反対した)統一党員
@@ -516,18 +550,11 @@ unison	(…との)一致,調和《+with+名》 / ユニゾン,同音;斉唱
 unit	《集合的に》『構成単位』;(学習の)『単元』;(全体を構成する)部門,部隊 / (特定用途の)設備[一式],器具[一そろい] / (測定基準としての)『単位』;(…の)単位《+of+名》,(…する)単位《+for doing》 / 正の最小整数(1)
 unit pricing	単位価格表示
 unit trust	投資信託会社
-Unitarian	一神論者;ユニテリアン派の信者
 unite	…'を'『結合させる』,一つにする / (結婚によって)…'を'結びつける《+名+in+名》 / 〈性質・才能などを〉兼ね備える,あわせ持つ / 結合する
 united	一致協力した,協調の / 共同した,提携した,団結した / 連合した,合併した
-United Arab Emirates	アラブ首長国連邦
-United Arab Republic	アラブ連合共和国(現在のエジプトアラブ共和国(the Arab Republic of Egypt)の旧名;《略》UAR,U.A.R.)
-United Kingdom	『イギリス連合王国』(英本国のこと;大ブリテンと北アイルランドとの連国王国;公式名は the United Kingdom of Great Britain and Northern Ireland;《略》UK)
-United Nations	『国際連合』(1945年 San Francisco において世界50か国の共同署名により発足した国際的連盟で,かつての国際連盟(the League of Nations)に代わる新たな機関;本部は New York 市にある;《略》UN,U.N.)
-United States [of America]	『アメリカ合衆国』,米国
 unitize, unitise	…'を'一つ[の単位]にまとめる,単一体(統一体)にする
 unity	〈U〉『単一性,統一性』;〈C〉単一体,統一体 / 〈C〉〈U〉(古典劇構成での)一致 / 〈U〉(…との)『協調』,調和《+with+名》
 univ.	universal / university
-Univ.	University
 univalent	(化学で)一価の
 univalve	単殻軟体動物(カタツムリなど)・単殻の
 universal	『すべての人々の』,万人共通の;全世界の / 普遍的な,一般的な,全般的な
@@ -593,7 +620,6 @@ unnecessary	『必要のない』,無用の,よけいな
 unnerve	…'の'勇気(気力)を失わせる;…'の'冷静さを失わせる
 unnoticed	人目につかない;注目されない;顧みられない
 unnumbered	番号の付いていない / 数えきれない,無数の
-UNO	United Nations Organization 国際連合[機構]
 unobserved	観察されない,気づかれない / (規則・慣習などが)守られない
 unobtrusive	控え目な,目立たない
 unoccupied	(家・敷地などが)占有されていない,人の住んでない / (人が)暇な,ぶらぶらしている / (領土などが)占領されていない
@@ -665,7 +691,6 @@ unroll	〈巻いた物〉'を'広げる,開く / …'を'現す,明らかにす�
 unruffled	平静(冷静)な,平穏な;(水面などが)波立たない,静かな
 unruliness	従順でないこと,がんこ,気まま,無法
 unruly	規則に従わない,気ままな,始末に負えない
-UNRWA	United Nations Relief and Works Agency 国連難民救済事業機関
 unsaddle	〈馬〉‘から'鞍(くら)をはずす / 〈人〉'を'落馬させる
 unsafe	危険な(dangerous)
 unsaid	unsay の過去・過去分詞 / 言わない,話さない
@@ -808,7 +833,6 @@ up-to-the-minute	最新の 最新情報を採り入れた = up to the minute
 upbeat	(音楽で)上拍,弱拍 / 陽気な,楽天的な
 upbraid	(…で)〈人〉'を'ひどくしかる;〈人〉'を'非難する《+名〈人〉+with(for)+名(doing)》
 upbringing	(子供の時に受けた)教育,しつけ
-UPC	universal product code
 upchuck	吐く,もどす / …'を'吐く,もどす
 upcoming	なって来る,やがて起こる(現れる),まもなく公開される
 upcountry	内陸の,奥地の(から来た) / 内陸に(で),奥地へ(で)
@@ -825,7 +849,6 @@ upholder	支持者,後援者
 upholster	〈いす・ソファー〉'に'詰め物をする,クッション(おおい)を取り付ける / 〈部屋〉'に'じゅうたん(家具)を取り付ける
 upholsterer	いす張り職人;室内装飾人
 upholstery	いす張り業(技術);室内装飾業 / 《集合的に》(いす張り用の)詰め物,掛け布;(カーテン・じゅうたん・いすなどの)室内装飾品
-UPI	United Press International UPI 通信社
 upkeep	(土地・家屋・機械などの)維持 / 維持費
 upland	高地,台地 / 高地の
 uplift	…'を'あげる,持ち上げる / 〈精神〉'を'高揚する,〈意気〉'を'盛んにする / (社会的・道徳的・知的に)…'を'向上させる / 持ち上げること;(道徳的・社会的・知的)向上;精神的高揚 / (土地の)隆起
@@ -835,8 +858,6 @@ upper	(場所・位置が)『上のほうの』,上部の / 『上級の』,上�
 upper class	上流階級(社会) =upperclass =upper-class
 upper crust	〈C〉〈U〉最上流階級, 貴族階級 / 〈U〉《the~》《単数・複数扱い》《話》
 upper hand	優勢,優位,支配
-Upper House	上院(《英》the House of Lords,《米》the Senate の別名)
-Upper Volta	オートボルタ (アフリカ西部の共和国Burkina Fasoの旧名)
 uppercase	大文字[活字] / 大文字の(で印刷された)
 upperclass	上流の,上流階級の / (米国高校・大学で)上級の
 upperclassman	(大学・高校の)上級生(3年生または4年生)
@@ -879,10 +900,8 @@ upward mobility	経済的・社会的な地位向上に傾向(可能性)
 upwards	=upward
 uracil	ウラシル(核酸の加水分解で得られる針状結晶)
 uraemia	=uremia
-Ural Mountains	ウラル山脈(ヨーロッパとアジアの自然境界をなす)
 uranic	ウランの,ウランを含む
 uranium	ウラン,ウラニウム(放射性金属元素;化学記号はU)
-Uranus	ウラノス(ギリシア神話の天の神で世界の支配者) / 天王星
 urb	(隣接の郊外住宅地に対しての)市街地域
 urban	都市(都会)の / 都市に住む
 urban guerrilla	都市ゲリラ(政治的地下組織で暴動や誘拐(ゆうかい)などに関係する)
@@ -895,7 +914,6 @@ urbanization, urbanisation	(地方の)都市化;(言葉・態度などの)洗練
 urbanize, urbanise	〈地方〉'を'都会化する
 urbanology	都市学,都市問題研究
 urchin	いたずら小僧,わんぱく小僧 / =sea urchin
-Urdu	ウルドゥー語(パキスタンの公用語の一つ;Hindustani語から派生した)
 urea	尿素(にょうそ)
 uremia	尿毒症
 ureter	尿管(じん臓から膀胱(ぼうこう)に尿を送る筋肉質の管)
@@ -913,32 +931,19 @@ urine	尿,小便
 urn	つぼ,(特に)骨つぼ / (大型の)コーヒー(紅茶)沸かし
 urogenital	泌尿生殖器の
 urology	泌尿器学,泌尿科学
-Ursa Major	大グマ座(北斗七星(the Big Dipper)を含む星座)
-Ursa Minor	小グマ座(北極星(Polaris)を含む星座)
 ursine	クマの,クマに関する,クマに似た
 urticaria	じんましん(蕁麻疹)
-Uruguay	ウルグアイ(南米南東部の共和国;首都は Montevideo)
 us	《we の目的格》『我々を(に)』,『私たちを(に)』
-US	unserviceable
-USA,U.S.A.	《通例 the~》United States of America アメリカ合衆国 / United States Army 米国[常備]陸軍
 usable, useable	使用できる,用いられる
-USAF,U.S.A.F.	United States Air Force 米国空軍
 usage	〈U〉(物の)『用い方』,用法 / 〈C〉〈U〉(言語の)『慣用[法]』,語法
-USCG	United States Coast Guard米国沿岸警備隊
-USDA	United States Department of Agriculture 米国農務省
 use	〈道具など〉'を'『使う』,用いる / …'を'『費す』,消費する / 《副詞[句]を伴って》〈人など〉'を'『扱う』 / …'を'自分の都合のいいように利用する / 〈U〉『使用』,利用 / 〈U〉『役に立つこと』,効用,利益(usefulness) / 〈U〉使う必要(場合),使用する機会,入り用 / 〈C〉〈U〉使用の目的,用途 / 〈U〉使用する権利 / 〈U〉使い方 / 〈U〉(身体などを)使う能力
 useable	=usable
 used	『使い古しの』,使用した / (…に)『慣れている』《+to+名(doing)》 / 『…するのが常だった』,よく…したものだ / 『以前は…した』
 useful	『役に立つ』,有用な
 useless	『無益な』,むだな / 『役に立たない』,使いものにならない
 user	使用者,消費者 / 財産権[の使用]
-USES	United States Employment Service全米雇用局
 usher	(教会・劇場などの)『案内人』;《おもに英》(法廷などの)門衛 / 《米》(結婚式の)先導役 / (…へ)…を案内する《+名+to(into, in)+名》
 usherette	(教会・劇場などの)女子案内係(役)
-USIA	United States Information Agency 米国情報局
-USM	United States Mail 米国郵便[制度]
-USMC	United States Marine Corps 米国海兵隊
-USN	United States Navy 米国海軍
 usu.	usual / usually
 usual	『いつもの』,通例の,おきまりの
 usually	『普通は』,通例,通常,いつもは
@@ -948,8 +953,6 @@ usurp	〈権利・地位など〉'を'横領する,強奪する
 usurpation	(権利・地位などの)強奪,横領
 usurper	強奪者,横領者
 usury	高利貸し業 / (法外な・違法な)高利
-UT,Ut.	Utah
-Utah	ユタ州(米国西部の州;州都はSalt Lake City;《略》『UT』,『Ut.』：モルモン教徒が多いので有名)・北米インディアン ユテ族の言葉「山の住民」の意
 utensil	『用具』,器具;道具
 uterine	子宮の / 同母異父の
 uterus	子宮(womb)
@@ -960,13 +963,10 @@ utility	〈U〉『役に立つこと』 / 〈C〉《しばしば複数形で》(
 utilization, utilisation	利用
 utilize,utilise	…'を'『利用する』,役立たせる
 utmost	『最大の』,最高の / 『最も遠い』,いちばん端の / (程度・数量・能力などの)最大限度,極限
-Utopia	ユートピア(Sir Thomas More の作 Utopia に説かれた理想郷) / 〈C〉《しばしば u-》理想郷
-Utopian	理想郷(国)の;《u-》空想的な,夢物語のような / 理想郷の住民,空想的社会改良家
 utter	『全くの』,完全な / 〈音声・言葉など〉'を'『発する』,口に出す / 〈考え・意見など〉'を'述べる,表現する
 utterance	〈U〉(言葉を)発すること,発声 / 〈U〉発表力,話しぶり / 〈C〉言葉,表現;言説,意見;(言語学で)発話
 utterly	『全く』,すっかり,完全に(completely)
 uttermost	最も遠く離れた,最もはずれの / 最大限の,極度の / 最大限度,極限
-UV	ultraviolet
 uvula	口蓋(こうがい)垂,のどびこ
 uvular	口蓋垂の(に関する),口蓋垂音の 口蓋垂音
 ux.	(法律で)wife [ラテン語 uxor より]

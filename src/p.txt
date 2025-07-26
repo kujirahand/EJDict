@@ -1,34 +1,255 @@
 P	parking / phosphorusの化学記号
-p.	(複『pp.』)pageページ / participle / pint / piano / population / pawn / past / per / pitcher / president / pressure / purl / 《英話》penny, pence
+P,p	〈C〉英語アルファベットの第16字 / 〈C〉《P》p字形[のもの]
 P.	President
-p.a.	per annum
 P.A.	power of attorney(委任状による)代理権,《米》委任状 / press agent / purchasing agent《米》購買係,仲介人
-p.c.	percent / post card / post cibum 食後服用(after meals)
 P.C.	Police Constable / Prince Consort / Privy Council[lor]
-p.d.	per diem / potential difference
 P.D.	Police Department
 P.E.	physical education / professional engineer / Protestant Episcopal
 P.G.	postgraduate
-p.j.s	=pajamas
-p.m.,P.M.	『午後』(ラテン語post meridiem(after noon)の略;数字の後につける)：例えば「P.M.2:00」と書くのは日本式です。おそらく「午後2時」と表記することから連想しての語法と思われます。英語式には「2:00P.M.」と書きます。
 P.O.	post office郵便局
 P.O.O.	post-office order郵便為替(かわせ)
-P,p	〈C〉英語アルファベットの第16字 / 〈C〉《P》p字形[のもの]
-p.p.	past participle / (またP.P.)parcel post / postpaid
-p.q.	previous question / 【議会】 先決問題 《本問題の採決のいかんを前もって決める問題; 略 p.q.》 / Parliamentary Question / personality quotient / Province of Quebec / Quebec Party
 P.Q.	Province of Quebec ケベック州
 P.R.	proportional representation 比例代表制 / public relations / Puerto Rico
 P.S.	(またp.s.)postscript / 《米》Public School
-p.t.	past tense / pro tempore
 P.T.	Pacific Time米国の西経120°の標準時
 P.T.O.,p.t.o.	Please turn over.裏面(次ページ)へ続く
 P/N,p.n.	promissory note 約束手形
-pa	とうちゃん(papa)
-Pa	protactiniumの化学記号
 PA	personal assistant個人秘書 / public address [system]
+PBX	private branch exchange 私設電話交換局,私設電話組織
+PC	Peace Corps 平和部隊
+PCB	polychlorinated biphenyl ポリ塩化ビフェニール(強い毒性)
+PCP	phencyclidine pill パラフェナスレン(強い幻覚剤)
+PDT	Pacific Daylight Time
+PEN	International Association of Poets,Playwrights,Editors,Essayists,and Novelists国際ペンクラブ(1922年創設)
+PG	parental guidance(映画の観客指定で)親の認可[映画]
+PHP	Hypertext Preprocessor PHP(オープンソースで開発されているプログラミング言語)
+PHS	Public Health Service(米国の)公衆衛生局
+PLO	Palestine Liberation Organizationパレスチナ解放機構
+PM,P.M.	paymaster / Police Magistrate / Postmaster / postmortem / Prime Minister / Provost Marshal
+POB,P.O.B.,PO Box	=post-office box / 郵便私書箱
+POC	port of call寄港地
+POD	port of debarkation陸揚げ港 / pay on delivery代金払換払い
+POE	port of embarkation船積港
+POW,P.O.W.	prisoner of war・戦争捕虜
+PR	public relations
+PRO	Public Relations Officer 広報活動員,宣伝担当者
+PST,P.S.T.	Pacific Standard Time 太平洋沿岸標準時
+PT boat	快速哨戒(しょうかい)魚雷艇
+PTA,P.T.A.	Parent-Teacher Association父母と教師の会,ピーティーエー
+PTV	public television
+PVC	polyvinyl chloride ポリ塩化ビニル
+PW	prisoner of war 戦争捕虜
+PX,P.X.	post exchange
+Pa	protactiniumの化学記号
 Pa.,PA	Pennsylvania
-pabulum	(珍しい)食物,栄養物 / 心を豊かにする糧(かて)
 Pac.	Pacific
+Pacific	『太平洋』(the Pacific Ocean) / 『太平洋の』;太平洋[沿]岸の
+Pacific Daylight Time	(米国の)太平洋沿岸諸州夏時間(日本との時差はマイナス16時間;《略》『PDT,P.D.T.』)
+Pacific Ocean	『太平洋』
+Pacific Standard Time	(米国の)太平洋標準時(日本との時差はマイナス17時間;《略》『PST,P.S.T.』)
+Paddy	アイルランド人
+Paddy wagon	囚人護送車
+Pakistan	パキスタン(イスラム教共和国;首都はIslamabad)
+Pakistani	パキスタンの;パキスタン人の / パキスタン人
+Paleolithic	旧石器時代の
+Paleozoic	古生代の / 《the~》古生代(魚類・昆・爬(は)虫類の出現した2億2千万‐6億年前の時期)
+Palestine	パレスチナ(地中海東岸にあった古代イスラエルの国土でキリスト教の聖地;聖書名はCanaan;1948年にイスラエルとヨルダンに分割)
+Pallas	パラス(ギリシア神話でAthensの守り神;女神Athenaの別名)
+Palm Sunday	シュロの聖日(復活祭直前の日曜日で,キリストが受難を前にエルサレムにはいった記念日;キリストが通った路上に民衆がシュロの枝葉をまいて祝った)
+Pan	牧羊神,パン(ギリシア神話でヤギの角と脚を持つ音楽好きな森・牧羊の神)
+Pan-American	全米の,汎米の(北米,中米,南米のすべての国を含む)
+Panama Canal	パナマ運河
+Panamanian	パナマ人 / パナマ[人]の
+Pancake Day	パンケーキの火曜日(灰の水曜日の前日でパンケーキを食べる慣習がある)
+Panda car	(警察の)パトロールカー
+Panda crossing	押しボタン式歩行者用横断道路
+Pandora	パンドラ(ギリシア神話に出て来る地上最初の女性;人間を苦しめる災いの箱を開いた)
+Pantheon	《the ~》(ローマのもろもろの神々を祭った)パンテオン,万神殿(現在はキリスト教会として使われている) / 《the ~》(一国の偉人を祭った)霊廟(れいびょう) / 《p-》《集合的に》神々;(神話中の)諸神
+Paraguay	パラグアイ(南米中部の共和国;首都Asuncion) / 《the~》パラグアイ川
+Parent-Teacher Association	父母と教師の会(《略》『P.T.A.』)
+Paris	『パリ』(フランスの首都) / パリス(ギリシア神話のTroyの王子;Spartaの王妃Helenを奪ってTroy戦争を起こした)
+Parkinson's disease	パーキンソン病(脳の病気の後遺症として起こる神経症)
+Parmesan	パルメザンチーズ(イタリア産の堅く乾いたチーズ)
+Parnassus	パルナッソス山(『Mount』(『Mt.』)~;ギリシア南部にある山;Apolloや芸術の女神Musesの霊山)
+Parthenon	パルテノン神殿(ギリシアの女神Athenaを祭った殿堂;ドリス式建築の典型)
+Passion Sunday	受難の主日(四旬節の第5日曜日;復活祭の前々週日曜日)
+Passion Week	受難週間(復活祭の前週(Holy Week);Passion SundayからPalm Sundayまでの週)
+Passion play	キリスト受難劇
+Passover	過越(すぎこし)の祭り(ユダヤ人が神によりエジプト人の暴虐から救出されたことを記念するもの)
+Pasteur	パスツール(1822‐95; フランスの化学者・細菌学者)
+Pathan	アフガニスタン人(Afghan) / アフガニスタン人の 正確にはパサン族(パキスタン西北部とアフガニスタンとの国境地帯に住む部族)
+Patrick	聖パトリック(Saint(St.)~;389?‐461;イギリスの伝道師でアイルランドのキリスト教布教に力を注ぎ,その守護聖人となる)
+Paul	聖パウロ(『Saint』(『St.』)~;?‐67?;キリストの使徒で新約聖書の書簡の著者)
+Paul Bunyan	ポール・バニヤン(伝説上の怪力無双の木材切出し人夫で米国民話の英雄)
+Pb	lead(=ラテン語plumbum)の化学記号
+Pd	palladiumの化学記号
+Peace Corps	(米国の)平和部隊(発展途上国に米国から派遣される技術者・教育家などの集団)
+Peach Melba	ビーチメルバ(モモにアイスクリームとイチゴジュースをかけたもの)
+Pearl Harbor	真珠湾(ハワイのホノルル近くにある米海軍の基地)
+Pegasus	ペガサス(ギリシア神話で詩神ミューズの乗る翼のある天馬) / ペガサス座
+Pekinese	=Pekingese
+Peking	ペキン(北京)(中華人民共和国の首都)
+Peking man	北京原人
+Pekingese	〈C〉北京人 / 〈U〉北京官話 / 〈C〉ペキニーズ(中国原産の愛玩用小型犬でチンに似ている) / 北京の
+Peloponnesus	ペロポネソス半島(ギリシア南部の半島)
+Pen.,pen.	peninsula
+Penates	(ローマ神話で)家の守り神,ペナテス
+Penn.,Penna.	Pennsylvania
+Pennsylvania	ペンシルバニア州(米国東部の州で,州都はHarrisburg…《略》『Pa.,PA,Penn.,Penna.』)
+Pennsylvanian	ペンシルバニア州の人(住民) / (地質時代の)ペンシルバニア紀[系] / ペンシルバニア州の / ペンシルバニア紀[系]の
+Pentateuch	《the~》モーセの五書(旧約聖書の初めの5巻)
+Pentecost	ペンテコステ,五旬節(過越しの祭りのあと50日目に行われるユダヤ人の祭り) / 聖霊降臨祭(Whitsunday)(復活祭後の7日曜日;使徒たちに聖霊がくだったのを祝うキリスト教の祭り)
+Per.	Persia / Persian
+Pericles	ペリクレス(495?‐429 B.C.古代アテネの将軍・政治家：貴族会議の権限を奪い民主的改革を断行、デロス同盟への支配力を高めアテネの黄金時代を築いた)
+Perl	テキスト処理のためのスクリプト言語。
+Permian	(地質の年代で)二畳紀の / 二畳紀
+Pers.	Persia / Persian
+Persia	ペルシア(1935年Iranと改称した)
+Persian	ペルシアの;ペルシア人(語)の / 〈C〉ペルシア人 / 〈U〉ペルシア語
+Persian Gulf	《the~》ペルシア湾(アラビアとイランの間の海)(Arabian Gulf)
+Persian cat	ペルシア猫
+Peru	ペルー(南米の共和国;首都はLima)
+Peruvian	ペルーの;ペルー人の / ペルー人
+Pet.	Peter
+Peter	ペテロ(『Saint』(『St.』)~;?‐67?;聖ペテロ(キリストの12使徒のひとり)) / (新約聖書の)ペテロの手紙
+Petri dish	ペトリ皿(細菌培養などに用いる,ゆるいふたの付いた浅いガラス製またはプラスチック製の透明な皿)
+Pfc.	private first class
+Ph.D.	Doctor of Philosophy(哲学博士;アメリカの大学院によって与えられるあらゆる分野の最高学位)
+Pharisee	パリサイ[派の]人(律法と慣習を厳守した古代ユダヤ教の一派) / 《P-》(独善的な)偽善者
+Pharos	《the~》ファロス灯台(エジプトのアレクサンドリアのファロス島にあった大灯台で,世界七不思議の1つ) / 〈C〉《p-》灯台
+Phi Beta Kappa	(全米的に組織をもつ)優等学生クラブ(1776年設立)
+Philadelphia	『フィラデルフィア』(米国Pennsylvania州の大都市;1776年7月4日,米国独立宣言の行われた所)
+Philadelphia lawyer	腕ききの弁護士
+Philip	ピリポ(キリストの12使徒のひとり)
+Philippine	(またFilipine)フィリピン[人]の
+Philippines	フィリピン共和国(正式にはthe Republic of the Philippines) / 《複数扱い》フィリピン諸島
+Philistine	ペリシテ人(紀元前12世紀ごろパレスチナ西部にいて,ユダヤ民族を圧迫した民族) / 《時にp-》(考え方・趣味について)教養に欠ける人,偏狭な人 / ペリシテ人の / 《時にp-》教養のない,偏狭な
+Phnom Penh	プノンペン(カンボジアの首都)
+Phoenicia	フェニキア(地中海の東部沿岸にあった古代国家)
+Phoenician	フェニキアの;フェニキア人の;フェニキア語の / フェニキア人;〈U〉フェニキア語
+Photostat	フォトスタット複写写真機 / 《しばしばp-》フォトスタットによる複写写真 / 《p-》…'を'フォトスタットで複写する
+Picasso	ピカソ(『Pablo』 ~;1881‐1973;スペイン生まれのフランスの画家・彫刻家)
+Piccadilly	ピカデリー街(ロンドンの中心部の大通り・商店・クラブで有名)
+Piccadilly Circus	ピカデリーサーカス(ロンドンのピカデリー街の東端にある繁華な広場)
+Pied Piper	《the~》(ドイツ民間伝説の)まだら服の笛吹き(Hamelin(ハメリン)の町のネズミを退治したが,約束の礼金がもらえず,笛の音で町じゅうの子供たちを誘い出し山中の洞くつに隠した) / 〈C〉誤導をする人
+Pier rot	ピエロ,道化役
+Pilate	ピラト(『Pontius~』;キリストを十字架につけたローマの総督)
+Pilgrim Fathers	1620年Mayflower号でアメリカへ渡りPlymouthで植民を始めた英国清教徒たち
+Ping-Pong	=table tennis
+Pisces	魚座(うおざ)(the Fishes);双魚宮
+Pithecanthropus	ピテカントロプス,直立猿人
+Pittsburgh	ピッツバーグ(米国Pennsylvania州の都市)
+Plains Indian	平原インディアン(もと北米大平原地帯the Great Plainsに住む)
+Plato	古代ギリシアの哲学者プラトン（紀元前427–347年頃）
+Platonic	プラトンの;プラトン哲学(学派)の / 《p-》純精神的な
+Platonism	プラトン哲学(学派) / 《p-》精神的恋愛
+Pleistocene	(地質時代で)洪積(更新,最新)世(統)
+Plexiglas	プレキシガラス(標識・飛行機の窓などに用いるガラスの商標名)
+Plimsoll line	満載喫水線(貨物の積載を制限するため船体につけた線)・プリムソル標・= Plimsoll mark
+Pliocene	(地質時代で)鮮新世の / 鮮新世(第三紀の最後の世)
+Plough	北斗七星(《米》Big Dipper)
+Plutarch	プルターク(46?‐120?;ギリシアの歴史家で英雄伝の作者)
+Pluto	プルート(ギリシア・ローマ神話の冥界(めいかい)の王) / 冥王(めいおう)星
+Plymouth	プリマス 英国南西岸の港市・軍港;1620年メイフラワー号の出航地 / 1620年メイフラワー号に乗った英国の清教徒が初めて上陸した米国東岸の港
+Plymouth Colony	プリマス植民地(1620年の12月に米国Massachusetts州にPilgrim Fathersによって設立された)
+Pm	promethiumの化学記号
+Po	poloniumの化学記号
+Poe	ポー(『Edgar Allan ~』;1809‐49;米国の詩人・短編小説家・批評家)
+Pol.	Poland / Polish
+Polack	《軽べつして》《俗》ポーランド系の人
+Poland	ポーランド(ヨーロッパ中部の共和国;首都はWarsaw)
+Polaris	(またpolestar)〈U〉北極星 / 〈C〉《米》ポラリス(米原子力潜水艦用の中距離弾道ミサイル)
+Polaroid	(また『Polaroid camera』)〈C〉ポラロイドカメラ(写してすぐ印画紙ができるカメラ;商標名) / 〈U〉人造偏光板
+Pole	ポーランド人
+Polish	ポーランド(Poland)の;ポーランド人(Pole)の,ポーランド語の / ポーランド語
+Politburo,Politbureau	ソビエト共産党中央委員会政治局
+Pollyanna	底抜けの楽天家・非常な楽天家 (Eleanor H. Porterの小説中の少女の名から)
+Polynesia	ポリネシア(ハワイ・サモア諸島などを含む太平洋群島)
+Polynesian	ポリネシアの;ポリネシア人(語)の / 〈C〉ポリネシア人 / 〈U〉ポリネシア語
+Pomeranian	ポメラニア犬(毛の長い小型犬)
+Pompeii	ポンペイ(噴火で埋没したイタリア南部の古都)
+Pope	〈C〉（カトリックの）ローマ教皇 / 法王
+Populist	(米国の)人民党員 / 人民党の
+Port-of-Spain	ポートオブスペイン(西インド諸島トリニダード・トバゴの港市で首都)
+Port.	Portugal / Portuguese
+Portland	ポートランド米国Oregon州北西部の都市 / 米国Maine州南西部の都市
+Portland cement	ポートランドセメント(産地である英国Portland島にちなむ)
+Portsmouth	ポーツマス / 英国南海岸にある軍港 / 米国New Hampshire州の海港,1905年に日露講和条約が締結された地
+Portugal	ポルトガル(ヨーロッパの共和国;首都はLisbon)
+Portuguese	ポルトガルの;ポルトガル人(語)の / 〈C〉ポルトガル人 / 〈U〉ポルトガル語
+Poseidon	ポセイドン(ギリシア神話の海の神;ローマ神話のネプチューン(Neptune)にあたる)
+Potomac	ポトマック川(米国北東部の川でその下流はWashington市を流れる)
+Pr	Provencal / praseodymiumの化学記号
+Prague	プラハ(チェコスロバキアの首都)
+Precambrian, Pre-Cambrian	先(前)カンブリア時代の the ... 先カンブリア時代(最古の、すなわち6億年以前の地質時代)
+Pres.	President / Presbyterian
+Presbyterian	長老教会派の会員(司祭の監督制度によらず,信徒によって選ばれた長老が中心となって福音(ふくいん)を伝道しようとするキリスト教新教の一派の会員)・長老制の;長老教会の
+Presbyterianism	長老制度;長老制主義
+Pretoria	プレトリア(南アフリカ共和国の首都)
+Prince of Darkness	暗黒の王,悪魔(Satan)
+Prince of Peace	平和の君,キリスト(Christ)
+Prince of Wales	英国皇太子[の称号]
+Principality	〈C〉公国（君主が治める小規模な独立国）
+Privy Council	枢密(すうみつ)院(国王に助言する諮問機関)
+Privy Purse	英国王手元金(国王個人用に支給される金)
+Privy Seal	玉璽(ぎょくじ)(国の一般重要書類に押す印章)
+Proctor	学生監・ 試験監督官・代理人・代訴人・試験監督をする
+Prof.,prof.	professor
+Prometheus	プロメテウス(ギリシア神話で天上の火を盗み人類に与えたため,ゼウスの怒りに触れ,岩に縛られ,毎日ハゲタカに肝臓を食われた)
+Promised Land	(また『Land of Promise』)《the~》約束の地(神がイスラエルの民に約束したCanaanの地;旧約聖書「創世記」) / 《the p- l-》天国,理想郷
+Prophets	(聖書の)預言者
+Prot.	Protestant
+Protectorate	〈C〉保護領（他国の保護・支配下にあるが一定の自治を持つ国や地域） / 保護制度 / 保護領状態
+Proterozoic	《the P-》(地質時代の)元生代(25億年から5億4千万年前の時代) / 元生代の
+Protestant	新教徒,プロテスタント / 新教[徒]の,プロテスタントの
+Protestant Episcopal Church	米国監督教会,米国聖公会(1789年英国国教会から独立した一派)
+Protestantism	新教 / 《集合的に》新教徒,新教教会
+Prov.	Provencal / Proverbs
+Provencal	プロバンス(Provence)の,プロバンス人(語)の / プロバンス人;〈U〉プロバンス語
+Provence	プロバンス(フランス東南部の昔の州;中世の叙情詩人と騎士で有名)
+Prussia	プロシア(1871年までドイツ北東部にあった王国;ドイツ語ではプロイセン)
+Prussian	プロシアの;プロシア人(語)の / 〈C〉プロシア人;〈U〉プロシア語
+Prussian blue	紺青(こんじょう)
+Ps.,Psa.	Psalm; Psalms
+Psalms	詩篇(旧約聖書の一書;《略》『Ps.』;正式名はthe Book of Psalms)
+Psalter	《the ~》=the Book of Psalms / (またp-)〈C〉(特に礼拝式用に作られた)聖詩篇
+Psyche	プシュケー(ギリシア・ローマ神話でErosが愛した美少女;霊魂の権化)・《the p-》霊魂,魂;心
+Pt	platinumの化学記号
+Ptolemaic system	プトレマイオス体系,天動説
+Ptolemy	プトレマイオス(127‐151;ギリシアの数学・天文・地理学者で天動説を唱えた)
+Pu	plutoniumの化学記号
+Puerto Rican	プエルトリコの / プエルトリコ人
+Puerto Rico	プエルトリコ(西インド諸島にある米国自治領の島;首都はSan Juan)
+Pulitzer Prize	ピューリツァー賞(米国で新聞・詩・劇・小説・伝記などの分野に与えられる賞)
+Pullman	プルマン式車両(George Pullman考案の寝台車・特等車)
+Pulmotor	パルモーター(人工呼吸器の商標名)
+Punch	パンチ(英国の人形劇Punch-and-Judy showのかぎ鼻で猫背の道化者) / (英国の)風刺週刊誌パンチ
+Punch and Judy show	子供向けあやつり人形劇の題名(パンチと妻ジュディが繰りひろげるユーモラスなショー)
+Punic	古代カルタゴ[人]の
+Punjabi	パンジャブ[人]の(インド北西部およびバングラデシュ地域の)
+Purim	プリム祭(Hamanによるユダヤ虐殺を免れたことを記念するユダヤ祭日;3月1日)
+Puritan	清教徒(16世紀後半に英国国教内に起こったプロテスタントの一派) / 《p-》(宗教上・道徳上)厳格な人,禁欲的な人 / 清教徒の[ような];《p-》厳格な,禁欲的な
+Puritanism	清教徒の信仰(教義);清教主義 / 《p-》(道徳上・宗教上の)厳格さ
+Purple Heart	(米軍の)名誉負傷勲章
+Pygmy, Pigmy	ピグミー(中央アフリカ・フィリピン諸島などの小さな体型の人種) / 《p-》(一般に)小人;ごく小さい動植物 / 《p-》とるに足りない人 / 小人の;非常に小さい
+Pyongyang	平壌(へいじょう)(朝鮮民主主義人民共和国(北朝鮮)の首都)
+Pyrenees	ピレネー山脈(フランスとスペインの国境にある)
+Pyrex	パイレックス(耐熱・耐薬品性のガラス器の商標名)
+Pyrrhic victory	自損の勝利; ピュロスの勝利（大きな犠牲を伴い、勝っても割に合わない勝利）
+Pythagoras	古代ギリシャの哲学者・数学者ピタゴラス（紀元前570頃–紀元前495頃）
+Pythagorean theorem	ピタゴラスの定理
+p.	(複『pp.』)pageページ / participle / pint / piano / population / pawn / past / per / pitcher / president / pressure / purl / 《英話》penny, pence
+p.a.	per annum
+p.c.	percent / post card / post cibum 食後服用(after meals)
+p.d.	per diem / potential difference
+p.j.s	=pajamas
+p.m.,P.M.	『午後』(ラテン語post meridiem(after noon)の略;数字の後につける)：例えば「P.M.2:00」と書くのは日本式です。おそらく「午後2時」と表記することから連想しての語法と思われます。英語式には「2:00P.M.」と書きます。
+p.p.	past participle / (またP.P.)parcel post / postpaid
+p.q.	previous question / 【議会】 先決問題 《本問題の採決のいかんを前もって決める問題; 略 p.q.》 / Parliamentary Question / personality quotient / Province of Quebec / Quebec Party
+p.t.	past tense / pro tempore
+pH	ペーハー(水素イオン濃度指数)
+pa	とうちゃん(papa)
+pabulum	(珍しい)食物,栄養物 / 心を豊かにする糧(かて)
 pace	〈C〉『1歩』;歩幅(ほぼ75‐100cm) / 〈C〉〈U〉『歩調』,速度,ペース / 〈C〉《単数形で》(馬の)側対歩(同じ側の前後の脚を同時に上げ下げする歩き方) / …'を'一定の歩調で歩き回る / …'を'歩いて測る,歩測する《+『off』(『out』)+『名,』+『名』+『off』(『out』)》 / …'の'速度を調整する / 《副詞[句]を伴って》ゆっくり(普通の速さで)歩く,ゆっくりと行ったり来たりする / 〈馬が〉側対歩で歩く / (自分と意見を異にする人に敬意を示して)…には失礼ですが
 pace bowler	(クリケットで)速球を投げる投手
 pacemaker	(また《おもに米》『pacesetter』)ペースメーカー(レースで先頭に立って速度の調整役となる走者) / 脈拍調整器(心臓病の治療器)
@@ -38,10 +259,6 @@ pacesetting	歩調調整の
 pachyderm	厚皮動物(カバ・ゾウ・サイなど)
 pachysandra	フッキソウ(アメリカで芝生の代りに植える常緑草)
 pacific	平和的な,平和を好む / 穏やかな,平穏な
-Pacific	『太平洋』(the Pacific Ocean) / 『太平洋の』;太平洋[沿]岸の
-Pacific Daylight Time	(米国の)太平洋沿岸諸州夏時間(日本との時差はマイナス16時間;《略》『PDT,P.D.T.』)
-Pacific Ocean	『太平洋』
-Pacific Standard Time	(米国の)太平洋標準時(日本との時差はマイナス17時間;《略》『PST,P.S.T.』)
 pacifically	平和的に
 pacification	なだめること,和解すること / 平和,講和;講和条約
 pacifier	調停者,仲裁者 / 《米》(乳児用の)ゴム製乳首(《英》dummy)
@@ -76,8 +293,6 @@ paddlewheel	外輪(昔の汽船の両舷(けん)の外側についた水かき�
 paddling pool	(公園などの)水遊び場,水たまり(《米》wading pool)
 paddock	(馬小屋や納屋に付近にある)小牧場 / (競馬場の)パドック(馬にくらを付け騎手が乗る囲い地)
 paddy	〈U〉米;もみ / (またpaddy field)〈C〉稲田,水田 / 激怒,ふきげん,大むくれ
-Paddy	アイルランド人
-Paddy wagon	囚人護送車
 padlock	なんきん錠 / …'に'なんきん錠を掛ける
 padre	(イタリア・スペイン・ポルトガル・南米などの)神父(father) / 《話》従軍牧師
 paean	喜び(感謝)の歌,賛歌
@@ -117,8 +332,6 @@ paintwork	(自動車などの)塗装された面
 pair	(二つで一つに用いられる物の)『組』,『対』《+『of』+『名』》 / (対になる部分からなる物の)『1個』《+『of』+『名』》 / 《集合的に》《複数扱い》夫婦,婚約中の男女;(動物の)つがい《+『of』+『名』》 / 《集合的に》《複数扱い》(同種または何かの関係のある物の)二人(二つ,2頭など)の組《+『of』+『名』》 / …'を'二人(2個)ずつ組にする《+『名』+『off』(『up』),+『off』(『up』)+『名』》,(…と)…'を'組にする《+『名』+『with』+『名』》 / (…と)…'を'結婚させる《+『名』+[『up』]『with』+『名』》 / 二人(2個)ずつ組になる《+『off』(『up』)》
 paisley	ポイズリー(色採豊かな模様のはいった柔らかい毛織物)
 pajamas,pyjamas	『パジャマ』
-Pakistan	パキスタン(イスラム教共和国;首都はIslamabad)
-Pakistani	パキスタンの;パキスタン人の / パキスタン人
 pal	《話》『友達』,仲間,親友 / (…と)仲よくなる《[『up』]『with』+『名』》
 pal moil	ヤシ油
 palace	『宮殿』 / 大邸宅,りっぱな建物 / 《the ~》《集合的に》《英》王宮の有力者たち
@@ -140,12 +353,9 @@ paleface	白人
 paleographer	古文書学者
 paleographic	古文書学の
 paleography	古文書学
-Paleolithic	旧石器時代の
 paleon.	paleontology
 paleontologist	古生物学者
 paleontology	古生物学,化石学
-Paleozoic	古生代の / 《the~》古生代(魚類・昆・爬(は)虫類の出現した2億2千万‐6億年前の時期)
-Palestine	パレスチナ(地中海東岸にあった古代イスラエルの国土でキリスト教の聖地;聖書名はCanaan;1948年にイスラエルとヨルダンに分割)
 palette	絵の具板,パレット
 palfrey	(特に婦人用の)乗用馬
 palimpsest	書いたものを消して重ね書きできるようにした羊皮紙
@@ -155,7 +365,6 @@ palisade	(防御用の)とがりくいの柵(さく) / 《複数形で》《米�
 palish	少し青白い,やや青ざめた
 pall	(黒・紫などのビロードの)棺衣(かんい),棺覆い;《米》ひつぎ / (暗くする)覆い幕 / …'に'棺衣を掛ける / 〈物事が〉(人に)飽きさせる,興味をなくさせる《+『on』(『upon』)+『名』》
 palladium	パラジウム(金属元素;化学記号はPD)
-Pallas	パラス(ギリシア神話でAthensの守り神;女神Athenaの別名)
 pallbearer	(葬式で)棺のそばに付き添う人;《米》棺をかつぐ人
 pallet	(床に直接敷く間に合わせの)わらぶとん ・ 粗末な寝床 / (陶工の)へら,こて・(画家が使う)パレット・パレット《品物を運搬・貯蔵するための金属[木]製の台; フォークリフトなどで運搬する》・(機械)爪(つめ), 歯止め
 palliasse	わら床,わらぶとん
@@ -166,7 +375,6 @@ pallid	(顔・肌などが)青白い,生色のない(pale)
 pallor	(病的な)青白さ
 pally	(…と)親しい,仲の良い《+『with』+『名』》
 palm	(人・動物の)『手のひら』;(手袋の)手のひらの部分 / パーム(手のひらの幅を基準にした長さ;8‐10') / …'を'手で覆う,手の中に隠す / (また『palm tree』)ヤシ,シュロ(ヤシ科の植物) / (昔勝利・成功などの印として用いた)シュロの葉(枝)
-Palm Sunday	シュロの聖日(復活祭直前の日曜日で,キリストが受難を前にエルサレムにはいった記念日;キリストが通った路上に民衆がシュロの枝葉をまいて祝った)
 palmate	(葉などが)手のひらの形をした
 palmer	聖地巡礼者(聖地を訪れシュロの葉(palm)を持ち帰った)
 palmetto	パルメット(葉が扇状のヤシの一種でその芽は食用;米国南部産)
@@ -189,27 +397,19 @@ pamper	…'を'甘やかす,大事にしすぎる
 pamphlet	『パンフレット』,小冊子;(特に時事問題の)小論文
 pamphleteer	パンフレットの著者(発行者)
 pan	(通例ふたのない片柄の)『平なべ』 / 平なべ状の物;(はかりなどの)皿;(砂金などを砂利から分ける)選鉱なべ / 硬質地層 / …'を'平なべで煮る / 〈砂金など〉'を'えり分ける,選鉱する《+『off』(『out』)+『名,』+『名』+『off』(『out』)》 / 《話》…'を'こきおろす,酷評する / (…を得るために)選鉱なべで洗う《+『for』+『名』》 / (映画・テレビで,全景を写すために)〈カメラ〉'を'上下(左右)に動かす,パンする / カメラを上下(左右)に動かして撮る,パンする
-Pan	牧羊神,パン(ギリシア神話でヤギの角と脚を持つ音楽好きな森・牧羊の神)
-Pan-American	全米の,汎米の(北米,中米,南米のすべての国を含む)
 panacea	万能薬
 panama	パナマ / 中央アメリカの共和国 / (また『Panama City』)その首都
-Panama Canal	パナマ運河
 panama hat	パナマ帽
-Panamanian	パナマ人 / パナマ[人]の
 pancake	パンケーキ(牛乳・卵・小麦粉で作った薄くて柔らかい食べ物) / 〈飛行機が〉平落ち着陸する(失速で水平のまま着陸すること) / 〈飛行機〉'を'平落ち着陸させる
-Pancake Day	パンケーキの火曜日(灰の水曜日の前日でパンケーキを食べる慣習がある)
 pancake landing	(故障などによる飛行機の)平落ち着陸
 panchromatic	(写真のフイルムなどが)全整色の,全色の,パンクロの
 pancreas	膵臓(すいぞう)
 pancreatic	膵臓の
 panda	パンダ(中国南部,チベットに住むアライグマ)
-Panda car	(警察の)パトロールカー
-Panda crossing	押しボタン式歩行者用横断道路
 pandemic	(流行病などが)全地域にわたる,全国(世界)的流行の / 〈C〉全国(世界)的流行病
 pandemonium	〈C〉大混乱,大騒ぎ / 〈C〉大混乱の場所,修羅場
 pander	《古》他人の弱み(悪事)につけ込む者;売春業者 / (他人の弱みなどに)つけ込む;(人または,低俗な欲望などに)迎合する《+『to』+『名』》
 pandit	(インドの)賢人,学者
-Pandora	パンドラ(ギリシア神話に出て来る地上最初の女性;人間を苦しめる災いの箱を開いた)
 pane	(1枚の)『窓ガラス』
 panegyric	〈C〉(人・物に対する)賛辞《+『on(upon)』+『名』》 / 〈U〉高い賞賛,(時に)法外な賞賛
 panel	『はめ板』,鏡板,仕切り板,『パネル』(壁・天井・ドアなどを装飾する板) / (板・プラスチックなどの薄い)1枚板,合板 / (絵画の)画板,パネル画;(写真の)パネル版 / (飛行機・自動車などの)パネル,計器板 / (スカート・ドレスなどに縫いつける)別布,パネル / 《集合的に》(討論会などの)討論者団,審査団,参加者の一団 / (…で)…'に'パネルをはめる,はめ板を張る《+『名』+『with』(『in』)+『名』》
@@ -240,7 +440,6 @@ pantheism	汎神(はんしん)論(神と自然とを同一視する) / 多神教
 pantheist	汎神(はんしん)論者
 pantheistic	汎神論の,自然崇拝の
 pantheistical	=pantheistic
-Pantheon	《the ~》(ローマのもろもろの神々を祭った)パンテオン,万神殿(現在はキリスト教会として使われている) / 《the ~》(一国の偉人を祭った)霊廟(れいびょう) / 《p-》《集合的に》神々;(神話中の)諸神
 panther	《米》=cougar / ヒョウ(leopard);クロヒョウ
 panties	(婦人・子供用の)パンティー
 pantile	パンタイル瓦(がわら),洋風桟瓦(さんがわら)
@@ -284,10 +483,10 @@ paprika	パプリカ(アマトウガラシから作った粉末香辛料)
 papule	丘疹(きゅうしん),(皮被にできる)小さな吹き出物
 papyrus	〈C〉パピルス(北アフリカなどにある水生植物) / 〈U〉〈C〉パピルス紙(古代エジプト人などがパピルスから作った紙) / 《複数形で》パピルス紙に書いた古文書
 par	〈U〉同等,同価,同水準,同程度 / (また『par value』)〈U〉平価,額面価格 / 〈U〉(程度・質・状態・数量などの)平均,標準;(精神・健康などの)常態 / 〈C〉(ゴルフで)標準打数,パー / 《名詞の前にのみ用いて》平均の,標準の / 額面の / (ゴルフで)〈1ホールまたは1コース〉'を'基準打数でとる,パーで上がる
-par.	paragraph / parenthesis
 par avion	航空便で(by air mail)
 par excellence	一段と勝って,とりわけ / 《名詞の後に用いて》一段と優れた
 par value	額面価格 / 法定平価
+par.	paragraph / parenthesis
 parable	たとえ話,寓話
 parabola	放物線
 parabolic	放物線[状]の
@@ -304,7 +503,6 @@ paradoxical	逆説の;逆説を好む / 矛盾する
 paraffin	(またparaffin wax)パラフィン,石ろう / (またparaffin oil)《英》=kerosene
 paragon	(…の)模範,典型(model)《+『of』+『名』》
 paragraph	(文章の一つの)『区切り』,『節』,項,段落 / (新聞などの)小記事,小論説 / 段落記号 / 〈文章〉'を'節に分ける,'に'段落を付ける / 〈新聞など〉'に'小記事(寸評)を書く
-Paraguay	パラグアイ(南米中部の共和国;首都Asuncion) / 《the~》パラグアイ川
 parakeet	インコ
 parallax	視差(視点によって対象物の位置が変わって見えること)
 parallel	『平行な』,同じ方向の / 『対応する,同様な』 / (電気の接続が)並列の,並列接続の / 〈C〉『平行線(面)』 / 〈C〉(…と)類似(匹敵)するもの(人);(…との)類似,対応《+『to』(『with』)+『名』》 / (また『parallel of latitude』〈C〉緯[度]線 / …'に'『平行している』 / 〈二つ以上のもの〉'を'平行に置く,平行にする / (…で)…'と'『対応する』,'に'匹敵する《+『名』+『in』+『名』(do『ing』)》)
@@ -355,7 +553,6 @@ pare	(通例刃物で)…'の'皮をむく(peel) / 〈不ぞろいな部分な�
 paregoric	鎮静剤 / 鎮静の
 parent	〈C〉『親』(父または母);《複数形で》両親 / 〈C〉親代りの人,保護者 / 《複数形で》《文》先祖,祖先 / 〈C〉《文》源,起源,原因 / 親の(に関する);親のような
 parent company	(子会社を持つ)親会社
-Parent-Teacher Association	父母と教師の会(《略》『P.T.A.』)
 parentage	生まれ(birth);血統;家柄 / 親であること
 parental	親の,親としての,親にふさわしい / 親のような
 parenthesis	『挿入語句』 / 《複数形で》括弧(通例丸括弧()を資す)
@@ -370,7 +567,6 @@ pari-mutuel	競馬で勝った人々に手数料・税金を引いた残金を�
 pariah	《通例P-》インドの最下級民 / 《比喩(ひゆ)的に》のけ者;非人
 parietal	頭頂[骨]の / 大学構内居住に関する
 paring	〈U〉(皮を)むくこと,削ること / 〈C〉《複数形で》むいた皮,削りくず
-Paris	『パリ』(フランスの首都) / パリス(ギリシア神話のTroyの王子;Spartaの王妃Helenを奪ってTroy戦争を起こした)
 parish	教区(専用の教会と専任の牧師をもつ宗教上の一区域) / 《the~》《集合的に》教区の住民 / 《英》村,行政区(行政上の最小区画) / 《米》(持にLouisiana州の)郡
 parish-pump	地方根性
 parishioner	教区民
@@ -384,7 +580,6 @@ parking garage	(通例数階建ての)屋内の有料駐車場
 parking lot	駐車場(《英》car park)
 parking meter	パーキングメーター(街路上の自動駐車料金計)
 parking orbit	(ロケットの)待機軌道
-Parkinson's disease	パーキンソン病(脳の病気の後遺症として起こる神経症)
 parkland	《英》いなかの大邸宅を囲む草地;木立がある公園
 parkway	公園道路(植え込みのある広い自動車道路)
 parky	(空気などが)ひんやりとした,冷たい
@@ -400,8 +595,6 @@ parlor game	(言葉遊びやクイズのような,座ったままできる)室�
 parlor,parlour	《英》居間 / 《おもに米》営業客の部屋,店
 parlour maid	小間使い
 parlous	危険な,危ない
-Parmesan	パルメザンチーズ(イタリア産の堅く乾いたチーズ)
-Parnassus	パルナッソス山(『Mount』(『Mt.』)~;ギリシア南部にある山;Apolloや芸術の女神Musesの霊山)
 parochial	小教区の;地方区の / 視野の狭い,狭量の
 parochial school	教区立学校(教区や宗教団体の経営する学校)
 parochialism	考えの狭さ,偏狭;地方根性
@@ -428,17 +621,16 @@ parsnip	アメリカボウフウ(セリ科の植物で,白い根は食用にな�
 parson	教区牧師 / 《話》(一般に)牧師(clergyman)
 parsonage	(教会のそばの)教区牧師館
 part	〈C〉(全体を構成する)『部分』 / 〈U〉《しばしばa~》(…の)『一部』,『一部分』《+『of』+『名』》 / 〈C〉《割合》…分の1,(比率の)1 / 〈C〉(機械,器具などの)部品 / 〈C〉(仕事などの)『役目』,分担;関与 / 〈U〉(対立・契約などの)一方の側 / 〈C〉《おもに米》(頭髪の)分け目(《おもに英》parting) / 〈C〉《複数形で》地域,地方 / 〈C〉(演劇・映画・オペラなどの)『役』,役割り(role);(役の)せりふ / 〈C〉声部,音部,パート;パート譜 / (複数形で)才能,資質 / …'を'二つに(部分に)分ける;(各部分に)'を'分ける)《+『名』+『into』(『in』)+『名』》 / (…から)…を引き離す,分ける《+『名』+『from』+『名』》 / (二つ以上の部分に)『分かれる』 / 『別れる』 / (物を手放す,処分する《+『with』+『名』〈物〉》 / 一部分は,部分的に,幾分
-part.	participle / particular
 part of speech	(文法で)品詞,語類
 part song	パートソング(通例無伴奏で三部合唱以上からなる)
 part-owner	共有者
 part-time	パートタイムの,非常勤の / パートタイムで
+part.	participle / particular
 partake	(…に)『いっしょに加わる』,(…を)共にする《+『of』+(『in』)+名》
 partaken	partakeの過去分詞
 partaker	(…を)共にする人;(…の)分担者,関係者《+『of』(『in』)+『名』》
 parterre	花壇をあしらった庭園 / 《おもに米》劇場の平土間
 parthenogenesis	単為生殖,処女生殖
-Parthenon	パルテノン神殿(ギリシアの女神Athenaを祭った殿堂;ドリス式建築の典型)
 partial	(また『part』)『一部分の』,部分的な;不完全な / 不公平な,偏った / 《補語にのみ用いて》(…が)特に好きで《+『to』+『名』》
 partiality	〈U〉不公平,えこひいき(bias) / 〈C〉(…に対する)特別な好み,偏愛《+『to』(『for』)+『名』》
 partially	部分的に,一部分 / 不公平に,偏って
@@ -502,9 +694,6 @@ passim	(作家の特徴を示す概念・語句などが)各所に,随所に
 passing	通過しつつある;過ぎて行く / 当座の;長続きしない / ふとした,偶然の / 合格の / 〈U〉(…が)通ること;過ぎ去ること《+『of』+『名』》 / 〈C〉通行の方法(場所);浅瀬 / 〈U〉(…の)終わり;死《+『of』+『名』》 / たいへん,非常に
 passing bell	(キリスト教会の)葬式を告げる鐘,弔鐘
 passion	〈U〉〈C〉『激しい感情』,情念,熱情 / 〈U〉《しばしばa passion》(…に対する)『熱中』,熱,強い好み《+『for』+『名』(do『ing』)》 / 〈C〉熱中の対象,大好物 / 〈U〉(;に対する)恋愛感情,松情;情欲《+『for』+『名』》 / 〈U〉《しばしばa~》突然の激しい怒り,激怒,かんしゃく / 《the P-》キリストの受難;福音書のキリスト受難の物語;受難(キリストの受難の物語に曲をつけたもの)
-Passion play	キリスト受難劇
-Passion Sunday	受難の主日(四旬節の第5日曜日;復活祭の前々週日曜日)
-Passion Week	受難週間(復活祭の前週(Holy Week);Passion SundayからPalm Sundayまでの週)
 passionate	(人が)情熱的な / (言葉などが)強い感情を表す,激しい / (感情などが)強い,激しい
 passionflower	トケイソウ(キリストの十字架上での傷・茨(いばら)の冠にたとえられる花)
 passionless	感情に動かされない,感情的でない,冷静な / 熱意のない
@@ -513,7 +702,6 @@ passive resistance	(権力などに対して暴力に頼らない)消極的抵�
 passive voice	(文法で)受身形,受動態
 passivity	=passiveness
 passkey	=master key
-Passover	過越(すぎこし)の祭り(ユダヤ人が神によりエジプト人の暴虐から救出されたことを記念するもの)
 passport	『旅券』,パスポート / 《単数形で》(…への)手段,便法《+『to』+『名』》
 password	(敵味方を識別する)合い言葉(watchword)
 past	『過ぎ去った』,終わった(over) / 《名詞の前にのみ用いて》『過去に起こった』,過去の,昔の / 《期間を表す語の前後で完了形の文で用いて》(…の期間を)『過ぎた』,最近(…)の / 《名詞の前にのみ用いて》『前任の』,元の / (文法で)過去の / (場所)『を通り越して』,の先に / (時刻)『を過ぎて』;(年齢)を過ぎて / (能力・限度など)『を越えて』,の及ばない / (ある数・量)『を越えて』,…以上 / 《the~》『過去』 / 《a~,one's~》(国などの)歴史;(人の)経歴,(特にいかがわしい)過去 / 過去[時制];過去形 / 『過ぎて』,通り越して
@@ -527,7 +715,6 @@ paste-up	(本の編集で)割付用台紙
 pasteboard	ボール紙,厚紙
 pastel	〈U〉パステル(クレヨンの一種);〈C〉パステル画 / 〈U〉柔らかで淡い色合い,パステル調 / 受らかな淡い色合いの,パステル調の / パステルで描いた
 pastern	繋(けい)(牛・馬などの脚のくるぶしとひづめとの間の部分)
-Pasteur	パスツール(1822‐95; フランスの化学者・細菌学者)
 pasteurization,pasteurisation	(乳製品などの)パスツール殺菌法,低温殺菌法
 pasteurize,pasteurise	…'を'低温殺菌する
 pastiche	模倣作品(文学・芸術作品で他の作者の技法をまねたもの)
@@ -546,15 +733,13 @@ pasture	〈U〉『牧草』,牧草地 / 〈C〉(個々の)『牧場』 / 〈家�
 pasty	のりのような / (顔色などが)青白くて不健康な(pale) / 肉入りパイ
 pasty-faced	青白い顔をした
 pat	(愛情・賞賛などを表して手のひらで)…'を'『軽くたたく』,ポンとたたく / (へらなどで)(…の形に)…'を'軽くたたいて整える《+『名』+『into』+『名』》 / 『軽くたたくこと』 / その音 / (バターなどの)小さいかたまり《+『of』+『名』》 / きっちりした,ぴったりの / きっちりに,ぴったりと / patent / patented
-pat.pend.	patent pending特許出願中
 pat-ball	ボールたたき(へたなテニス・クリケットを言う)
+pat.pend.	patent pending特許出願中
 patch	(補修・補強のための)『つぎ当て』;当て布;当て板,当て金;(アップリケで縫いつけた)布切れ / (傷口などを覆う)『傷当て』 / (色などが周囲と区別できる)(…の)まだら,班点;断片,破片《+『of』+『名』》 / 小さな地面(畑) / (補修・補強のために)…'に'『つぎ当てる』;(装飾のために)…'に'当て布をする / …'を'つぎ合わせて作る
 patch pocket	パッチポケット(衣服の外側に縫いつけたポケット)
 patchwork	〈U〉〈C〉つぎはぎ細工 / 〈U〉《しばしば》寄せ集め,ごたまぜ
 patchy	つぎはぎだらけの / 寄せ集めの;不調和な
 pate	頭,脳天;頭脳
-pâté	パテ,肉パイ(レバー肉・魚などを小麦粉で練った菓子)
-pâté de foie gras	フォアグラ(ガチョウの肝臓で作る料理)
 patella	=kneecap
 paten	パテナ(聖体祭儀のときパンをのせる金属製の皿)
 patent	『特許』,特許権,パテント / 『専売特許品』,特許となっている製法 / 専売特許証 / (一般に特権などを授ける)公式証書 / 《名詞の前にのみ用いて》専売特許の / 《名詞の前にのみ用いて》《英話》賢い,独特な,まねのできない / 明白な / …'の'特許[権]を取る / …'に'特許[権]を与える
@@ -572,7 +757,6 @@ paternity	父であること(fatherhood);父系
 paternoster	主の祈り
 path	(自然にできた)『小道』,細道;庭内の道 / (人・物の)『通り道』,通路,進路,軌道《+『of』+『名』》 / (行動の方針としての)(の)道《+『of』+『名』》への道程《+『to』+『名』》
 path.	pathological / pathology, pathologic
-Pathan	アフガニスタン人(Afghan) / アフガニスタン人の 正確にはパサン族(パキスタン西北部とアフガニスタンとの国境地帯に住む部族)
 pathetic fallacy	感情的虚偽,感傷的誤謬(特に文学で,無生物に感情を付与した表現など)
 pathetic, pathetical	『哀れな』,悲しい,哀切な;『胸を打つ』 / 《軽べつして》ひどくまずい・無価値な
 pathfinder	(未開地の)道路発見者,先導者 / (物事の)草分け,開拓者 / (他の飛行機に爆弾投下地を明示する)照明弾投下飛行機;その操縦者
@@ -590,7 +774,6 @@ patient	(人が)『忍耐強い』,しんぼう強い,がまん強い / (行動�
 patiently	忍耐強く,根気よく
 patina	(青銅器などの)古さび,緑青(ろくしょう) / (時代物の家具などの)黒光り / (特に人の)貫ろく,威厳
 patio	(スペイン風住宅の)中庭 / (戸外の食事や談笑のための)テラス
-pâtisserie	(フランス風の)パン菓子店
 patois	お国なまり,方言(dialect)
 patrial	(父母のどちらか,あるいは祖父母のどちらかが英国生まれのため)英国居住権をもつ人
 patriarch	(男の)家長,族長 / (初期キリスト教会の)司教;(カトリック教会の)ローマ教皇;(教皇の次の)総大司教;(ギリシア教会の)主教 / 長老;古老
@@ -600,7 +783,6 @@ patriarchy	家父長制度(社会)
 patrician	(古代ローマの)貴族 / (一般に)貴族(aristocrat) / (古代ローマの)貴族の / 貴族的な;高貴な
 patricidal	父殺しの
 patricide	父殺しの行為;〈C〉父殺しをした人
-Patrick	聖パトリック(Saint(St.)~;389?‐461;イギリスの伝道師でアイルランドのキリスト教布教に力を注ぎ,その守護聖人となる)
 patrimonial	父親譲りの,世襲の
 patrimony	世襲財産,家督 / (一般に)財産,遺産(heritage) / (教会・僧院などの)基本財産
 patriot	『愛国者』, 志士; (P-) パトリオット (米軍の地［艦］対空ミサイル装置)
@@ -623,8 +805,6 @@ patter	〈雨などが〉パラパラ降る / 〈子供・動物などが〉パ�
 pattern	(壁紙・織物などの)『模様』,柄,デザイン / 『模範』,手本 / 『原型』,ひな型 / (行動・性質の)『型』,様式パターン / (…の型)・手本に従って)…'を'型どる,作る,まねる《+『名』+『upon』(『on, after』+『名』》 / …'を'模様をつける
 patty	《英》小さな肉パイ / 《米》パティ(薄い小さな円盤形に料理したもの)
 paucity	(…を)少量,少数,…欠乏《+『of』+『名』》
-Paul	聖パウロ(『Saint』(『St.』)~;?‐67?;キリストの使徒で新約聖書の書簡の著者)
-Paul Bunyan	ポール・バニヤン(伝説上の怪力無双の木材切出し人夫で米国民話の英雄)
 paunch	腹(belly);(特に)たいこ腹
 paunchy	たいこ腹の,ほてい腹の
 pauper	《古》生活保護者 / 貧乏人
@@ -667,20 +847,12 @@ payola	(レコードなどを宣伝してもらうように)ディスクジョ�
 payphone	公衆電話(特に硬貨を入れて作動する)
 payroll	給料支払い簿 / 《単数形》給料支払い総額
 payt.	payment
-Pb	lead(=ラテン語plumbum)の化学記号
-PBX	private branch exchange 私設電話交換局,私設電話組織
-PC	Peace Corps 平和部隊
-PCB	polychlorinated biphenyl ポリ塩化ビフェニール(強い毒性)
-PCP	phencyclidine pill パラフェナスレン(強い幻覚剤)
 pct.	percent
-Pd	palladiumの化学記号
 pd.	paid
-PDT	Pacific Daylight Time
 pea	『エンドウ』;エンドウ豆
 pea green	黄緑色の / 黄緑色,浅緑色
 pea-souper	《おもに話》濃霧
 peace	『平和』 / 《しばしばP-》『講和』[『条約』] / 《通例the ~》(社会の)『治安』,秩序 / (場所の)静けさ,穏やかさ / (心の)静けさ,穏やかさ
-Peace Corps	(米国の)平和部隊(発展途上国に米国から派遣される技術者・教育家などの集団)
 peace offering	和平(和解)のための贈り物 / (神に対する)感謝祭のお供え
 peace pipe	=calumet
 peaceable	平和を好む;おとなしい / 平和な,平和的な(peaceful)
@@ -691,7 +863,6 @@ peacekeeping	平和維持;(国連軍などの)平和維持活動 / 平和維持�
 peacemaker	調停者,仲裁者
 peacetime	平時
 peach	〈C〉『モモ』(『桃』) / 〈C〉桃の木 / 〈U〉黄色がかった桃色 / 〈C〉《a ~》《話》すてきなもの;かわいい娘 / 黄色がかった桃色の / (共犯者・仲間などを)密告する,裏切る《+『against』(『on, upon』)+『名』》 / …'を'裏切る
-Peach Melba	ビーチメルバ(モモにアイスクリームとイチゴジュースをかけたもの)
 peachick	クジャクのひな
 peacock	『雄クジャク』 / (一般に)『クジャク』 / 見え坊
 peacock blue	光沢のある青緑色
@@ -708,7 +879,6 @@ pearl	〈C〉『真珠』,パール / 〈C〉(形・光沢などが)真珠のよ
 pearl barley	(ついて白くした)精白麦,丸麦,つき麦
 pearl diver	真珠貝採集の潜水夫
 pearl fishery	真珠貝を採集(養殖)する海底
-Pearl Harbor	真珠湾(ハワイのホノルル近くにある米海軍の基地)
 pearly	真珠のような / 真珠をちりばめた
 peasant	(ヨーロッパなどの小さい農地を所有して耕作する)『農夫』;借地農民,小作農 / 《軽蔑して》小百姓;無学者
 peasantry	小農[階級]
@@ -790,15 +960,10 @@ peewee	異常に小さい人(物),ちび / =pewee / ちびっこの,非常に小
 peewit	=pewit
 peg	(木などの,おもに木工に用いる)『くぎ』,掛けくぎ;(たるなどの)『せん』;(テントなどの)『くい』 / (弦楽器の弦をしめる)ねじ / 《話》(評価などの)段階)degree) / (議論などの)きっかけ,口実 / 《話》(おもに野球で)送球 / …'を'『木くぎ』(『くい』)『でとめる』,'に'木くぎ(木くいを打つ《+『名』+『down』,+『down』+『名』》 / 〈物価・賃金など〉'を'仰える,安定させる / 《話》(おもに野球で〈ボール〉'を'投げる / 《話》…'を'認める,見定める
 peg leg	義足 / 義足をつけた人
-Pegasus	ペガサス(ギリシア神話で詩神ミューズの乗る翼のある天馬) / ペガサス座
 pegboard	(ゲームなどに用いる)くぎ差し板 / (くぎなどを差し込む穴のある)構図版
 pegmatite	巨晶花崗岩,文象花崗岩(断面に文字模様のついたもの)
 peignoir	(婦人用)化粧着,部屋着;(水泳後・湯上りに着る)ガウン
 pejorative	軽べつ的な;悪口として用いられる / 軽べつ語,誹謗(ひぼう)語
-Pekinese	=Pekingese
-Peking	ペキン(北京)(中華人民共和国の首都)
-Peking man	北京原人
-Pekingese	〈C〉北京人 / 〈U〉北京官話 / 〈C〉ペキニーズ(中国原産の愛玩用小型犬でチンに似ている) / 北京の
 pekoe	《しばしばP-》ペコー(スリランカ・インド・ジャワ産の高級紅茶)
 pelage	(哺乳動物の)毛,毛皮
 pelagic	遠洋の,外洋に住む(で行う)
@@ -809,17 +974,14 @@ pellet	(指で丸めたような)小球;小粒 / (空気銃の)小弾丸 / 丸�
 pellmell,pell-mell	《まれ》混乱して,めちゃくちゃに;あわてふためいて / めちゃくちゃの;あわてふためいた
 pellucid	(ガラス・流れなどが)透明な,澄んだ / (表現・文体が)明りょうな,明白な
 pelmet	(カーテン上部の金具をかくす)上飾り(《米》valance)
-Peloponnesus	ペロポネソス半島(ギリシア南部の半島)
 pelt	〈石など〉'を'(…に)立て続けに投げる《+『名』〈石など〉+『at』+『名』》;…'に'(石などを)投げて攻撃する《+『名』+『with』+『名』〈石など〉》 / 〈打撃・砲弾・雨などが〉…'を'続けて打つ / 〈雨などが〉激しくたたきつけるように降る《+『down』》 / 急いで走る,疾走する / 強打 / (動物)生皮,毛皮
 pelves	pelvisの複数形
 pelvic	骨盤の
 pelvis	骨盤
 pemmican,pemican	ペミカン(乾操した肉の粉をこねた保存食料)
 pen	〈C〉(インクを用いる筆記具全体をさして)『ペン』;万年筆,ボールペン,フェルトペン;ペン先 / 〈U〉《the~》文筆,著述 / 〈C〉《単数形で》《文》文筆家 / 《気どって》…'を'書く,著す(write) / 〈C〉(家畜などを入れる)『おり』 / 《集合的に》おりの中の動物 / 〈C〉(監禁・保護に使われる)囲い,幼児用遊びわく(playpen) / (囲い・ありなどに)…'を'入れる,閉じ込める,監禁する《+『名』+[『up』]『in』+『名』》 / 刑務所[penitentiaryの短縮形]
-PEN	International Association of Poets,Playwrights,Editors,Essayists,and Novelists国際ペンクラブ(1922年創設)
 pen friend	=pen pal
 pen pal	ペンパル,文通仲間(《英》pen friend)
-Pen.,pen.	peninsula
 pen pusher	《軽べつして》事務員,書記
 pen-and-ink	《名詞の前にのみ用いて》ペンで書いた
 penal	(特に,法的な)刑罰の / 刑事上の
@@ -831,7 +993,6 @@ penalty	『刑罰』,処罰 / (ある行為・状態に伴う)不利益 / 『罰
 penalty area	(サッカーの)反則区域
 penalty clause	罰則
 penance	(罪の償いのための)ざんげ,(罪滅ぼしの)苦行《+『for』+『名』》 / (カトリックで)ざんげの秘跡,告解
-Penates	(ローマ神話で)家の守り神,ペナテス
 pence	pennyの複数形
 penchant	(…に対する)強い好み《+『for』+『名』(do『ing』)》
 pencil	〈C〉〈U〉鉛筆 / 〈C〉鉛筆状のもの,(棒状の)化粧品 / …'を'鉛筆などで書く(描く,印をつける)
@@ -859,14 +1020,11 @@ penknife	(壊中用の)小型ナイフ
 penlight,penlite	ペンライト(万年筆形の壊中電灯)
 penman	字のうまい人 / 書く人;著者,作家
 penmanship	文字を書く技能;習字;筆跡
-Penn.,Penna.	Pennsylvania
 penname	ペンネーム,筆名,雅号
 pennant	ペナント(おもに船の信号用の長く先細の三角旗) / 《米》(特に野球などの)優勝旗;応援旗
 penniless	一文なしの
 pennon	槍旗(三角形または燕尾(えんび)形で騎士が槍につけた) / (一般に)旗
 pennorth	=pennyworth
-Pennsylvania	ペンシルバニア州(米国東部の州で,州都はHarrisburg…《略》『Pa.,PA,Penn.,Penna.』)
-Pennsylvanian	ペンシルバニア州の人(住民) / (地質時代の)ペンシルバニア紀[系] / ペンシルバニア州の / ペンシルバニア紀[系]の
 penny	(米国・カナダの)『1セント銅貨』,セント / 『ペニー』(《英》の貨幣単位およびその銅貨で,1971年以降の新ペニーは1/100ポンド,旧ペニーは1/12シリング=1/240ポンド) / (一般に)金銭,金額
 penny arcade	遊園地などで小銭で遊ぶ設備の並んだゲーム場
 penny pincher	けちん坊,しみったれ
@@ -891,9 +1049,7 @@ pentagon	五角形,五辺形 / 《the P-》ペンタゴン(Arlingtonにある米
 pentagonal	五角形の,五辺形の
 pentagram	=pentacle
 pentameter	(詩の行の)五歩格,五歩格の詩 / 五歩格の
-Pentateuch	《the~》モーセの五書(旧約聖書の初めの5巻)
 pentathlon	五種競技
-Pentecost	ペンテコステ,五旬節(過越しの祭りのあと50日目に行われるユダヤ人の祭り) / 聖霊降臨祭(Whitsunday)(復活祭後の7日曜日;使徒たちに聖霊がくだったのを祝うキリスト教の祭り)
 penthouse	ひさし,差し掛け屋根 / (ビルの屋上などに作った,通例テラスつきの)屋上住宅
 penuche	黒砂糖キャンディ(黒砂糖・ミルクなどを入れて作るキャンディ)
 penultimate	最後から2番目の / 語尾から2番目の音節の / 語尾から2番目の音節
@@ -918,14 +1074,13 @@ peppery	こしょうの;こしょうのような,ぴりっとする / (言葉・
 pepsin	ペプシン(胃液中の蛋白質分解酵素) / ペプシン剤,消化剤
 peptic	消化を助ける,消化力のある / ペプシンの,消化液が引き起こす / 消化剤;《複数形で》消化器官
 per	…『につき』,…ごとに / 《文》…によって,…で,…を通じて / 《しばしば『as per』…で》…によって示された通りに,…に従って
-per.	period / person
-Per.	Persia / Persian
 per annum	1年ごとに,1年につき《略》『per an』.
 per capita	一人当たり,頭割りで,各人に
 per contra	これに反して(on the contrary);(取引きなどで)相手方で(に)
 per diem	1日につき(per day)
 per head	一人当り,各人に,頭割りで
 per se	それ自体は(で)(in itself),本質的に
+per.	period / person
 peradventure	たぶん,おそらく / 《『if』または『lest』の後に用いて》偶然に,ひょっとして
 perambulate	〈場所〉'を'歩き回る,巡回する / 歩き回る
 perambulation	歩き回ること,巡回
@@ -989,7 +1144,6 @@ perfunctory	(行為が)形式的な,おざなりの,うわべだけの / (人が
 pergola	パーゴラ(つる草などをまといつかせたあずま屋・たな)
 perh.	perhaps
 perhaps	『おそらく』,ことによると,ひょっとしたら,たぶん
-Pericles	ペリクレス(495?‐429 B.C.古代アテネの将軍・政治家：貴族会議の権限を奪い民主的改革を断行、デロス同盟への支配力を高めアテネの黄金時代を築いた)
 perigee	《通例単数形で》近地点(衛星や宇宙船などが地球に最も近づく位置)
 perihelion	《通例単数形で》近日点(太陽系の天体が太陽に最も近づく位置)
 peril	〈U〉(差し迫った大きな)『危険』,危難,危機 / 〈C〉危険をもたらすもの / …'を'危険にさらす
@@ -1028,7 +1182,6 @@ perk	〈頭・尾など〉'を'ぴんと上げる《+『up』+『名,』+『名�
 perkily	活発に元気よく,意気揚々と
 perkiness	活発さ,意気揚々,快活
 perky	活発で元気のよい,意気揚々とした
-Perl	テキスト処理のためのスクリプト言語。
 perm	《英話》〈髪〉'に'パーマをかける / =permanent wave / (サッカーなどの賭けで)多額の配当金・賞金をねらって可能性のあるチーム名を組み合わせること / 《英話》(多額の賞金をねらって)(…から)〈チーム名〉'を'選び組み合わせる《+『名』+『from』+『名』》
 permafrost	(北極・亜北極地方の)永久凍土層
 permanence	(…の)永久不変性,永続性《+『of』+『名』》
@@ -1044,7 +1197,6 @@ permeability	浸透性
 permeable	浸透できる, 浸透性の;(…に)浸透する《+『to』+『名』》
 permeate	…'に'しみ通る, 浸透する / 〈煙などが〉…'に'広がる,いっぱいになる;〈思想などが〉…'に'広がる,普及する / (…に)しみ渡る《+『through』(『in, into』)+『名』》 / 〈煙・思想などが〉(…に)広がる,普及する《+『through』(『throughout, among』)+『名』》
 permeation	浸透;普及
-Permian	(地質の年代で)二畳紀の / 二畳紀
 permissible	許すことのできる,差し支えない
 permissibly	許されて,差し支えなく
 permission	『許可』,承諾
@@ -1073,17 +1225,12 @@ perplexed	当惑した,まごついた / こみいった,めんどうな
 perplexity	〈U〉困惑,当惑;〈C〉困ったこと
 perquisite	《話》臨時収入;(合法的な)役得
 pers.	person / personal
-Pers.	Persia / Persian
 persecute	(特に宗教上・政治上の理由で)〈人〉'を'『迫害する』《+『名』+『for』+『名』(do『ing』)》 / (…で)〈人〉'を'うるさく悩ます《+『名』+『with』+『名』》
 persecution	(特に,異教徒・異種族・政治的対抗者などに対する)迫害,虐待;迫害(虐待)されている状態
 persecutor	迫害者
 perseverance	『がん張ること』,がん張り,ねばり
 persevere	(…を)じっとがまんしてする,あくまでもやり抜く《『in』(『at, with』)+『名』(do『ing』)》
 persevering	根気のよい,あくまでもやり抜く
-Persia	ペルシア(1935年Iranと改称した)
-Persian	ペルシアの;ペルシア人(語)の / 〈C〉ペルシア人 / 〈U〉ペルシア語
-Persian cat	ペルシア猫
-Persian Gulf	《the~》ペルシア湾(アラビアとイランの間の海)(Arabian Gulf)
 persiflage	軽口,ひやかし,茶化し
 persimmon	カキの木;その果実
 persist	(困難・障害に屈せず)『あくまでも続ける』(『やり抜く』),がん張る,固執する / 『存続する』,生き残る
@@ -1133,11 +1280,9 @@ pertinence	適切さ,妥当性
 pertinent	直接の関係がある
 perturb	〈人・人の心〉'を'非常に不安にさせる(心配させる)
 perturbation	〈U〉動揺,不安;混乱 / 〈C〉不安(混乱)のもと
-Peru	ペルー(南米の共和国;首都はLima)
 peruke	=periwig
 perusal	(…を)熟読(精読)すること,(…の)綿密な調査,精査《+『of』+『名』》
 peruse	…'を'熟読する,精読する;(単に)…'を'読む,通読する(read)
-Peruvian	ペルーの;ペルー人の / ペルー人
 pervade	〈におい・感情などが〉…'に'みなぎる
 pervasion	一面に広がること,みなぎること;普及;浸透
 pervasive	広がる,みなぎる;普及する
@@ -1164,14 +1309,12 @@ pestilent	死をもたらす,致命的な / 悪影響のある / 《話》やっ
 pestilential	悪疫(腺ペスト)の;悪疫をもたらす / 有害な;破壊的な / 《話》やっかいな,うるさい
 pestle	乳棒(にゅうぼう) / …'を'乳棒(すりこぎ)でつぶす
 pet	『愛がん動物』,ペット / 《単数形で》お気に入りの人(物) / (動物などが)愛がん用の,ペットの / (名前などが)愛情を表す / お気に入りの;お得意の / …'を'愛撫(あいぶ)する,かわいがる / (ささいなことについての)不きげん,すねること
-pet.	petroleum
-Pet.	Peter
 pet name	愛称
+pet.	petroleum
 petal	花弁,花びら
 petaled,petalled	花弁(花びら)のある
 petard	(ベル形の)小型爆破道具(城門・城壁などを破るにの用いた)・(城門破壊用)爆薬; 爆竹
 peter	しだいに衰えてなくなる(消える)《+『out』》
-Peter	ペテロ(『Saint』(『St.』)~;?‐67?;聖ペテロ(キリストの12使徒のひとり)) / (新約聖書の)ペテロの手紙
 peterman	金庫破り
 petiole	(葉の)葉柄(ようへい)・(動物)柄部
 petit	(法律用語で)小さい,ささいな
@@ -1183,7 +1326,6 @@ petition	(正式の)『請願書』,陳情書 / 『請願』,陳情 / …'に'�
 petitioner	請願者,嘆願者
 petnapping	ペットを誘拐すること
 petrel	ウミツバメ
-Petri dish	ペトリ皿(細菌培養などに用いる,ゆるいふたの付いた浅いガラス製またはプラスチック製の透明な皿)
 petrifaction	石化[作用];〈C〉石化物,化石
 petrify	〈有機物など〉'を'石化する,化石にする / (恐怖・驚きなどが)〈人〉'の'体を石のようにする,すくませる / 〈有機物などが〉石化する / 〈人が〉身をすくませる
 petrochemical	石油化学製品 / 石油化学[製品]の
@@ -1216,12 +1358,8 @@ pewit, peewit	=lap-wing
 pewter	白目(しろめ)(すずを主成分とした合金;昔,台所用品に用いた) / 《集合的に》白目製品 / 白目製の
 peyote	ペヨーテ(= ウバタマ:メキシコ中部から米国テキサス州南部原産サボテンの一種・幻覚をもたらす成分であるメスカリンを含有する)・ それから得られる幻覚剤
 pf.,pfd.	preferred(株式が)優先の
-Pfc.	private first class
 pfennig	ペニッヒ(西ドイツ青銅貨;1/100ドイツマルク)
-PG	parental guidance(映画の観客指定で)親の認可[映画]
 pg.	page
-pH	ペーハー(水素イオン濃度指数)
-Ph.D.	Doctor of Philosophy(哲学博士;アメリカの大学院によって与えられるあらゆる分野の最高学位)
 phaeton	フェートン(昔の2頭立て四輪馬車)
 phage	=bacteriophage
 phagocyte	食細胞(異物・バクテリアなどの細胞を処理する血球)
@@ -1236,7 +1374,6 @@ phantasy	= fantasy 空想 幻想 気まぐれ
 phantom	幽霊,お化け(ghost) / (心に浮かぶ) 幻影, 幻像 / 幻の,幽霊のような
 pharaoh	ファラオ(古代エジプト王の称号;聖書訳では「パロ」)
 pharisaic, pharisaical	形式主義的な,偽善的な / 《しばしばP-》パリサイ人の
-Pharisee	パリサイ[派の]人(律法と慣習を厳守した古代ユダヤ教の一派) / 《P-》(独善的な)偽善者
 pharm.	pharmaceutical / pharmaceutically / pharmaceutics
 pharmaceutical	調剤の,製薬の,薬学の / 調合薬,薬剤(drug)
 pharmaceutics	=pharmaceutical / 薬学
@@ -1245,7 +1382,6 @@ pharmacologist	薬理学者,薬物学者
 pharmacology	薬学,薬物学,薬理学
 pharmacopoeia	薬局方,調剤書 / 薬物類
 pharmacy	〈U〉薬学;調剤術 / =drugstore
-Pharos	《the~》ファロス灯台(エジプトのアレクサンドリアのファロス島にあった大灯台で,世界七不思議の1つ) / 〈C〉《p-》灯台
 pharyngitis	咽頭(いんとう)炎
 pharynx	咽頭(いんとう)
 phase	(変化・発達の)『段階』,『局面』 / (物事の)『面』,様相《+『of』+『名』》 / (月・惑星などの)相 / …'を'段階的に調整(整理)する
@@ -1260,11 +1396,8 @@ phenomenon	『現象』 / 驚くべきこと(物),非凡な人
 phenotype	表現型(遺伝子の作用と環境によって表面に出る性質)
 phew	ちぇっ(いらだち・驚き・不快・嫌悪などを表す声);ふうー(疲労・安堵(あんど)などを表す声)
 phi	ファイ(ギリシア語アルファベットの第21字Ф,φ;英語のphに相当)
-Phi Beta Kappa	(全米的に組織をもつ)優等学生クラブ(1776年設立)
 phial	=vial
 phil.	philosophical / philosophy / philosopher / philology
-Philadelphia	『フィラデルフィア』(米国Pennsylvania州の大都市;1776年7月4日,米国独立宣言の行われた所)
-Philadelphia lawyer	腕ききの弁護士
 philander	〈男が〉戯れに恋をする,恋をもてあそぶ
 philanderer	戯れに恋をする男
 philanthropic,philanthropical	博愛の,慈善の
@@ -1275,11 +1408,7 @@ philatelist	切手収集家,切手研究家
 philately	切手収集,切手研究
 philharmonic	音楽を愛する / 音楽協会の;交響楽団の / 交響楽団;音楽協会;(音楽協会の催す)音楽会
 philhellene	ギリシア[人]支持者,ギリシア[人]びいき
-Philip	ピリポ(キリストの12使徒のひとり)
 philippic	痛烈な弾劾(だんがい)演説
-Philippine	(またFilipine)フィリピン[人]の
-Philippines	フィリピン共和国(正式にはthe Republic of the Philippines) / 《複数扱い》フィリピン諸島
-Philistine	ペリシテ人(紀元前12世紀ごろパレスチナ西部にいて,ユダヤ民族を圧迫した民族) / 《時にp-》(考え方・趣味について)教養に欠ける人,偏狭な人 / ペリシテ人の / 《時にp-》教養のない,偏狭な
 philol.	philological / philology
 philological	文献学の,言語学の;文献(言語)学的な
 philologist	言語学者;文献学者
@@ -1298,11 +1427,8 @@ phlegm	痰(たん) / 冷淡,冷静;鈍感,無気力;粘液質
 phlegmatic,phlegmatical	痰(たん)の / 冷淡な,冷静な;鈍感な,無気力な
 phloem	師部,師管部(植物の維管束を組織する)
 phlox	フロックス,クサキョウチクトウ
-Phnom Penh	プノンペン(カンボジアの首都)
 phobia	(…に対する)恐怖症,病的恐怖(嫌悪)《+『about』+『名』(do『ing』)》
 phoebe	フェーベ(ヒタキ類の北米産の小鳥;その名は鳴き声に由来する)
-Phoenicia	フェニキア(地中海の東部沿岸にあった古代国家)
-Phoenician	フェニキアの;フェニキア人の;フェニキア語の / フェニキア人;〈U〉フェニキア語
 phoenix	不死鳥,フェニックス(エジプト神話の霊鳥;500年ごとに自ら焼け死んで生まれかわるという)
 phone	〈U〉〈C〉『電話』;〈C〉『電話機』,受話器 / …'に'『電話をかける』 / 『電話をかける』 / 音(おん),音声単音
 phone collect	…'に'先払いで長距離電話をかける
@@ -1363,13 +1489,11 @@ photoplay	劇映画
 photosensitive	感光性の
 photosensitize,photosensitise	…'に'感光性を与える
 photosphere	光球(太陽や星の表面の白熱光を放つ薄い層)
-Photostat	フォトスタット複写写真機 / 《しばしばp-》フォトスタットによる複写写真 / 《p-》…'を'フォトスタットで複写する
 photostatic	フォトスタットの,複写写真[機]の
 photosynthesis	(緑色植物の)光合成
 phototaxis	走光性(生物が光源へ向かったり離れたりする運動)
 phototropism	(植物の)屈光性,向日性
 photovoltaic	光電池の
-PHP	Hypertext Preprocessor PHP(オープンソースで開発されているプログラミング言語)
 phr.,phrs.	phrase
 phrasal	句の,句からなる
 phrasal verb	動詞句(副詞や前置詞を伴って慣用的な意味を持つ動詞)
@@ -1379,7 +1503,6 @@ phraseology	言い回し,語法;(個人・特殊社会の)用語
 phrenetic	=frenetic
 phrenic	横隔膜の / (生理学上の意味で)精神の,精神活動の
 phrenology	骨相学,フレノロジー
-PHS	Public Health Service(米国の)公衆衛生局
 phthisis	(特に重症の)肺結核
 phut	ポン,パン(なにかが破裂するようなにぶい音)
 phylactery	(ユダヤ教の)経札,聖句箱
@@ -1422,10 +1545,7 @@ pic	映画 / 写真[pictureの短縮形]
 pica	パイカ活字;(特に1インチに10字打てる)タイプライター用パイカ活字 / 〈C〉パイカ(行の幅の単位;約4.2ミリ)
 picador	ピカドール(闘牛の初めにやりで牛の首を突き,おこらせる役)
 picaresque	(物語が)悪漢を題材として
-Picasso	ピカソ(『Pablo』 ~;1881‐1973;スペイン生まれのフランスの画家・彫刻家)
 picayune	少しばかりの;つまらない / (考えなどが)けちくさい
-Piccadilly	ピカデリー街(ロンドンの中心部の大通り・商店・クラブで有名)
-Piccadilly Circus	ピカデリーサーカス(ロンドンのピカデリー街の東端にある繁華な広場)
 piccalilli	ピカリリー(野菜に香辛料・酢を加えたつけ合わせ)
 piccaninny,pickaninny	黒人の子供
 piccolo	ピッコロ(フルート(flute)より高い音の管楽器)
@@ -1466,17 +1586,14 @@ pie	パイ / =pi
 pie-eyed	酔っぱらった
 piebald	(特に馬などが)白黒まだらの / (特に)白黒まだらの馬
 piece	(全体から分離した)『部分』,『断片』,破片 / (…の)…『個』,『片』,枚《+『of』+『名』》 / (セット・グループを構成するものの)一つ;(ゲームで使う)こま,チェスの歩(pawn)以外のこま / 《英》硬貨(coin) / (音楽・美術・文学などの)作品《+『of』+『名』》 / 銃,砲,ピストル / 《単位として》(布などの)1反,一巻き《+『of』+『名』》;《the~》仕事量 / 《俗》(性交の対象としての)女 / …'を'継ぎ合わせる / …'を'継ぎ合わせて作る / …'を'繕う
-pièce de résistance	〈C〉おもな料理 / 主要な物(事件)
 piece goods	反物
 piecemeal	一つ一つ,少しずつ・ひとつずつ，少しずつ; 漸次・ばらばらの・断片的な，ひとつ[少し]ずつの・ばらばらに(into pieces)・断片的な,少しずつなされる
 piecework	出来高払いの仕事
 pieceworker	出来高払いの仕事をする人
 piecrust	パイの皮
 pied	まだらの,ぶちの
-Pied Piper	《the~》(ドイツ民間伝説の)まだら服の笛吹き(Hamelin(ハメリン)の町のネズミを退治したが,約束の礼金がもらえず,笛の音で町じゅうの子供たちを誘い出し山中の洞くつに隠した) / 〈C〉誤導をする人
 pied-à-terre	仮の住まい(宿)
 pier	『船着き場』,さん橋(さんばし),埠頭(ふとう) / 橋脚 / (窓と窓の間の)窓間(まどあい)壁
-Pier rot	ピエロ,道化役
 pierce	〈物が〉…'を'『突き刺す』,'に'突き通る;〈人が〉(ナイフなどで)…'を'突き通す《+『名』+『with』+『名』》 / 〈穴〉'を'突いてあける / …'を'洞察する / 〈寒さ・痛み・悲しみなどが〉〈人・人の心・体〉'を'突き通す,刺す / 〈光・声などが〉…'を'鋭くさし込む / 『突き刺さる』,(…に)突き刺さる《+『in(into, to)』+『名』》,(…を)突き抜ける《+『through』+『名』》
 piercing	刺し通すような;身にしむ
 pieta	〈C〉聖母マリアがキリストの遺体を膝に置きながら嘆く像や絵
@@ -1485,8 +1602,8 @@ piezoelectricity	ピエゾ電気,圧電気(ある種の石への圧力で生ず�
 piffle	たわごと
 piffling	むだな,無意味な / 取るに足りない
 pig	〈C〉『豚』;子豚 / 〈U〉豚肉(pork) / 〈C〉《話》豚のような人(不潔な人,食いしんぼう,欲張り,非常に太った人など) / 〈C〉なまこ(型に流しこんで作った鉄・鉛などの金属塊);なまこを作る型;銑鉄(せんてつ)(pig iron) / 《俗》《軽べつして》おまわり
-pig iron	銑鉄(せんてつ)
 pig Latin	(子供が使う)さかさ言葉(語頭の子音を語尾に回し‐ayをつける;speakをeakspayと言うなど)
+pig iron	銑鉄(せんてつ)
 pig sticking	(スポーツとして馬に乗りやりを使う)イノシシ狩り
 pigeon	(野生のまたは飼育されている)『ハト』 / 《俗》だまされやすい人,のろま,かも
 pigeon-chested	(人が)はと胸をした
@@ -1513,7 +1630,6 @@ piker	しみったれ,けち
 pikestaff	やりの柄 / 先にとがった金属のついたステッキ
 pilaf,pilaff	プラフ(肉や野菜や香料を加えたいためご飯)
 pilaster	つけ柱,柱形(はしらがた)(壁の一部を張り出させて作った柱)
-Pilate	ピラト(『Pontius~』;キリストを十字架につけたローマの総督)
 pilau	=pilaf
 pilchard	ニシン科の魚
 pile	〈C〉(…の)『積み重ね』《+『of』+『名』》 / 《話》『多数』(…の),たくさん(の…),大量(の…)《+『of』+『名』》 / 《a~》《話》大金 / 〈C〉大建築物[群] / 〈C〉=nuclear reactor / 《副詞[句]を伴って》…'を'『積み重ねる』,積み上げる / (…を)〈容器〉'に'積み上げる,盛る《+『名』+『with』+『名』》 / …'を'蓄積する,ためる《+『up』+『名,』+『名』+『up』》 / 『積み重なる』,積もる《+『up』》 / 《話》《方向・状態を表す副詞[句]を伴って》どやどやと動く / (建物の土台の)くい,パイル / …'を'くいを打ち込む,くいで補強する / 柔らかい毛,綿毛,むく毛 / (タオル地・じゅうたんなどの)けば;パイル織物
@@ -1524,7 +1640,6 @@ pilfer	こそとろをする,ちょろまかす / 〈少額・少量〉'を'盗�
 pilferage	〈U〉こそどろ,ちょろまかし / 〈C〉盗品
 pilferer	こそどろ
 pilgrim	(…への)『巡礼者』《+『to』+『名』》 / (一般に)重要な長旅をする人 / 《P-》Pilgrim Fathersの一人
-Pilgrim Fathers	1620年Mayflower号でアメリカへ渡りPlymouthで植民を始めた英国清教徒たち
 pilgrimage	〈C〉巡礼,巡礼の旅 / 〈C〉(特に重要な意味をもつ)長旅
 piling	《集合的に》たくさんのくい / たくさんのくいで作った物
 pill	『丸薬』;《the pill》《話》ピル(経口避妊薬) / (耐えなければならない)不快なこと,苦しいこと / 《通例単数形で》《俗》いやなやつ
@@ -1577,7 +1692,6 @@ pinewood	〈C〉《しばしば複数形で;単数扱い》松林 / 〈U〉松�
 piney	=piny
 pinfeather	鳥のうぶ毛
 ping	(小銃弾などの)ピュー(ブーン)という音 / ピュー(ブーン)と音がする
-Ping-Pong	=table tennis
 pinhead	ピンの頭 / (ピンの頭のように)小さいもの / ばか者,まぬけ
 pinhole	針穴;(一般に)ごく小さい穴
 pinion	鳥の翼;(特に)翼の先端部,羽先 / (飛べないように)〈鳥〉'の'羽先を切る(縛る) / 〈人〉'を'はがい締めにする;(…に)〈人の手足〉'を'しばりつける《+『名』〈人〉+『to』+『名』》 / (大歯車にかみ合う)小歯車
@@ -1640,7 +1754,6 @@ pirate	『海賊』,海賊船 / 著作(特許)権侵害者,剽窃(ひょうせ�
 piratical	海賊の / 著作権を侵害する
 pirouette	ピルエット(ダンス・バレエのつま先旋回) / つま先旋回する
 piscatorial	漁夫の,漁業の,漁業に従事する
-Pisces	魚座(うおざ)(the Fishes);双魚宮
 pismire	アリ
 piss	おしっこする・…'を'おしっこでぬらす・「piss誰々off」で「誰々を怒らせる」
 pissed	酔っぱらった
@@ -1674,7 +1787,6 @@ pitfall	(動物を捕らえる)落とし穴 / 《比喩(ひゆ)的に》隠さ�
 pith	(植物の茎の中の)髄;(果実などの)やわらかい部分 / 《the ~》(…の)重要な部分,要点《+『of』+『名』》
 pith helmet	日よけ用の軽いヘルメット
 pithead	坑道入口
-Pithecanthropus	ピテカントロプス,直立猿人
 pithily	簡潔に
 pithy	髄の;髄のある / 簡潔で要領を得た
 pitiable	哀れな,悲しむべき
@@ -1687,7 +1799,6 @@ pitot tube	ピトー管(流体の速度を測る器具)
 pittance	わずかの手当(収入)
 pitted	あばたのある
 pitter-patter	(足音などの)パタパタ,(雨の)パラパラ / パタパタと,パラパラと
-Pittsburgh	ピッツバーグ(米国Pennsylvania州の都市)
 pituitary	脳下垂体の(から得られた) / =pituitary gland
 pituitary gland	脳下垂体
 pity	〈U〉(…に対する)『あわれみ』,同情《+『for』+『名』》 / 〈C〉『残念』(『遺憾』)『なこと』,惜しいこと,気の毒なこと / (…で)…'を'『気の毒に思う』,あわれむ,'に'同情する《+『名』+『for』+『名』(do『ing』)》
@@ -1700,6 +1811,7 @@ pizazz,pizzazz	精力,元気 / 魅力的なスタイル
 pizza	ピッツァ,ピザ(チーズ・トマトなどをパイ皮にのせて焼いた料理)
 pizzeria	ピッツァ(ビザ)の製造(販売)店
 pizzicato	ピチカートの(弦楽器の弦を指ではじく奏法) / ピチカートで / ピチカートで演奏される部分
+pièce de résistance	〈C〉おもな料理 / 主要な物(事件)
 pk.	pack / park / peak / peck
 pkg.	package
 pkwy.	parkway
@@ -1735,7 +1847,6 @@ plainchant	=plainsong2
 plainclothes	(警官が勤務中に)私服を着ている
 plainly	『はっきりと』,明白に / 『率直に』,ありのままに / 『簡素に』,質素に
 plainness	明白さ / 率直さ / 地味 / 平凡
-Plains Indian	平原インディアン(もと北米大平原地帯the Great Plainsに住む)
 plainsman	平原(草原)の男の住民
 plainsong	=Gregorian chant / (またplainchant)(中世の)無伴奏教会聖歌
 plainspoken	遠慮なく(率直に)言った
@@ -1804,10 +1915,7 @@ platinum	プラチナ,白金(化学記号は『Pt』)
 platinum blonde	薄い銀白色に染めた髪の女性,プラチナブロンドの女
 platitude	ありきたりの発言,平凡な文句
 platitudinous	平凡な,陳腐な / 平凡(陳腐)な文句をよく使う
-Plato	古代ギリシアの哲学者プラトン（紀元前427–347年頃）
-Platonic	プラトンの;プラトン哲学(学派)の / 《p-》純精神的な
 platonically	プラトン的に,プラトニックに,精神的に
-Platonism	プラトン哲学(学派) / 《p-》精神的恋愛
 platoon	(兵隊・警察官・消防夫の)小隊(中隊(company)を作る) / (アメリカンフットボールで)それぞれ攻撃・防御のどちらかを受け持つ一団
 platoon sergeant	(米軍の,指揮権をもたない)軍曹
 platter	《米》(食物を盛る,通例長円形の浅い)大皿 / (…の)大皿1杯分《+『of』+『名』》 / 《米俗》音盤,レコード
@@ -1868,7 +1976,6 @@ plebiscite	(重要問題に対する)国民投票
 plectrum	(ギター・マンドリンなどをひくための)つめ,ピック
 pled	pleadの過去・過去分詞
 pledge	〈C〉〈U〉『誓約』,固い約束 / 〈C〉(…の)担保,抵当品《+『of』(『for』)+『名』》 / 〈U〉『担保』,『抵当』,質入れ / 〈C〉(友情・忠誠などの)印,あかし《+『of』+『名』》 / 〈C〉《文》乾杯(toast) / …'を'『誓約する』,堅く約束する / 〈人・自分〉'に'誓約させる / …'を'担保(抵当)に入れる / 《文》…'の'ために乾杯する
-Pleistocene	(地質時代で)洪積(更新,最新)世(統)
 plena	plenumの複数形
 plenary	(権力など)全部備えた,最大限の / (会議など)全員出席の
 plenipotentiary	(特に外交使節などが)全権を有する / 全権大使(使節)
@@ -1881,7 +1988,6 @@ plethora	(…の)過多,過度(+『of』+『名』)
 pleura	ろく膜,胸膜
 pleural	ろく膜の,胸膜の
 pleurisy	ろく膜炎
-Plexiglas	プレキシガラス(標識・飛行機の窓などに用いるガラスの商標名)
 plexus	(神経・血管などの)網状組織
 pliability	(物の)柔軟さ / (性質・性格の)柔軟さ,柔順
 pliable	(物が)曲がりやすい,柔軟な / (人の性質などが)素直な,柔軟な
@@ -1890,10 +1996,7 @@ pliant	(物が)曲げやすい,柔軟な,しなやかな / (人の性質など�
 pliers	《複数形》やっとこ,ペンチ
 plight	苦境,窮状 / …'を'誓う;〈人・自分〉'に'(…の)誓約をさせる《+『名』〈人〉+『to』+『名』》
 plimsoll	《複数形で》《英》ゴム底ズック靴,運動靴(《米》sneaker)
-Plimsoll line	満載喫水線(貨物の積載を制限するため船体につけた線)・プリムソル標・= Plimsoll mark
 plinth	(円柱の)方形台座;(彫像が置かれる)台石,台座
-Pliocene	(地質時代で)鮮新世の / 鮮新世(第三紀の最後の世)
-PLO	Palestine Liberation Organizationパレスチナ解放機構
 plod	《方向を表す副詞[句]を伴って》重い足取りで歩く,とぼとぼ歩く《+『on』(『along』,『away』》 / (…に)こつこつと取り組む《+『away』(『along』)『at』(『through』)+『名』》 / とぼとぼ歩くこと)
 plodder	とぼとぼ歩く人 / こつこつ働く(勉強する)人
 plodding	とぼとぼ歩く / こつこつ導く(勉強する)
@@ -1903,7 +2006,6 @@ plosive	(音声で)破裂音([p],[b],[t]など) / 破裂音の
 plot	『小区画の土地』,小地所 / (小説・劇などの)『筋』,プロット / 『陰謀』,たくらみ / 〈悪事〉'を'『ひそかに計画する』,たくらむ / (地図・海図などに)…'を'書き込む;…'の'図表(図面)を作る / 〈土地〉'を'区画する《+『out』+『名,』+『名』+『out』》 / (…に対して…の)『陰謀を企てる』,たくらむ《+『against』+『名』+『about』(『toward』)+『名』(do『ing』)
 plotter	陰謀者 / 地図(図面)作成者
 plough	=plow
-Plough	北斗七星(《米》Big Dipper)
 ploughboy	=plowboy
 ploughman	=plowman
 ploughman's lunch	(ビールにパンとチーズ)の簡単な昼食
@@ -1945,20 +2047,14 @@ plus	『…を加えて,を足して』 / 《話》『…に加うるに』,と�
 plus fours	(特に昔のひざ下まであるゴルフ用)半ズボン
 plush	フラシ天(ビロードの一種で厚いけばがある) / 豪華な,ぜいたくな
 plushy	フラシ天(plush)のような / 《話》豪華な,ぜいたくな
-Plutarch	プルターク(46?‐120?;ギリシアの歴史家で英雄伝の作者)
-Pluto	プルート(ギリシア・ローマ神話の冥界(めいかい)の王) / 冥王(めいおう)星
 plutocracy	〈U〉金権政治 / (政治を左右する)富豪階級,財閥
 plutocrat	金権のある人
 plutocratic	金権政治[家]の
 plutonium	プルトニウム(放射性元素;化学記号はPu)
 pluvial	雨の,雨の多い;雨水作用による
 ply	(重ねた布・合板・紙などの)(…)層,重 / (糸・縄など)…本をよった / 〈道具など〉'を'『せっせと使う』 / 〈仕事〉'に'従事する,〈商売〉'に'励む / (…を)〈人〉'に'しきりにする,しつこくする《+『名』+『with』+『名』》 / 〈船・自動車などが〉…'を'定期的に通う / (…の問を)〈船・自動車などが〉定期的に往復する《+『between』+『名』》
-Plymouth	プリマス 英国南西岸の港市・軍港;1620年メイフラワー号の出航地 / 1620年メイフラワー号に乗った英国の清教徒が初めて上陸した米国東岸の港
-Plymouth Colony	プリマス植民地(1620年の12月に米国Massachusetts州にPilgrim Fathersによって設立された)
 plywood	合板
-Pm	promethiumの化学記号
 pm.	premium
-PM,P.M.	paymaster / Police Magistrate / Postmaster / postmortem / Prime Minister / Provost Marshal
 pmk.	postmark
 pmt.	payment
 pneumatic	空気の,気体の / 圧縮空気の詰まった / 圧縮空気で動く,空気作用の
@@ -1966,11 +2062,8 @@ pneumatically	圧縮空気を含んで,圧縮空気の作用で
 pneumatics	気学,気体力学
 pneumoconiosis	肺塵(じん)症(塵やほこりを吸いこんで起こる肺の病気)
 pneumonia	肺炎
-Po	poloniumの化学記号
 poach	(卵・魚など)'を'熱湯に落として煮る / (…を)密猟(密漁)する《+『for』+『名』》 / (狩猟や釣りのために)…'に'侵入する《+『on』(『upon』)+『名』》 / …'を'密猟(密漁)する,盗み取る / (狩猟や釣りなどのために)…'に'侵入する
 poacher	密猟(密漁)者,侵入者
-POB,P.O.B.,PO Box	=post-office box / 郵便私書箱
-POC	port of call寄港地
 pock	あばた
 pocked	=pockmarked
 pocket	(洋服の)『ポケット』 / ポケットに似た物 / 所持金;資力 / (異質の物に囲まれた)(…の)小地域,小グループ《+『of』+『名』》 / ポケット(プール式ビリヤードで四隅と横に設けた玉の落ちる穴) / =air pocket / (鉱石を一時ためておく)土中の穴 / 携帯用の,小型の / …'を'ポケットに入れる / 〈金など〉'を'着服する
@@ -1986,12 +2079,9 @@ pockmarked	あばたのある
 poco	(音楽などで)やや,少し
 poco-a-poco	(音楽の表示で)徐々に,少しずつ
 pod	(エンドウマメなどの)さや・(飛行機の)パッド(エンジン・燃料・武器・荷物などを収める翼の下にあるふくらみ) / さやになる,さやを生ずる / 〈豆〉'の'さやをむく
-POD	port of debarkation陸揚げ港 / pay on delivery代金払換払い
 podgy	=pudgy
 podiatry	足病学(足の病気の研究)
 podium	指揮台,演壇
-Poe	ポー(『Edgar Allan ~』;1809‐49;米国の詩人・短編小説家・批評家)
-POE	port of embarkation船積港
 poem	(一編の)『詩』 / 詩的な美しさ(趣き)を持つもの
 poesy	=poetry
 poet	『詩人』,歌人 / 詩的才能のある人
@@ -2040,20 +2130,14 @@ pokey,poky	(人などが)のろい,ぐずぐず(だらだら)している / (家
 pokiness	のろま,ぐず / 狭苦しいこと
 pol	《話》政治家
 pol.	political / politics
-Pol.	Poland / Polish
-Polack	《軽べつして》《俗》ポーランド系の人
-Poland	ポーランド(ヨーロッパ中部の共和国;首都はWarsaw)
 polar	『極地の』;南(北)極の / 正反対の
 polar bear	北極グマ,白クマ
 polar lights	極光,オーロラ
-Polaris	(またpolestar)〈U〉北極星 / 〈C〉《米》ポラリス(米原子力潜水艦用の中距離弾道ミサイル)
 polarity	(磁石・電池の)両極性;陽(陰)極性 / (性格・傾向などについて)両極端,正反対
 polarization,polarisation	〈C〉(思想・意見などの)分裂,対立 / 〈U〉〈C〉分裂(対立)状態 / 〈U〉(光線などの)偏光;(電気の)分極
 polarize,polarise	…'に'極性を与える / 〈光〉'を'偏光させる / 〈意見・思想など〉'を'両極に分かれさせる / (…の方向へ)…'を'向ける,偏向させる《+『名』+『toward』[『s』]+『名』(do『ing』)》 / 分極する
-Polaroid	(また『Polaroid camera』)〈C〉ポラロイドカメラ(写してすぐ印画紙ができるカメラ;商標名) / 〈U〉人造偏光板
 polder	(特にオランダの)干拓地,低地帯
 pole	(木製・金属性などの)『棒』,さお / 柱 / (牛車・馬車の)ながえ / ボール(長さの単位,5.03メートル;面積の単位,25.3平方メートル) / …'を'棒で動かす(押す,突く,たたく) / (地球などの)『極』 / 電極;磁極;(核・細胞などの)極 / (性格・意見などの)相反対
-Pole	ポーランド人
 pole vault	〈C〉(一回ごとの)棒高跳び / 《the~》(スポーツとしての)棒高跳び
 pole-vault	棒高跳びをする
 pole-vaulter	棒高跳びの選手
@@ -2077,11 +2161,9 @@ policyholder	保険契約者
 polio	小児麻痺(まひ),ポリオ[poliomyelitisの短縮形]
 poliomyelitis	小児麻痺
 polish	…'を'『磨く』,光らせる,'の'つやを出す / 〈態度・言葉など〉'を'『洗練する』,上品にする / 〈文章・演技など〉'に'磨きをかける / 磨いてつやが出る,滑らかになる / 《a ~》光沢,つや / 〈U〉〈C〉つや出し,みがき粉 / 《a ~》磨きをかけること / 〈U〉(態度・ふるまいの)洗練,上品さ
-Polish	ポーランド(Poland)の;ポーランド人(Pole)の,ポーランド語の / ポーランド語
 polished	磨かれた / 洗練された,上品な
 polisher	(金属・木工などの)みがき職人 / 《しばしば複合語を作って》つや出し(みがき)器具,光沢剤
 polit.	political / politics
-Politburo,Politbureau	ソビエト共産党中央委員会政治局
 polite	『礼儀正しい』,『ていねいな』 / 『洗練された』,教養のある,上品な
 politesse	(形式的な)礼儀正しさ・= politeness
 politic	(態度・行動などが)賢明な / (人が)策をろうする
@@ -2113,7 +2195,6 @@ pollster	世論調査屋
 pollutant	汚染物質(特に産業廃棄物など)
 pollute	(…で)〈水・空気・土など〉'を'『汚す』,『汚染する』,不潔にする《+『名』+『with』(『by』)+『名』(do『ing』)》 / (道徳的に)〈精神〉'を'汚す,堕落せせる / 〈聖地など〉'を'冒瀆(とく)する
 pollution	(…を)『汚すこと』,汚染すること;(…が)『汚されていること』《+『of』+『名』》 / 汚染物質(地域)
-Pollyanna	底抜けの楽天家・非常な楽天家 (Eleanor H. Porterの小説中の少女の名から)
 pollywog	=polliwog
 polo	馬上球技,ポロ / =water polo
 polo neck	タートルネック（首にぴったりと沿う、折り返しのある襟の付いたセーターやシャツ）
@@ -2143,8 +2224,6 @@ polyhedron	多面体
 polymath	博識家,物知り
 polymer	重合体(合一化物の分子が重合した高分子化合物)
 polymorphous	多形の,多様な
-Polynesia	ポリネシア(ハワイ・サモア諸島などを含む太平洋群島)
-Polynesian	ポリネシアの;ポリネシア人(語)の / 〈C〉ポリネシア人 / 〈U〉ポリネシア語
 polynomial	〈C〉 (数学)多項式 / {形} 多項式の / 多項式を含む
 polyp	ポリプ(ヒドラ,イソギンチャクなどの生物)・ポリープ(鼻などの粘膜にできるおでき)
 polyphonic	(音楽で)対位法の,多声的な
@@ -2163,13 +2242,11 @@ polyvinyl chloride	ポリ塩化ビニル
 pomade	ポマード / 〈髪〉'に'ポマードをつける
 pomander	(戸棚などにおく)におい玉入れ
 pomegranate	ザクロ[の実] / ザクロの木
-Pomeranian	ポメラニア犬(毛の長い小型犬)
 pommel horse	=side horse
 pommel, pummel	鞍(くら)がしら(鞍の前部の突起している部分) / (刀の)つかがしら / …'を'こぶしで続けてなぐる
 pomp	壮観,はなやかさ / 見せびらかし,虚飾
 pompadour	ポンパドゥール(男性のオールバック,または女性の前髪をなで上げて後ろで束ねた髪型)
 pompano	コバンアジ(北米・南米産の食用魚)
-Pompeii	ポンペイ(噴火で埋没したイタリア南部の古都)
 pompom	ポンポン(帽子などの飾りにするリボン・玉ふさ)
 pomposity	〈U〉もったいぶり,尊大さ,ものものしさ / 〈C〉もったいぶった言動
 pompous	もったいぶった,尊大な / (言葉が)大げさな,ぎょうぎょうしい
@@ -2214,7 +2291,6 @@ pop art	ポップアート(主題・技法などが,漫画・広告ポスター�
 pop fly	(野球の)ポップフライ,小飛球
 popcorn	ポップコーン(とうもろこしの一種をいったもの)
 pope	ローマ教皇(法王)
-Pope	〈C〉（カトリックの）ローマ教皇 / 法王
 popery	ローマカトリック教[の教義・儀式]
 popeyed	(驚き,興奮などで)目を丸くした・= pop-eyed
 popgun	空気鉄砲(コルクの栓などを用いるおもちゃ)
@@ -2238,7 +2314,6 @@ popularly	一般に(generally) / 大衆に分かるように,通俗的に / 大�
 populate	(植民のために)…'に'人を移住させる,植民する / 《しばしば受動態で》〈ある所〉'に'住む
 population	〈U〉〈C〉『人口』,住民の数 / 《the~》《集合的に》(一定地域の)『全住民』 / 《the~》(特定階層の)人々,連中 / 〈U〉〈C〉(一定の区域内にいる)動植物の個体数
 populism	(米国の)人民党(Populist Party)の主義(政策)
-Populist	(米国の)人民党員 / 人民党の
 populous	人口の多い,人口密度の高い
 popup	(野球の)ポップフライ
 porcelain	(材料としての)磁器 / 《集合的に》磁器製品
@@ -2266,9 +2341,7 @@ porpoise	ネズミイルカ(北太平洋,北大西洋にすむ鼻先の丸い種
 porridge	ポリッジ(水や牛乳で煮たオートミールでおもに朝食用)
 porringer	深皿(特に小児のためのスープ・ポリッジ用)
 port	〈C〉〈U〉『港』 / 〈C〉『港町』,『港市』 / (船の)左舷(さげん);(飛行機の)(機首に向かって)左側 / 左舷の,左側の / 〈かじなど〉'を'左舷に向ける / =porthole / (船の)荷役口 / (装甲車・城壁などの)銃眼,砲門 / ポートワイン(ポルトガル原産の甘口のぶどう酒で深紅色) / 控え銃(つつ)の姿勢(銃をからだの正面に斜めに保持し先端が左肩の近くにくる) / 〈銃など〉'を'控え銃にする
-Port.	Portugal / Portuguese
 port of entry	税関[空]港 / 《入国者・輸入品の》 通関手続地, 通関港, 入国管理事務所のある港[空港] / 通関手続港(空港もこれに含まれます),出入国許可所
-Port-of-Spain	ポートオブスペイン(西インド諸島トリニダード・トバゴの港市で首都)
 portability	持ち運び(携帯)のできること,軽便さ
 portable	『持ち運びのできる』,携帯用の / 携帯用器具,ポータブル(タイプ・ラジオなど)
 portage	〈C〉〈U〉(2水路間の貨物の)陸上輸送,連水陸路運搬 / 〈C〉連水陸路 / 〈U〉《a~》その運賃 / 〈貨物など〉'を'連水陸送する
@@ -2288,8 +2361,6 @@ porthole	(また『port』)(船の)舷窓(げんそう) / (航空機の)丸窓
 portico	柱廊玄関(大きな柱で屋根を支えた邸宅の玄関)
 porticoed	柱廊玄関のある
 portion	(…の)『部分』,一部分《+『of』+『名』》 / (…の)分け前,割り当て(share)《+『of』+『名』》 / (『食物の』)『1人前』,一盛り,1杯《+『of』+『名』》 / 《単数形》《おもに文》運命,定め / (人に)…'を'分ける,分割する,分配する《+『out』+『名』(+『名』+『out』)+『between』(『among』)+『名』〈人〉》
-Portland	ポートランド米国Oregon州北西部の都市 / 米国Maine州南西部の都市
-Portland cement	ポートランドセメント(産地である英国Portland島にちなむ)
 portliness	肥満,かっぷくのよいこと
 portly	(特に年配の人が)でっぷり太った,かっぷくのよい
 portmanteau	(特に両開きの)旅行かばん
@@ -2299,13 +2370,9 @@ portraitist	肖像画家,人物写真家
 portraiture	肖像画法 / 肖像画
 portray	〈人物・風景〉'を'絵(彫刻,写真)で描く / …'を'言葉で描写する(describe) / (舞台・映画で)…'を'演じる
 portrayal	〈U〉(…についての)描写《+『of』+『名』》 / 〈C〉(…を)描写した絵(文)《+『of』+『名』》
-Portsmouth	ポーツマス / 英国南海岸にある軍港 / 米国New Hampshire州の海港,1905年に日露講和条約が締結された地
-Portugal	ポルトガル(ヨーロッパの共和国;首都はLisbon)
-Portuguese	ポルトガルの;ポルトガル人(語)の / 〈C〉ポルトガル人 / 〈U〉ポルトガル語
 portulaca	スベリヒユ(マツバボタンなどを含む植物)
 pos.	position / positive
 pose	(絵や写真のモデルとして)『姿勢をとる』《+『for』+『名』》 / (特に他人に印象づけようとして)気どる;(…の)ふりをする《+『as』+『名』》 / 〈モデルなど〉'に'姿勢をとらせる;〈被写体など〉'を'適当な位置に配する / 〈難問など〉'が'生じる / 〈要求・質問など〉'を'述べる,提出する / (絵や写真のためにとる)『ポーズ』,『姿勢』 / (人に見せるための)ポーズ,見せかけ,気どり
-Poseidon	ポセイドン(ギリシア神話の海の神;ローマ神話のネプチューン(Neptune)にあたる)
 poser	難題,難問 / (絵・写真の)モデル / =poseur
 poseur	気どり屋,すまし屋
 posh	すばらしい,りっぱな / 高級な,豪華な
@@ -2335,7 +2402,6 @@ possum	=opossum
 post	〈C〉(木・金属・石などの)『柱』,『支柱』,くい / 《the ~》(競馬の)出発標,決勝標 / 〈C〉《話》(ラグビーなどの)ゴールポスト(goalpost) / (柱・壁などに)〈掲示物〉'を'『張る』,張り出す《+『名』〈掲示物〉+『on』+『名』》;(掲示物を)〈柱・壁など〉'に'張る《+『名』+『with』+『名』〈掲示物〉》 / (掲示して)…'を'公表する,公示する / 《通例受動態で》(…として)…'を'掲示(発表)する《+『名』+『as』+『現分』(過分)》 / (兵士・警官・看護婦などの)『部署』,『持ち場』 / (軍隊の)駐屯(ちゅうとん)地,駐留地,兵営地 / (指名・任命された)『地位』,職 / (またtrading post)(未開地などの)交易所 / 〈兵士・警官・看護婦など〉'を'配置する / 《通例受動態で》《おもに英》(…に)〈人〉'を'任命する《+『名』+『to』+『名』》 / 〈U〉《おもに英》『郵便』[制度] / 《おもに英》《単数形で》(郵便物の1回の)『集配』,『配達』,便;(1回で集配・配達される)郵便物(《米》mail) / 《the ~》《おもに英》郵便局(post office);ポスト,郵便箱(《米》mailbox) / 〈C〉(昔,郵便物の中継所にした)駅,宿,宿場 / 《おもに英》〈郵便物〉'を'郵便局に出す,ポストに入れる(《米》mail)《+『off』+『名』+『,』『名』+『off』》 / 《『post』+『名』〈間〉〈人〉+『名』〈直〉=『post』+『名』+『to』+『名』〈人〉》〈人〉'に'〈手紙など〉'を'郵便で送る(《米》mail)
 post exchange	(陸軍の)物品販売店,酒保(=canteen)(《略》『PX,P.X.』)
 post horn	(昔の)郵便馬車の角らっぱ
-postmeridiem,post meridiem	午後(《略》=『p.m.,P.M.』)
 post office	『郵便局』
 post time	(競走馬の)出走予定時刻
 post-free	=postpaid
@@ -2368,6 +2434,7 @@ postman	『郵便集配人』(《米》mailman)
 postmark	(郵便の)消印 / 〈郵便物〉'に'消印を押す;〈郵便物〉'に'(…の)消印を押す《+『名』+『名』〈補〉》
 postmaster	郵便局長
 postmaster general	《米》郵政長官,《英》郵政大臣
+postmeridiem,post meridiem	午後(《略》=『p.m.,P.M.』)
 postmistress	女郵便局長
 postmortem	死後の,検死の / 事後の / 死体解剖,検死 / 事後の検討
 postnatal	出産後の
@@ -2424,7 +2491,6 @@ pothouse	(英の)居酒屋
 pothunter	賞金目当ての競技参加者 / (狩猟のルールを守らない)乱猟家 / 不心得な考古発掘者
 potion	(水薬・毒薬の)一服(drink, draft)
 potluck	ありあわせの食べ物・ポットラックパーティー(potluck party)・あり合わせの料理・食べ物を持ち寄って行う・みんながごちそうを持ち寄る食事［料理］・持ち寄りの
-Potomac	ポトマック川(米国北東部の川でその下流はWashington市を流れる)
 potpie	肉入りパイ;肉だんご入りシチュー
 potpourri	香つぼ(バラなどの干した花弁と香料を混ぜて入れたもので部屋に芳香を漂わせる) / 寄せ集め;(文学の)雑集;(音楽の)混成曲
 potsherd	(特に考古学的価値のある)陶器片
@@ -2456,7 +2522,6 @@ pout	(不快・不きげんを表して)口をとがらせる,ふくれっつら
 pouter	ハネタカバト(え袋をふくらませる習性がある)
 poverty	〈U〉『貧乏』,貧困 / 〈U〉《時にa~》(必要なものの)『不足』,欠乏《+『of』(『in』)+『名』》
 poverty-stricken	極貧の
-POW,P.O.W.	prisoner of war・戦争捕虜
 powder	〈U〉〈C〉『粉』,粉末 / 〈U〉おしろい / 〈U〉〈C〉粉薬 / 〈U〉火薬,爆薬(gunpowder) / 〈U〉粉雪 / …'を'粉にする / (粉などを)…'に'ふりかける《+『名』+『with』+『名』》 / 〈顔など〉'に'おしろいをつける / 粉になる / おしろいをつける
 powder horn	(角(つめ)製の)火薬入れ
 powder keg	爆発の可能性があるもの / (昔の)爆薬だる
@@ -2487,8 +2552,6 @@ ppd.	postpaid / prepaid
 ppm	parts per million
 ppr.	(またp.pr.)present participle現在分詞
 pptn.	precipitation
-Pr	Provencal / praseodymiumの化学記号
-PR	public relations
 pr.	pair[s] / present / price / pronoun
 practicability	実行できること,実用性
 practicable	実行(実施)できる / (橋・道路などが)使用できる
@@ -2510,7 +2573,6 @@ pragmatic	実際的な実用的な / 実用主義の
 pragmatically	実用的に,実用主義的に
 pragmatism	(哲学の)実用主義,プラグマティズム / 実益主義,実用本位
 pragmatist	実務家はだの人 / 実用主義者
-Prague	プラハ(チェコスロバキアの首都)
 prairie	(特にミシシッピー川流域の)『大草原』
 prairie dog	プレーリードック(地中に穴を掘るマーモット(marmot)の一種;鳴き声が犬に似ている)
 prairie schooner	(19世紀の開拓者たちの)大ほろ馬車・西部劇などとは異なって、実際には「馬車」よりも牛にひかせた「牛車」が多かった、とのことです。
@@ -2550,7 +2612,6 @@ prearrangement	前もっての打ち合わせ
 prebend	聖堂参事会員の俸給・受給聖職者の職・聖職禄・=prebendary
 prebendary	聖職給受給有資格者
 prec.	preceded / preceding
-Precambrian, Pre-Cambrian	先(前)カンブリア時代の the ... 先カンブリア時代(最古の、すなわち6億年以前の地質時代)
 precancerous	前癌(がん)症状の
 precarious	危険な;心もともない,不確かな / あやふやな,いいかげんな(doubtful)
 precast	建築用ブロックに作られた 前もって成形された あらかじめ成形する
@@ -2698,8 +2759,8 @@ preoccupy	《しばしば受動態で》〈人・人の心〉'を'いっぱい�
 preoperative	手術前に起こる,手術前の
 preordain	〈神・運命が〉…'を'あらかじめ定める
 prep	〈U〉《英話》宿題;予習・準備 / 〈C〉《米話》=preparatory school / ・(形容詞)大学入学準備の・〈動詞〉(に)備えて準備する・(大学進学のための)私立高校に通う・予習する
-prep.	preposition
 prep school	=preparatory school
+prep.	preposition
 prepack	=prepackage
 prepackage	〈食品など〉'を'販売前に包装する
 prepaid	prepayの過去・過去分詞 / (運賃・郵税など)前払いの,支払い済みの
@@ -2724,13 +2785,10 @@ prerecord	〈番組の〉'の'録画(録音)をとる
 prerequisite	必須の,あらかじめ必要な,条件として必要な;(…に)必須の《+『for』(『to』)+『名』》 / (…の)前提条件,前もって必要なもの《+『for』(『to』,『of』)+『名』(do『ing』)》
 prerogative	(特定の人・階級の)特権,特典
 pres.	present
-Pres.	President / Presbyterian
 pres.part.	present participle
 presage	(…の)前兆,虫の知らせ,予感《+『of』+『名』》 / …'の'前兆となる;…'を'予言する
 presbyopia	[老人性]遠視,老眼
 presbyter	〈C〉（キリスト教の）長老(=elder) / 長老職の聖職者,司祭
-Presbyterian	長老教会派の会員(司祭の監督制度によらず,信徒によって選ばれた長老が中心となって福音(ふくいん)を伝道しようとするキリスト教新教の一派の会員)・長老制の;長老教会の
-Presbyterianism	長老制度;長老制主義
 presbytery	(教会堂の聖歌隊席裏の)内陣・(長老教会の)中会;中会管轄区域・(カトリック教の)司祭館・(キリスト教)長老会(管轄区)・(集合的) 中会管轄下の全教会; (教会の)司祭席
 preschool	《名詞の前にのみ用いて》小学校入学前の,学齢未満の・幼稚園より手前の児童の通う幼稚園予科のような施設(保育園=day-care centerとは異なります)
 prescience	予知,先見の明
@@ -2822,7 +2880,6 @@ preternatural	異常な / 超自然的な,不可思議な
 pretest	(新製品などの)試用,予備テスト / …'を'試用(予備テスト)する / 試用(予備テスト)する
 pretext	『口実』,『弁解』
 pretor	=praetor
-Pretoria	プレトリア(南アフリカ共和国の首都)
 pretorian	=praetorian
 prettification	飾りたてること,粉飾
 prettify	…'を'飾りたてる,装飾する
@@ -2913,9 +2970,6 @@ prin.	principal / principle
 prince	『王子』,親王;王家(皇族)の男子 / (英国以外の)公爵,…公(《英》duke) / (封建時代の)諸侯,大名 / (小国の)王,君主 / 《文》(…の)王者,大家,第一人者《+『of』(『among』)+『名』》
 prince charming	理想の男性
 prince consort	国王である女王の夫君の称号
-Prince of Darkness	暗黒の王,悪魔(Satan)
-Prince of Peace	平和の君,キリスト(Christ)
-Prince of Wales	英国皇太子[の称号]
 princedom	公国
 princeling	幼少の王子 小君主 幼君
 princely	王子(皇子)の;王子(皇子)にふさわしい / 気前のよい,おおような;豪華な,堂堂たる
@@ -2923,7 +2977,6 @@ princess	『王女』,皇女,内親王;王家(皇族)の女子 / (英国以外�
 principal	(重要性・地位・価値などが)『第1の』;おもな,主要な / 『長』,かしら;重要人物,主役 / 《しばしばP-》(小・中学校,高校の)『校長』;(特に《英》でcollegeの)学長,(時に)学寮長 / 《単数形で》(interest(利子),revenue(運用収益)と区別して)『元金』,基本財産
 principal parts	動詞の基本活用形(英語では現在形(不定詞形)・過去形・過去分詞形)
 principality	〈C〉(princeの統治する)公国,侯国 / 〈U〉公国の王の地位(権威,支配)
-Principality	〈C〉公国（君主が治める小規模な独立国）
 principally	『主として』,おもに(chiefly)
 principle	〈C〉『原理,原則』;法則 / 〈C〉『主義,信条』,基本方針,行動指針 / 〈U〉道義,節操
 principled	「…主義の(をもった)」の意を表す
@@ -2981,20 +3034,16 @@ privilege	(免除・許可などの)『特権』,『特典』,恩典,恩恵 / �
 privileged	特権(特典)のある
 privily	ひそかに,内密に
 privy	(…の)内情に通じた《+『to』+『名』》 / 屋外便所
-Privy Council	枢密(すうみつ)院(国王に助言する諮問機関)
-Privy Purse	英国王手元金(国王個人用に支給される金)
-Privy Seal	玉璽(ぎょくじ)(国の一般重要書類に押す印章)
 prize	『賞』,賞品,賞金,ほうび / (努力して手に入れる)『価値あるもの』,貴重なもの / 入賞した / 賞品の / 《話》《しばしば皮肉に》賞に値する / …'を'高く評価する,重んずる / 捕獲品,勝利品;捕獲した敵船
 prize day	年間最優秀[学業]賞の授与
-prize,prise	…'を'てこで動かす
 prize ring	プロボクシング試合場(リング)
+prize,prise	…'を'てこで動かす
 prizefight	懸賞のつきのプロボクシング試合
 prizefighter	職業拳闘選手,プロボクサー
 prizefighting	(職業としての)拳闘,プロボクシング
 prizeman	(大学の)優等生
 prizewinner	受賞者,賞金獲得者;受賞作品
 pro	=professional / 賛成論;賛成票(者) / 賛成して
-PRO	Public Relations Officer 広報活動員,宣伝担当者
 pro forma	形式上の,仮の
 pro rata	一定の割合で,比例して / 比例した
 pro-am	《名詞の前にのみ用いて》(ゴルフの試合が)プロとアマ参加の
@@ -3039,7 +3088,6 @@ procreate	〈子〉'を'もうける,〈子孫〉'を'作る(beget) / 繁殖す�
 procreation	出産;生殖
 procrustean	強引に画一化する,無理に規準に合わせる
 proctor	(大学の)試験監督官;《英》(大学の)学生監,学生部長 / 〈試験〉'の'監督をする
-Proctor	学生監・ 試験監督官・代理人・代訴人・試験監督をする
 procurable	入手(取得)できる
 procurator	(古代ローマの)[皇帝の]代官,行政長官
 procure	…'を'『努力して手に入れる』 / 《米》《英古》…'を'引き起こす,もたらす / [女]'を'売春のためかかえる
@@ -3060,7 +3108,6 @@ production line	(工場での)流れ作業(assembly line)
 productive	生産的な,好ましい結果を生み出す / たくさん産出(生産)する,多産の
 productivity	生産力,生産性
 proem	序文,緒言
-Prof.,prof.	professor
 profanation	〈U〉神聖を汚すこと,冒瀆(ぼうとく) / 〈C〉冒瀆行為
 profane	《文》世俗の,俗界の / 神聖を汚す,不敬な / 〈神聖なもの〉'を'冒瀆(ぼうとく)する / …'を'乱用する,悪用する
 profanity	〈U〉神聖を汚すこと,不敬,冒瀆(ぼうとく) / 〈U〉〈C〉神聖を汚す(不敬な)行為(言葉);口ぎたない言葉
@@ -3139,14 +3186,12 @@ prom	《米話》(特に高校・大学などで公式に行う)ダンスパー�
 promenade	(公園などの)散歩,遊歩 / (また《英話》『prom』)遊歩場,散歩道,プロムナード / 《米》(ダンスパーティーの開会の際の)お客たちの行進;(スクエアダンスの)踊りながらの行進 / 散歩する,遊歩する / …'を'散歩(遊歩)する / 〈人〉'を'見せびらかしに連れ歩く
 promenade concert	遊歩音楽会(聴衆の多くが立ったまま聞く)
 promenader	遊歩する人 / 《英話》プロムナードコンサートの常連
-Prometheus	プロメテウス(ギリシア神話で天上の火を盗み人類に与えたため,ゼウスの怒りに触れ,岩に縛られ,毎日ハゲタカに肝臓を食われた)
 promethium	プロメチウム(希土類元素;化学記号はPm)
 prominence	突出部,目立つ物(場所) / 〈U〉目立つこと,傑出
 prominent	『突き出た』,隆起した / 目立った,すぐ目につく / 『著名な』;卓越した,傑出した
 promiscuity	ごたまぜ,乱雑 / 乱婚,乱交
 promiscuous	ごたまぜの / 乱交の
 promise	〈C〉『約束』,誓い / 〈U〉(…の)有望さ,見込み《+『of+名』》 / 〈U〉(…の)気配,きざし《+『of+名』》 / 〈物事〉'を'『約束する』 / …'の'『見込みがある』,おそれがある / 《話》《Iを主語にして》〈人〉'に'断言する,保証する,警告する / 約束する / 《状態の副詞を伴って》(…の)見込み(望み)がある
-Promised Land	(また『Land of Promise』)《the~》約束の地(神がイスラエルの民に約束したCanaanの地;旧約聖書「創世記」) / 《the p- l-》天国,理想郷
 promising	『前途有望な』,見込みのある,期待できる
 promissory	約束の,契約の;確約する
 promissory note	約束手形
@@ -3185,8 +3230,8 @@ proofreader	校正係
 proofreading	校正
 proofsheet	校正刷り
 prop	支柱,支え / 支えとなる人(物) / …'を'支える / (…に)…'を'寄りかからせる《+『名』+『against』+『名』》 / (劇場の)小道具 / プロペラ
-prop.	proprietor
 prop man	(芝居の)小道具係
+prop.	proprietor
 propaganda	(特定の主義・主張の)『宣伝』;宣伝活動
 propagandist	(特定の主義・主張を)宣伝する人
 propagandize,propagandise	〈主義・主張など〉'を'宣伝する / 〈人やある国・地域など〉'に'宣伝する / 宣伝する
@@ -3213,7 +3258,6 @@ prophet	(霊感や神の力による)『預言者』 / (将来のでき事を)�
 prophetess	(女性の)預言者,予言者
 prophetic, prophetical	予言者の;預言の,予言の,予測の;(…を)預言(予言)する《+『of』+『名』》
 prophetically	預言(予言)的に,預言(予言)して
-Prophets	(聖書の)預言者
 prophylactic	(特に病気などの)予防の / 予防薬;予防器具;コンドーム
 prophylaxis	(病気の)予防[法]
 propinquity	(時・場所・関係の)近接
@@ -3274,7 +3318,6 @@ prostitution	売春 / (金のための,…の才能などの)悪用《+『of』+
 prostrate	うつ伏せに[倒れて],身を伏して / 力を失った,疲れはてた / 《文》(国が)疲弊(ひへい)して / …'を'倒す / 《prostrate oneself》…'を'ひれ伏させる,屈服させる / 《受動態で》…'を'圧倒する,打ちひしぐ
 prostration	〈U〉〈C〉身を投け出すこと,ひれ伏すこと / 〈U〉意気消沈,(体が)ぐったりしていること
 prosy	(話・文章などが)だらだらした,退屈な / 散文[体]の,散文的な
-Prot.	Protestant
 protactinium	プロトアクチニウム(放射性金属元素;化学記号は『Pa』)
 protagonist	(劇の)主役,(小説の)主人公 / (主義などの)主唱者;(運動などの)指導者
 protean	(ギリシア神話の海神Proteusのように)変幻自在な
@@ -3289,14 +3332,9 @@ protective custody	保護拘置
 protective tariff	保護関税[率]
 protector	(…から)保護する人(物),保護者《+『against』(『of』)+『名』》
 protectorate	〈C〉保護国,保護領 / 〈U〉保護関係
-Protectorate	〈C〉保護領（他国の保護・支配下にあるが一定の自治を持つ国や地域） / 保護制度 / 保護領状態
 protege	被保護者
 protein	蛋白(たんぱく)質
-Proterozoic	《the P-》(地質時代の)元生代(25億年から5億4千万年前の時代) / 元生代の
 protest	(…に対する)『抗議』,異議の申し立て;(少し軽い意味で,…への)反対,不満《+『against』+『名』》 / (…に対して,…について)『抗議をする』,異議を申し立てる《+『about』(『against』)+『名』(do『ing』)+『at』(『to』)+『名』》 / (不信に対して,また不満・反対があって)…'を'『主張する』,『断言する』 / 《米》…'に'抗議する(protest against)
-Protestant	新教徒,プロテスタント / 新教[徒]の,プロテスタントの
-Protestant Episcopal Church	米国監督教会,米国聖公会(1789年英国国教会から独立した一派)
-Protestantism	新教 / 《集合的に》新教徒,新教教会
 protestation	〈U〉(…に)抗議すること《+『against』(『about』)+『名』》 / 〈C〉(…について)主張(断言)すること《+『of』+『名』》,(…であると)主張すること《+『that節』》
 protester	異議申し立て人,抗議する人 / 主張(断言)する人
 prothalamion	祝婚歌,祝婚詩
@@ -3319,13 +3357,10 @@ proud	(人が)『得意な,誇らしげな』 / (人が)『誇りを持った』
 proud flesh	(治った傷口に盛り上がってくる)肉芽(にくが)
 proudly	威張って / 誇りをもって / 堂々と
 prov.	province / provincial / provisional / provost
-Prov.	Provencal / Proverbs
 provable	証明できる
 prove	…'を'『証明する』 / …'を'『試す』,検討する / 《『prove』[『to be』]+『名』(『形』)》(…と)『証明される』,わかる・「で」あると判明する
 proven	proveの過去分詞 / 《名詞の前にのみ用いて》証明された
 provenance	起源,由来,出所
-Provencal	プロバンス(Provence)の,プロバンス人(語)の / プロバンス人;〈U〉プロバンス語
-Provence	プロバンス(フランス東南部の昔の州;中世の叙情詩人と騎士で有名)
 provender	かいば,まぐさ / 《おどけて》(人の)食物
 proverb	〈C〉『ことわざ』,格言,金言 / 《Proverbs》(旧約聖書の)箴言(しんげん)(ソロモン訳など賢者の金言の成集)
 proverbial	ことわざの;ことわざにある / 評判どおりの,周知の
@@ -3371,19 +3406,13 @@ prune	(草木から)…'を'切り取る / 〈草木〉'を'刈り込む / (不�
 pruning	(庭木などの)刈り込み,剪定(せんてい),枝打ち
 prurience	好色,色情
 prurient	好色な,みだらな
-Prussia	プロシア(1871年までドイツ北東部にあった王国;ドイツ語ではプロイセン)
-Prussian	プロシアの;プロシア人(語)の / 〈C〉プロシア人;〈U〉プロシア語
-Prussian blue	紺青(こんじょう)
 prussic acid	=hydrocyanic acid
 pry	のぞきこむ;せんさくする / 《副詞[句]を伴って》…'を'てこで動かす(持ち上げる,開ける) / (…から)…'を'やっと手に入れる《+『名』+『form』(『out of』)+『名』》 / てこ,かなてこ
 pryer	=prier
 prying	(人が)せんさく好きな;(視線などが)じろじろ見る
-Ps.,Psa.	Psalm; Psalms
 psalm	『賛美歌』,聖歌(hymn) / 《P-》(特に旧約聖書「詩篇」の中の)一編の聖歌
 psalmist	賛美歌作者
 psalmody	〈U〉聖歌吟唱[法] / 〈C〉(符面つきの)聖歌集,賛美歌集
-Psalms	詩篇(旧約聖書の一書;《略》『Ps.』;正式名はthe Book of Psalms)
-Psalter	《the ~》=the Book of Psalms / (またp-)〈C〉(特に礼拝式用に作られた)聖詩篇
 psaltery	ソルタリー(古代の弦楽器)
 psephology	選挙学;[選挙]投票法研究
 pseud.	pseudonym
@@ -3398,10 +3427,8 @@ psi,p.s.i.	pounds per square inch 1平方インチにつき…ポンド
 psittacosis	おうむ病(高熱を出す)
 psoriasis	乾癬(かんせん)(慢性の非伝染性皮膚病)
 psst,pssst	ちょっと,ほら,あのね(小声で相手の注意を引く時の言葉)
-PST,P.S.T.	Pacific Standard Time 太平洋沿岸標準時
 psych	…'を'心理的にまいらせる,げんなりさせる《+『out』+『名』,+『名』+『out』》
 psych.	psychologist / psychology
-Psyche	プシュケー(ギリシア・ローマ神話でErosが愛した美少女;霊魂の権化)・《the p-》霊魂,魂;心
 psychedelic	幻覚の,幻覚を引き起こす;陶酔(恍惚(こうこつ))の境地に至らせる / (文学・芸術が)サイケ調の / 幻覚剤
 psychedelically	幻覚的に;サイケ調に
 psychiatric,psychiatrical	精神医学(病理学)の
@@ -3430,24 +3457,17 @@ psychotherapist	精神(心理)療法医
 psychotherapy	精神催眠療法,心理療法
 psychotic	精神病の / 精神病患者
 psychotically	精神病的に,精神病患者のように
-Pt	platinumの化学記号
 pt.	pint[s] / part / point / payment
-PT boat	快速哨戒(しょうかい)魚雷艇
-PTA,P.T.A.	Parent-Teacher Association父母と教師の会,ピーティーエー
 ptarmigan	ライチョウ(雷鳥)(高地にすむ鳥)
 pteridophyte	シダ植物
 pterodactyl	テロダクティル(絶滅した翼竜の一種)
 pterosaur	テラソー(翼竜;現在絶滅している)
-Ptolemaic system	プトレマイオス体系,天動説
-Ptolemy	プトレマイオス(127‐151;ギリシアの数学・天文・地理学者で天動説を唱えた)
 ptomaine poisoning	プトマイン中毒(腐敗した食物による中毒)
 ptomaine,ptomain	プトマイン(動物・植物の腐敗,特に蛋白(たんぱく)質の腐敗でできる中毒素)
-PTV	public television
 ptyalin	プチアリン(唾液酵素;でんぷんを糖に変える作用力を持つ)
-Pu	plutoniumの化学記号
 pub	パブ(public house)
-pub.	public / publication / published / publisher / publishing
 pub-crawl	はしご酒 / はしご酒をする
+pub.	public / publication / published / publisher / publishing
 puberty	(受胎能力が生じる)思春期,年ごろ
 pubes	陰毛
 pubescent	思春期の,年ごろの / (動植物が)羽毛(綿毛)におおわれた
@@ -3502,8 +3522,6 @@ pueblo	《米》(米南南西部の)プエブロ集落(れんがまたは石掘�
 puerile	幼稚な;くだらない / 少年期の
 puerility	幼稚さ / 幼稚な言動
 puerperal	出産の,分娩(ぶんべん)の;産婦の
-Puerto Rican	プエルトリコの / プエルトリコ人
-Puerto Rico	プエルトリコ(西インド諸島にある米国自治領の島;首都はSan Juan)
 puff	(風・煙・蒸気などの)『一吹き』;パッと吹き出す音《+『of』+『名』》 / (たばこなどの)一吸い(吹き) / ふわっとしたもの,ふわっとふくらんだ物(部分) / (化粧用)パフ / (パイ皮に生クリームなどを詰めた)ふわっとしたケーキ / (服の)ふくらみ / 〈風・息・煙などが〉『さっと』(『ぱっと』)『吹く』(『出る』) / 〈人・動物が〉息を切らす,あえぐ / (蒸気・煙などを)ぽっぽっと出す / (たばこなどを)ふかす《+『away at』+『名』》 / ふくれる,はれる《+『up』》 / 〈息・煙など〉'を'『ぱっと吹く(出す)』 / 〈たばこなど〉'を'ぷーっとふかす / (空気などで)…'を'ふくらませる
 puff adder	(アフリカ産の)大毒蛇(怒ると胴をふくらませる)
 puff pastry	パフペーストリー(柔らかくふくらんだ練り粉;《米》『puff paste』)
@@ -3527,7 +3545,6 @@ puissant	権力の,勢力のある
 puke	…'を'吐く,もどす / 嘔吐(おうと)した物 / 吐くこと,嘔吐
 pulchritude	(女性の)美しさ,美貌;肉体美
 pule	〈赤ん坊が〉弱々しく泣く
-Pulitzer Prize	ピューリツァー賞(米国で新聞・詩・劇・小説・伝記などの分野に与えられる賞)
 pull	《しばしば副詞[句]を伴って》〈物〉'を'『引く』,『引っ張る』,引いて動かす / 〈人・人の体の一部・衣服など〉'を'『ぐいと引っ張る』,強く引く / …'を'引き抜く,引き離す,取りはずす / 《副詞[句]を伴って》〈布など〉'を'引き裂く,引きちぎる / 〈筋肉など〉'を'引っ張って痛める,引きつらせる / 《話》〈観客・支持者など〉'を'引きつける,集める / 《話》(…に向かって)〈ナイフ・ピストルなど〉を引き抜く《+『名』+『on』+『名』》 / 《米話》〈悪事・策略・冒険など〉'を'やってのける / 『引っ張る』,引く / 『引っ張られる』,引ける / 引きずるように動く / こぐ,こいで進む / 〈C〉『引くこと』,一引き / 〈C〉《単数形で》(人の)引く力:〈U〉(自然の)引力 / 〈C〉《単数形で》必死に引っ張る(引きずる)こと / 〈C〉《複合語を作って》物を引っ張る道具;引き手,取っ手,引き綱 / 〈C〉(液体の)一飲み,(たばこの)一服《+『at』+『名』》 / 〈U〉《時にa pull》《話》引き,手づる,コネ / 〈U〉《米話》人を引きつける力 / 〈C〉(野球・ゴルフで)球を引っ張って打つこと
 pull off	～を引っ張って外す、起こす・車を道路脇へ寄せる、離れる、出発する ・(困難な状況の中で)成功する、～をうまく［首尾よく］やる［やってのける・やり通す・やり遂げる・成し遂げる］・(急いで)脱ぐ
 pull-in	ドライブイン(《米》drive-in)
@@ -3537,12 +3554,10 @@ pull-up	〈U〉〈C〉懸垂[運動] / =pull-in
 pullback	〈U〉引き戻すこと / 《複数形で》撤兵,撤退
 pullet	(1年未満の)めすのひな
 pulley	滑車;滑車装置;ベルト車
-Pullman	プルマン式車両(George Pullman考案の寝台車・特等車)
 pullout	(軍隊の)撤退 / (飛行機の急降下後の)機体の引き起こし / 引き出しページ,折り込みページ
 pullover	プルオーバー(頭からかぶるセーターなど)
 pullulate	急に増える,繁殖する / 発芽する
 pulmonary	肺の;肺を冒す
-Pulmotor	パルモーター(人工呼吸器の商標名)
 pulp	〈U〉(果実・野菜などの)果肉 / 〈U〉髄質(骨髄・歯髄など) / 〈U〉(製紙原料の)パルプ / 〈U〉《時にa~》どろどろしたもの / 《しばしば複数形で》(粗末な紙にきわもの記事を印刷した)低俗雑誌 / …'を'パルプにする;…'を'どろどろにする
 pulpit	〈C〉(教会の)説教壇 / 〈U〉《the ~》《集合的に》聖職[者] / 〈U〉《the ~》説教
 pulpwood	パルプ材(特に松・モミなど)
@@ -3562,8 +3577,6 @@ pumpernickel	(粗びきのライ麦で作る)黒パン
 pumpkin	西洋カボチャ(米国ではパイの詰め物に使う)
 pun	駄じゃれ,しゃれ,語呂(ころ)合わせ / しゃれ(語呂合わせ)を言う
 punch	…'を'『げんこつでなぐる』 / (機械などを動かすために)…'を'押す / 《話》〈家畜〉'を'追う・げんこつでなぐる / 〈C〉『げんこつの一打ち』 / 〈U〉《話》迫力 / 『パンチ』(穴あけ器,刻印器など) / …'に'パンチを入れる,穴をあける,刻印する;(…に)〈穴〉'を'あける《+『名』〈穴〉+『in』+『名』》 / ポンチ,パンチ(酒に水・砂糖・牛乳・レモン・香料などを混ぜた飲物)
-Punch	パンチ(英国の人形劇Punch-and-Judy showのかぎ鼻で猫背の道化者) / (英国の)風刺週刊誌パンチ
-Punch and Judy show	子供向けあやつり人形劇の題名(パンチと妻ジュディが繰りひろげるユーモラスなショー)
 punch card	(電子計算機などで使う)パンチカード
 punch line	(話・笑い話などの)さわりの文章(文句)・話の「落ち」
 punch-drunk	(ボクシングで頭に連打をあびて)もうろうとした / 《話》(打ち続く不幸で)ぼう然とした
@@ -3585,13 +3598,11 @@ puncture	(とがったもので)…'に'穴をあける,'を'パンクさせる�
 pundit	インドの学者 / 《おどけて》物知り,博学の人
 pungency	(味・香りなどの)刺激 / (皮肉・機知の)鋭さ,しんらつ
 pungent	舌(鼻)を刺激する,ぴりっとする,つーんとする / (批評・機知などの)激しい,鋭い,しんらつな
-Punic	古代カルタゴ[人]の
 punish	〈人〉'を'『罰する』,こらしめる / 〈犯罪・違反・過ち〉'を'『罰する』 / …'を'手荒く扱う
 punishable	(死刑・懲役などで)罰しうる,罰すべき《+『by』(『for』)+『名』》
 punishing	へとへとにさせる / (選手が)積極果敢な / (打撲・衝突による)損傷,破損;苦敗
 punishment	〈U〉罰を[を受けること] / 〈C〉処罰,刑罰 / 〈U〉ひどい仕打ち,虐待
 punitive	処罰(刑罰)のための,懲罰的な
-Punjabi	パンジャブ[人]の(インド北西部およびバングラデシュ地域の)
 punk	(点火用の)つけ木 / 不良,ちんぴら / 《名詞の前にのみ用いて》低俗な,くだらない / (体の)調子が悪い,気分がさえない
 punk rock	パンクロック(野卑な歌詞と踊りが特徴のロックンロール)
 punkah	(天井につるす)大型手動扇風機
@@ -3631,19 +3642,15 @@ purgatory	〈U〉煉獄(れんごく),浄罪界(死者の魂が火により清�
 purge	(…を除いて)…'を'『清める』,きれいにする《+『名』+『of』+『名』》;(…から)…を除いて清める《+『名』+『from』+『名』》 / (…を除いて)〈政党など〉'を'粛清する《+『名』+『of』+『名』》;(…から)〈異分子〉'を'追放する《+『名』+『from』+『名』》 / 〈腹〉'に'下剤をかける / 清めること / (異分子の)粛清,追放,パージ / 下剤
 purification	清めること,浄化
 purify	(…を除いて)…'を'清める,きれいにする,浄化する《+『名』+『of』+『名』》;(…から)…'を'除いてきれいにする《+『名』+『from』+『名』》 / きれいになる
-Purim	プリム祭(Hamanによるユダヤ虐殺を免れたことを記念するユダヤ祭日;3月1日)
 purism	(語法・文体などでの)純粋主義
 purist	(特に,言語の)純粋主義者(正しい文体・語法を守ろうとする人)
-Puritan	清教徒(16世紀後半に英国国教内に起こったプロテスタントの一派) / 《p-》(宗教上・道徳上)厳格な人,禁欲的な人 / 清教徒の[ような];《p-》厳格な,禁欲的な
 puritanical	(道徳上・宗教上)厳格な,堅苦しい / 《P-》清教徒(清教主義)的な
-Puritanism	清教徒の信仰(教義);清教主義 / 《p-》(道徳上・宗教上の)厳格さ
 purity	純粋(清浄)であること / 罪(けがれ)のないこと,潔白 / (言語の)純正
 purl	〈小川などが〉さらさらと流れる / さらさらと流れる音 / 〈編み物〉'を'裏編みにする / 裏編みする / 裏編み / 裏編みの
 purler	〈C〉《英》(くだけた表現)転倒 / すってんころりん
 purlieu	〈C〉(まれ)(都市の)周辺地域,郊外 / 《文》《the purlieus》(…の)周辺,近隣《+『of』+『名』》
 purloin	〈ささいな物〉'を'盗む / 盗む
 purple	〈U〉『紫色』 / 〈U〉(特に,昔の王家や高位の人がつけた)紫布,紫衣 / 《the ~》王位,高位 / 『紫色の』
-Purple Heart	(米軍の)名誉負傷勲章
 purple passage	(単調な文中の)美辞麗句を並べた部分
 purplish	紫色がかった
 purport	《『purport to』 do》…すると偽って言う,偽称する / …'を'意味する / 〈U〉(発言・行動の)意味,趣旨《+『of』+『名』》
@@ -3671,6 +3678,7 @@ purveyor	(食料品などの…への)調達人《『of』+『名』+『to』+�
 purview	(活動・職権などの)範囲
 pus	うみ,膿(のう)
 push	《副詞[句]を伴って》(動かすために)…'を'『押す』,押して動かす / 〈提案・要求など〉'を'押し進める,推進する / 〈人〉'に'押しつける / …'を'拡張する,伸ばす / 〈商品など〉'を'押しつける / 《話》《進行形で》〈ある年齢〉'に'近付く / (動かすために)(…を)『押す』,突く,押し動かす / 《方向を表す副詞[句]を伴って》押し進む / 〈C〉ひと押し / 〈C〉奮闘,努力
+push-up,pushup	腕立て伏せ(《英》press-up)
 pushbike	(モーターバイクに対して)[ペダル式]自転車
 pushbutton	押しボタン / (機械類が)押しボタン式の / 《しばしば軽べつして》オートメーション化した / (戦争が)押しボタン式兵器による
 pushcart	(特に行商人の使う)手押し車
@@ -3680,13 +3688,12 @@ pusher	押す人(もの) / 《俗》(麻薬などの)売人 / 《話》押しの
 pushily	ずうずうしく
 pushiness	ずうずうしさ
 pushover	だまされやすい人;(試合で)すぐ負ける人(チーム),かも / ごく簡単にできること,朝飯前の仕事
-push-up,pushup	腕立て伏せ(《英》press-up)
 pushy	でしゃばりの,ずうずうしい,押しの強い
 pusillanimity	いくじのなさ,おくびょう,優柔不断
 pusillanimous	おくびょうな,気の弱い
 puss	猫(呼ぶときの言葉) / 《話》女の子 / 《俗》口;顔
-pussy willow	ネコヤナギ(水辺にはえる落葉低木)
 pussy	猫(pussの小児語) / 〈C〉女性の陰部 / 〈U〉《米》性交
+pussy willow	ネコヤナギ(水辺にはえる落葉低木)
 pussycat	猫 = pussy cat; お人好し(な女), かわいい人
 pustule	膿疱(のうほう)(うみ(pus)をもったできもの)
 put	《副詞[句]を伴って》(ある場所・位置に)…'を'『置く』,載せる,すえる,付ける / 《状態を表す副詞[句]を伴って》(ある状態に)…'を'『置く』,する;〈人・動物〉'に'(…)させる / (仕事・任務などに)〈人・動物〉'を'『向ける』,つける;(用途・目的などに)〈物事〉'を'向ける,用いる《+『名』+『to』+『名』》 / (苦痛・試練などを)〈人〉'に'受けさせる《+『名』〈人〉+『to』+『名』》 / (人・物に)〈税・負担など〉'を'課す,負わせる《+『名』+『on』+『名』(a person's do『inn』)》 / (人・事に)〈責任など〉'を'かぶせる,負わせる《+『名』+『on』(『upon』)+『名』》;(責任などを)〈人・事〉'に'かぶせる《+『名』+『to』+『名』》 / (物事に)〈解釈・価値など〉'を'『与える』,(物に)〈価格など〉'を'付ける《+『名』+『on』(『upon』)+『名』》 / …'を'評価する,見積もる,みなす / (…に)〈考えなど〉'を'『表現する』,述べる《+『名』+『into』+『名』》;〈文字・印など〉'を'書き付ける,記入する《+『名』+『on』+『名』》 / (…に)…'を'翻訳する《+『名』+『into』+『名』》 / (…に)〈問題・質問など〉'を'提出する,提起する《+『名』+『to』(『before』)+『名』》 / (物事に)〈終止・制限など〉'を'与える《+『名』+『to』+『名』》 / 〈船などが〉進む,行く,向かう / 《話》急いで立ち去る;逃げ出す / (砲丸などの)投げ,投てき;投てき距離 / 突き,押し / 落ち着いた,動かないで
@@ -3713,23 +3720,16 @@ putty	パテ(窓わくにガラスを固定したり,穴をふさいだりする
 puzzle	《単数形で》(頭を)『悩ませる物』(『事』,『人』),難問,難物 / 《しばしば複合語で用いて》(遊び用の)『パズル』,判じ物,なぞ / 〈難問が〉〈人〉'の'頭を悩ませる;(…について)〈頭〉をひねって考える《+『名』+『about』(『over』)+『名』》 / (…に)頭を悩ませる,(…を)頭をひねって考える《+『about』(『as to, over』)+『名』》
 puzzlement	当惑していること
 puzzler	難問,困らせる質問;困らす人
-PVC	polyvinyl chloride ポリ塩化ビニル
 pvt.,Pvt.	private,Private
-PW	prisoner of war 戦争捕虜
 pwt.	pennyweight
-PX,P.X.	post exchange
-Pygmy, Pigmy	ピグミー(中央アフリカ・フィリピン諸島などの小さな体型の人種) / 《p-》(一般に)小人;ごく小さい動植物 / 《p-》とるに足りない人 / 小人の;非常に小さい
 pyjamas	=pajamas
 pylon	(古代エジプトの寺院の)塔門 / (飛行機操縦上の)目標塔(特にレースで用いる) / (高圧線用の)鉄塔
 pylorus	(胃の)幽門
-Pyongyang	平壌(へいじょう)(朝鮮民主主義人民共和国(北朝鮮)の首都)
 pyorrhea,pyorrhoea	歯槽膿漏(しそうのうろう)
 pyramid	(エジプト・メキシコなどの)『ピラミッド』 / ピラミッド形の物 / (幾何の)角錐(かくすい) / ピラミッド形になる / 〈物価などが〉上昇する,増加する / …'を'ピラミッド形にする(積み上げる)
 pyramidal	ピラミッド[状]の
 pyre	(死体を焼くのに使う)積みまき・火葬用の薪の山
-Pyrenees	ピレネー山脈(フランスとスペインの国境にある)
 pyrethrin	ピレトリン(除虫菊から抽出した殺虫剤)
-Pyrex	パイレックス(耐熱・耐薬品性のガラス器の商標名)
 pyrexia	発熱;熱病
 pyridoxine	=vitamin B6
 pyrite	黄鉄鉱(fool's gold)
@@ -3740,8 +3740,8 @@ pyromaniac	放火狂
 pyrometer	高温計(高温を測定する温度計)
 pyrotechnic, pyrotechnical	花火の;《しばしば皮肉に》(弁舌・機知などが)はなばなしい
 pyrotechnics	花火製造術;花火の打ち揚げ[方法] / 《しばしば皮肉に》(機知・弁舌などの)はなばなしさ
-Pyrrhic victory	自損の勝利; ピュロスの勝利（大きな犠牲を伴い、勝っても割に合わない勝利）
-Pythagoras	古代ギリシャの哲学者・数学者ピタゴラス（紀元前570頃–紀元前495頃）
-Pythagorean theorem	ピタゴラスの定理
 python	ニシキヘビ(アフリカ・アジア・オーストラリア産の無毒の大蛇),プログラミング言語の名前
 pyx	(カトリック教の)聖体容器 / (またpyx chest)貨幣検査箱
+pâtisserie	(フランス風の)パン菓子店
+pâté	パテ,肉パイ(レバー肉・魚などを小麦粉で練った菓子)
+pâté de foie gras	フォアグラ(ガチョウの肝臓で作る料理)

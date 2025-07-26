@@ -1,13 +1,141 @@
-E.C.M.	European Common Market欧州経済共同体(公式名はEEC)
-E,e	〈C〉英語アルファベットの第5字 / 〈U〉《E》(音階の)ホ音;ホ調 / 〈C〉《E》《米》(学校の成績の)E(5段階評価の第5位) / 〈C〉靴の幅広さを表す単位
-E.E.	Electrical Engineer 電気技師
+E pluribus unum	多から一を(諸州の合一を目ざす米国の標語;米国の数種類の硬貨に刻まれている)
 E,E.,e,e.	east / eastern
+E,e	〈C〉英語アルファベットの第5字 / 〈U〉《E》(音階の)ホ音;ホ調 / 〈C〉《E》《米》(学校の成績の)E(5段階評価の第5位) / 〈C〉靴の幅広さを表す単位
+E.C.M.	European Common Market欧州経済共同体(公式名はEEC)
+E.E.	Electrical Engineer 電気技師
+E.T.	〈略〉地球外生命体（extraterrestrial） / 映画『E.T.』（1982年） / Eastern Time 米国の東部標準時
+EC	European Community欧州共同体
+ECG	electrocardiogram
+EDP	electronic data processing
+EDT,E.D.T.	Eastern daylight time 東部夏時間
+EEC	European Economic Community
+EHF	extremely high frequency・極高周波・極々々超短波・極超短波・ミリ波・ミリメートル波
+EM	enlisted man下士官兵
+EMU	electromagnetic unit電磁単位
+ENE	east-northeast
+EPA	Environmental Protection Agency(米国)環境保護庁
+ERA	Equal Rights Amendment《米》合衆国憲法の男女同権修正条項
+ESE	east-southeast
+ESP	extrasensory perception
+EST,E.S.T.	Eastern Standard Time《米》東部標準時
+ETA	estimated time of arrival到着予定時刻
+ETD	estimated time of departure出発予定時刻
+ETV	educational television教育テレビ
+EV,ev	electron volt電子ボルト
+EVA	extravehicular activity宇宙船外活動
+EW	enlisted woman
+East Asia	東アジア(日本・中国・朝鮮など)
+East Berlin	東ベルリン
+East China Sea	東シナ海
+East End	イーストエンド(ロンドンの東部地域の工業地帯)
+East Germany	東ドイツ,ドイツ民主共和国(=German Democratic Republic)
+East Indies	東インド諸国(インド・インドネシア・ビルマ・タイ・マライ諸島を指す) / 東インド諸島(マライ諸島の別称)
+East Side	イーストサイド(ニューヨーク市のマンハッタンの東部地区;移住者など低所得者層が多く住む)
+Easter	『復活祭』,イースター(キリストの復活を祝って春分(3月21日ころ)後の満月の日の次の日曜日(Easter DayまたはEaster Sunday)に行われる祭り.新しい生命の象徴である彩色した鶏卵(Easter egg)を友人に贈ったり,盛装をして町をねり歩く習慣がある)
+Easter egg	復活祭の卵(チョコレート・砂糖で作ったり,卵に彩色したりする)
+Eastern Daylight Time	東部夏時間(日本との時差マイナス13時間;《略》EDT,E.D.T.)
+Eastern Hemisphere	東半球
+Eastern Standard Time	東部標準時(日本との時差はマイナス14時間;《略》EST,E.S.T.)
+Eastern [Orthodox] Church	=Orthodox Church
+Eastertide	復活祭に始まる1週間 / 復活祭の季節(宗派により,復活祭後の40,50または57日間をいう)
+Ecclesiastes	伝道の書(旧約聖書の一書)
+Ecuador	エクアドル(南米北西部の共和国;首都はQuito)
+Edam	(オランダ製)赤玉チーズ
+Eden	エデンの園(聖書で,神がはじめアダムとイブを住まわせた楽園)
+Edinburgh	エジンバラ(スコットランドの首都)
+Edison	エジソン(『Thomas Alva Edison』;1847‐1931;米国の発明家)
+Eg.	Egypt / Egyptian
+Egypt	『エジプト』(エジプトアラブ共和国(the Arab Republic of Egypt);首都はCairo)
+Egyptian	エジプトの;エジプト人(語)の / 〈C〉エジプト人 / 〈U〉(古代の)エジプト語
+Eiffel Tower	エッフェル塔
+Einstein	アインシュタイン(『Albert~』;1879‐1955;物理学者;相対性原理を発見)
+Eire	エール(アイルランド共和国(the Republic of Ireland)の旧称)
+Eisenhower	アイゼンハワー(『Dwight David ~』;1890‐1969;米国の将軍・政治家,34代大統領(1953‐61))
+El Dorado	エルドラド(昔スペイン人が南米アマゾン河畔にあると想像した黄金郷) / (一般に)黄金郷
+El Greco	エルグレコ(1541‐1614;クレタ島生まれのスペインの画家)
+El Paso	エルパソ(テキサス州西部の都市)
+El Salvador	エルサルバドル(中米西部の共和国;首都San Salvador)
+Elastoplast	ばんそうこうの一種の商標名
+Elbe	エルベ川(北海に注ぐドイツの川)
+Election Day	選挙日(特に11月第1月曜日の翌日の火曜日の大統領選挙人を選ぶ日)
+Electra complex	エレクトラコンプレックス(娘が父親に抱く無意識の性的欲望)
+Elevation of the Host	聖体奉挙(パンとぶどう酒を高くかかげるローマカトリック教会のミサの儀礼)
+Elijah	(聖書で)エリヤ(紀元前9世紀ごろのヘブライの預言者)
+Elizabeth	《~ I》エリザベス1世(1533‐1603;在位1558‐1603) / 《~ II》現英国女王エリザベス2世(1926‐;在位1952‐)
+Elizabethan	エリザベス朝の;エリザベス1世の / エリザベス女王時代の人;(特に)当時の文人
+Elysian	極楽の
+Elysium	〈U〉(古代ギリシア人が想像した,死者のための)極楽 / 〈C〉《文》至福の地,桃源郷
+Emerson	エマソン(『Ralph Waldo ~』;1803‐1882;米国の思想家・詩人)
+Emmentaler,Emmenthaler	スイスチーズ(ナッツの風味があり穴が多い)
+Emp.	Emperor / Empire / Empress
+Empire State	ニューヨーク州の別名
+Empire State Building	エンパイア・ステートビル(ニューヨーク市にある102階の高層ビル)
+Eng.	England / English
+England	『イングランド』(Great Britain島からScotlandとWalesを除いた部分;首都London) / 『英国』,イギリス本国
+English	〈U〉《通例冠詞をつけないで》『英語』 / 《the~》《集合的に》《複数扱い》『イギリス人』,イングランド人,英国民[全体] / 英語の先生 / 『イギリスの』,英国の,イングランドの;『イギリス人の』,英国人の / 『英語の』
+English Channel	イギリス海峡(英仏の間にある海峡)
+English breakfast	英国ふう朝食(ベーコンエッグとマーマレードつきトースト)
+English horn	イングリッシュホルン(オーボエに似た木管楽器;《英》cor anglais)
+English muffin	円形の軽焼きパン;熱いうちにバターをつけて食べる(《英》muffin)
+English setter	イングリッシュセッター(白い毛のまじった黒か茶の中型の猟犬)
+English-speaking	英語を話す
+Englishman	『イギリス人』,英国人,イングランド人
+Englishwoman	『イギリス婦人』,英国婦人,イングランド婦人
+Ens.	ensign
+Eocene	始新世 / 始新世の(に関する,特有の)
+Ephesians	エペソ人への手紙(新約聖書の一書)
+Epiphany	主顕(しゅけん)祭(キリスト生誕の際,東方の博士が訪れたこととキリストがユダヤ教徒以外の人の前に初めて姿を現したのを祝う1月6日の祭り)
+Episc.	Episcopal / Episcopalian
+Episcopalian	=Episcopal / 監督教会員,聖公会会員
+Equatorial Guinea	赤道ギニア共和国(中央アフリカの共和国;首都は Malabo)
+Er	erbiumの化学記号
+Erasmus	エラスムス(『Desiderius ~』; 1466?‐1536;オランダの人文主義者,神学者)
+Erie	エリー湖(北米五大湖の一つ)
+Erin	アイルランド(Ireland)
+Eros	エロス(古代ギリシアの愛の神;ローマ神話のCupidに当たる)
+Erse	〈U〉アイルランド語 / スコットランド・ゲール語《古風》
+Es	einsteiniumの化学記号
+Esk.	Eskimo
+Eskimo	エスキモー人 / エスキモー語 / エキスモー人(語)の
+Eskimo dog	エスキモー犬
+Esperanto	エスペラント語(ポーランドの医師・言語学者L.L.Zamenhof(1859‐1917)が創案した国際補助語)
+Esq.,Esqr.	Esquire
+Esther	エステル記(旧約聖書の歴史書の一つ)
+Estonia	エストニア(バルト海に臨むソビエト連邦内の共和国)
+Ethiopia	エチオピア(アフリカ東部の国;首都はAddis Ababa;旧称はAbyssinia)
+Ethiopian	エチオピアの;エチオピア人の / エチオピア人
+Eton College	イートン校(ロンドンに近いEtonの町にある有名なpublic school)
+Eton jacket	イートンジャケット(イートン校の制服である短い上着)
+Etruria	エトルリア(紀元前4世紀までイタリアの西部にあった古代国家)
+Etruscan	古代エトルリアの;エトルリア人の;エトルリア語の / 〈C〉エトルリア人 / 〈U〉エトルリア語
+Eu	europiumの化学記号
+Eucharist	《the~》聖餐(せいさん)式(Holy Communion) / 〈U〉聖餐用のパンとぶどう酒
+Eucharistic	聖餐式の
+Euclid	ユークリッド(紀元前300年ごろの古代ギリシアの数学者) / 〈U〉ユークリッド幾何学
+Euclidean, Euclidian	ユークリッドの,ユークリッド幾何学の
+Euphrates	ユーフラテス川(トルコ東部からTigris川に合流し,ペルシア湾に注ぐ;下流域は古代文明の発祥地)
+Eur.	Europe / European
+Eurasia	ユーラシア,欧亜大陸
+Eurasian	欧亜大陸の / 欧亜混血の / 欧亜混血児
+Euripides	エウリピデス(ギリシア三大悲劇詩人の一人;480‐406?B.C.)
+Eurocrat	C〉欧州連合（EU）の行政官・官僚
+Eurodollar	ユーロダラー(ヨーロッパの銀行に預金されて米ドルで国際間の信用の決済,特に貿易支払に用いられる)
+Europe	『ヨーロッパ』,欧州
+European	『ヨーロッパ』[『人』]『の』,欧州[人]の / 『ヨーロッパ人』,欧州人
+European plan	ヨーロッパ式ホテル料金制(ホテルで室代・食費が別勘定のもの)
+Eustachian tube	耳管(中耳から咽頭に通じる管)
+Eve	イブ,エバ(神が創造した人類最初の女性;Adamの妻)
+Everest	エベレスト山(『Mount』(『Mt.』)『~』;ヒマラヤ山脈にある世界最高峰;8,848m)
+Excellency	閣下
+Exod.	Exodus
+Expo	大博覧会
+Ezekiel	エゼキエル(紀元前6世紀のヘブライの預言者) / エゼキエル書(旧約聖書中のエゼキエルの文章・預言を収めた書)
+Ezra	エズラ(紀元前5世紀のヘブライの預言者) / エズラ書(旧約聖書中のエズラが書いたと信じられている一書)
+e'en	=even
+e'er	=ever
 e.g.	for example「たとえば」
 e.o.m.	end of the month
 e.q.	equal / equation / equivalent
-E.T.	〈略〉地球外生命体（extraterrestrial） / 映画『E.T.』（1982年） / Eastern Time 米国の東部標準時
-e'en	=even
-e'er	=ever
 each	『おのおのの』,『めいめいの』,各… / 『各自』,おのおの,めいめい / めいめい[に],それぞれ
 eager	《補語にのみ用いて》『熱望している』,強く望んで / 『熱心な』
 eagerly	しきりに;熱心に
@@ -63,26 +191,11 @@ easel	画架,イーゼル(油絵のカンバスを立てかける台)
 easement	〈U〉地役権(通行など他人の土地を利用する権利) / 〈U〉〈C〉《まれ》(苦痛などの)緩和;安心,息抜き
 easily	『容易に』;すらすらと;気楽に / 《比較級・最上級を強めて》疑いなく,断然
 east	《the~》『東』;(…の)東方,(…の)東部《+『of』+『名』》 / 《the East》『東洋』(the Orient) / 《the East》《米》東部地方 / 『東の』,東方の,東部の;東からの / 『東に』,東方へ
-East Asia	東アジア(日本・中国・朝鮮など)
-East Berlin	東ベルリン
-East China Sea	東シナ海
-East End	イーストエンド(ロンドンの東部地域の工業地帯)
-East Germany	東ドイツ,ドイツ民主共和国(=German Democratic Republic)
-East Indies	東インド諸国(インド・インドネシア・ビルマ・タイ・マライ諸島を指す) / 東インド諸島(マライ諸島の別称)
-East Side	イーストサイド(ニューヨーク市のマンハッタンの東部地区;移住者など低所得者層が多く住む)
 eastbound	東へ向かう
-Easter	『復活祭』,イースター(キリストの復活を祝って春分(3月21日ころ)後の満月の日の次の日曜日(Easter DayまたはEaster Sunday)に行われる祭り.新しい生命の象徴である彩色した鶏卵(Easter egg)を友人に贈ったり,盛装をして町をねり歩く習慣がある)
-Easter egg	復活祭の卵(チョコレート・砂糖で作ったり,卵に彩色したりする)
 easterly	東方に向かう;東方にある / (風が)東からの
 eastern	『東の』;東へ向かう;(風が)東からの / 《しばしばEastern》『東洋の』(Oriental) / 《しばしばEastern》《米》東部地方の / 《Eastern》東欧の,共産圏の
-Eastern Daylight Time	東部夏時間(日本との時差マイナス13時間;《略》EDT,E.D.T.)
-Eastern Hemisphere	東半球
-Eastern [Orthodox] Church	=Orthodox Church
-Eastern Standard Time	東部標準時(日本との時差はマイナス14時間;《略》EST,E.S.T.)
 easterner	東洋人 / 《通例Easterner》《米》東部地方の住民(出身者)
 easternmost	最も東方(東部)の,極東の
-Eastertide	復活祭に始まる1週間 / 復活祭の季節(宗派により,復活祭後の40,50または57日間をいう)
-elastomer	エラストマー(ゴムのような弾性物質)
 eastward	東へ / 東(東方)の(に向かう)
 easy	(事が)『容易な』,骨の折れない / 『心配のない』,気楽な / 寛大な,甘い / (速度などが)ゆるやかな;(衣服などが)ゆったりした / 楽々と;のんきに
 easy chair	安楽いす
@@ -105,14 +218,11 @@ ebonite	エボナイト
 ebony	コクタン(ピアノの黒けんや高級家具用の黒い硬質木材) / コクタンの色 / コクタン色の
 ebullience	幸福感と喜びに満ちあふれること
 ebullient	沸騰した / 幸福感と喜びにあふれた
-EC	European Community欧州共同体
 eccentric	(人・性格などが)『普通でない』,風変わりな / (2個以上の円が)中心を異にした / (軌道が)正円でない,偏心的な,離心的な / 『変人』,奇人 / 偏心輪(円運動を上下(前後)運動にかえる装置)
 eccentrically	風変わりに / 偏心(離心)的に
 eccentricity	〈C〉風変わりな行為(癖) / 〈U〉風変わりなこと
-Ecclesiastes	伝道の書(旧約聖書の一書)
 ecclesiastic	(キリスト教の)聖職者,牧師 / =ecclesiastical
 ecclesiastical	(キリスト教の)教会の;聖職者の
-ECG	electrocardiogram
 echelon	(飛行機・艦船などの)梯形編成 / (役職などの)地位,段階
 echo	〈C〉〈U〉『反響』[音];『こだま』,山びこ / 〈C〉〈U〉(意見・心情などに対する)共鳴,反応 / 〈C〉〈U〉(他人の行為・意見などの)繰り返し,まね《+『of』+『名』》;(…からの)影響《+『from』+『名』》;〈C〉まねをする人 / 〈場所が〉…'を'『反響させる』 / 〈人の言葉・意見〉'を'『そのまま繰り返す』,そっくりまねる / (…で)〈場所・音・声が〉『反響する』《+『with』+『名』(do『ing』)》
 echolocation	レーダー反射法(レーダーを使って物体の位置を決定する方法)
@@ -143,15 +253,12 @@ ecstasy	『有頂天』,無我夢中,恍惚(こうこつ)
 ecstatic	有頂天の,無我夢中の;(…に)夢中で《+『at』+『名』》
 ecstatically	有頂天になって,無我夢中で
 ectoplasm	(霊媒の体から出る)心霊体
-Ecuador	エクアドル(南米北西部の共和国;首都はQuito)
 ecumenical, ecumenical	全キリスト教会の,キリスト教各派の統一を目ざす / 全般的な,普遍的な,世界的な
 ecumenicalism	全キリスト教会統一主義,世界教会主義
 eczema	湿疹(しっしん)
-Edam	(オランダ製)赤玉チーズ
 eddy	うず,(風・霧・煙などの)渦巻き / 渦を巻く
 edelweiss	エーデルワイス(アルプス産の高山植物)
 edema	浮腫(ふしゅ),水腫
-Eden	エデンの園(聖書で,神がはじめアダムとイブを住まわせた楽園)
 edge	〈C〉『縁』,『端』;(峰などの)背 / 〈C〉(刃物の)『刃』;〈U〉(刃の)鋭利さ / 〈U〉(欲望などの)強さ,激しさ / (…で)…'に'『へり』(『縁』)『をつける』《+『名』+『with』+『名』》 / 《副詞[句]を伴って》…'を'徐々に(注意深く)動かす / 〈ナイフなど〉'を'研ぐ / 〈声・感覚など〉'を'研ぎ澄ます / (相手)'に'小差で勝つ / 横ざまに進む / じりじり進む
 edgeways	=edgewise
 edgewise	刃を先に向けて / へりに沿って
@@ -163,8 +270,6 @@ edict	勅令,布告
 edification	(道徳的・宗教的な)教化,啓発,感化
 edifice	(特に堂々とした)大建築物
 edify	…'を'教化する,啓発する
-Edinburgh	エジンバラ(スコットランドの首都)
-Edison	エジソン(『Thomas Alva Edison』;1847‐1931;米国の発明家)
 edit	…'を'編集する / 〈原稿など〉'を'校訂する,〈本など〉'を'監修する / (…から)〈文章など〉'を'削除する《+『名』+『out of』+『名』》
 edit.	edited / edition / editor
 edition	(刊行物の)『版』;(同じ版で同時に刷った)全発行部数;(同じ版の)1冊(部) / 《修飾語[句]を伴って》(装丁などから見た)…版,体裁
@@ -172,8 +277,6 @@ editor	(出版物・映画などの)『編集者』;(新聞などの)主筆,主�
 editorial	『社説』,論説(《英》leading article, leader) / 『編集者の』;編集上の / 社説の,論説の
 editorialize,editorialise	《米》社説(論説)で論じる / 報道に私見をさしはさむ
 editorship	編集者の地位(職)
-EDP	electronic data processing
-EDT,E.D.T.	Eastern daylight time 東部夏時間
 educ.	education / educational
 educate	…'を'『教育する』,教え込む
 educated	『教育』(『教養』)『のある』 / 知識(経験)に基づいた
@@ -184,7 +287,6 @@ educational television	教育テレビ番組
 educationist	=educator
 educator	教育者,教師 / 教育学者
 educe	(…から)〈隠れた能力など〉'を'引き出す;(表情などから)〈気持ちなど〉'を'推し量る《+『名』+『from』+『名』》
-EEC	European Economic Community
 eel	ウナギ
 eerie,eery	無気味な,気味悪い
 eerily	無気味に
@@ -222,7 +324,6 @@ effulgence	輝かしさ,光輝
 effulgent	さん然と輝く,まばゆいばかりの
 effusion	〈U〉流出,噴出;〈C〉流出物(量) / 〈C〉(感情・言葉などの,通例過剰な)吐露,ほとばしり
 effusive	むやみに心情を吐露した
-Eg.	Egypt / Egyptian
 egad	やあ,いやはや!
 egalitarian	平等主義の / 平等主義者
 egalitarianism	平等主義
@@ -256,14 +357,10 @@ egotistical	=egotistic
 egregious	{形} とんでもない / ひどく悪い / 目に余る
 egress	〈U〉《文》(…から)外へ出ること;外へ出る権利《+『from』+『名』》 / 〈C〉《文》(…からの)出口《+『from』+『名』》
 egret	シラサギ,シラサギの羽毛 / (婦人帽などにつける)羽毛飾り
-Egypt	『エジプト』(エジプトアラブ共和国(the Arab Republic of Egypt);首都はCairo)
-Egyptian	エジプトの;エジプト人(語)の / 〈C〉エジプト人 / 〈U〉(古代の)エジプト語
 eh	えっ(問い・疑い・驚き・ちゅうちょなど;また相手の同意を求めるときにも用いる)
-EHF	extremely high frequency・極高周波・極々々超短波・極超短波・ミリ波・ミリメートル波
 eider	〈C〉(またeider duck)(北欧沿岸に生息する)ケワタガモ / =eiderdown
 eiderdown	〈U〉ケワタガモの綿毛 / 〈C〉(その綿毛を詰めた)羽根ぶとん
 eidolon	幻・幽霊・幻想・理想像
-Eiffel Tower	エッフェル塔
 eight	〈C〉(数の)8;8の記号(8,VIIIなど) / 〈U〉8時,8分;8歳 / 〈U〉《複数扱い》8人,8個 / 〈C〉八つ(8人,8個)一組のもの;8人のボート選手 / 〈C〉(カードの)8の札;〈U〉(スケートの)8字形[滑走](the figure of eight) / 8の;8人の / 8個の;《補語にのみ用いて》8歳で
 eight ball	エイトボール(8と書いてある玉突きの黒い玉)
 eight track	(テープの)8音帯
@@ -275,10 +372,7 @@ eighth note	8分音符(《英》quaver)
 eightieth	《the ~》『第80の』,80番目の / 80分の1の / 《the ~》『第80』,80番目[のもの] / 〈C〉80分の1
 eightsome	(スコットランドの)8人舞踊
 eighty	〈C〉(数の)『80』,80の記号(80,LXXXなど) / 〈U〉80歳 / 〈C〉80人,80個 / 《the eighties》(世紀の)80年代; / 『80の』,80人の,80個の;《補語にのみ用いて》80歳で
-Einstein	アインシュタイン(『Albert~』;1879‐1955;物理学者;相対性原理を発見)
 einsteinium	アインスタイニウム(放射性元素;化学記号は『Es』)
-Eire	エール(アイルランド共和国(the Republic of Ireland)の旧称)
-Eisenhower	アイゼンハワー(『Dwight David ~』;1890‐1969;米国の将軍・政治家,34代大統領(1953‐61))
 eisteddfod	ウェールズの歌唱祭
 either	(二つのうちの)『どちらかの』;どちらでも,どちらの…も / (2者のうちの)『どちらか一方』;『どちらでも』 / …『か』…『か』(どちらか);…『も』…『も』(どちらも) / …『もまた』[…ない],…と同じ程度に[…ない]
 either-or	(二者択一して)あれかこれか
@@ -291,10 +385,6 @@ ejector	射出装置,放出(排出)器
 eke	(…で)…'の'不足を補う《+『out』+『名』+『by』(『with』)+『名』(do『ing』)》 / また(also)
 ekistics	生活都市計画学
 el	=ell / 《米話》高架鉄道(elevated railroad)
-El Dorado	エルドラド(昔スペイン人が南米アマゾン河畔にあると想像した黄金郷) / (一般に)黄金郷
-El Greco	エルグレコ(1541‐1614;クレタ島生まれのスペインの画家)
-El Paso	エルパソ(テキサス州西部の都市)
-El Salvador	エルサルバドル(中米西部の共和国;首都San Salvador)
 elaborate	『入念な』,手の込んだ / …'を'念入りに仕上げる,練り上げる / (…について)詳細に述べる《+『on』(『upon, about』)+『名』(do『ing』)》
 elaboration	〈U〉(…を)念入りに作り上げる(仕上げる)こと《+『of』+『名』》 / 〈C〉念入りに作り上げたもの,労作
 elan	熱意;気力
@@ -303,11 +393,10 @@ elapse	〈時が〉経過する,たつ(pass)
 elastic	『弾力のある』,伸縮自在の / 融通性のある / ゴムひも;ゴムひもで作った物,靴下留め,ズボンつり
 elastic band	=rubber band
 elasticity	弾力,弾性;伸縮自在;融通性
-Elastoplast	ばんそうこうの一種の商標名
+elastomer	エラストマー(ゴムのような弾性物質)
 elate	{動}（人を）意気揚々とさせる / 大得意にさせる《文語》
 elated	得意の,意気揚々とした
 elation	得意,意気揚々
-Elbe	エルベ川(北海に注ぐドイツの川)
 elbow	『ひじ』 / ひじ形(L字形)のもの;ひじ形の屈曲;(管の)ひじ形継ぎ手;(いすの)ひじ掛け / …'を'『ひじで押す』(『突く』);(…から)…'を'ひじで押し出す《+『名』+『out of』+『名』》
 elbow grease	力仕事
 elbowroom	自由に身動き(行動)できる空間(余裕)
@@ -320,7 +409,6 @@ eldest	『最も年上の』
 elec.	electric / electrical / electricity
 elect	(投票で)〈議長・議員など〉'を'『選ぶ』,『選挙する』 / 《文》…'を'選択する;(…すること)'に'決定する(decide)《+『to』 do》 / 《通例‐electの形で名詞に付けて》(まだ就任していないが)選挙された,当選した / 選ばれた / 《the~》選ばれるに値する人たち,エリート / 《時にthe~》選ばれた者,選民
 election	『選挙』 / 当選
-Election Day	選挙日(特に11月第1月曜日の翌日の火曜日の大統領選挙人を選ぶ日)
 electioneer	選挙運動をする
 electioneering	(戸別訪問・演説などの)選挙運動
 elective	選挙で選ばれた,選挙による / 選択の(=optional) / 選択科目
@@ -329,7 +417,6 @@ electoral	選挙[人]の;選挙人から成る
 electoral college	(大統領および副大統領を選挙する)選挙人団
 electoral roll	選挙人名簿
 electorate	選挙民,有権者
-Electra complex	エレクトラコンプレックス(娘が父親に抱く無意識の性的欲望)
 electric	《名詞の前にのみ用いて》『電気の』;電気が引き起こす / 《名詞の前にのみ用いて》電気で動く,電動の;電気を起こす,発電の / 興奮させる,はらはら(ぞくぞく)させる
 electric blanket	電気毛布
 electric chair	(死刑用の)電気いす
@@ -407,7 +494,6 @@ elevate	(ある高さに)…'を'『上げる』,'の'程度を高める《『�
 elevated	『高く上げられた』,高い / (思想などが)高尚な,気品のある / 高架鉄道
 elevated railway	高架鉄道
 elevation	〈U〉〈C〉《文》(…を…に)『高めること』,昇進(向上)させること《+『of』+『名』+『to』+『名』》 / 〈U〉《文》気高さ,高尚 / 〈C〉《文》隆起したところ;高地 / 《単数形で》(地表・海面からの)『高さ』;地上,海抜 / 〈C〉(建物などの)立面図,正面図 / 《単数形で》仰角
-Elevation of the Host	聖体奉挙(パンとぶどう酒を高くかかげるローマカトリック教会のミサの儀礼)
 elevator	《米》『エレベーター』,昇降機(《英》lift) / (揚げ下ろしの設備のある)穀物倉庫 / (飛行機の)昇降舵(だ)
 eleven	〈C〉(数の)『11』;11を表す記号(11,XIなど) / 〈U〉11時;11歳 / 〈U〉《複数扱い》11人,11個 / 〈U〉《単数扱い》(フットボールのチームなどの)11人(11個)一組 / 『11の』,11人の,11個の / 《補語にのみ用いて》11歳の
 eleven-plus	11歳児進学試験(この試験の結果でgrammar schoolに進学するかsecondary modern schoolに進学するかを決める)
@@ -424,15 +510,12 @@ elide	〈子音・母音・音節〉'を'省いて発音する / …'を'省略�
 eligibility	適任,適格 / 被選挙資格
 eligible	適格な,適任の,選ばれる資格のある / 有資格者,適格者
 eligibly	選ばれるように,最適に
-Elijah	(聖書で)エリヤ(紀元前9世紀ごろのヘブライの預言者)
 eliminate	(…から)…'を'『取り除く』,削除する(get rid of)《+『名』+『from』+『名』》 / …'を'考慮に入れない,無視する(disregard)
 elimination	(…の)除去,削除《+『of』+『名』》 / (競技の)予選
 elite, élite	《the ~》《複数扱い》えり扱きの人々,エリート,精鋭 / 〈C〉エリート活字
 elitism	エリート(精鋭)主義 / エリート意識
 elitist, élitist	エリート[の一人]
 elixir	錬金薬液(卑金属を金に変えると信じられた) / 万能薬
-Elizabeth	《~ I》エリザベス1世(1533‐1603;在位1558‐1603) / 《~ II》現英国女王エリザベス2世(1926‐;在位1952‐)
-Elizabethan	エリザベス朝の;エリザベス1世の / エリザベス女王時代の人;(特に)当時の文人
 elk	ヘラジカ(北米・北欧・アジア産のオオジカ)
 elkhound	エルクハウンド(ノルウェー産シカ狩り用猟犬)
 ell	(建物の端の)『L』字形延長部 / エル(昔の長さの単位で英国では45インチ)
@@ -462,9 +545,6 @@ elusive	(うまく)逃げる,捕まえにくい / 理解しにくい,説明し�
 elver	シラスウナギ(ウナギの幼魚)
 elves	elfの複数形
 elvish	=elfish
-Elysian	極楽の
-Elysium	〈U〉(古代ギリシア人が想像した,死者のための)極楽 / 〈C〉《文》至福の地,桃源郷
-EM	enlisted man下士官兵
 emaciate	…'を'やせ衰えさせる,やつれさせる
 emaciated	やせ衰えた,やつれた;(…で)やせ衰えた《+『from』+『名』》
 emanate	〈命令・考え・提案・におい・音などが〉(…から)出る,発する《+『from』+『名』》
@@ -529,13 +609,12 @@ emergence	出現
 emergency	『非常の場合』,緊急の場合
 emergent	見えてくる,現れる
 emeritus	名誉退職の
-Emerson	エマソン(『Ralph Waldo ~』;1803‐1882;米国の思想家・詩人)
 emery	金剛砂,エメリー(研磨剤に用いる粒状鉱石)
 emetic	催吐剤 / 吐き気を催させる,催吐性の
 emigrant	(他国への)『移民』,移住者 / 他国へ移住する,移民の
-emigre,émigré	(特に政治的な)亡命者
 emigrate	(自国から他国へ)移住する《+『from』+『名』+『to』+『名』》
 emigration	(他国への)移住,移住 / 《集合的に》移民,移民団
+emigre,émigré	(特に政治的な)亡命者
 eminence	〈U〉(地位・名声などの)高いこと;高貴,高名,傑出 / 〈C〉《文》高所,高台,高地 / 〈C〉《Eminence》(カトリック教会で)台下(枢機卿の尊称)
 eminent	(地位・身分が)『高い』;著名な;(業績が)『傑作した』
 eminent domain	[土地]収用権(国が公共のために私有財産を買い上げること)
@@ -548,7 +627,6 @@ emission control	(車・工場からの)排気ガス規制
 emissive	{形} 放射に関する・放射性の
 emit	〈水・熱・光・音・声など〉'を'『出す』,『発する』
 emitter	放射体 / エミッタ(トランジスターの電極)
-Emmentaler,Emmenthaler	スイスチーズ(ナッツの風味があり穴が多い)
 emollient	(医薬品などが皮膚を)軟化する,荒れ止めの / (荒れ止めクリームなどの)軟化剤
 emolument	俸給,報酬,手当
 emote	(芝居・映画のように)大げさに感情を表現する
@@ -557,7 +635,6 @@ emotional	『感情の』,情緒の / 『感情的な』,感動しやすい / (�
 emotionalism	感情的で過剰な傾向 / 感情に訴えること
 emotionally	感情的に,情緒的に;感情に訴えて
 emotive	感動的な,情緒的な
-Emp.	Emperor / Empire / Empress
 empanel,impanel	〈人名〉'を'陪審名簿に載せる / 〈陪審員〉'を'陪審名簿から選ぶ
 empathize	(…に)感情移入する《+『with』+『名』》
 empathy	(心理学で)感情移入,共感
@@ -569,8 +646,6 @@ emphatic	(言動などが)断固たる,強い調子の / 際だった,目立つ 
 emphatically	断固として / 目立って;強調して
 emphysema	気腫(きしゅ),肺気腫
 empire	〈C〉『帝国』 / 〈U〉帝権,絶対支配力 / 〈C〉(強大な社会・経済組織としての)…帝国 / 《『the E-』》ナポレオンの帝政期(1804‐15)
-Empire State	ニューヨーク州の別名
-Empire State Building	エンパイア・ステートビル(ニューヨーク市にある102階の高層ビル)
 empirical	経験を基礎とする,実験に基づいた
 empiricism	経験論(知識は経験に基づくという理論)
 emplacement	(重砲の)砲床,砲座
@@ -594,7 +669,6 @@ empty-headed	頭が空っぽの
 empurpled	紫色をした
 empyrean	最高天(古代天文学で五天のうちで最高の天上界) / 天空,大空 / 最高天の;天空の
 emu	エミュー(ダチョウに似たオーストラリア産の翼のない大鳥)
-EMU	electromagnetic unit電磁単位
 emulate	…'と'張り合う,'に'負けまいとする / …'を'手本とする,見習う
 emulation	張り合うこと,競争 / 見習うこと,模範とすること
 emulator	競争者; 見習う人; エミュレータ (ある機種用のプログラムを別の機種に解読・実行させるためのハードウェアやソフトウェア)
@@ -697,7 +771,6 @@ enduring	がまん強い(patient) / 不朽の,永続する
 enduro	長距離オートバイレース(通常24時間で最長距離を争う)
 endways	端を前(上)にして / 縦に / 端を接して
 endwise	=endways
-ENE	east-northeast
 enema	かん腸;〈C〉かん腸剤(器)
 enemy	『敵』 / 《the~》《集合的に;《米》では単数扱い,《英》では単数・複数扱い》『敵兵』,敵軍;敵国 / (…を)害するもの,(…の)敵《+『to』(『of』)+『名』》 / 敵の,敵国の
 energetic	『精力的な』,元気旺盛な
@@ -718,7 +791,6 @@ enforcement	(法律などの)実施,施行 / 強制,強要
 enfranchise	…'に'参政権(選挙権,自治権)を与える / 〈奴隷(どれい)など〉'を'解放する,自由にする
 enfranchisement	選挙権(公民権,自治権)の賦与 / 解放,釈放
 eng.	engine / engineer / engineering / engraved
-Eng.	England / English
 engage	…'を'『雇う』;(…として)…'を'雇う《+『名』+『as』+『名』》;〈技術・労力など〉'を'買う / …'を'予約する / 〈注意,関心〉'を'引きつける / 〈事が〉〈時間・労力〉'を'『占める』,使う(occupy) / (…に)〈自分〉'を'専念(没頭)させる,従事させる《+one『self in』+『名』(do『ing』)》 / 〈自分〉'に'請け合う,約束する;〈物事〉'を'請け合う / …'と'交戦状態にはいる / 〈歯車など〉'を'かみ合わせる / (…に)『従事する』,たずさわる,参加する《+『in』+『名』》 / 交戦する / 〈歯車などが〉かみ合う,(…と)かみ合う《+『with』+『名』》 / (特に左翼の政治問題に対して)積極的な関心を持つ
 engaged	《補語にのみ用いて》(…に)忙しい《+『in』(『on』)+『名』(do『ing』)》 / 《補語にのみ用いて》《英》(電話などが)話し中の,ふさがっている(《米》busy) / 《補語にのみ用いて》約束済みの / 婚約中の / 交戦中の / (歯車が)かみ合った
 engagement	〈C〉『約束』,契約,取り決め;(会合などの)約束,予約《+『for』+『名』》;(人との)約束《+『with』+『名』》 / 〈C〉『婚約』;婚約期間 / 〈C〉雇用;雇用期間 / 〈C〉会戦,交戦 / 《複数形で》債務,負債 / 〈U〉〈C〉(歯車などの)かみ合わせ
@@ -728,16 +800,6 @@ engine	『エンジン』,発動機,機関 / 『機関車』(locomotive) / 消�
 engine driver	=engineer
 engineer	『技師』,技術家 / 《米》(特に鉄道の)『機関士』 / 巧みに事を処理する人,手腕家 / (陸軍の)工兵;(海軍の)機関士官 / (技師として)…'を'設計する,建設する / …'を'巧みに処理する,工作する
 engineering	『工学』 / 土木工事
-England	『イングランド』(Great Britain島からScotlandとWalesを除いた部分;首都London) / 『英国』,イギリス本国
-English	〈U〉《通例冠詞をつけないで》『英語』 / 《the~》《集合的に》《複数扱い》『イギリス人』,イングランド人,英国民[全体] / 英語の先生 / 『イギリスの』,英国の,イングランドの;『イギリス人の』,英国人の / 『英語の』
-English breakfast	英国ふう朝食(ベーコンエッグとマーマレードつきトースト)
-English Channel	イギリス海峡(英仏の間にある海峡)
-English horn	イングリッシュホルン(オーボエに似た木管楽器;《英》cor anglais)
-English muffin	円形の軽焼きパン;熱いうちにバターをつけて食べる(《英》muffin)
-English setter	イングリッシュセッター(白い毛のまじった黒か茶の中型の猟犬)
-English-speaking	英語を話す
-Englishman	『イギリス人』,英国人,イングランド人
-Englishwoman	『イギリス婦人』,英国婦人,イングランド婦人
 engr.	engineer / engraved / engraving
 engraft	(他の木に)…'を'接ぎ木する《+『名』+『on』(『upon』)+『名』》 / (人の心などに)〈主義・考えなど〉'を'しっかりと植え付ける《+『名』+『in』+『名』》
 engram	エングラム(経験によって生ずる神経系細胞内の構造別化) / (記憶の)痕跡,印象
@@ -787,7 +849,6 @@ enrich	(…で)〈社会・人など〉'を'『裕福にする』,金持ちに�
 enrichment	〈U〉豊かにすること;質を向上させること / 〈U〉裕福,豊富;質の向上 / 〈C〉豊かにするもの;装飾
 enroll,enrol	〈人〉'の'氏名を名簿に記入する;〈人〉'を'入会させる,入学させる,兵籍に入れる / 〈氏名〉'を'名簿に記入する / 入会する,入学する,入隊する
 enrollment,enrolment	〈U〉登録;入会,入学,入隊 / 〈C〉登録者数
-Ens.	ensign
 ensanguined	血で覆われた,血まみれの
 ensconce	(…に)〈自分〉'を'隠す《+『名』+『in』(『on, among』)+『名』》 / (…に)〈自分〉'を'落ち着かせる《+『名』+『in』(『on, among』)+『名』》
 ensemble	(一体をなすものとしてとらえられた各部分の)総体;全体的効果 / (調和のとれた)婦人服の一そろい,アンサンブル / (小人数の)合奏団,合唱団,アンサンブル / 《集合的に》(劇などの)共演者
@@ -848,7 +909,6 @@ entrapment	わなにかけること,陥れること
 entreat	〈人〉'に'『懇願する』,嘆願する / (人に)…'を'懇願する,嘆願する《+『名』+『of』+『名』〈人〉》
 entreatingly	懇願するように,おりいって
 entreaty	懇願,嘆願
-entrée,entree	〈C〉〈U〉(…に)入る権利《+『into』+『名』》 / 〈C〉アントレー(《米》主要料理;《英》(ディナーで)魚と肉の間に出す料理)
 entrench	…'を'ざんごうに入れる / 《しばしば副詞[句]を伴って》(ざんごうに入れたように)…'を'安泰[なもの]にする / ざんごうを掘る
 entrenched	(権利・信念などが)確固とした / ざんごうで防備された
 entrenchment	ざんごう掘り;〈C〉ざんごう
@@ -860,6 +920,7 @@ entrust	(…を)〈人〉'に'任せる,ゆだねる《+『名』〈人〉+『wi
 entry	〈C〉〈U〉(場所などに)『入ること』,『入場』,登場;(団体・競技などへの)参加,加入(entrance)《+『into』+『名』》 / 〈C〉《おもに米》(…への)入り口(entrance),玄関《+『of』(『to』)+『名』》 / 〈C〉(帳簿・日記・表などの)『記載事項』,項目;(…の)『記入』《+『of』+『名』》 / 〈C〉(競技・コンテストなどの)『参加者』,参加作品《+『for』(『in』)+『名』》 / 〈C〉(辞書などの)見出し語
 entry visa	(パスポートに押される)入国ビザ,入国査証
 entryway	入り口,玄関
+entrée,entree	〈C〉〈U〉(…に)入る権利《+『into』+『名』》 / 〈C〉アントレー(《米》主要料理;《英》(ディナーで)魚と肉の間に出す料理)
 entwine	〈つるやひもなどが〉…'に'からみつく,巻きつく
 enumerate	…'を'列挙する;…'を'数え上げる
 enumeration	〈U〉数え上げること;列挙 / 〈C〉目録,表(list)
@@ -887,15 +948,12 @@ envy	〈U〉(…に対する)『ねたみ』,羨望(せんぼう)《+『of』(�
 envyingly	うらやんで,ねたんで
 enwrap	…'を'包む,くるむ
 enzyme	酵素
-Eocene	始新世 / 始新世の(に関する,特有の)
 eolian	風の堆積(たいせき)作用による,風成の
 eon	非常に長い期間;永遠,永世 / 累代(地質学上の年代区分の最大の単位で,代(era)を二つ以上含む)
-EPA	Environmental Protection Agency(米国)環境保護庁
 epaulet, epaulette	肩飾り,(特に軍服の)肩章
 epee,épée	エペ(フェンシングで使う切っ先にたんぽのついた細身の剣)
 epergne	食卓中央の飾り皿(果実・花などを載せる)
 ephemeral	(昆虫・草などが)1日限りの / 短命の,はかない,つかの間の
-Ephesians	エペソ人への手紙(新約聖書の一書)
 epic	『叙事詩』 / 叙事詩の,叙事詩に似た / 叙事詩に歌われているような,壮大な
 epicene	両性共通の,男女両性をそなえた / めめしい,男らしくない
 epicenter,epicentre	震央(しんおう),震源地(地震の震源の真上の地表上の地点)
@@ -914,11 +972,8 @@ epilepsy	てんかん
 epileptic	てんかん[性]の / てんかん患者
 epilogue,epilog	(劇の)納め口上,エピローグ / (小説・詩などの)結び,終章
 epinephrine	=adrenalin[e]
-Epiphany	主顕(しゅけん)祭(キリスト生誕の際,東方の博士が訪れたこととキリストがユダヤ教徒以外の人の前に初めて姿を現したのを祝う1月6日の祭り)
-Episc.	Episcopal / Episcopalian
 episcopacy	〈U〉《文》監督(主教,司教)の職(任期) / 《the~》主教(司教)団
 episcopal	監督(主教・司教)の / 監督制度の / 《E-》監督派の
-Episcopalian	=Episcopal / 監督教会員,聖公会会員
 episcopate	=episcopacy
 episode	挿話的なでき事(人生の特殊な経験など) / (小説・劇などの中の本筋と直接関係のない)挿話的な事件
 episodic	挿話的な
@@ -932,7 +987,6 @@ epithelium	上皮[組織](生物体の表皮・血管内壁など)
 epithet	(人・物の性質・属性を表す)形容辞,形容語句 / あだ名,別称
 epitome	(…の)典型《+『of』+『名』》 / 《まれ》(作品・論文などの)要約《+『of』+『名』》
 epitomize,epitomise	…'を'典型的に示す / 《まれ》…'を'要約する
-E pluribus unum	多から一を(諸州の合一を目ざす米国の標語;米国の数種類の硬貨に刻まれている)
 epoch	『画期的な時代』,時期 / (歴史上の)新時代,新紀元 / 世(せい)(紀(period)の次に小さい単位)
 epoch-making	新しい時代を開く,画期的な
 epochal	世(せい)の,世特有の / 新しい時代を開く,画期的な
@@ -954,7 +1008,6 @@ equate	(…と)…'が'等しいと見なす,'を'等しく扱う《+『名』+�
 equation	等式; 方程式
 equator	(地球・天体の)『赤道』
 equatorial	(地球・天体の)赤道の,赤道上の / 赤道特有の
-Equatorial Guinea	赤道ギニア共和国(中央アフリカの共和国;首都は Malabo)
 equerry	(英国王室の)侍従
 equestrian	馬術の;馬上の / 騎手;(特に)曲馬師
 equiangular	等角の
@@ -978,15 +1031,12 @@ equivocal	二つの意味(いろいろな意味)に取れる(ambiguous) / 疑わ
 equivocate	言葉を濁す,あいまいな言葉を使う
 equivocation	どうにも取れる(あいまいな)言葉を使うこと
 er	えー,あのー
-Er	erbiumの化学記号
 era	(あるものの存在・でき事などで特徴づけられた)時代 / 紀元 / (地質の時代を表す)代
-ERA	Equal Rights Amendment《米》合衆国憲法の男女同権修正条項
 eradicate	…を根絶する,完全に取り除く
 eradication	(犯罪・病気などの)絶滅,根絶
 eradicator	根絶するもの;インク消し
 erase	(…から)〈文字など〉'を'『ふいて消す』,削除する,取り消す《+『名』+『from』+『名』》 / …'の'文字(絵など)を消す / (記憶などから)…'を'消し去る,ぬぐい去る《+『名』+『from』+『名』》
 eraser	『消しゴム』,『黒板ふき』,インク消しなど
-Erasmus	エラスムス(『Desiderius ~』; 1466?‐1536;オランダの人文主義者,神学者)
 erasure	ぬぐい消すこと; / 抹消部分,削除した語句
 erbium	エルビウム(希土類元素;化学記号は『Er』)
 ere	…の前に / …する前に,しないうちに(before)
@@ -1001,12 +1051,9 @@ erg	エルグ(エネルギーの単位)
 ergo	それ故に,したがって
 ergonomics	人体工学〈C〉
 ergot	麦角(ばっかく)病(麦角菌によるライ麦など穀物の病気) / 麦角(止血剤・子宮収縮剤用)
-Erie	エリー湖(北米五大湖の一つ)
-Erin	アイルランド(Ireland)
 ermine	〈C〉白テン,オコジョ(北国地域に住むエゾイタチ) / 〈U〉アーミンの毛皮
 erode	〈酸などが〉〈金属類〉'を'腐食する;〈水滴・雨・波などが〉…'を'浸食する
 erogenous	(体のある部分が)性感を刺激する
-Eros	エロス(古代ギリシアの愛の神;ローマ神話のCupidに当たる)
 erosion	(酸などによる)腐食;(風・水・波・氷河などによる)浸食[作用]
 erosive	浸食(腐食)性の
 erotic	性愛の;性愛を扱った;好色の
@@ -1023,7 +1070,6 @@ erratum	誤字,誤記,誤植
 erroneous	誤りのある,まちがった
 error	〈C〉『誤り』,『まちがい』 / 〈U〉思い違い,誤解 / 〈U〉〈C〉過ち,過失 / 〈U〉(計数の)誤差 / 〈C〉(野球で)エラー,失策
 ersatz	代用の;合成の
-Erse	〈U〉アイルランド語 / スコットランド・ゲール語《古風》
 erst	昔は,以前は
 erstwhile	昔の,以前の / 昔は,以前は,かつては
 eruct	〈おくび・げっぷ〉'を'出す / 〈火山などが〉〈煙など〉'を'噴出する / おくびを出す;吐き出す
@@ -1036,7 +1082,6 @@ eruptive	噴出する;突発する;爆発しがちな / 噴火する;噴火に�
 erysipelas	丹毒(たんどく)(連鎖球菌により生じる急性伝染病)
 erythema	紅斑(こうはん)(炎症などにより皮膚が異常に赤くなること)
 erythrocyte	赤血球
-Es	einsteiniumの化学記号
 escalate	…'を'段階的に増す(強める,拡大する) / 段階的に増す(強まる,拡大する)
 escalation	段階的な増大(拡大,強化)
 escalator	『エスカレーター』[もと商標名]
@@ -1061,19 +1106,13 @@ escritoire	書き物机(writing desk)
 escrow	条件付発効証書(不動産譲渡人などが第三者の手に預けておき,一定の条件成就とともに有効となる署名捺印(なついん )証書・契約書など)
 escudo	エスクード(ポルトガルの貨幣単位)
 escutcheon	紋章の描かれた盾(たて),盾形の紋地
-ESE	east-southeast
-Esk.	Eskimo
-Eskimo	エスキモー人 / エスキモー語 / エキスモー人(語)の
-Eskimo dog	エスキモー犬
 esophagus	食道(《英》oesophagus)
 esoteric	(興味・知識などが)少数の人だけの / 難解な / 秘密の
-ESP	extrasensory perception
 esp.,espec.	especially
 espadrille	エスパドリーユ(キャンバス地で底の平らなサンダル)
 espalier	果樹だな(格子)(果樹などをからませる)
 especial	『特別な』,格別の;特殊な
 especially	『特に』,特別に;きわだって
-Esperanto	エスペラント語(ポーランドの医師・言語学者L.L.Zamenhof(1859‐1917)が創案した国際補助語)
 espionage	スパイ行為,スパイ活動
 esplanade	(海岸・湖畔などの)遊歩地
 espousal	〈U〉〈C〉《文》(主義などの)支持,擁護 / 〈C〉《しばしば複数形で》《古》結婚;(…との)婚約《+『to』+『名』》
@@ -1082,7 +1121,6 @@ espresso	エスプレッソ(黒くいったコーヒー豆に蒸気を通して�
 esprit	(ひらめく)才気,機知,エスプリ
 esprit de corps	団体精神,団結心
 espy	〈遠くのもの・隠れたもの・意外なもの〉'を'見付ける
-Esq.,Esqr.	Esquire
 esquire	〈C〉(中世における)騎士の従者 / 〈C〉《英》郷士(ごうし) / 《E-》…殿,…様
 essay	(ある論題・問題に関する)『小論』,評論;『随筆』,エッセイ《+『on』(『upon』)+『名』》 / 《文》試み[ること],企て(attempt) / …'を'試みる;…しようとする《+『to』 do》
 essayist	随筆家
@@ -1090,7 +1128,6 @@ essence	〈U〉(…の)『本質』,真髄《+『of』+『名』》 / 〈U〉〈
 essential	『絶対必要な』,欠くことのできない / 『本質の』,本質的な / (植物・薬剤などの)エキスの,精の / (…に)不可欠の要素;(…の)主眼点,要点《+『of』+『名』》
 essentially	本質的に;本来は / 《否定構文で》必然的には(necessarily)
 est.	established / estimate / established / estate / estimate
-EST,E.S.T.	Eastern Standard Time《米》東部標準時
 establish	…'を'『設立する』,創設する / (ある場所・職業などに,…として)〈人・自分〉'を'落ち着かせる,安定させる《+『名』+『in』(『as』)+『名』》 / 〈法律など〉'を'制定する / 〈ある慣習・事実など〉'を'『確立する』,世に認めさせる / 〈事実など〉'を'証明する,立証する
 established	確立した,定まった;定着した;常設の
 establishment	〈U〉(…の)『設立』,設置;確立,樹立;制定;立証《+『of』+『名』》 / 〈U〉(確立された)『制度』,秩序 / 《the E-》『体制』,権力機構;英国国教会 / 〈C〉(土地・家財道具・使用人などを含む)住居,家,世帯 / 〈C〉(公共または私設の)施設,機構(営業所・事業所・店・ホテル・食堂・学校・病院・図書館など);《集合的に》施設(機構)を構成する人々
@@ -1100,7 +1137,6 @@ estate agent	不動産[仲介]業;土地管理人(《米》real estate agent)
 estate car	=station wagon
 esteem	〈物事〉'を'『尊重する』,重んじる;(…に対して)〈人〉'を'尊敬する《+『名』+『for』+『名』》 / 《おもに文》(…と)…'を'『思う』(consider)《+『名』[+『to be』]+『名』(『形』)〈補〉》 / 尊敬,尊重
 ester	エステル(酸とアルコールから水を分離してできる化合物の総称)
-Esther	エステル記(旧約聖書の歴史書の一つ)
 esthete	=aesthete
 esthetic	=aesthetic
 esthetics	=aesthetics
@@ -1110,7 +1146,6 @@ estimated	見積りの,概算の
 estimation	〈U〉判断;評価;尊重 / 〈C〉〈U〉(特に商業上の)(…の)見積り,概算《+『of』+『名』》
 estimator	見積りをする人,評価をする人
 estivate	=aestivate
-Estonia	エストニア(バルト海に臨むソビエト連邦内の共和国)
 estrange	…‘との'仲を裂く(悪くする);(…から)…'を'遠ざける《+『名』+『from』+『名』》
 estrangement	(…との,…間の)仲たがい《+『with』(『between』)+『名』》;(…からの)疎遠《+『from』+『名』》
 estrogen	エストロゲン(動物の雌を発情させる卵胞ホルモン)(《英》oestrogen)
@@ -1119,13 +1154,11 @@ estuary	(潮のさす大きな川の)河口
 et al	〈略〉他（およびその他）/ その他の人々 (ラテン語et aliiの略)
 et seq.	and the following…以下参照
 eta	エータ(ギリシア語アルファベットの第7字Η,η;英語のE,eに相当)
-ETA	estimated time of arrival到着予定時刻
 etc.	…『など』,その他…(ラテン語et cetera=and other thingsの略)
 etcetera	…など,その他…
 etch	〈絵など〉'を'エッチングで描く(彫る) / エッチングで描く
 etcher	エッチングする人,食刻銅版工
 etching	〈U〉食刻法,エッチング(銅板にろうを塗り,その上に針で絵などを描き,露出した部分を酸で腐食して原版を作る法) / 〈C〉食刻版画,エッチング
-ETD	estimated time of departure出発予定時刻
 eternal	『永遠の』,永久不変の,不滅の / 《話》絶え間のない,果てしない / 《the E-》神(God),永遠なるもの
 eternal triangle	(男女間の)三角関係
 eternity	〈U〉永遠,無限の時間;(神・魂などの)永遠性,不滅 / 〈U〉永遠の時間
@@ -1136,8 +1169,6 @@ ethereal	空気のように軽やかな,きわめて優美な / 《詩》天上�
 ethic	倫理,道徳律 / =ethical
 ethical	倫理の,道徳の;倫理学 / 道徳的な,(特に)職業道徳にかなった
 ethics	《単数扱い》『倫理学』 / 《複数扱い》『倫理』,道徳[律],規範
-Ethiopia	エチオピア(アフリカ東部の国;首都はAddis Ababa;旧称はAbyssinia)
-Ethiopian	エチオピアの;エチオピア人の / エチオピア人
 ethnic cleansing	民族浄化、人種浄化、ほかの民族を一掃する［壊滅させる］こと
 ethnic, ethnical	(共通の言語・文化・歴史を持つ)民族の
 ethnicity	民族的特徴(背景),民族性
@@ -1158,23 +1189,13 @@ etiolate	(光をあてずに)〈植物〉'を'白く生長させる
 etiological	病因学的（原因を調べる学問）
 etiology	〈U〉病原学 / 〈C〉〈U〉病気の原因,病因
 etiquette	『礼儀』,『作法』,エチケット / (同業者仲間の)礼儀,仁義
-Eton College	イートン校(ロンドンに近いEtonの町にある有名なpublic school)
-Eton jacket	イートンジャケット(イートン校の制服である短い上着)
-Etruria	エトルリア(紀元前4世紀までイタリアの西部にあった古代国家)
-Etruscan	古代エトルリアの;エトルリア人の;エトルリア語の / 〈C〉エトルリア人 / 〈U〉エトルリア語
 etude	(音楽の)練習曲,エチュード;(絵の)習作
-ETV	educational television教育テレビ
 etym.	etymological / etymology
 etymological	語源の,語源学上の
 etymologist	語源研究者,語源学者
 etymology	〈U〉語源,語の由来 / 〈U〉語源研究,語源学
-Eu	europiumの化学記号
 eucalyptus	ユーカリ樹(オーストラリア産の芳香ある常緑の巨木)
-Eucharist	《the~》聖餐(せいさん)式(Holy Communion) / 〈U〉聖餐用のパンとぶどう酒
-Eucharistic	聖餐式の
 euchre	ユーカー(高位32枚のカードでするカードゲーム) / (ユーカーで)〈人〉'に'勝つ / 《米話》〈人〉'を'出し抜く
-Euclid	ユークリッド(紀元前300年ごろの古代ギリシアの数学者) / 〈U〉ユークリッド幾何学
-Euclidean, Euclidian	ユークリッドの,ユークリッド幾何学の
 eugenic	優生学上の / 優秀な子孫を残す
 eugenically	優生学上,優生学的に
 eugenicist	〈C〉優生学者
@@ -1191,26 +1212,13 @@ euphonium	ユーフォニアム(バリトンチューバに似た大型の金管
 euphony	音調(語調)のよさ,快い(美しい)響き
 euphoria	幸福感
 euphoric	幸福感を味わう
-Euphrates	ユーフラテス川(トルコ東部からTigris川に合流し,ペルシア湾に注ぐ;下流域は古代文明の発祥地)
-Eur.	Europe / European
-Eurasia	ユーラシア,欧亜大陸
-Eurasian	欧亜大陸の / 欧亜混血の / 欧亜混血児
 eureka	分かった,しめた
 eurhythmic	調和のとれた / リズム体操の
 eurhythmics	リズム体操
-Euripides	エウリピデス(ギリシア三大悲劇詩人の一人;480‐406?B.C.)
-Eurocrat	C〉欧州連合（EU）の行政官・官僚
-Eurodollar	ユーロダラー(ヨーロッパの銀行に預金されて米ドルで国際間の信用の決済,特に貿易支払に用いられる)
-Europe	『ヨーロッパ』,欧州
-European	『ヨーロッパ』[『人』]『の』,欧州[人]の / 『ヨーロッパ人』,欧州人
-European plan	ヨーロッパ式ホテル料金制(ホテルで室代・食費が別勘定のもの)
 europium	ユーロピウム(希土類元素;化学記号は『Eu』)
-Eustachian tube	耳管(中耳から咽頭に通じる管)
 euthanasia	安楽死術;安楽死
 euthenics	環境優生学,生活改善学
 eutrophic	(湖が)富栄養の / (動植物の)栄養物が豊かな
-EV,ev	electron volt電子ボルト
-EVA	extravehicular activity宇宙船外活動
 evacuate	…'を'明け渡す,‘から'撤退する / (危険な所から安全な所へ)…'を'移動させる,疎開させる《+『名』+『from』+『名』+『to』+『名』》 / 《文》…'を'からにする / 《文》(…から)〈排出物〉'を'出す,排出する,《+『名』+『from』+『名』》
 evacuation	避難,疎開;(軍隊などの)撤退 / 《文》(容器などを)からにすること / 《文》排泄(はいせつ)
 evacuee	避難民,疎開者
@@ -1231,7 +1239,6 @@ evaporation	蒸発;(蒸発による)消散
 evasion	〈U〉(攻撃などを)逃れること,(責任などの)回避《+『of』+『名』》 / 〈C〉逃げ口上,言い逃れ
 evasive	回避する,言い逃れの
 eve	(祝祭日の)『前夜』,前日 / 《the~》(重要な事の)直前《+『of』+『名』》
-Eve	イブ,エバ(神が創造した人類最初の女性;Adamの妻)
 even	『平らな』,平たんな / 『同じ高さの』,同一平面の,平行の / (運動・動作・品質などが)『均一の』,規則的な,一様の,むらのない / (数・量などが)『同じの』,等しい,釣り合のとれた互角の / 『偶数の』 / 公平な,公正な(fair) / 平静な,穏やかな,落ち着いた(calm) / 貸借にない,清算済みの / 端数のない,ちょうどの,きっかりの / 《意味を強めて,不審や意外の念を含み》…『でさえも』,までも / 《比較級の前に用いて》『なおいっそう』,さらに(still,yet) / 《形容詞の前または後の用いて》(…と)すら言える;《古》《時を表す副詞の前に用いて》ちょうど / …'を'平らにする,ならす / …'を'釣り合わせる,平均させる《+『up』+『名』,+『名』+『up』》 / …'の'変動をなくする,'を'安定させる《+『out』+『名』,+『名』+『out』》 / 夕べ,晩
 even chances	=evens
 even money	(かけで)五分五分の可能性;(もうけが)とんとん
@@ -1256,7 +1263,6 @@ eventuality	起こりうる事柄,万一の事態
 eventuate	(…の)結果になる,結局(…に)なる《+『in』+『名』》
 ever	《疑問文・否定文,また比較級・最上級の文で》『かつて』,今まで / 《条件節,または未来時制で》いつか,いずれ / 《疑問詞を強調して》《話》いったい[ぜんたい],どれほど,そもそも / 《肯定文に用いて》いつも,常に,絶えず
 everblooming	(花が)一年じゅう咲いている
-Everest	エベレスト山(『Mount』(『Mt.』)『~』;ヒマラヤ山脈にある世界最高峰;8,848m)
 everglade	(米南部の)沼沢地,低湿地
 evergreen	(樹木が)常緑の / 常緑樹
 everlasting	《文》『永久に続く』,永遠の / 『長い間続く』;(時に,うんざりするほど)長々しい,度重なる / 永久,永遠 / 《the E-》 神(God)
@@ -1289,11 +1295,9 @@ evolution	〈U〉(徐々の)『発展』,進展,展開 / 〈U〉(生物の)『�
 evolutionary	発展の / 進化の;進化論に関する
 evolve	〈計画・理論など〉'を'『徐々に発展させる』 / …'を'進化させる / 徐々に発展する / 進化する
 evzone	(ギリシアの)陸軍精鋭部隊所属の歩兵
-EW	enlisted woman
 ewe	雌羊
 ewer	広口の水差し
 ex	先妻,先夫
-ex.	example
 ex cathedra	権威による,権威ある / 権威をもって
 ex libris	…の蔵書より
 ex officio	職権によって(よる),職権上(の)
@@ -1302,6 +1306,7 @@ ex post facto	事後の,過去にさかのぼる / 事後に,過去にさかの�
 ex-directory	(電話番号が)電話帳にのっていない
 ex-service	(物が)元軍隊所有の;(軍人が)退役の
 ex-serviceman	退役軍人,元軍人
+ex.	example
 exacerbate	〈病気・事態など〉'を'悪化させる
 exacerbation	(病気・事態などの)悪化
 exact	《名詞の前にのみ用いて》(数量など)『正確な』,きっかりの;(物事が)そのままの,そっくりの / (人が)『厳密な』;(機械など)精密な / 〈事柄が〉…'を'要求する / (人に)〈支払・服従など〉'を'強要する,強いる《+『名』+『from』+『名』〈人〉》
@@ -1335,7 +1340,6 @@ exceeding	非常な;過度の
 exceedingly	非常に,大いに,とても
 excel	(…の点で)…'に'『まさる』,'を'『しのぐ』《+『名』+『in』(『at』)+『名』(do『ing』)》,(…として)…'に'まさる《+『名』+『as』+『名』》 / (…に)『ひいでる』,ぬきんでる《+『in』(『at』)+『名』(do『ing』)》,(…として)まさる《+『as』+『名』》
 excellence	(…における)優秀さ,卓越《+『in』(『at』)+『名』》,(…として)優れていること《+『as』+『名』》
-Excellency	閣下
 excellent	『すぐれた』,優秀な;(成績評点の)優の,秀の
 excelsior	(詰めものに使う,細かい)かんなくず
 except	…『を除いて』,のほかは / (…から)…'を'『除く』,除外する《+『名』+『from』+『名』》
@@ -1456,7 +1460,6 @@ exit visa	出国ビザ,出国査証
 exobiology	宇宙生物学(地球外の生物を研究する学問)
 exocrine	外分泌腺の,外分泌液の
 exocrine gland	外分泌腺(唾液腺など)
-Exod.	Exodus
 exodus	《時にan exodus》(多数の人々が)国を出て行くこと / 《the E-》(モーセ(Moses)に率いられたイスラエル民族の)エジプト脱出 / 《E-》出エジプト記(イスラエル民族のエジプト脱出を記述した旧約聖書中の一書)
 exogenous	(植物の生長が)外生の(木部年輪が外方へ追加されて生長すること) / 外因性の
 exonerate	〈人〉'の'無罪を証明する,'に'無罪を言い渡す / (非難・嫌疑などから)〈人〉'を'解放する《+『名』+『from』+『名』》
@@ -1538,7 +1541,6 @@ explore	〈未知・未調査の場所〉'を'『探検する』,実地調査す
 explorer	探検家
 explosion	(火薬などの)『爆発』,破裂《+『of』+『名』》 / 爆発音 / 《an~》(怒り・笑いなどの)爆発《+『of』+『名』》 / 急激な増加
 explosive	爆発の,爆発的な / 爆発(破裂)しやすい,爆発性の;(性質などが)激しやすい / 爆発物,火薬
-Expo	大博覧会
 exponent	(…の)解説者《+『of』+『名』》 / (…の)代表者,象徴《+『of』+『名』》 / (数学で)指数,累乗の指数
 exponential	(数学で)指数の
 export	(外国へ)〈商品〉'を'『輸出する』《+『名』+『to』+『名』》 / 〈C〉『輸出品』 / 〈U〉(…の)『輸出』《+『of』+『名』》
@@ -1689,5 +1691,3 @@ eyewash	目薬,洗眼液
 eyewitness	=witness 1
 eyot	(川の中の)小島
 eyrie,eyry	=aerie
-Ezekiel	エゼキエル(紀元前6世紀のヘブライの預言者) / エゼキエル書(旧約聖書中のエゼキエルの文章・預言を収めた書)
-Ezra	エズラ(紀元前5世紀のヘブライの預言者) / エズラ書(旧約聖書中のエズラが書いたと信じられている一書)

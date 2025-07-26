@@ -1,10 +1,10 @@
 D	deuterium（重水素）の化学記号
-d.	died(死亡した) / dead(死んだ) / denarius(古代ローマの銀貨デナリ,penny) / denarii(古代ローマの銀貨デナリの複数形pence) / dime(10セント硬貨《米》) / dollar(ドル)
+D,d	〈文字〉アルファベットの4番目の文字 D / 〈略〉日（day）/ 銅（chemical symbol: Cu の誤用として稀に）/ 駆動（drive）/ 〈記号〉音階の「レ」
+D-day	欧州大陸進撃の日(第二次大戦で連合軍がNormandyに上陸した1944年6月6日) / 〈C〉攻撃開始予定日
 D.	December(12月) / Democrat(民主主義者) / Dutch(オランダ人)
 D.A.	District of Attorney (米国の)地方検事 / Department of Agriculture農務省 / doesn't answer; don't answer
 D.C.	da capo / ワシントンD.C (=District of Columbia;コロンビア特別区)
 D.C.,DC,d.c.,dc	direct current 直流
-D,d	〈文字〉アルファベットの4番目の文字 D / 〈略〉日（day）/ 銅（chemical symbol: Cu の誤用として稀に）/ 駆動（drive）/ 〈記号〉音階の「レ」
 D.F.C.	Distinguished Flying Cross(米・英軍)空軍殊勲十字章
 D.F.M.	Distinguished Flying Medal(英軍)殊勲章
 D.G.	by the grace of God / Director General
@@ -16,37 +16,153 @@ D.M.D.	Dentariae Medicinae Doctor(ラテン語)=Doctor of Dental Medicine 歯科
 D.O.A.	dead on arrival 到着時すでに死亡
 D.O.B.,d.o.b.	date of birth 生年月日
 D.P.,DP	{略}国外追放者 / 避難民（displaced person） / differential pressure (圧力差)
-d.s.	days after sight (手形などで)提示から…日後に支払い
-d/s	document signed 署名入り証書 / =sig.
 D.S.	(音楽で)dal segno / Doctor of Science
 D.S.C.	Distinguished Service Cross (米陸軍)殊勲十字章 / Doctor of Surgical Chiropody 外科的足病治療の博士(または足病外科医)
 D.S.M.	Distinguished Service Medal (米・英軍)殊勲章
 D.S.O.	Distinguished Service Order (英軍)殊勲章
-d.s.p.	decessit sine prole(ラテン語)(=died without offspring)
 D.V.	Deo volente(ラテン語)(God willing) / Douay Version[of the Bible]ドウエー聖書
 D.V.M.	Doctor of Veterinary Medicine
-d'you	do you
-D-day	欧州大陸進撃の日(第二次大戦で連合軍がNormandyに上陸した1944年6月6日) / 〈C〉攻撃開始予定日
 D/A	days after acceptance / deposit account 預金勘定
+DABs	Digital Audio Broadcasting デジタルラジオ放送
+DD	dishonorable discharge
+DDT	ディーディーティー(殺虫剤の一種)
+DE	Delaware
+DEW	〈U〉露（つゆ）/ =Directed Energy Weapon（レーザーなど指向性エネルギー兵器）
+DI	Department of the Interior 内務省 / drill instructor 教練係下士官 / discomfort index
+DM	Deutsche mark
+DMZ	demilitarized zone非武装地帯
+DNA	deoxyribonucleic acidディオキシリボ核酸
+DOD	Department of Defense米国防省
+DOE	Department of Energyエネルギー省
+DOT	Department of Transportation(米国の)運輸省
+DPhil	Doctor of Philosophy
+DST	daylight-saving time
+DU shell	劣化ウラン弾：DU shell〔DU=depleted uranium〕：depleted uranium bomb / depleted uranium shells [munitions] / uranium-tipped ammunition ：depleted uranium ordnance〔劣化ウランは非常に重く、砲弾に使うと戦車の装甲も打ち抜く。微小放射能を持つので、人体への影響で大問題になっている〕
+DX	(無線で) / distance / (また)distant
+Dacron	ダクロン(ポリエステル合成繊維の一種;商標名) / 《複数形で》ダクロン製シャツ(服)
+Dada	ダダイズム(20世紀初頭の芸術・文学上の主張で偶然性・不条理性を追求した)
+Daedalus	ダイダロス(ギリシア神話でCrete島の迷路を作った名工)
+Dahomey	ダオメ(アフリカ西部の共和国,1975年国名をBeninと変更,1990年に「ベナン共和国（Republic of Benin）」と変更)
+Dakota	ダコタ(米国中西部の地方で1889年にNorth DakotaとSouth Dakotaに分離;両州をthe Dakotasという)
+Dallas	ダラス(米国 Texas州北部の市)
+Dalmatian	ダルメシアン,ダルマティアン犬（白い体に黒い斑点がある大型の犬）
+Damascene	ダマスカスの / 《d-》波状模様のある / 〈鋼鉄・鉄〉'に'波状模様をつける
+Damascus	ダマスカス(シリアの首部)
+Damocles	ダモクレス(ギリシア神話において、シラクサの王ディオニュシウスの廷臣)
+Dan.	Danish / Daniel
+Dane	デンマーク人 / デーン人(10世紀ごろ英国に侵入した北欧人)
+Daniel	ダニエル 《男性名; 愛称 Dan，Danny》・ダニエル 《ユダヤの預言者・ ダニエル書 (The Book of Daniel) 《旧約聖書中の一書; 略 Dan.》・〈C〉(ダニエルのような)名裁判官 《「聖書外典(がいてん)」から》
+Danish	デンマーク(Denmark)の;デンマーク人(語)の / デーン人(Dane)の / デンマーク語
+Danish pastry	デニッシュペーストリー(バターを多く用いたパン生地を焼いた菓子パン・干しぶどう・カスタードクリームなどが入っているものが多い)
+Dante	ダンテ(1265‐1321;イタリアの詩人;「神曲」の作者)
+Danube	ダニューブ川,ドナウ川(ドイツの南西部に発して黒海に注ぐ)
+Daphne	ダフネ(ギリシア神話でApolloに追われていたところを父が月桂樹に変えて救ったという精霊ニンフ) / 《d-》〈C〉月桂樹 / 沈丁花(ジンチョウゲ)
+Darby and Joan	仲のよい老夫婦
+Dardanelles	ダーダネルス海峡(黒海から地中海へ出る海峡)
+Dark Ages	暗黒時代(ローマ滅亡(476年)のころからルネサンスにいたるヨーロッパの中世)
+Dark Continent	暗黒大陸(アフリカの旧称)
+Darwin	ダーウィン(Charles Robert~;1809‐82;英国の博物学者;主著The Origin of Species「種の起原」)
+Darwinism	ダーウィン説,進化論
+David	ダビデ(イスラエル王で旧約聖書「詩篇」の作者)
+Davy Jones's locker	大洋の底, 船の墓場. =Davy Jones' locker
+Davy lamp	デービー灯(炭坑内の安全灯)
+Day of Judgment	=Judgment Day
+Day of atonement	=Yom Kippur
+Dead Sea	死海
+Dear John	(女からの)絶縁状
+Death Valley	死の谷(米国California州およびNevada州南部の乾燥盆地)
+Debussy	ドビュッシー(『Claude ~』;1862‐1918;フランスの作曲家)
+Dec.	December
+Decalogue,Decalog	=Ten Commandments
+December	『12月』(《略》『Dec.』)
+Declaration of Independence	(米国の)独立宣言(1776年7月4日)
+Decoration Day	=Memorial Day
+Defoe	デフォー(Daniel~;1659?‐1731;英国の小説家・ジャーナリスト;Robinson Crusoeの作者)
+Del.	Delaware
+Delaware	デラウェア州(米国東部の州;《略》『Del.,DE』)
+Delhi	デリー(インド北部の連邦政府直轄地;Mogul帝国の旧都)
+Delphi	デルフィ,デルポイ(ギリシアの古都;神託で有名なApolloの神殿があった)
+Delphic	デルフィ(Delphi)の / (アポロ神殿の神託のように)難解な
+Dem.	Democrat, Democratic
+Demeter	デメテル(ギリシア神話の農業と豊饒(ほうじょう)の女神)
+Democratic Party	民主党
+Demosthenes	デモステネス(384?‐322B.C.;古代ギリシアの雄弁家・政治家)
+Denmark	デンマーク(北欧の王国;首都はCopenhagen)
+Denver	デンバー(米国Colorado州の州都)
+Deo gratias	神のおかげで(Thanks to God)
+Des Moines	デモイン(米国Iowa州の州都)
+Descartes	デカルト(『René ~』;1596‐1650;フランスの哲学者・数学者)
+Detroit	デトロイト(米国Michigan州にある自動車製造で有名な工業都市)
+Deuteronomy	申命(しんめい)記(旧約聖書第5の書)
+Deutschemark, deutschemark	(西ドイツの)マルク,ドイツマルク(《略》『DM;』)
+Devonian	(地質時代で)デボン紀の / デボン紀
+Dialogue Mass	(ローマカトリック教会の)共唱ミサ
+Diana	ダイアナ(ローマ神話の月の女神で狩猟・処女性の守護神;ギリシア神話のアルテミスArtemisに当たる)
+Diaspora	ユダヤ人の離散(バビロニア幽囚後,ユダヤ人がパレスチナ以外の地へ離散したこと) / 離散したユダヤ人
+Dickens	ディケンズ(『Charles ~』;1812‐70;英国の小説家)
+Dictaphone	ディクタフォン(口述録音器の商標名)
+Dionysus,Dionysos	ディオニソス(ギリシア神話で酒と演劇の神;ローマ神話のBacchusに当たる)
+Director of Public Prosecutions	公訴官
+Dispersion	=Diaspora
+District of Columbia	コロンビア特別区(米国の首都Washingtonが全域を占める特別行政区;《略》『D.C.』)
+Div.	divine / divinity
+Dixie	米国南部諸州の異名(特に南北戦争で南部同盟に参加した州)
+Dixieland	=Dixie / デキシーランド(ジャズ音楽の一形式)
+Djakarta	ジャカルタ(インドネシアの首都;旧称はBatavia)
+Dnieper	ドニエプル川(黒海に注ぐロシア西部の川)
+Doberman pinscher	ドーベルマンピンシェル(ドイツ種の中型犬)
+Doctor of Philosophy	博士号 / 博士(《略》『Ph.D.』)
+Dog Star	シリウス(大犬座の主星)
+Dom.	Dominica / Dominican
+Domesday Book	土地調査簿[台帳](1086年ごろ編纂(さん)された,2部から成る英国の土地台帳)
+Dominica	ドミニカ島(西インド諸島の島)
+Dominican	ドミニコ教会の / ドミニカ共和国の / ドミニコ教会の会員 / ドミニカ共和国人
+Dominican Republic	(西インドの)ドミニカ共和国(首都はSanto Domingo)
+Don	ドン川(旧ソ連ヨーロッパ中部の川で,Azov海に注ぐ)
+Don Juan	(スペインの伝説で有名な)ドンファン / 〈C〉《話》女たらし,色男
+Don Quixote	ドンキホーテ(スペインの作家Cervantesの風刺小説およびその主人公の名) / 〈C〉現実離れした理想家
+Dona	〈C〉ドーニャ（スペイン語・ポルトガル語圏の女性の敬称）《人名・尊称》
+Doric	(古代ギリシア建築が)ドーリア式の / ドーリア人(地方)の
+Dostoevsky	ドストエフスキー(『Feodor』~;1821‐81;ロシアの小説家)
+Douay Bible	ドウエー聖書(17世紀の初めごろフランスのDouaiで刊行されたラテン語からの英訳聖書)
+Douglas fir	ベイマツ(米国西部産のマツ科の常緑樹)
+Dover	ドーバー(英国南東部の海港)
+Downing Street	ダウニング街(ロンドンの首相官邸を含む官邸官庁街) / 《冠詞をつけないで》英国政府
+Dr.,Dr	Doctor
+Dramamine	ドラマミン(乗物酔い予防の抗ヒスタミン剤の商標名)
+Dresden	ドレスデン(東ドイツ南東部,エルベ川に臨む都市)
+Druid	ドルイド教の僧侶(キリスト教伝来以前に古代ケルト族の間で信仰されていた宗教の僧)
+Du.	Duke / Dutch
+Dublin	ダブリン(アイルランド共和国の首都)
+Dutch	『オランダの』 / オランダ人(語)の / 〈U〉『オランダ語』 / 《the ~》《集合的;複数扱い》『オランダ人』
+Dutch barn	壁のない丸屋根の納屋
+Dutch courage	酒を飲んだ勢いのから元気
+Dutch elm disease	ニレ立ち枯れ病,オランダ病(キクイムシによる木の病気)
+Dutch oven	ふたつきの分厚い肉料理用鉄なべ / (前部が開いた)肉焼き器 / れんがのかまど(料理の前に壁を熱しておく)
+Dutch treat	(各自が費用を分担する)割り勘[の会食]
+Dutch uncle	厳しく批判する人
+Dutchman	オランダ人
+Dy	dysprosiumの化学記号
+d'you	do you
+d.	died(死亡した) / dead(死んだ) / denarius(古代ローマの銀貨デナリ,penny) / denarii(古代ローマの銀貨デナリの複数形pence) / dime(10セント硬貨《米》) / dollar(ドル)
+d.s.	days after sight (手形などで)提示から…日後に支払い
+d.s.p.	decessit sine prole(ラテン語)(=died without offspring)
+d/s	document signed 署名入り証書 / =sig.
 da capo	(音楽の演奏の指示で)最初から繰り返す(して)(《略》『D.C.』)
 dab	(柔らかい物・湿った物などで)…'を'軽くたたく,軽く押える《+『名』+『with』+『名』》 / (…に)…'を'軽くなすりつける《+『名』+『on』(『onto, over』)+『名』》 / (…を)軽くたたく《+『at』+『名』》 / (…を)軽くたたくこと,軽く塗りつけること《+『at』+『名』》 / 《話》《a~》(…の)一塗り;少量(の…)《+『of』+『名』》 / マコガレイ(カレイの一種) / (…の)名人,達人《+『at』+『名』》
 dabble	(水中で)手足をパシャパシャさせて遊ぶ,水を跳ね返す / (…に)ちょっと手を出す《+『in』(『at』)+『名』(do『ing』)》 / (水の中で)…'を'パシャパシャさせる
 dabbler	水遊びする人 / (物事を)道楽半分にする人
 dabchick	カイツブリ(水鳥の一種)
 dabs	軽くたたく・軽く塗る / 軽く押さえること・軽くたたくこと / 《英》指紋(イギリスの警察用語)
-DABs	Digital Audio Broadcasting デジタルラジオ放送
 dace	ウグイ,アカハラ(北米・欧州産の淡水魚)
 dacha	(ロシアの)いなかの邸宅(別荘)
 dachshund	ダックスフント(胴長で脚の短い犬)
-Dacron	ダクロン(ポリエステル合成繊維の一種;商標名) / 《複数形で》ダクロン製シャツ(服)
 dactyl	(古典詩の韻律で)長短短格(‐);(英詩の)強弱弱格(‐‐‐)
 dactylic	(古典詩の韻律が)長短短格の,(英詩の韻律が)強弱弱格の
 dad	『おとうちゃん』
-Dada	ダダイズム(20世紀初頭の芸術・文学上の主張で偶然性・不条理性を追求した)
 daddy	(小児語で)『おとうちゃん』
 daddy longlegs	《米》メクラグモ / 《英》(また『crane fly』)ガガンボ(大きな蚊に似た昆虫)
 dado	台胴(円柱の台座の頂部と基部の間) / 腰羽目(こしはめ)(床から1m位の高さまで壁にはった羽目板)
-Daedalus	ダイダロス(ギリシア神話でCrete島の迷路を作った名工)
 daemon	(コンピューター用語)OSのバックグラウンドで動作するプロセス / ダイモン(ギリシア神話で神々と人間の中間者) / 人間の守護霊 / =demon
 daemonic	=demonic
 daffodil	〈C〉ラッパスイセン(喇叭水仙) / 〈U〉鮮やかな黄色
@@ -57,7 +173,6 @@ dagger	『短剣』;短剣に似たもの(ハチの針など) / 剣印,剣標(�
 dago	歴史的にスペイン人またはイタリア人を指す侮蔑用語(19世紀から20世紀初頭に使われて現在は使われない)
 daguerreotype	(昔の)銀板写真
 dahlia	〈C〉ダリア
-Dahomey	ダオメ(アフリカ西部の共和国,1975年国名をBeninと変更,1990年に「ベナン共和国（Republic of Benin）」と変更)
 daily	『毎日の』,日々の / 『毎日』,日々(everyday);日ごとに / 日刊新聞(daily paper) / (また『daily help』)《おもに英話》通いのメイド
 daily bread	日々の食料, 生計, 生活費
 daily double	(競馬などで)重勝式の賭(か)け
@@ -71,16 +186,11 @@ dairymaid	酪農場で働く女,乳しぼり女
 dairyman	酪農場で働く男 / 酪農場主(経営者) / 酪農製品販売者,牛乳屋
 dais	(大広間・宴会場などの)上段;(講堂の)演壇,教壇
 daisy	ヒナギク（キク科の多年草または一年草） / 《俗》すてきな人(物)
-Dakota	ダコタ(米国中西部の地方で1889年にNorth DakotaとSouth Dakotaに分離;両州をthe Dakotasという)
 dale	谷(valley)
-Dallas	ダラス(米国 Texas州北部の市)
 dalliance	軽い恋愛や戯れ
 dally	(考えなどを)もてあそぶ,(人と)ふざける《+『with』+『名』》 / だらだら過ごす《+『about』》;(仕事などに)だらだらとかかっている《+『at』(『over』)+『名』》 / 〈時間〉'を'だらだら過ごす《『名』+『away』,+『away』+『名』》
-Dalmatian	ダルメシアン,ダルマティアン犬（白い体に黒い斑点がある大型の犬）
 dam	〈C〉『ダム』,せき / 〈U〉ダムでせき止めた水 / 〈水流など〉'を'『せき止める』《+『up』+『名』,+『up』+『名』》 / 〈感情など〉'を'むりやり抑える《+『up』(『back』)+『名,』+『名』+『up』(『back』)》 / （馬や牛などの家畜の）母親,雌親
 damage	〈U〉『損害』,損傷,被害 / 《複数形で》損害賠償[金] / 《the~》《単数形で》《話》費用 / …'に'損傷する
-Damascene	ダマスカスの / 《d-》波状模様のある / 〈鋼鉄・鉄〉'に'波状模様をつける
-Damascus	ダマスカス(シリアの首部)
 damask	ダマスコ織り,どんす;(食卓用の)あや織り布 / ダマスコ鋼(刀剣の刃に用いられる) / 《詩》淡紅色 / ダマスコ織りの / ダマスコ鋼の / 《詩》淡紅色の
 damask rose	〈C〉ダマスクローズ(香りのよい淡紅色の花を咲かせるバラ) / 〈U〉淡紅色
 dame	《古》貴婦人(lady),夫人(madam) / 《D-》《英》(1)(もと)knight(またはbaronet)の夫人 / (2)knightに相当する勲位に叙せられた婦人の呼称 / 年配の婦人 / 《米俗》女
@@ -92,7 +202,6 @@ damned	のろわれた,地獄に落とされた / (また《俗》damn)いまわ
 damned well	非常に、とても、確実に
 damnedest	{形}最大限の / とてつもない《略式》/ 〈U〉できる限りの努力《略式》 / do one's damnedest(全力を尽くす)
 damning	罪を免れない,(証拠などが)のっぴきならない
-Damocles	ダモクレス(ギリシア神話において、シラクサの王ディオニュシウスの廷臣)
 damp	〈U〉湿気, しめり (moisture) / 〈C〉もや, 霧 (mist) / 〈U〉(鉱山の) 有毒ガス / 《a ~》 気持ちをめいらせるもの / 『湿っぽい』, 湿気のある / …'を'湿らせる / …'の'勢いを弱める (そぐ) 《+『down』+『名,』+『名』+『down』》 / 〈ピアノ・弦楽器の弦〉'の'振動を弱める (抑える) 《+『down』+『名,』+『名』+『down』》
 damp course	(壁に入れる)防湿層
 damp-dry	〈洗たく物〉'を'生乾きにする / (洗たく物が)生乾き状態の
@@ -102,7 +211,6 @@ dampish	少し湿っぽい
 damsel	(特に高貴な生まれの)乙女;《時に大げさに》少女
 damselfly	イトトンボ(体が細くゆっくり飛ぶトンボ)
 damson	西洋スモモ
-Dan.	Danish / Daniel
 dance	(…に合わせて)『踊る』,舞う,ダンスをする《+『to』+『名』》 / 《副詞[句]を伴って》『こおどりする』,跳ね回る / 〈木の葉・光の影などが〉舞う,揺れる / 〈ダンス〉'を'踊る / 《副詞[句]を伴って》〈人〉'を'踊らせる / 〈赤ん坊〉'を'上下に揺すってあやす / 《副詞[句]を伴って》…'を'踊って(…のように)する(言う) / 『ダンス』,舞踏;舞踏曲;《the~》踊り方 / 『舞踏会』(dancing party)
 dancer	『踊り子』,『ダンサー』,舞踊家
 dancing girl	踊り子
@@ -114,27 +222,18 @@ dandify	…'を'めかしこませる
 dandle	〈子供〉'を'優しく抱いてあやす
 dandruff	(頭の)ふけ
 dandy	しゃれ男,ダンディ / すてきな物 / すばらしい, 立派な
-Dane	デンマーク人 / デーン人(10世紀ごろ英国に侵入した北欧人)
 danger	〈U〉『危険』,おそれ(peril) / 〈C〉(…に対して)『危険を引き起こすもの』,脅威(menace)《+『名』+『to』+『名』》
 danger money	危険手当
 danger signal	危険信号,赤信号
 dangerous	危険な, 危ない / 危険をもたらす可能性がある
 dangerously	危険なほど;危うく
 dangle	ぶら下がる / ぶらぶら揺れる / …'を'ぶらぶらさせる / (目の前に)〈誘惑など〉'を'ちらつかせる
-Daniel	ダニエル 《男性名; 愛称 Dan，Danny》・ダニエル 《ユダヤの預言者・ ダニエル書 (The Book of Daniel) 《旧約聖書中の一書; 略 Dan.》・〈C〉(ダニエルのような)名裁判官 《「聖書外典(がいてん)」から》
-Danish	デンマーク(Denmark)の;デンマーク人(語)の / デーン人(Dane)の / デンマーク語
-Danish pastry	デニッシュペーストリー(バターを多く用いたパン生地を焼いた菓子パン・干しぶどう・カスタードクリームなどが入っているものが多い)
 dank	じめじめした,湿っぽい
 danseuse	女子のバレエダンサー
-Dante	ダンテ(1265‐1321;イタリアの詩人;「神曲」の作者)
-Danube	ダニューブ川,ドナウ川(ドイツの南西部に発して黒海に注ぐ)
-Daphne	ダフネ(ギリシア神話でApolloに追われていたところを父が月桂樹に変えて救ったという精霊ニンフ) / 《d-》〈C〉月桂樹 / 沈丁花(ジンチョウゲ)
 dapper	こざっぱりした,きびきびした,(小柄で)きりっとした
 dapple	…'を'まだらにする / まだらになる / まだら,ぶち / 毛にぶちのある動物
 dapple-gray,dapple-grey	(馬が)灰色に黒い斑点のある
 dappled	まだらの,ぶちの
-Darby and Joan	仲のよい老夫婦
-Dardanelles	ダーダネルス海峡(黒海から地中海へ出る海峡)
 dare	『あえて…る』 / 《『dare to』 do》『思いきって…する』,…する勇気がある / 〈危険など〉'に'『立ち向かう』 / 〈人〉'に'『挑む』,挑戦する(challenge) / 挑戦[すること](challenge)
 daredevil	向こう見ずな人 / {形}(比較変化なし)《名詞の前にのみ用いて》 / 向こう見ずの
 daren't	dare notの短縮形
@@ -142,8 +241,6 @@ daresay	《『daresay+that節』》…であるとあえて言う / 疑いのな
 daring	大胆な,ずぶとい(bold) / 思いきった,ざん新な / {名}〈U〉 / 大胆不敵,勇敢さ
 dark	『暗い』,やみの / (毛髪・皮膚・目の)『浅黒い』,(色の)濃い / 陰うつな,陰気な(gloomy) / 腹黒い,悪意のある(evil) / 隠した,秘密の / (意味が)明らかでない,なぞめいた / 未発の;無知の / 〈U〉《the~》『やみ』,暗がり(darkness) / 《冠詞なしで》『夜』(night);『日暮れ』(nightfall) / 〈U〉暗い色,濃い陰
 dark adaptation	暗順応(暗さに対して目が慣れて物が見えるようになる現象)
-Dark Ages	暗黒時代(ローマ滅亡(476年)のころからルネサンスにいたるヨーロッパの中世)
-Dark Continent	暗黒大陸(アフリカの旧称)
 dark horse	(競馬で)意外な勝ち馬,穴馬 / (政界・競技などで)思いがけない有力な競争相手,思いがけず候補に指名された人
 darken	…'を'暗くする / …'を'薄黒くする;…'を'不明りょうにする / …'を'陰気にする,憂うつにする / 暗くなる / 黒ずむ;ぼんやりしてくる / 〈心・顔などが〉くもる,憂うつになる
 darkish	薄黒い,黒ずんだ,黒味がかった
@@ -158,8 +255,6 @@ darning needle	かがり針 / 《米》トンボ(dragonfly)
 dart	(武器の)『投げやり』,(投げ矢遊びの)投げ矢 / (昆虫の)針 / 《複数形で》投げ矢遊び / 《a~》急激な突進 / ダーツ(洋服を体に合わせるための縫いつまみ) / (…に)〈やり・矢,視線など〉'を'投げる,投げかける / (投げ矢のように)『突進する』,さっと動く
 dartboard	投げ矢遊びの標的(盤)
 darter	突進する人(物) / ヤウオ(米国産のスズキ科の小さな淡水魚)
-Darwin	ダーウィン(Charles Robert~;1809‐82;英国の博物学者;主著The Origin of Species「種の起原」)
-Darwinism	ダーウィン説,進化論
 dash	《副詞[句]を伴って》『突進する』 / (…に)『衝突する』,激しくぶつかる《+『against』(『into, onto』)+『名』》 / (…に)…'を'『打ちつける』,投げつける《+『名』+『against』(『into, to』)+『名』》;…'に'打ちつける / 〈元気・希望など〉'を'くじく,〈人〉'を'落胆させる(depress) / (…に)〈木など〉'を'ぶっ掛ける,浴びせる《+『名』+『in』(『on, over』)+『名』》;(水などを)…'に'ぶっかける《+『名』+『with』+『名』》 / 〈C〉《a~》(…への)『突進』,疾走(rush)《+『at』(『for』)+『名』》 / 《the~》短距離競走 / 《the~》(…に)打ちつける音《+『against』(『on』)+『名』》 / 〈C〉(元気・希望などを)くじくもの,(…の)障害《+『to』+『名』(do『ing』)》 / 〈C〉(混合・添加する)(…の)少量《+『of』+『名』》 / 〈U〉英気;(…する)気力《+『to』 do》 / 〈C〉ダッシュ(一の符号) / 〈C〉モールス信号の長音
 dashboard	(自動車・飛行機の)計器盤 / (車の)泥よけ,(船の)波よけ
 dashed	失望した,がっかりした,落胆した / 《英》《遠回しに》=damned
@@ -189,18 +284,13 @@ daunt	…'を'おどす;…'を'ひるませる(discourage)
 dauntless	びくともしない
 dauphin	《しばしばD-》ドーフィン(昔のフランス皇太子の称号)
 davenport	《米》寝台兼用の大型ソファ / 《英》一種の書き物机
-David	ダビデ(イスラエル王で旧約聖書「詩篇」の作者)
 davit	ダビット(船のボートつり柱)
-Davy Jones's locker	大洋の底, 船の墓場. =Davy Jones' locker
-Davy lamp	デービー灯(炭坑内の安全灯)
 daw	コクマルガラス(ヨーロッパ産の光沢のあるガラス), =jackdaw
 dawdle	(…を)ぐずぐずする,怠けてする《+『over』+『名』》 / 〈時間など〉'を'空費する《+『away』+『名,』+『名』+『away』》
 dawdler	なまけ者,のろま
 dawn	〈U〉〈C〉『夜明け』,暁(daybreak) / 《the ~》(物事の)『始まり』,端緒《+『of』+『名』》 / 『夜が明ける』,明るくなる / 〈物事が〉はっきりして来る,現れ始める
 day	〈U〉〈C〉『昼間』,『日中』 / 〈C〉『1日』,1昼夜,日 / 〈C〉(労働や勉強の単位の)1日 / 〈C〉(物事が予定された)日・期日;《しばしばD-》祝日 / 〈C〉《しばしば複数形で》(過去・現在・未来いずれかの)『時代』;現代 / 〈C〉《しばしば複数形で》『一生』,生涯;《所有格の名詞・代名詞とともに複数形で》(…の)『全先宗代』,活動期 / 〈U〉《the ~》戦い,勝負
 day nursery	保育所,託児所
-Day of atonement	=Yom Kippur
-Day of Judgment	=Judgment Day
 day of reckoning	(いたずら・悪事・犯罪などに)制裁を加える時 / =Judgement Day
 day return	1日有効の往復割引乗車券
 day school	(寄宿制学校に対して)通学学校 / 昼間学校
@@ -224,11 +314,8 @@ dazedly	目がくらんで,ぼうっとして
 dazzle	〈強烈な光が〉…'を'『目をくらませる』 / 〈美しさ・壮観な見ものが〉…'を'眩惑(げんわく)する / 目をくらませる輝き / 目をくらませるもの
 dazzling	まばゆい,目もくらむばかりの
 db,dB	decibel / decibels
-DD	dishonorable discharge
-DDT	ディーディーティー(殺虫剤の一種)
-DE	Delaware
-de facto	事実上[の]
 de Gaulle	ドゴール(『Charles de Gaulle』;1890‐970;フランスの将軍・政治家;大統領1959‐1969)
+de facto	事実上[の]
 de jure	正当に(な);法律上[の]
 de novo	新たに,再び,初めから
 de rigueur	(礼儀や習慣の上で)ぜひ必要な(で)
@@ -245,7 +332,6 @@ dead heat	接戦
 dead letter	(あて名不備による)配達不能郵便物 / (法律などの)空文,死文
 dead march	葬送行進曲
 dead reckoning	推測航法(天測や地上の目標を視認するのではなく、コンパス・測程器を用いて経度・緯度のわかっている起点から現在位置を求める航法)
-Dead Sea	死海
 dead shot	命中弾 / 射撃の名人
 dead-end	行き止まりの
 deadbeat	〈C〉怠け者 / 滞納者 / {形}全く動かない,働かない
@@ -272,7 +358,6 @@ dealt	dealの過去・過去分詞
 dean	(大学の)学部長 / (米国の大学の)学生部長;(英国の大学の)学生監 / (英国国教会で)司祭長;(ローマカトリック教会の)司教地方代理 / (団体の)長老
 dean's list	(大学の各学年・学期末の)優等生名簿
 dear	『親愛な,かわいい』(much loved) / (手紙の書き出しのあいさつの)『親愛なる』,尊敬する / 『大事な』,貴重な;(…にとって)大事な《+『to』+『名』》(precious) / 高い / 高価な / 『高価に』,高く / 『かわいい人』,大切な人,いい子 / 『おや,まあ』(驚き・同情・悲しみ・困惑などを表す)
-Dear John	(女からの)絶縁状
 dearest	いとしい人
 dearly	『愛情をもって』,心から / 『多大の犠牲を払って』
 dearness	高価 / 親愛
@@ -287,7 +372,6 @@ death roll	〈C〉デスロール（致命的な回転攻撃） / 死亡記録 /
 death row	死刑囚の独房の列
 death tax	相続税(《英》death duty)
 death toll	(戦争・事故の)死亡者数
-Death Valley	死の谷(米国California州およびNevada州南部の乾燥盆地)
 death warrant	死刑執行令状 / 期待(希望)を断つもの
 death wish	死の願望(無意識あるいは意識的に自己または他人の死を願う気持ち)
 death's-head	(死を象徴する)しゃれこうべ[の画像]
@@ -326,11 +410,9 @@ debtor	債務者,借り主 / 借り方(《略》Dr.,dr.)
 debug	…'の'欠陥(誤り)を調べて除く;〈部屋など〉‘から'盗聴装置を取り除く
 debunk	〈人〉'の'仮面をはぐ,〈物事〉'の'正体を暴露する
 debunker	正体をあばく人,仮面をはぐ人
-Debussy	ドビュッシー(『Claude ~』;1862‐1918;フランスの作曲家)
 debut,début	社交界へ初めて出ること;初舞台;(いろいろな場への)初登場 / (…として)デビューする
 debutante,débutante	社交界に初めて出る(出た)女性
 dec.	deceased / decimeter / decreased
-Dec.	December
 decade	『10年間』
 decadence	堕落,衰微;(美術・文学の)退廃,デカダンス
 decadent	退廃的な,衰微の / デカダン派の / デカダン派の芸術家(文士)
@@ -341,7 +423,6 @@ decahedron	十面体
 decal	〈U〉ラフレ画法(絵や図案をガラス・金属などに転写する技術) / 〈C〉その絵・図案がかかれた転写紙
 decalcify	…‘から'石灰[質]を除く
 decaliter,decalitre	デカリットル(10リットル)
-Decalogue,Decalog	=Ten Commandments
 decameter,decametre	デカメートル(10メートル) / 《英》decametre
 decamp	野営を引き払う / 《話》こっそり逃げ出す,夜逃げをする
 decant	(中の沈殿物を動かさないように他のびんへ)〈液体,特に酒〉'を'静かにつぐ
@@ -360,7 +441,6 @@ deceiver	だます人,詐欺師
 decelerate	…'の'速度を落とす / 速度が落ちる
 deceleration	減速
 decelerator	減速器
-December	『12月』(《略》『Dec.』)
 decency	〈U〉(言動・服装などが)きちんとしていること / 〈U〉体面,体裁 / 《the decencies》《まれ》礼儀作法 / 〈U〉《話》親切,寛大
 decennial	10年間の,10年ごとの / 10周年記念(祭)
 decent	(社会・道徳的な規範にかなって)『きちんとした』,ふさわしい / 《話》『かなりよい』,まあまあの,そう悪くない / 《話》《補語にのみ用いて》親切な,寛大な
@@ -398,7 +478,6 @@ declamation	雄弁[術];〈C〉大げさな演説
 declamatory	大げさな,誇大な
 declarable	税関で申告すべき
 declaration	〈U〉(…の)『宣言』,発表,布告《+『of』+『名』》 / 〈C〉申告書 / 〈C〉供述
-Declaration of Independence	(米国の)独立宣言(1776年7月4日)
 declarative	叙述の,陳述の
 declare	…'を'『宣言する』,告示する,公表する / …'を'『強調する』 / 〈課税品・所得額〉'を'申告する / …'を'明らかにする(reveal);…'を'表す(show) / (…に反対,賛成を)表明する,声明する《+『against』(『for』,『in favor of』)+『名』(do『ing』)》
 declared	公然と認められた,公言された,公然の
@@ -413,8 +492,6 @@ declutch	(自動車の)クラッチを切る
 decoct	…'を'煎(せん)じる
 decoction	煎じ出すこと;〈C〉煎出エキス;煎じ薬
 decode	…'の'暗号(code)を解く
-décolletage,decolletage	デコルテ〈U〉大きくえりをくって首筋・胸を出すこと / 〈C〉大きくえりぐりした婦人服
-décolleté,decollete	(婦人服の)えりぐりの深い
 decolonization,decolonisation	脱植民地(植民地の状態からの独立)
 decolonize,decolonise	〈植民地〉'の'自治を許す,'を'独立させる
 decommission	〈船など〉'を'廃役にする
@@ -429,10 +506,8 @@ decongestant	鼻づまりを解消する薬,(鼻炎の)消炎剤
 decontaminate	…'を'浄化する / 〈物・場所〉‘から'有害物を除く,汚染を除く
 decontamination	浄化,汚染の除去
 decontrol	…'の'統制を撤廃する / 統制撤廃
-décor, decor	(室内などの)装飾 / 舞台装置
 decorate	(…で)…'を'『飾る』,飾り立てる《+『名』+『with』+『名』》 / 〈部屋・建物〉'に'装飾する / (…に対して)〈人〉'に'勲章(褒章(ほうしょう))を授ける《+『名』+『for』+『名』》
 decoration	〈U〉『装飾』,飾りつけること / 〈C〉《複数形で》『装飾物』,飾りつけ / 〈C〉勲章
-Decoration Day	=Memorial Day
 decorative	装飾の,装飾的な
 decorator	装飾する人
 decorous	礼儀正しい,端正な,上品な
@@ -500,8 +575,8 @@ defence	=defense
 defend	(…から)…'を'『守る』,保護する《+『名』+『against』(『from』)+『名』(do『ing』)》 / (言論などで)…'を'『擁護する』,支持する / (法廷で)〈被告〉'を'『弁護する』 / 防御する,身を守る
 defendant	被告
 defender	防御する人,擁護者 / 選手権保持者 / 弁護士
-defense,defence	〈U〉(…に対する)『防御』,『守備』,防衛《+『against』+『名』》 / 〈C〉(…に対する)防御物,防御施設《+『against』+『名』》 / 〈U〉(スポーツで)守備;〈C〉《米で単数扱い;英で単数・複数扱い》守備側のチーム / 〈U〉(被告側の)『弁護』,抗弁;〈C〉《米で単数扱い;英で単数・複数扱い》被告側
 defense mechanism	(生理・心理上の)防衛機構(受け入れがたい考えや刺激に無意識に抵抗する体や心の反応)
+defense,defence	〈U〉(…に対する)『防御』,『守備』,防衛《+『against』+『名』》 / 〈C〉(…に対する)防御物,防御施設《+『against』+『名』》 / 〈U〉(スポーツで)守備;〈C〉《米で単数扱い;英で単数・複数扱い》守備側のチーム / 〈U〉(被告側の)『弁護』,抗弁;〈C〉《米で単数扱い;英で単数・複数扱い》被告側
 defenseless	防備のない,防御できない
 defensible	防御できる / 擁護できる,弁護できる
 defensive	防御の,守備の / 弁護の / 防御,守勢
@@ -532,7 +607,6 @@ deflect	(…から)…'を'そらせる,偏らせる《+『名』+『from』+『
 deflection	(進路などの)ふれ,偏り;(計器などの針の)ふれ,偏差
 defloration	花を散らすこと;美(新鮮さ)を奪うこと / 処女を奪うこと
 deflower	…'の'花をもぎ取る / 〈処女〉'を'犯す
-Defoe	デフォー(Daniel~;1659?‐1731;英国の小説家・ジャーナリスト;Robinson Crusoeの作者)
 defog	〈自動車などの窓〉'の'曇り(水滴)を取り除く
 defoliant	落葉剤
 defoliate	(薬品などで)〈葉〉'を'枯れさせる
@@ -578,7 +652,6 @@ deionize,deionise	…‘から'イオンを除去する
 deism	理神論,自然神教
 deist	理神論者
 deity	《the D-》神 / 〈U〉神性,神格,神位
-déjà vu	既視[感](初めて出会ったことをすでに経験したかのように感じる錯覚の一種)
 deject	…'を'落胆させる,がっかりさせる
 dejected	がっかりした
 dejection	落胆,意気消沈
@@ -587,8 +660,6 @@ dekagram	=decagram(《略》『dek.』)
 dekaliter	=decaliter(《略》『dkl』)
 dekameter	=decameter(《略》『dkm』)
 dekko	ひと目
-Del.	Delaware
-Delaware	デラウェア州(米国東部の州;《略》『Del.,DE』)
 delay	…'を'『延期する』,延ばす / 〈事故などが〉…'を'『遅らせる』 / 『ぐずぐずする』,『手間取る』 / 『遅れ』,遅延 / 『延期』,猶予
 dele	(印刷物の校正で)…'を'削除する / 削除記号
 delectable	快い,楽しい;けっこうな
@@ -601,7 +672,6 @@ delete	(…から)〈語など〉'を'削除する,消す《+『名』+『from�
 deleterious	心身に有害な
 deletion	削除;〈C〉削除箇所
 delft	デルフト焼き(オランダのDelft産の陶器;白地に青で採色したものが多い)
-Delhi	デリー(インド北部の連邦政府直轄地;Mogul帝国の旧都)
 deli	〈C〉デリ（惣菜店）《略》/ 惣菜 / =delicatessen
 deliberate	『よく考えた』,熟考した;故意の,計画的な / 『思慮ある』,慎重な / 落ち着いた,ゆうゆうとした / …'を'『よく考える』,熟考する;…'を'審議する / (…について)『よく考える』,熟考する;審議する《+『over』(『on,upon,about』)+『名』(do『ing』)》
 deliberately	よく考えて,慎重に(cautiously) / 故意に,わざと
@@ -636,8 +706,6 @@ delivery room	(病院の)分娩室 / (図書館などの)受渡し室
 deliveryman	(客の購入品・注文品の)配達員
 dell	(山間の)小さな谷,峡谷
 delouse	…‘から'シラミを駆除する
-Delphi	デルフィ,デルポイ(ギリシアの古都;神託で有名なApolloの神殿があった)
-Delphic	デルフィ(Delphi)の / (アポロ神殿の神託のように)難解な
 delphinium	ヒエンソウ(キンポウゲ科の観賞用植物)
 delta	デルタ(ギリシア語アルファベットの第4字Δ,δ;英語D,dに相当) / (河口の)三角州,デルタ / 三角形をしたもの
 delta ray	デルタ線(放射線の一つ)
@@ -648,7 +716,6 @@ delusion	〈U〉〈C〉思い違い;錯覚;誤った考え;(…という)思い�
 delusive	人を惑わせる,紛らわしい
 deluxe,de luxe	豪華な,ぜいたくな / 豪華に
 delve	(…を)探究する,せんさくする《+『into』(『among』)+『名』》
-Dem.	Democrat, Democratic
 demagnetization,demagnetisation	磁気を除くこと,消磁
 demagnetize,demagnetise	…‘から'磁気を除く,'を'消磁する
 demagogic	扇情的な,デマの
@@ -665,7 +732,6 @@ demented	発狂した
 dementia	(医学的な)痴呆(ちほう)
 demerit	欠点,短所 / (学校の)罰点
 demesne	(封建領主・貴族などの)私有地,領地
-Demeter	デメテル(ギリシア神話の農業と豊饒(ほうじょう)の女神)
 demigod	半神半人
 demijohn	(かご細工で包んだ)細口びん(1‐10ガロン入り)
 demilitarization,demilitarisatiom	非軍事化,非武装化
@@ -680,11 +746,9 @@ demobilize,demobilise	〈軍隊〉'を'解隊する,〈兵〉'を'復員させ�
 democracy	〈U〉『民主政治』,『民主主義』,民主政体,民主社会 / 〈C〉民主主義国,民主国
 democrat	民主主義者,民主政体論者 / 《『D-』》《米》民主党員
 democratic	『民主主義の』,民主政体の / (人・態度などが)『民主的な』,庶民的な / 《『D-』》《米》民主党の
-Democratic Party	民主党
 democratically	民主的に,庶民的に
 democratization,democratisation	民主化
 democratize,democratise	…'を'民主化する / 民主化する
-démodé	流行遅れの,時代遅れの
 demodulate	(無線で)〈電波〉'を'検波する,復調する
 demographer	人口統計学者
 demographic	人口統計学の
@@ -706,7 +770,6 @@ demonstrator	立証者 / 実演する人 / デモ参加者
 demoralization	風紀を乱すること,堕落,退廃 / (軍隊・軍人の)士気をくじくこと
 demoralize, demoralise	…'の'風紀を乱す / 〈軍隊・軍人〉'の'士気をくじく
 demoralizer	(人の)勇気をくじくもの;(人を)堕落させるもの
-Demosthenes	デモステネス(384?‐322B.C.;古代ギリシアの雄弁家・政治家)
 demote	…'の'地位(階級)を下げる
 demotic	民衆の,人民の / (古代ギリシアの)民用文字の / 《D-》現代ギリシア語
 demotion	下級に落とすこと,降格,降職,左遷(せん),落第
@@ -730,7 +793,6 @@ denigrate	〈人,人の人格・名誉など〉'を'けなす,侮辱する
 denigration	中傷,侮辱,軽視
 denim	〈U〉デニム(厚地の綿布) / 〈C〉《複数形で》デニム製作業服
 denizen	(ある場所に育つ)動植物,(ある土地の)居住者《+『of』+『名』》 / 外来動植物
-Denmark	デンマーク(北欧の王国;首都はCopenhagen)
 denominate	…'に'命名する
 denomination	〈C〉《文》名称;〈U〉命名 / 〈C〉宗派,教派 / 〈C〉(計量・貨弊などの)単位;額面価額
 denominational	(特定の)宗派の,数派の
@@ -757,9 +819,7 @@ denture	入れ歯,義歯
 denuclearize	…'を'核兵器設置(核武装)を禁止する
 denude	…'を'裸にする;(物を)〈人・物〉‘から'はぎ取る《+『名』+『of』+『名』》
 denunciation	非難;否認 / (裁判官の面前などでの罪の)告発 / (条約の)廃棄通告
-Denver	デンバー(米国Colorado州の州都)
 deny	…'を'『否定する』,否認する / 《『deny』+『名』+『名』=『deny』+『名』+『to』+『名』》〈人・自分〉'に'…'を'与えない(許さない)
-Deo gratias	神のおかげで(Thanks to God)
 deodar	ヒマラヤスギ
 deodorant	脱臭剤,臭気止め
 deodorize,deodorise	…'の'臭気を取り除く
@@ -859,17 +919,15 @@ dermis	=derma
 derogate	《『derogate from』+『名』》《文》(権威・名声などを)傷つける,落とす
 derogatory	軽べつ的な;(権威・価値などを)傷つけるような《+『to(from)』+『名』》
 derrick	デリック(船などに貨物をつり上げる起重機) / 油井やぐら
-derrière,derriere	しり,臀(でん)部
 derring-do	大胆な行為,豪気
 derringer	デリンジャー式ピストル(短い銃身で口径が大きい)
+derrière,derriere	しり,臀(でん)部
 derv	ダーブ(ディーゼルエンジン用燃料油;商標名)
 dervish	(イスラム教の苦行派の)修道僧
-Des Moines	デモイン(米国Iowa州の州都)
 desalinization,desalinisation	(海水などから)塩分を除くこと,脱塩
 desalinize,desalinise	…'の'塩分を除く
 descale	…‘から'湯あかを除く
 descant	(定旋律につく)随唱,随奏 / 随唱(奏)する / 《文》(…について)長々と(詳しく)述べる《+『on』(『upon』)+『名』》
-Descartes	デカルト(『René ~』;1596‐1650;フランスの哲学者・数学者)
 descend	(高い所から低い所へ)『下る』,『降りる』《+『from』+『名』+『to』+『名』》 / (古い時代から新しい時代へ)『伝わる』,系統を引く《+『from』+『名』+『to』+『名』》 / 身を落とす / 〈人などが〉…'を'下る,降りる;〈道などが〉…'を'下る / (…の)子孫である
 descendant	(…の)『子孫』《+『of』+『名』》 / 下りの,下降する / 祖先伝来の,世襲の
 descended	(…に)由来した,(…の)子孫で《+『from』+『名』》
@@ -966,7 +1024,6 @@ detect	〈物事の存在〉'を'『感知する』,気付く,認める / 〈人
 detection	発見,探知,発覚 / (電波の)検波
 detective	『刑事』;探偵 / 刑事の,探偵の / 探知用の,検出のための
 detector	発見者,探知者 / 探知器,検出器 / 検波器
-détente,detente	(特に国際関係の)緊張緩和
 detention	引き留めること,遅延 / (判決前の)留置,拘置
 detention home	少年鑑別所
 deter	〈恐怖・不安などが〉〈人〉'を'ちゅうちょさせる;(…することを)〈人〉'に'思い留まらせる《+『名』+『from』 do『ing』》
@@ -999,13 +1056,10 @@ detrain	列車から降りる,下車する / …'を'列車から降ろす,下�
 detriment	〈U〉(…の)損害,損失;傷害《+『to』(『of』)+『名』》 / 〈C〉損害の原因
 detrimental	有害な;(…を)傷つける,(…に)有害な《+『to』+『名』》
 detritus	(風化・浸食作用などによる)砕石,砕屑(さいせつ)
-Detroit	デトロイト(米国Michigan州にある自動車製造で有名な工業都市)
 deuce	〈C〉(カードの)2の札,(さいの)2の目(2点) / 〈U〉(テニスで)ジュース / 悪運;厄介,災厄;悪魔(devil) / 《古》《俗》《遠回しに》(1)=devil{名}5(1) / 《強い否定》なったく(…でない) / 《肯定文で》ちくしょう
 deuced	ひどい(ひどく),いまいましい(しく)
 deuterium	重水素(化学記号は『D』)
 deuteron	重陽子(重水素の原子核)
-Deuteronomy	申命(しんめい)記(旧約聖書第5の書)
-Deutschemark, deutschemark	(西ドイツの)マルク,ドイツマルク(《略》『DM;』)
 dev.	deviation
 devaluate	…'を'価値を下げる;〈貨幣〉'を'平価を切り下げる
 devaluation	(貨幣の)平価切り下げ,デノミ
@@ -1044,7 +1098,6 @@ devoid	(…が)ない,欠けた《+『of』+『名』》
 devoir	〈U〉本分,つとめ / 《複数形で》敬意の表現,あいさつ
 devolution	(権利・義務・官職などの)移転,委任,継承 / (生物の)退化
 devolve	(…に)〈義務・責任など〉'を'ゆだねる《+『名』+『to』(『on, upon』)+『名』》 / 〈官職・義務・責任・財産などが〉(…に)帰属する,掛かってくる《+『on』(『upon』)+『名』》
-Devonian	(地質時代で)デボン紀の / デボン紀
 devote	〈生涯・労力・時間など〉'を'『ささげる』,あてる:《『devote』+『名』+『to』+『名』(do『ing』)》…に…をささげる
 devoted	『献身的な』,忠実な;熱愛している / (神に)ささげられた
 devotee	(…に)熱中する人;(…の)愛好家《+『of』+『名』》 / (宗教の)帰依者
@@ -1053,7 +1106,6 @@ devotional	信心の,礼拝の,祈りの
 devour	…'を'『むさぼり食う』,がつがつ食う / 〈疫病・火事・水などが〉…'を'飲み込むようにして滅ぼす,飲み込む / …'を'むさぼるように読む(聞き入る,見詰める) / 《しばしば受動態で》〈感情が〉〈人〉'を'とりこにする
 devout	信心深い,敬虔(けん)な / 《名詞の前にのみ用いて》心からの,熱心な,誠実な / 《名詞的に》《the~;複数扱い》信心深い人々
 dew	『露』 / (涙・汗などの)『しずく』,玉《+『of』+『名』》 / (…の)さわやかさ《+『of』+『名』》 / …'を'露で湿らせる;(露が降りたように)…'を'ぬらす
-DEW	〈U〉露（つゆ）/ =Directed Energy Weapon（レーザーなど指向性エネルギー兵器）
 dew point	露点(空気中の物体が冷やされ,表面に空気中の水蒸気が露となって付着する温度)
 dewberry	キイチゴ;その実
 dewclaw	狼(おおかみ)つめ(犬の足の上指) / (鹿・豚などの)にせけづめ
@@ -1071,7 +1123,6 @@ dg.	decigram[s]デシグラム
 dhole	ドール犬(どうもうな野生のインド犬) アオオオカミ
 dhoti	ドーティ(インドの男子が着用する腰布)
 dhow	ダウ船(アラビアの帆船)
-DI	Department of the Interior 内務省 / drill instructor 教練係下士官 / discomfort index
 diabetes	糖尿病(尿に糖が異常に出る病気)
 diabetic	糖尿病の / 糖尿病患者
 diabolic	悪魔のような
@@ -1092,8 +1143,8 @@ diagrammatic	図表(図式)で表した,図表(図式)の
 diagrammatical	=diagrammatic
 diagrammatically	図表(図式)で
 dial	(時計の)『文字盤』;(各種計器類の)目盛り盤,指針盤 / (ラジオ・テレビの)『ダイヤル』 / (電話の)ダイヤル / 日時計(sundial) / 〈ラジオ・テレビ〉'の'ダイヤルを回す;〈番組・波長〉'に'ダイヤルを合わせる / 〈電話・番号〉'の'ダイヤルを回す;〈人〉'に'電話をかける / (電話の)ダイヤルを回す
-dial.	dialect / dialectal / dialectic
 dial tone	(自動電話の)発信音(《英》dialling tone)
+dial.	dialect / dialectal / dialectic
 dialect	『方言』,なまり / (ある階級・人種・職業などの)通り言葉
 dialectal	方言の,通り言葉の / 方言(通り言葉)に特有の
 dialectic	弁証法的な / 弁証法,弁証法的論証
@@ -1103,7 +1154,6 @@ dialing	電話の局番号(《英》dialling code)
 dialling code	=dialing
 dialling tone	=dial tone
 dialogue, dialog	対話,会話,問答 / 対話体;(文学作品の)会話の部分,対話体の文学作品
-Dialogue Mass	(ローマカトリック教会の)共唱ミサ
 dialysis	透析(コロイド溶液を半透膜で分離すること)
 diam.	diameter
 diamagnetic	反磁性の,逆磁気の
@@ -1114,7 +1164,6 @@ diamond	『ダイヤモンド』,ダイヤ,金剛石 / ガラス切り / 菱(ひ
 diamond jubilee	即位60(70)周年記念祭
 diamond wedding	ダイヤモンド婚式(結婚後60年(75年)目に行う記念式)
 diamondback	ヒシモンガラガラヘビ(ひし形の斑(はん)点がある毒蛇)
-Diana	ダイアナ(ローマ神話の月の女神で狩猟・処女性の守護神;ギリシア神話のアルテミスArtemisに当たる)
 dianthus	ナデシコ・カーネーションなどセキチク類の植物
 diapason	〈U〉(音声・楽器の)全音域 / 〈C〉ダイアペーソン(パイプオルガンの基本音栓(せん))
 diaper	〈C〉《米》おしめ,おむつ(《英》nappy, napkin) / 〈U〉菱形模様;菱形地紋の麻布(タオル・ナプキン用) / 〈赤ん坊〉'に'おむつを当てる
@@ -1124,7 +1173,6 @@ diaphragm	横隔膜 / (一般に仕切りとなる)隔膜,仕切板 / (電話機
 diarist	日記をつける人,日誌係,日記作家
 diarrhea,diarrhoea	下痢
 diary	『日記』,日記帳,日誌
-Diaspora	ユダヤ人の離散(バビロニア幽囚後,ユダヤ人がパレスチナ以外の地へ離散したこと) / 離散したユダヤ人
 diastole	心臓拡張[期],心弛緩(しかん)[期]
 diastrophism	地殻変動
 diathermy	透熱療法(高周波の電流を利用した治療法)
@@ -1139,7 +1187,6 @@ dicey	危険な,いちかばちかの
 dichotomy	〈C〉二分,両分 / 〈U〉(論理学で)二分法 / 〈U〉〈C〉(生物の)叉(さ)状分枝,両軸分枝 / 〈U〉半月,弦月
 dick	《米俗》デカ,刑事 / 《卑》陰茎
 dickens	悪魔
-Dickens	ディケンズ(『Charles ~』;1812‐70;英国の小説家)
 dicker	小取引をする / 掛け合う,値段の交渉をする / 小取引
 dickey	ディッキー(カラーと前身頃(まえみごろ)だけの胸当てふうの衣料でえり元にのぞかせて着用する) / (ワイシャツの)カラー / (子供の)前掛け,よだれ掛け / (また《英》dickybird)小鳥 / 《おもに英》=rumble {名}2
 dicky	{形}調子が悪い / 壊れかけの / 体調が優れない《英略式》 / 〈C〉胸当てシャツ / 小型の補助座席
@@ -1147,7 +1194,6 @@ dickybird	=dickey4
 dicotyledon	双子葉植物
 dict.	dictation / dictator / dictionary
 dicta	dictumの複数形
-Dictaphone	ディクタフォン(口述録音器の商標名)
 dictate	(人に)〈文章など〉'を'『書き取らせる』,口述する《+『名』+『to』+『名』》 / …'を'命じる,命令する,指図する:《『dictate』+『名』+『to』+『名』》…を…に命じる / (人に)書き取らせる,口述する《+『to』+『名』》 / (…に)命令する,指図する《+『to』+『名』》 / (権威ある)命令;(良心などの)命じるところ
 dictation	〈U〉『口述』,『書き取り』 / 〈C〉書き取られたもの,口述されたもの / 〈C〉〈U〉命令,指図
 dictator	〈C〉独裁者 / 絶対的権力者
@@ -1281,7 +1327,6 @@ dint	(打ってできた)くぼみ,へこみ(dent) / (たたいて)…'を'へ�
 diocesan	司教(主教)監督管区(diocese)の
 diocese	司教(主教)監督管区(イングランドでは43の監督管区から成る)
 diode	ダイオード(整流器として使われる二極真空管,または半導体)
-Dionysus,Dionysos	ディオニソス(ギリシア神話で酒と演劇の神;ローマ神話のBacchusに当たる)
 diopter	ジオプトリー(レンズの屈折力の大きさを示す単位)
 diorama	ジオラマ,透視画,立体模型;立体模型館
 dioxide	二酸化物
@@ -1326,7 +1371,6 @@ directional	方向上の,方向を示す / (無線の電波が)指向性の
 directive	指令,命令,訓令 / 指導的な,指示的な
 directly	『まっすぐに』,一直線に / 『直接に』,じかに / 『まさに』,全く(absolutely, exactly) / 『すぐに』,直ちに(at once)《英話》やがて,ほどなく / …するとすぐに(as soon as)
 director	『指導者』,指揮者 / (会社・法人の)『重役』,取締役 / (映画・演劇・テレビ番組などの)『監督』,演出家,ディレクター / (オーケストラ・合唱団などの)指揮者(conductor) / (私立学校の)校長(principal)(施設の)所長,(役所の)局長,部長
-Director of Public Prosecutions	公訴官
 directorate	管理職 / 《集合的に;《米》では複数扱い,《英》では単数・複数扱い》取締役会,重役会
 directorship	管理者の職(任期)
 directory	人名簿,住所録 / (ビルの)居住者表示板
@@ -1390,10 +1434,10 @@ disburden	…'の'荷を降ろす / (…について)〈心の負担・重荷〉
 disburse	〈金〉'を'支払う;(蓄えた分から)〈金〉'を'支出する
 disbursement	〈U〉支出 / 〈C〉支払金 / 出費
 disc	=record / =disk
-disc.	discount / discovered
 disc brakes	=disk brakes
 disc harrow	=disk harrow
 disc jockey	=disk jockey
+disc.	discount / discovered
 discard	〈不用品・習慣など〉'を'『捨てる』,廃棄する / 〈人〉'を'解雇する / (カードゲームで)〈不用の札〉'を'捨てる / 〈C〉捨てられた物(人) / 〈U〉廃棄 / 〈U〉(カードゲームで)手札の投げ出し〈C〉捨て札
 discern	…'を'『見分ける』,識別する / (…と…を)識別する,見分ける《+『between』+『名』》
 discernible	認識できる;区別できる,見分けがつく
@@ -1606,7 +1650,6 @@ dispensing chemist	薬剤師兼薬屋
 dispersal	=dispersion1
 disperse	…'を'『四方に散らす』 / …'を'追い払う;〈不安など〉'を'消し去る / 〈微粒子〉'を'分散させる;〈光〉'を'分光する / …'を'各所に配置する / 『散らばる』,分散(離散)する / 〈微粒子が〉分散する,〈光が〉分光する
 dispersion	(また『dispersal』)分散[状態],散乱,消散 / (光の)分散;(微粒子の)分散
-Dispersion	=Diaspora
 dispirit	〈人〉'を'がっかりさせる,意気消沈させる
 dispirited	元気のない,意気消沈した
 displace	…'に'とって代わる / (…から)〈人〉'を'強制的に退去させる(移動させる,やめさせる)《+『名』+『from』+『名』》 / 〈船舶が〉…'の'排水量を持つ
@@ -1729,7 +1772,6 @@ distributive	分配の,配布の;分配(配布)に関する / (文法で)配分�
 distributor	分配する人(物),配分者 / 販売会社,販売者;(特に)卸売り業者 / (エンジンの)配電器
 district	(特別な目的のために区分された州・都市などの)『地区』,区域 / (ある特色・機能をもつ)『地域』,地方
 district attorney	地方検事
-District of Columbia	コロンビア特別区(米国の首都Washingtonが全域を占める特別行政区;《略》『D.C.』)
 distrust	不信,疑惑 / …'を'信用しない
 distrustful	信用しない,疑い深い
 disturb	…'を'『かき乱す』,騒がしくする / 〈人〉'を'『不安にする』,心配させる / 〈人・行動・安眠など〉'を'『邪魔をする』,妨害する(bother)
@@ -1749,7 +1791,6 @@ ditty	小歌曲
 diuretic	排尿促進の,利尿の / 利尿剤
 diurnal	昼間の,日中の / 毎日起こる,日ごとの / (花が)昼咲きの,(鳥・昆虫などが)昼行性の
 div.	divided / dividend / division / divisor / divorced
-Div.	divine / divinity
 diva	(オペラなどの)プリマドンナ
 divagate	〈話が〉わき道にそれる,枝葉末節にわたる
 divagation	(話などが)わき道にそれること,枝葉末節にわたること
@@ -1798,31 +1839,23 @@ divot	(ゴルフクラブでそぎ取られた)芝生の小さな塊
 divulge	(人に)〈秘密など〉'を'漏らす《+『名』+『to』+『名』》;…だと(…かどうかを)明かす《+『that節』(『wh-節・句』)》
 divulgence	(個人的なこと・秘密などの)暴露,口外
 divvy	…'を'分ける,分配する《+『up』+『名,』+『名』+『up』》 / (特に生活協同組合の)配当金,分配
-Dixie	米国南部諸州の異名(特に南北戦争で南部同盟に参加した州)
-Dixieland	=Dixie / デキシーランド(ジャズ音楽の一形式)
 dizzily	目まいがして;目がくらむほど
 dizziness	目まい
 dizzy	(人が)めまいがする,ふらふらする / 《名詞の前にのみ用いて》(場所・状況などが)めまいを起こさせる,目をくらませるような / 《補語にのみ用いて》(…で)浮き浮きした《+with+名》 / 愚かな,ばかな / …'に'めまいを起こさせる,'を'ふらつかせる / …'を'まごつかせる,'の'心を混乱させる
-Djakarta	ジャカルタ(インドネシアの首都;旧称はBatavia)
 djinn	=genie
 dk.	deck / dock
 dl	deciliter[s]
 dlr.	dealer
 dlvy.	delivery
 dm	decimeter（デシメートル）
-DM	Deutsche mark
-DMZ	demilitarized zone非武装地帯
 dn.	damn
-DNA	deoxyribonucleic acidディオキシリボ核酸
-Dnieper	ドニエプル川(黒海に注ぐロシア西部の川)
 do	《疑問文・否定文を作る》 / 《否定命令文を作る》 / 《助動詞とbe動詞のどちらも含まない文に用いて付加疑問を作る》 / 《強意語として》 / 《文》《助動詞とbe動詞のどちらも含まない文に用いて倒置文を作る》 / 《あいづちを打つ場合に》 / 《先行する動詞またはそれを含む述部の代用》 / 《so,nor,neitherで始まる簡略文で》 / …'を'『する』,行う,果たす / 《通例have done,時にbe doneの形で》…'を'『終える』,済ませる / …'を'作る,作り出す / …'を'『処理する』,整える,片付ける / 〈学課〉'を'『勉強する』,専攻する / 〈利益・害など〉'を'与える,もたらす / 〈人〉'に'『役立つ』,用が足りる(serve) / …の速度で進む,距離を行く / …'を'見物する / 〈劇〉'を'上演する;…'の'役を演じる / …の役目(仕事)をする / 《おもに英》…'を'だます,かつぐ / 《話》…をへとへとにさせる / 『する』;活動する / 《通例have done,時にbe doneの形で》(…を)『終える』,済ます《+『with』+『名』》 / 〈事が〉『運ぶ』;〈人が〉暮らしていく,健康である / 〈物が〉(…に)『間に合う』,十分である;〈人が〉(…に)役に立つ,向く《+『for』+『名』》 / 《複数形で》すべきこと / 〈C〉《おもに英》大宴会,大パーティー / 〈C〉《英話》詐欺,ぺてん / ド(全音階の第1音)
-do.	ditto
 do-gooder	空想的社会改良家
 do-it-yourself	自分でやる;しろうと用の / しろうと仕事,日曜大工
 do-nothing	(改革や改善のための)努力をしない
+do.	ditto
 doable	する(行う)ことができる,なされうる
 dobbin	農耕馬
-Doberman pinscher	ドーベルマンピンシェル(ドイツ種の中型犬)
 doc	=doctor
 doc.	document
 docent	(大学の)講師
@@ -1834,7 +1867,6 @@ docker	波止場人足,沖仲仕
 docket	訴訟事件一覧表 / 《米》(法廷・会議の)協議事項表 / 《英》内容摘要;明細書,報告書 / 荷札 / …'を'訴訟事件一覧表に記載する
 dockyard	造船所(shipyard)
 doctor	(通例,歯医者・獣医などを含めて)『医者』 / 『博士』 / 《話》修理(修繕)屋 / 〈人〉'に'手当をする / 〈病気〉'を'治療する / …'に'手を加える,'を'偽造する / …'を'修理する
-Doctor of Philosophy	博士号 / 博士(《略》『Ph.D.』)
 doctor's degree	博士号（博士の学位）
 doctoral	博士[号]の
 doctorate	〈C〉博士号,学位 / 名誉博士号
@@ -1846,7 +1878,6 @@ document signed	署名入り証書
 documentarily	文書に基づいて / 事実を伝えて
 documentary	『文書の』,文書に基づく,文書から成る / 『事実を扱った』,事実を伝える / (映画・テレビなどの)記録もの,実録,ドキュメンタリー
 documentation	文書調べ,文書による証拠固め / 資料,証拠書類
-DOD	Department of Defense米国防省
 dodder	よぼよぼになる / (老齢などのために)よろよろと歩く / ネナシカズラ(ヒルガオ科の寄生植物)
 doddering	よろよろする / (老齢などのために)震えている
 doddle	容易に(簡単に)できること
@@ -1856,7 +1887,6 @@ dodger	《話》責任逃れをする人,ずるい人 / 《おもに米》(と�
 dodgy	{形}怪しい / 信用できない / 危なっかしい《英略式》
 dodo	ドードー(絶滅した大きな飛べない鳥)
 doe	(シカ・カモシカ・ヤギ・ウサギなどの)雌
-DOE	Department of Energyエネルギー省
 doer	(思索型の人に対して)実行家,行動家
 does	doの三人称・単数・直説法現在形
 doeskin	雌ジカの皮;雌ジカのなめし皮 / ドスキン(ラシャ織りのウール地)
@@ -1866,7 +1896,6 @@ dog	犬 / 雄犬;イヌ科の動物(特にイタチ・オオカミ・カワウ�
 dog biscuit	犬用ビスケット(骨粉入りの堅いもの)
 dog collar	犬の首輪 / 《俗》牧師のカラー(後ろで留める堅いカラー)
 dog days	(夏の)土用(Dog Starが太陽と同じ時刻にのぼる蒸し暑い時期で,7月3日ごろから8月11日ごろまでとされている)
-Dog Star	シリウス(大犬座の主星)
 dog-ear	(本の)ページの隅の折れ / 〈ページ〉'の'隅を折る
 dog-eared	(本が)ページの隅が折ってある
 dog-eat-dog	{形}弱肉強食の / 非情な / 生存競争の激しい
@@ -1922,11 +1951,9 @@ dolphin	『イルカ』 / シイラ(温帯水域に産する大型の細長い�
 dolt	まぬけ,とんま
 doltish	ばかな,愚かな,まぬけの
 dom.	domain / domestic
-Dom.	Dominica / Dominican
 domain	(国の)領地,領土;(個人の)所有地 / (関心・活動などの)範囲,分野 / (個人・一族の)所有地 / (数学で)変域(関数の独立変数がとる値の集合)
 dome	(半球形の)『丸屋根』,丸天井,ドーム / 丸屋根状のもの / …'に'ドームをつける,'を'ドームでおおう
 domed	ドーム形の,丸天井の
-Domesday Book	土地調査簿[台帳](1086年ごろ編纂(さん)された,2部から成る英国の土地台帳)
 domestic	『家庭の』,家庭生活の,家事の / 『家庭的な』,家事の好きな / (動物などが)『人に飼われている』,飼いならされた / 『国内の』,自国の / 国産の / (通例女性の)召使い,お手伝い
 domestic animal	家畜
 domestic science	家政学(home economics)
@@ -1943,19 +1970,12 @@ dominate	…'を'『支配する』,'に'君臨する / …'で'優位を占め�
 domination	支配,君臨;優勢
 domineer	(…に)いばりちらす,おうへいにふるまう《+『over』+『名』》
 domineering	いばりちらす,おうへいな,横暴な,圧制的な
-Dominica	ドミニカ島(西インド諸島の島)
-Dominican	ドミニコ教会の / ドミニカ共和国の / ドミニコ教会の会員 / ドミニカ共和国人
-Dominican Republic	(西インドの)ドミニカ共和国(首都はSanto Domingo)
 dominie	《おもにスコットランド》学校教師 / 《方言》牧師
 dominion	〈U〉《おもに文》(…に対する)『支配権』,統治権《+『over』+『名』》 / 〈C〉領土,領地,統治領 / 《the Dominion》イギリス帝国の自治領(昔カナダ・オーストラリアなどに用いた呼び名)
 domino	ドミノ牌(はい) / 《複数形~esで》《単数扱い》ドミノ遊び(28個の牌(はい)で遊ぶ) / ドミノ仮装衣(ずきん付き外とうと顔の上半分を隠す仮面から成る舞踏会用の衣装) / ドミノ仮装衣着用者 / ドミノ仮面
 domino theory	ドミノ理論(東南アジアの一国が共産化すると,近隣諸国も次々に共産化するという説)
 don	《Don》ドン(Sirに当たるスペイン語で男性の洗礼名の前につける) / 〈C〉スペイン貴族(紳士) / 〈C〉(オックスフォード・ケンブリッジ両大学の)学監,指導教授 / 〈C〉《英》大学教師 / 〈衣服〉'を'着る,〈帽子〉'を'かぶる[do onの短縮形]
-Don	ドン川(旧ソ連ヨーロッパ中部の川で,Azov海に注ぐ)
-Don Juan	(スペインの伝説で有名な)ドンファン / 〈C〉《話》女たらし,色男
-Don Quixote	ドンキホーテ(スペインの作家Cervantesの風刺小説およびその主人公の名) / 〈C〉現実離れした理想家
 don't	do notの短縮形 / してはいけないこと
-Dona	〈C〉ドーニャ（スペイン語・ポルトガル語圏の女性の敬称）《人名・尊称》
 donate	(…に)…'を'寄贈する,寄付する《+『名』+『to』+『名』》 / (…に)寄贈(寄付)する《+『to』+『名』》
 donation	寄贈,寄付 / 寄付金,寄贈品
 done	doの過去分詞 / 仕上がった,完成した / 「(食べ物が)焼けた」の意を表す
@@ -1995,7 +2015,6 @@ dooryard	玄関の前庭
 dopant	電磁効果を上げるため半導体に加える少量の不純物
 dope	〈U〉ドープ(機械の潤滑剤);ドープ塗料(航空機翼などに塗る) / 〈U〉《話》(人・馬の)興奮剤,麻酔薬,麻薬 / 〈U〉《俗》(特に確かな筋の)情報 / 〈C〉《俗》まぬけ,ばか者 / …'に'ドープ塗料を塗る / 《話》〈人・馬〉'に'興奮剤(麻薬)を飲ませる
 dopey,dopy	《話》(麻薬・アルコールなどで)意識がもうろうとした / 《俗》ばかな
-Doric	(古代ギリシア建築が)ドーリア式の / ドーリア人(地方)の
 dorm	=dormitory
 dormant	眠っている,睡眠状態の;(動植物が)冬眠(休眠)中の / (才能などが)未開発の,潜在している / 活動していない,休止中の
 dormer	屋根窓(屋根裏部屋の明かりとり窓)
@@ -2011,9 +2030,7 @@ doss house	安宿,どや
 dosser	(背中に背負って運ぶ)荷かご / 《英俗》安宿の住人
 dossier	(事件などの)関係書類,(個人の)身上調書
 dost	doの二人称・単数・現在形
-Dostoevsky	ドストエフスキー(『Feodor』~;1821‐81;ロシアの小説家)
 dot	『点』,ぽち,しみ / (ペンで書いたような)小点;終止符(period) / (通信の)短点 / …'に'『点を打つ』 / (…を)…'に'『点在させる』,散在させる《+『名』+『with』+『名』》 / …'を'打つ,なぐる(hit)
-DOT	Department of Transportation(米国の)運輸省
 dotage	老いぼれ
 dotard	もうろくした人
 dote	もうろくする / (…を)溺愛(できあい)する《+『on』(『upon』)+『名』》
@@ -2023,7 +2040,6 @@ dotted	点々の / 全面的に(無条件に)同意する
 dotted line	点線 / 《the~》(書類で)署名箇所を示す点線
 dottle	(パイプの底に残った)たばこの吸いさし
 dotty	気がふれている,愚かな
-Douay Bible	ドウエー聖書(17世紀の初めごろフランスのDouaiで刊行されたラテン語からの英訳聖書)
 double	(数量・強さ・重さ・価値などが)『2倍の』,倍の / 『二重の』,二様の;複の,対の,2人用の / 表裏のある,二心ある / (意味が)二様にとれる,あいまいな / (花が)八重の,重弁の / 『2倍に』,2倍だけ(twice) / 二重に,二様に / 対をなして,二人いっしょに / 〈U〉『2倍』[の数量・価額など] / 〈C〉2倍のもの / 〈C〉よく似た人(物),生き写し / 〈C〉(映画の)代役 / 《複数形》《単数扱い》(テニスなどの)ダブルス / 〈C〉(獲物が追っ手を逃れるときなどの)逆走,急転回 / 〈C〉2塁打 / 〈C〉(ブリッジの点の)倍加 / 〈C〉(競馬・ドッグレースの)重勝式のかけ,複式 / …'を'『2倍にする』 / …'を'『二つ折りにする』 / …'の'2倍の数(量)がある / 〈二役〉'を'ひとりで演ずる / 〈船が〉〈岬〉'を'回る / 『2倍になる』 / (…の役を)兼ねる《+『as』+『名』》 / (急に)取って返す,逆戻りする《+『back』》 / 二つ折りになる / (ブリッジで)相手のせり高を倍加する / 2塁打を打つ
 double bass	=contrabass
 double bassoon	=contrabassoon
@@ -2077,12 +2093,10 @@ doughboy	(特に第一次大戦の)米軍歩兵
 doughnut,donut	ドーナツ;ドーナツ状のもの
 doughty	勇気のある,勇敢な(valiant);強い,がんじょうな
 doughy	練り粉の[ような];(パン・ケーキが)生焼けの / (はだが)青白い
-Douglas fir	ベイマツ(米国西部産のマツ科の常緑樹)
 dour	むっつりした,陰気な / 厳格な,厳しい(stern)
 douse	…'を'水中に突っ込む;…'を'ずぶぬれにする / 《話》〈火・燈火〉'を'消す
 dove	『ハト』(pigeonのうち比較的小さいもの;平和の象徴とされる) / 《おもに米》(平和的な態度をとる)ハト派の人(政治家) / diveの過去形(=dived)
 dovecot, dovecote	ハト小屋
-Dover	ドーバー(英国南東部の海港)
 dovetail	ありつぎ(ハトの尾の形のほぞで木材をつなぎ合わせる方式);ありつぎの箇所 / ありつぎにする,ぴったりはまる / …'を'ぴったりつなぎ合わせる
 dowager	(爵位・財産などのある人の)未亡人 / 《話》威厳のある金持ちの老婦人
 dowdy	(おもに女性の外見・服装が)だらしない / (おもに女性の服が)やぼったい
@@ -2106,7 +2120,6 @@ downfall	(富・名声・地位などの)急落,失墜 / 破滅(没落)の原因
 downgrade	(丘や道の)下り坂 / 落ち目の,没落しつつある / 〈地位・等級・給与など〉'を'下げる;〈人〉'を'降職させる,左遷する / …'を'軽く見る,見くびる
 downhearted	落胆した,元気のない
 downhill	丘の下へ,坂の下へ,下の方へ / なお悪い状態に,悪化して / 下り坂の,下りの / 《話》楽な,やさしい
-Downing Street	ダウニング街(ロンドンの首相官邸を含む官邸官庁街) / 《冠詞をつけないで》英国政府
 downpour	どしゃ降り,豪雨
 downrange	(ロケット・ミサイルなどが)射程に沿って
 downright	(悪いことについて)徹底的な,全くの / ざっくばらんな / (悪いことについて)全く,徹底的に
@@ -2136,10 +2149,8 @@ doze	うたた寝をする,居眠りをする《+『off』》 / 〈時〉'を'�
 dozen	『ダース』,12個の組(《略》『doz.,dz.』)
 dozenth	12番目の(twelfth)
 dozy	眠そうな;眠気を催させる / 《英話》(人が)愚かな
-DPhil	Doctor of Philosophy
 dpt	department / deponent
 dr.	debit / debtor / drachma / dram[s] / drawer / drum
-Dr.,Dr	Doctor
 drab	単調な,退屈な,おもしろくない / くすんだ茶色の / くすんだ茶色,灰色がかったかっ色,土(つち)色
 drabs	=dribs
 drachm	dram / drachma
@@ -2169,7 +2180,6 @@ drainpipe trousers	足にぴったりした細い男性用ズボン
 drake	雄ガモ
 dram	ドラム(重量の単位で常衡は1.772グラム,薬局衡では3.9グラム) / (ウイスキーなどの)微量,一口《+『of』+『名』》 / (一般に)わずか(の…)《+『of』+『名』》
 drama	〈C〉『戯曲』,劇文学;脚本 / 〈U〉《しばしばthe~》『演劇』,劇,芝居 / 〈C〉〈U〉劇的事件
-Dramamine	ドラマミン(乗物酔い予防の抗ヒスタミン剤の商標名)
 dramatic	『劇の』,演劇の,劇に関する / 『劇的な』,感動的な,印象的な / 芝居がかりの
 dramatically	劇的に,非常に効果的に
 dramatics	〈U〉《単数扱い》演出法,演技 / 《複数扱い》芝居がかったふるまい
@@ -2227,7 +2237,6 @@ dredge	浚渫(しゅんせつ)機(水底の泥をすくいあげる機械) / 浚
 dredger	浚渫(しゅんせつ)人夫 / =dredge
 dregs	(飲み物の)かす,おり / 最もつまらないもの
 drench	(…で)〈人・衣服など〉'を'『ずぶぬれにする』《+『名』+『with』(『by』)+『名』》
-Dresden	ドレスデン(東ドイツ南東部,エルベ川に臨む都市)
 dress	…'に'『服を着せる』,'を'装う / …'を'飾る,飾り付ける / 〈髪〉'を'整える,手入れする;〈動物の毛〉'を'すく / (市場用・食卓用に)〈肉・鳥〉'を'整える,下ごしらえする(prepare) / (ドレッシングなどをかけて)〈サラダ〉'を'仕上げる / 〈傷口など〉'の'手当をする / 〈土地〉'の'手入れをする / 〈織物・石材など〉'に'仕上げをする / 〈兵隊などの列〉'を'まっすぐにする / 『服を着る』,服を着ている / 正装する,晴れ着を着る / (兵隊などが)整列する / 〈U〉『衣服』,着物,服装 / 〈U〉《複合語を作って》礼服 / 〈C〉(ワンピースの)『婦人服』,『子供服』 / 〈U〉装い,外観(appearance) / 婦人服(用)の / (衣服が)正式の,礼服の
 dress circle	(劇場の)特別席
 dress rehearsal	(舞台衣装を着けて行う)本げいこ
@@ -2321,7 +2330,6 @@ drug addict	麻薬常用者
 drugget	〈U〉ドラゲット(インド産の敷物用織物) / 〈C〉ドラゲットじゅうたん
 druggist	=pharmacist / ドラッグストアの経営者,薬屋
 drugstore	ドラッグストア
-Druid	ドルイド教の僧侶(キリスト教伝来以前に古代ケルト族の間で信仰されていた宗教の僧)
 drum	『太鼓』,ドラム / 太鼓の音;太鼓のような音 / (形が)太鼓状のもの;(機械の)ドラム;ドラムかんなど / =tympanic membrane / 太鼓を打つ(鳴らす) / (…でテーブル・床などを)ドンドン打つ,トントンたたく,踏みならす《+『on』+『名』+『with』+『名』》 / …'を'ドンドン(トントン)打つ(鳴らす) / 《話》(人の頭などに)〈考えなど〉'を'たたき込む,教え込む《+『名』+『into』+『名』》 / (…から)〈人〉'を'追放(除名)する《+『名』+『out of』+『名』》
 drum major	《米》楽隊長(行進のとき先頭でバトン(baton)を振って指揮する) / (軍楽隊の)鼓手長
 drum majorette	(行進のとき楽隊の先頭に立ちバトンをくるくる回す)バトンガール
@@ -2358,9 +2366,6 @@ dryer	=drier
 drying	乾燥 / 乾燥させる,乾燥用の
 dryly	乾燥して;無味乾燥に;冷淡に
 drywall	乾壁(モルタルを用いない石壁)
-DST	daylight-saving time
-Du.	Duke / Dutch
-DU shell	劣化ウラン弾：DU shell〔DU=depleted uranium〕：depleted uranium bomb / depleted uranium shells [munitions] / uranium-tipped ammunition ：depleted uranium ordnance〔劣化ウランは非常に重く、砲弾に使うと戦車の装甲も打ち抜く。微小放射能を持つので、人体への影響で大問題になっている〕
 dual	二つの部分(2個)から成る / 二重の性質がある
 dual carriageway	分離道路(中央分離帯を設けた高速道路)
 duality	二重性
@@ -2369,7 +2374,6 @@ dubbin	皮革用油脂合剤(皮の仕上げに用いる) / 〈皮革製品〉'�
 dubbing in	(映画フィルムの)吹き替え;再録音
 dubiety	〈U〉疑わしさ,疑念 / 〈C〉疑わしい事柄
 dubious	疑わしい,はっきりしない(uncertain),あいまいな(ambiguous) / 疑っている,不審に思っている / (人物・行動などが)いかがわしい,怪しげな
-Dublin	ダブリン(アイルランド共和国の首都)
 ducal	公爵(duke)の,公爵らしい,公爵領の
 ducat	ダカット金貨(昔欧州で使用された)
 duchess	公爵夫人(未亡人) / 女公爵;(公国の)公妃
@@ -2486,14 +2490,6 @@ dustsheet	(家具などに掛ける)ほこりよけカバー
 dustup	口論,けんか
 dusty	『ほこりっぽい』,ほこりだらけの / ほこりのような色の,つやのない / ほこりのような,粉末状の
 dusty answer	不十分な答え,あいまいな返事
-Dutch	『オランダの』 / オランダ人(語)の / 〈U〉『オランダ語』 / 《the ~》《集合的;複数扱い》『オランダ人』
-Dutch barn	壁のない丸屋根の納屋
-Dutch courage	酒を飲んだ勢いのから元気
-Dutch elm disease	ニレ立ち枯れ病,オランダ病(キクイムシによる木の病気)
-Dutch oven	ふたつきの分厚い肉料理用鉄なべ / (前部が開いた)肉焼き器 / れんがのかまど(料理の前に壁を熱しておく)
-Dutch treat	(各自が費用を分担する)割り勘[の会食]
-Dutch uncle	厳しく批判する人
-Dutchman	オランダ人
 duteous	本分を守る,忠実な
 dutiable	(輸入品などが)関税を課せられる,有税の
 dutiful	本分を守る,義務を果たす,従順な / (行いなどが)礼儀正しい,折り目正しい
@@ -2508,8 +2504,6 @@ dwelling house	(店・事務所などに対して)住居,住宅
 dwelt	dwellの過去・過去分詞
 dwindle	小さくなる,減少する《+『away』》
 dwt.	pennyweight[s]
-DX	(無線で) / distance / (また)distant
-Dy	dysprosiumの化学記号
 dyarchy	両頭政治 = diarchy
 dybbuk	(人に取り付くというユダヤ民俗の)悪霊(りょう),死人の霊
 dye	(髪・布などの)『染料』 / 染め色,色合い / …'を'『染める』,'に'色をつける / 〈布などが〉『染まる』
@@ -2538,3 +2532,9 @@ dyspeptic	消化不良の / 憂うつな / 消化不良の人,胃腸障害の人
 dysprosium	ジスプロシウム(希土類元素;化学記号は『Dy』)
 dystrophy	栄養障害 / 筋萎縮症,筋ジストロフィー(筋肉の退化・萎縮・運動障害などが起こる病気)
 dz.	dozen[s]
+décolletage,decolletage	デコルテ〈U〉大きくえりをくって首筋・胸を出すこと / 〈C〉大きくえりぐりした婦人服
+décolleté,decollete	(婦人服の)えりぐりの深い
+décor, decor	(室内などの)装飾 / 舞台装置
+déjà vu	既視[感](初めて出会ったことをすでに経験したかのように感じる錯覚の一種)
+démodé	流行遅れの,時代遅れの
+détente,detente	(特に国際関係の)緊張緩和

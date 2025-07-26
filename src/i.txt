@@ -1,32 +1,140 @@
 I	『私は』,私が / iodineの化学記号
-i.	interest / intransitive / island / isle; isles
-I.	Island; Islands / Isle; Isles / Interstate [Highway]
-i.d.	inside diameter 内径
-i.e.	id est
-I.E.	Indo-European / Industrial Engineer
-I,i	〈C〉英語アルファベットの第9字 / 〈C〉I字型[の物] / 〈U〉(ローマ数字の)1
-I.N.R.I.	(ラテン語)Iesus Nazarenus,Rex Iudaeorumユダヤ人の王,ナザレのイエス
-I.R.	information retrieval 情報検索
 I'd	I had, I wouldの短縮形
 I'll	I will, I shallの短縮形
 I'm	I amの短縮形
 I've	I haveの短縮形
+I,i	〈C〉英語アルファベットの第9字 / 〈C〉I字型[の物] / 〈U〉(ローマ数字の)1
+I.	Island; Islands / Isle; Isles / Interstate [Highway]
+I.E.	Indo-European / Industrial Engineer
+I.N.R.I.	(ラテン語)Iesus Nazarenus,Rex Iudaeorumユダヤ人の王,ナザレのイエス
+I.R.	information retrieval 情報検索
+ICBM	intercontinental ballistic missile 大陸間弾道弾
+ICC	Interstate Commerce Commission・(米国)(the ～) 州間通商委員会 (略 ICC)
+ICJ	International Court of Justice 国際司法裁判所
+ICU	intensive-care unit 集中治療設備
+ID card	=identity(identification) card
+IE	Indo-European
+IF	intermediate frequency (無電の)中間周波
+IGY	International Geophysical Year 国際地球観測年
+IHP	indicated horsepower 指示馬力
+IL	Illinois
+ILO	International Labor Organization 国際労働機構
+ILS	instrument landing system(飛行機の)計器着陸方式
+IMF	International Monetary Fund 国際通貨基金
+IN	Indiana
+IOC	International Olympic Committee 国際オリンピック委員会
+IOU	借用証(I owe you.「私はあなたに借金がある」の音をとった略字)
+IP	(野球で)innings pitched
+IPA	International Phonetic Alphabet 国際音標文字
+IQ,I.Q.	intelligence quotient 知能指数
+IRA,I.R.A.	Irish Republican Army アイルランド共和国軍
+IRBM	intermediate range ballistic missile 中距離弾道弾
+IRO	International Refugee Organization 国際難民救済機関
+ITA	Independent Television Authority(英国)独立テレビジョン公社
+ITV	instructional television 教育テレビ
+IUD	intrauterine device 子宮内避妊具
+IWW	Industrial Workers of the World 世界産業労働者組合
 Ia.,IA	Iowa
+Iberia	イベリア半島
+Iberian	イベリアの,イベリア人の,イベリア語の
+Iberian Peninsula	イベリア半島(スペインとポルトガルを含む半島)
+Ice.	Iceland / Icelandic
+Icel.	Iceland / Icelandic
+Iceland	アイスランド(北大西洋の独立共和国;首都はReykjavik)
+Icelandic	アイスランドの,アイスランド人(語)の / アイスランド語
+Id.,ID	Idaho
+Ida.	Idaho
+Idaho	アイダホ州(米国北西部の州;州都はBoise;《略》『Id.,Ida.,ID』)
+Iliad	イリアード(Troyの攻囲戦を歌った叙事詩;ギリシアの詩人Homerの作)
+Ill.	Illinois
+Illinois	イリノイ州(米国中部の州;州都はSpringfield;《略》『Ill.,IL』)
+Immaculate Conception	(ローマカトリック教会で)聖母マリア処女懐胎
+In	indiumの化学記号
+Inauguration Day	大統領就任式の日(選挙の翌年の1月20日)
+Inc.	incorporated
+Inca	《the Incas》インカ族(11世紀ごろから現在のペルー・ボリビア・チリ北部に一大帝国を建設したインディアンの一種族;16世紀スペイン軍によって滅亡) / 〈C〉インカの支配者;インカの高官
+Ind.	India / Indian / Indiana
+Independence Day	米国独立記念日(7月4日)
+India	『インド』(公式名は 『the Republic of India』 インド共和国;首都はNew Delhi;《略》『Ind.』)
+India ink	(日本・中国の毛筆用の)墨(Indian ink)
+India paper	インディア紙(薄くて強い上質の印刷用紙)
+India rubber	=rubber 1 / 〈C〉消しゴム
+Indian	インドの,インド人の / アメリカインディアンの / 〈C〉インド人 / (また『American Indian』)〈C〉『アメリカンインディアン』 / 〈U〉アメリカインディアンの言語
+Indian Ocean	インド洋
+Indian club	体操用の瓶形こん棒
+Indian corn	=corn 1
+Indian file	一列縦隊(single file)
+Indian hemp	インド大麻 / マリファナ
+Indian ink	India ink
+Indian pipe	ギンリョウソウモドキ(パイプの形に似た花をつける植物)
+Indian summer	小春びより(晩秋・初冬の初霜の降りたあとにくる一時的な暖かい穏やかな天気)
+Indiana	インディアナ州(米国中部の州;州都はIndianapolis;《略》『Ind』,『IN』)
+Indianapolis	インディアナポリス(米国Indiana州の州都)
+Indies	=East Indies / =West Indies
+Indo-European	インドヨーロッパ語族(ヨーロッパ・西南アジア・インドなどの諸言語)
+Indochina	インドシナ(広義にはベトナム・ラオス・カンボジア・タイ・マレーシア・シンガポール・ビルマを含む)
+Indochinese	インドシナの / インドシナ人
+Indonesia	インドネシア(アジア南東部の共和国;正式名the Republic of Indonesia;首都はJakarta)
+Indonesian	インドネシアの;インドネシア人の / インドネシア人;〈U〉インドネシア語
+Indus	インダス川(インドの大河)
+Industrial Revolution	産業革命(18世紀末から19世紀初頭にかけて英国を中心に興った)
+Inland Revenue	《the~》国税庁 / 〈U〉《時にan~》国内税収入
+Interferon	インターフェロン (virusの増殖を抑制する)
+International	インターナショナル(19‐20世紀に結成された国際的な社会主義的労働者組織)
+International Date Line	日付変更線
+Internationale	〈U〉《the~》インターナショナルの歌(共産主義者・労働者の間で歌われる革命歌) / =International
+Interpol	国際警察(国際犯罪を防止するための国際機構)
+Invincible Armada	=Spanish Armada
+Ionia	イオニア(小アジア西岸にあった古代ギリシアの植民地)
+Ionic	イオニアの;イオニア人の / (建築物が)イオニア式の(女性的で優雅;柱頭の渦巻形がその特徴)
+Iowa	アイオワ州(米国中西部の州;州都はDes Moines;《略》『IA』,『Ia』.)
+Ir	iridiumの化学記号
+Ir.	Ireland / Irish
+Iran	イラン共和国(旧称はPersia;首都はTeheran)
+Iranian	イランの,イラン人(語)の / 〈C〉イラン人;〈U〉イラン語
+Iraq,Irak	イラク(アジア南西部の共和国;首都はBaghdad)
+Iraqi	〈C〉イラク人 / 〈U〉イラク語 / イラクの,イラク人(語)の
+Ire.	Ireland
+Ireland	『アイルランド』(首都はDublin;北東部は英本国の一部であるが,南部はthe Republic of Ireland(アイルランド共和国)という独立国)
+Irish	『アイルランドの』;アイルランド語の;アイルランド人の / 《the~》アイルランド国民 / 〈U〉アイルランド語
+Irish Republic	アイルランド共和国(公式にはthe Republic of Ireland)
+Irish Sea	アイルランド海(イングランドとアイルランドとの間の海)
+Irish bull	もっともらしいがつじつまの合わない話,とんちんかんな話
+Irish coffee	アイリッシュコーヒー(砂糖,生クリームで甘くしたウイスキー入りのコーヒー)
+Irish potato	ジャガイモ
+Irish stew	アイルランドシチュー(羊肉または牛肉にジャガイモ・玉ねぎを入れた濃厚なシチュー)
+Irishman	アイルランド人
+Irishwoman	アイルランドの女性
+Iron Age	《the~》 / 鉄器時代(Stone Age, Bronze Ageに続く時代) / 《i- a-》(ギリシア神話で)黒鉄時代
+Iroquois	イロコイ同盟(族)の一員(モホーク族・オネイダ族などが組織した北米インディアンの政治同盟)・イロコイ族(の一人) (カナダ Quebec, Ontario両州および米国New York州付近に居住していた先住民); イロコイ語族
+Is.	Isaiah / Island / Isle
+Isa.	Isaiah
+Isaac	イサク(旧約聖書で,Abrahamの子でJacobの父)
+Isaiah	イザヤ(紀元前8世紀の旧約聖書中のヘブライ民族の預言者) / イザヤ書(旧約聖書の一書;《略》Isa.)
+Isis	イシス(農事と受胎をつかさどる古代エジプトの女神)
+Islam	イスラム教,回教 / 《集合的に》イスラム教徒
+Islamic	イスラム教[徒]の
+Isr.	Israel / Israeli
+Israel	イスラエル(地中海東端にあるイスラエル共和国;首都はJerusalem) / ヤコブ(Jacob)の異名
+Israeli	(現在の)イスラエル人
+Israelite	(古代の)イスラエル人,ユダヤ人
+Istanbul	イスタンブール(トルコ共和国最大の都市)
+Ital.	Italian / Italy
+Italian	〈C〉『イタリア人』 / 〈U〉『イタリア語』 / イタリアの;イタリア人の;イタリア語の
+Italy	『イタリア』(地中海に臨む共和国;首都はRome)
+Ivory Coast	(西部アフリカの)象牙海岸(旧フランス植民地;かつてここで象牙の取引きが行われた) / コートジボアール共和国(1960年,象牙海岸が独立)
+i.	interest / intransitive / island / isle; isles
+i.d.	inside diameter 内径
+i.e.	id est
 iamb	=iambus
 iambic	(韻律で)弱強格の / =iambus / 《複数形で》弱強格の詩
 iambus	(韻律で)弱強格
 ib.	ibidem
-Iberia	イベリア半島
-Iberian	イベリアの,イベリア人の,イベリア語の
-Iberian Peninsula	イベリア半島(スペインとポルトガルを含む半島)
 ibex	アイベックス(アルプス・ピレネー山脈の野生のヤギ)
 ibid.	ibidem
 ibidem	同じ箇所に,同書に,同章に,同節に
 ibis	トキ(サギ・コウノトリに近い温帯産の鳥)
-ICBM	intercontinental ballistic missile 大陸間弾道弾
-ICC	Interstate Commerce Commission・(米国)(the ～) 州間通商委員会 (略 ICC)
 ice	〈U〉『氷』 / 〈U〉《the~》表面に張った氷,氷面 / 〈C〉《米》氷菓子(シャーベット・フラッペなど) / 〈U〉(気持ち・態度などの)冷たさ,よそよそしさ / …'を'氷でおおう《+『名』+『over』(『up』),+『over』(『up』)+『名』》 / …'を'氷にする / (特に氷で)…'を'冷やす,冷たくする / 〈ケーキなど〉'に'糖衣をかける / 凍る《+『over』(『up』)》
-Ice.	Iceland / Icelandic
 ice age	〈C〉《the~》(地質の)氷河時代 / 《the I- A-》(洪積世の)氷河期
 ice axe	アイスアックス(登山で氷壁に足場を作るピッケル)
 ice bag	=ice pack2
@@ -51,9 +159,6 @@ icebreaker	砕氷船
 icecap	(高山・極地などの)万年雪
 icefall	凍った滝
 icehouse	氷室,貯氷庫
-Icel.	Iceland / Icelandic
-Iceland	アイスランド(北大西洋の独立共和国;首都はReykjavik)
-Icelandic	アイスランドの,アイスランド人(語)の / アイスランド語
 iceman	氷屋,氷配達人
 icepack	(またpack ice)浮氷群 / (またice bag)《米》氷まくら,氷のう
 ichneumon fly	ヒメバチ(幼虫は他の昆虫の幼虫に寄生)
@@ -61,19 +166,13 @@ ichor	イコル(ギリシア神話で神の体中を流れているとされる�
 icicle	つらら
 icily	氷のように;冷たく,冷淡に
 icing	(菓子などの)糖衣 / (飛行機の翼などへの)着氷
-ICJ	International Court of Justice 国際司法裁判所
 icky	不快な,いやな / ねばっこい,べたべたする
 icon,ikon	像,肖像;(ギリシア教会の)聖画像
 iconoclast	聖像(偶像)破壊者(特に8‐9世紀に聖像礼拝に反対した信者) / 因襲を打破する人
 ictus	(詩の韻律で)強音,揚音
-ICU	intensive-care unit 集中治療設備
 icy	『氷の』,氷で覆われた / 『氷のように冷たい』 / 冷淡な,よそよそしい
 id	イド(精神分析で無意識層にある本能的衝動の源泉)
-ID card	=identity(identification) card
 id est	すなわち,換言すれば(that is)(《略》『i.e』)
-Id.,ID	Idaho
-Ida.	Idaho
-Idaho	アイダホ州(米国北西部の州;州都はBoise;《略》『Id.,Ida.,ID』)
 idea	(心に浮かんだ)『考え』,思考;考えること / (はっきりとした)『意見』,信念,見解 / 『案』,計画,着想,意図,ねらい / (哲学上の)概念,理念
 ideal	『理想』,究極の目的 / 理想の人物(物),(理想とすべき)手本 / 『理想的な』,申し分のない / (実在ではなく)観念的な,頭の中だけの;想像上の
 idealism	観念論,唯心論(外界の事物は実在せず,実在するものは観念だけであるとする哲学論) / 理想主義;観念主義
@@ -122,9 +221,7 @@ idolatry	偶像崇拝 / 盲目的崇拝,心酔
 idolize,idolise	…'を'偶像化する / …'を'盲目的に崇拝する,'に'心酔する
 idyll,idyl	牧歌,田園詩;田園生活
 idyllic	牧歌的な / 田園詩の
-IE	Indo-European
 if	《仮定・条件を表して》『もし』…『ならば』,もし…したら,…とすれば / 《条件の実現の可能性がある場合》 / 《if … shouldの形で可能性の少ない未来の仮定を表す場合》 / 《if … were(was) to…の形で可能性の有る無しとは関係ない仮定を表す場合》 / (a)《「if…過去形…,…助動詞の過去形」の形で現在の事実に反する仮定を表す場合》 / (b)《「if…過去完了…,…助動詞の過去形+完了形」の形で過去の事実に反する仮定を表す場合》 / 《譲歩を表して》『たとえ』…『でも』,…としても(even though) / …『すると』[『いつでも』](whenever) / 《間接疑問文を導いて》…『かどうか』(whether) / 《独立節を導いて願望・驚き・怒りなどを表して》…であればなあ,…とは驚いた,…をやりでもしたら / 仮定,条件
-IF	intermediate frequency (無電の)中間周波
 iffy	不確かな,疑わしい
 igloo,iglu	イグルー(氷や雪で作るエスキモー人の家)
 igneous	火の,火のような / (岩石が)火成の
@@ -139,18 +236,12 @@ ignorance	『無学』,『無知』,無教育;(…を)知らないこと《+『o
 ignorant	(人が)『知識がない』,無知な,教育を受けていない / 《補語にのみ用いて》『知らない』,気づかない(unaware) / 《話》(行為などが)無知から起こる,非常識な
 ignore	…'を'『無視する』,顧みない
 iguana	イグアナ(熱帯アメリカ産の大トカゲ)
-IGY	International Geophysical Year 国際地球観測年
-IHP	indicated horsepower 指示馬力
 ikon	=icon
-IL	Illinois
 ileitis	回腸炎
 ileum	回腸(小腸の下部の1/3の部分)
 ilex	ウバメガシ(常緑のカシの一つ) / 西洋ヒイラギ
-Iliad	イリアード(Troyの攻囲戦を歌った叙事詩;ギリシアの詩人Homerの作)
 ilk	家族,同種
 ill	《補語にのみ用いて》『病気で』,気分が悪い(sick) / 《名詞の前にのみ用いて》不十分な,好ましくない;正常でない / 《名詞の前にのみ用いて》不運な,不吉な / 《名詞の前にのみ用いて》(道徳的に)『悪い』,邪悪な,敵意(悪意)のある;不きげんな / 《名詞の前にのみ用いて》『有害な』,悪い,損害を与える / 『悪く』,不正に;残酷に / 『意地悪く』,不親切に;不満足に,不十分に / ほとんど…ない(scarcely) / 《分詞と共に複合語を作って》悪く,まずく,不完全に / 〈U〉 / 悪,罪悪 / 〈U〉危害,災難 / 〈C〉《しばしば複数形》苦しみ(悩み)の種,不幸,病気
-ill.	illustrated / illustration / illustrator
-Ill.	Illinois
 ill breeding	育ちの悪いこと,無作法
 ill humor	不きげん
 ill temper	怒りっぽさ,気むずかしさ
@@ -173,6 +264,7 @@ ill-tempered	怒りっぽい,気むずかしい
 ill-timed	時機を失した,折の悪い
 ill-treat	…'を'虐待する,冷遇する
 ill-use	…'を'虐待する,酷使する / 虐待,酷使
+ill.	illustrated / illustration / illustrator
 illegal	『不法の』,違法の
 illegality	違法,不法;〈C〉不法行為
 illegible	(筆跡などが)読みにくい,判読しがたい
@@ -181,7 +273,6 @@ illegitimate	規則で許されていない,非合法の(unlawful) / 私生の,�
 illiberal	心の狭い,狭量の / 物惜しみする,けちな
 illicit	不法の,禁制の
 illimitable	無限の,限りのない
-Illinois	イリノイ州(米国中部の州;州都はSpringfield;《略》『Ill.,IL』)
 illiteracy	無知,無教育 / 文盲
 illiterate	読み書きのできない,文盲の / 無学の,無教育の,無知な / {名}〈C〉 / 読み書きのできない実,無教育な人
 illness	(心身の)『病気』,不健康
@@ -201,8 +292,6 @@ illustration	〈C〉(説明などのための)『例』,実例(example) / 〈U�
 illustrative	実例となる,例証となる
 illustrator	挿絵画家,イラストレイター
 illustrious	有名な,著名な / (行為・業績などが)輝かしい
-ILO	International Labor Organization 国際労働機構
-ILS	instrument landing system(飛行機の)計器着陸方式
 image	(鏡に映った)『像』,(レンズによる)映像 / (心に浮かぶ)『像』,心像,イメージ / (絵・彫刻などによる人・動物などの)『像』,肖像;偶像《+『of』+『名』》 / (…に)『そっくりの人』(『物』)《+『of』+『名』》 / (…の)典型;(…の)化身《+『of』+『名』》 / (直喩(ちょくゆ)・隠喩などの)比喩 / …'の'像を描く;…'を'思い描く
 imagery	《集合的に》像,心像 / (文学における)比喩(ひゆ)的表現
 imaginable	想像できる,考えられるかぎりの
@@ -224,13 +313,11 @@ imbrication	かわら(屋根板など)の重なり合い / 重なり模様,う�
 imbroglio	(個人・国家間などの)紛糾(ふんきゅう),もつれ,ややこしい事態
 imbrue	(血などで)…'を'汚す,染める《+名+with+名》
 imbue	《受動態で》(思想・感情などを)〈人,人の心〉'に'しみ込ませる,吹き込む / (水分・色などを)…'に'しみ込ませる
-IMF	International Monetary Fund 国際通貨基金
 imitate	…'を'『見習う』,手本にする / …'の'『まねをする』 / …'を'『模写(模造)する』,'に'似せて作る
 imitation	〈U〉(…を)『見習うこと;』(…の)『まねをすること』,模倣;(…を)模写(模造)すること《+of+名》 / 〈C〉(…の)物まね,人まね(+of+名) / 〈C〉模造品,にせ物,まがい物 / 模造の,人造の
 imitative	模倣の,模造の / まね好きの
 imitator	まねをする人
 immaculate	少しも汚れていない / (人・人の行為などが)清純な;(物が)欠点のない
-Immaculate Conception	(ローマカトリック教会で)聖母マリア処女懐胎
 immanence	(物質・要因などの)内在 / (神・神の意志の)宇宙遍在
 immanent	(特質・要因などが)(…に)内在する《+in+名》 / (神・神の意志が)宇宙に遍在する
 immaterial	重要でない,取るに足りない / 実体のない,非物質の
@@ -451,10 +538,7 @@ imputable	負わせられる,帰せられる;(…を)負わせられる《+『to
 imputation	〈U〉(罰などの原因を)人のせいにすること / 〈C〉(押しかぶされた)汚名,そしり
 impute	(…に)…'の'罪(責任,原因など)を押しつける《『名』~『to』+『名』》
 in	《具体的な場所,位置》 / …『の中に』(『で』) / …『において』,…で / 《intoの代りに移動を表す動詞と共に》…『の中へ』 / (乗り物)『に乗って』 / …『の状態に』(『で』) / …『に従事して』,に属して / …『を身につけて』,に覆われて / 《『in』do『ing』の形で》…『するときに』,する際に(when) / 《時間》 / …『して』,…『が経過したあと』 / …『の間に』 / …『については』,…の点では / 《方法・手段・材料》…『で』 / 《人を目的語にして,性質・能力があることを示して》…の中に / …の目的で,のつもりで,として / 《比率割合》…のうちで,につき / 《過去分詞に伴って》…に[…されて] / 『中へ』(に) / 『在宅して』,帰って / (乗り物などが)『到着して』,(時期・季節が)来て / 出回って,流行して / 《俗》流行の,当世風の / 《話》特定の人々にのみ理解される
-In	indiumの化学記号
-IN	Indiana
 in extremis	窮極に / 死に臨んで
-in,in.	inch[es]
 in loco parentis	親の立場で,親の代りに
 in memoriam	(碑文などで)…を記念して,追悼して
 in one's good graces	(に)気に入られて・好意を持たれて・= in the good graces of one
@@ -463,6 +547,8 @@ in residence	学内に)居住の,(官邸・公邸住まいの
 in situ	もとの場所に,本来の場所に
 in so far as	…する限りにおいて
 in total	全部で,全体として / 全く
+in toto	全部で,全体として / 全く
+in,in.	inch[es]
 in-between	中間の,中間的な / 中間の[立場の]人(もの)
 in-depth	(調査など)深奥をきわめた,徹底的な
 in-flight	飛行中行われる,飛行中の
@@ -502,7 +588,6 @@ inaudible	聞き取れない,聞こえない
 inaugural	就任の;開会の / (特に大統領の)就任演説
 inaugurate	《受動態で》(就任式を行って)(…として)〈人〉'を'就任させる《+『名』+『as』+『名』》 / …'を'正式に開始する / (式を行って)〈公共施設〉'を'正式に開く
 inauguration	〈U〉開始,起業 / 〈C〉就任式;開業(落成,発会,結党)式
-Inauguration Day	大統領就任式の日(選挙の翌年の1月20日)
 inauspicious	不吉な;不運な
 inboard	船体(機体)内にある / (飛行機・船の)中央寄りにある / 船体(機体)内に,(飛行機・船の)中央寄りに / 船内モーター / 船内モーターつきボート
 inborn	生まれつきの,先天的な
@@ -510,8 +595,6 @@ inbound	帰りの;本国行きの / (交通機関が)都心などにはいって
 inbred	生まれつきの(inborn) / 近親交配による
 inbreed	〈動物〉'を'近親交配させる
 inbreeding	同種(近親)交配
-Inc.	incorporated
-Inca	《the Incas》インカ族(11世紀ごろから現在のペルー・ボリビア・チリ北部に一大帝国を建設したインディアンの一種族;16世紀スペイン軍によって滅亡) / 〈C〉インカの支配者;インカの高官
 incalculable	(数・量が)計り知れない / 予想できない;当てにならない
 incalculably	数えきれないほど,無数に
 incandescence	白熱[光]
@@ -670,7 +753,6 @@ incurious	好奇心のない,無関心の
 incursion	(…への)襲撃,侵入,侵略《+『on』(『upon』,『into』)+『名』》
 incurved	内側に曲がった
 ind.	independent / index / indicative / industrial / industry
-Ind.	India / Indian / Indiana
 indebted	(…に対して…の)借金(負債)がある《+『to』+『名』+『for』+『名』》 / (…に対して…の)恩義を受けている《+『to』+『名』+『for』+『名』》
 indebtedness	借金,負債額 / 恩義
 indecency	〈U〉みだら;無作法 / 〈U〉みだらな言動
@@ -705,7 +787,6 @@ indented	ぎざぎざのある / 字下がりにした
 indention	〈U〉節の第1行目の字下げ / 〈C〉字下げ分の空白 / 〈C〉《古》ぎざぎざ,刻み目
 indenture	2通作成して取り交わした契約書(証書) / 《複数形で》(徒弟などの)年季奉公契約書 / (契約して)〈人〉'を'見習い(年季奉公)に出す
 independence	(…からの)『独立』,自立,独立心《+『of』(『from』)+『名』》
-Independence Day	米国独立記念日(7月4日)
 independent	(他に)『頼らない』,依存しない / 『独立した』,ほかの支配(影響)を受けない / 『関係(関連)がない』,独自の / (収入・資産が)働かなくても暮らせるだけの / 独立者,独立したもの / 党派に属さない人(無所属議員,自由な投票者など)
 independently	独立して,自主的に
 indescribable	言葉では言い表せない,言語に絶する
@@ -721,21 +802,6 @@ index finger	=forefinger
 index number	統計指数
 index of refraction	(光の)屈折率
 indexer	索引作成者
-India	『インド』(公式名は 『the Republic of India』 インド共和国;首都はNew Delhi;《略》『Ind.』)
-India ink	(日本・中国の毛筆用の)墨(Indian ink)
-India paper	インディア紙(薄くて強い上質の印刷用紙)
-India rubber	=rubber 1 / 〈C〉消しゴム
-Indian	インドの,インド人の / アメリカインディアンの / 〈C〉インド人 / (また『American Indian』)〈C〉『アメリカンインディアン』 / 〈U〉アメリカインディアンの言語
-Indian club	体操用の瓶形こん棒
-Indian corn	=corn 1
-Indian file	一列縦隊(single file)
-Indian hemp	インド大麻 / マリファナ
-Indian ink	India ink
-Indian Ocean	インド洋
-Indian pipe	ギンリョウソウモドキ(パイプの形に似た花をつける植物)
-Indian summer	小春びより(晩秋・初冬の初霜の降りたあとにくる一時的な暖かい穏やかな天気)
-Indiana	インディアナ州(米国中部の州;州都はIndianapolis;《略》『Ind』,『IN』)
-Indianapolis	インディアナポリス(米国Indiana州の州都)
 indicate	…'の'『表れ(徴候)である』(show) / …'を'『指し示す』,指摘する / …'を'簡単に述べる,知らせる
 indication	〈U〉(…を)指摘(指示,表示)すること《+『of』+『名』》 / 〈C〉〈U〉表れ,徴候
 indicative	《補語にのみ用いて》(…を)表す,表示する《+『of』+『名』》;(…であると)表す《+『that節』》 / (文法で)直説法の / (文法で)直説法
@@ -745,7 +811,6 @@ indicia	(料金別納郵便物などの)証印
 indict	(…の罪で)…'を'起訴する,共発する《+『名』+『for(on)』+『名』》
 indictable	起訴(告発)されるべき
 indictment	〈U〉起訴,告発 / 〈C〉起訴状
-Indies	=East Indies / =West Indies
 indifference	(…に対する)『無関心』,むとんじゃく,冷淡《+『to』(『toward』)+『名』》 / (…にとって)重要でないこと,ささいなこと《+『to』+『名』》
 indifferent	(人が)『関心のない』,むとんじゃくな,冷淡な / よくも悪くもない,平均的な
 indifferentism	宗教無差別主義(方針,政策) / (善悪・真偽などに対する)むとんじゃく
@@ -794,9 +859,6 @@ individuate	…'を'個別化する / …'に'個性を与える
 indivisibility	分割できないこと,不可分性
 indivisible	分慨できない,不可分の;(数が)割り切れない
 indivisibly	分割できないように,不可分で
-Indo-European	インドヨーロッパ語族(ヨーロッパ・西南アジア・インドなどの諸言語)
-Indochina	インドシナ(広義にはベトナム・ラオス・カンボジア・タイ・マレーシア・シンガポール・ビルマを含む)
-Indochinese	インドシナの / インドシナ人
 indocile	不従順な
 indoctrinate	(学説・原理・イデオロギーなどを)〈人〉'に'教え込む,吹き込む《+『名』〈人〉+『with』+『名』》
 indoctrination	(学説・原理・イデオロギーなどを)教えこむこと,教化
@@ -804,8 +866,6 @@ indolence	無精,怠惰
 indolent	無精な,怠惰な
 indomitable	不屈の,負けん気の
 indomitably	断固として
-Indonesia	インドネシア(アジア南東部の共和国;正式名the Republic of Indonesia;首都はJakarta)
-Indonesian	インドネシアの;インドネシア人の / インドネシア人;〈U〉インドネシア語
 indoor	『室内の』,『屋内の』
 indoor relief	救貧院内救助
 indoors	『室内に』(『で』),『屋内に』(『で』)
@@ -826,12 +886,10 @@ indulge	〈欲望など〉'を'『満足させる』;〈人〉'の'思いのま�
 indulgence	〈U〉(欲望などに)ふけること,(…を)ほしいままにすること《+『in』+『名』(do『ing』)》 / 〈U〉〈C〉甘やかすこと,寛大 / 〈C〉道楽,好物 / (また『pardon』)〈U〉(カトリックで)免罪;〈C〉免罪符
 indulgent	気ままな;寛大な,甘い
 indurate	〈岩・組織など〉'を'硬くする,硬化する / …'を'無感覚にする,がんこにする / …'を'慣れさせる / 硬くなる / 硬化した;無感覚な
-Indus	インダス川(インドの大河)
 industrial	『産業』(『工業』)『の』,産業(工業)による / 高度に発達した産業(工業)を持つ / 産業(工業)用の
 industrial arts	工芸(実業学校の1科目)
 industrial estate	工業団地(《米》industrial park)
 industrial park	工業団地(《英》industrial estate)
-Industrial Revolution	産業革命(18世紀末から19世紀初頭にかけて英国を中心に興った)
 industrialism	産業(工業)主義
 industrialist	生産業者,実業家,産業資本家
 industrialization,industrialisation	産業化,工業化
@@ -1079,7 +1137,6 @@ inkwell	(特に卓上の)インク入れ,インクつぼ
 inky	まっ黒な / インクのついた
 inlaid	inlayの過去・過去分詞 / はめ込んだ,ちりばめた;象眼模様で装飾した
 inland	『内陸の』,奥地の / 《おもに英》『国内の』,内地の / 内陸(奥地)へ(に) / 内陸,奥地,国内
-Inland Revenue	《the~》国税庁 / 〈U〉《時にan~》国内税収入
 inlay	(金・銀・象牙(ぞうげ)などを)…'に'はめ込む,象眼する《+『名』+『with』+『名』》;(…に)〈金・ 銀・象牙など〉'を'『はめ込む』《+『名』+『into』(『in』)+『名』》 / 〈U〉〈C〉象眼模様,象眼材料 / 〈C〉インレー(金属・陶材の歯の充てん物)
 inlet	入り江 / (水などの)入り口
 inmate	(病院・養老院・刑務所などの)入院者,収容者,受刑者
@@ -1135,8 +1192,8 @@ inquisitor	取り調べ官,尋問者 / 《I-》(昔の)宗教裁判官,異端審
 inquisitorial	取り調官のような,せんさく好きの
 inroad	(…への)突然の攻撃,侵略,侵害,食い込み《+『on』(『upon, into』)+『名』》
 inrush	突入, 侵入，来襲・流入，殺到 〔of〕
-ins.	inches / insurance
 ins and outs	複雑な事情,詳細 / 特質,特性
+ins.	inches / insurance
 insalubrious	(気候・風土が)建築によくない,不健康な
 insane	狂気の,正気でない / 精神異常者のための / 気違いじみた,非常識な,とっぴな
 insanitary	非衛生的な,健康によくない(unhealthy)
@@ -1223,8 +1280,8 @@ inst.	instant / institute / institution
 instability	不安定,不確定;(心の)不安定,変わりやすさ
 install	〈装置など〉'を'『取り付ける』,設備する / 〈人〉'を'『就任させる』,'の'就任式を行う / 《場所を表す副詞[句]を伴って》…'を'落ち着かせる,席につける
 installation	〈U〉(装置などの)取り付け,据え付け / 〈U〉(人の)任命,就任 / 〈C〉(取り付けた)装置,設備 / 〈C〉軍事施設
-installment,instalment	(月賦などの1回分の)『分割払い込み金』 / (続き物などの)1回分,1部
 installment plan	分割払い購入法(《英》hire purchase)
+installment,instalment	(月賦などの1回分の)『分割払い込み金』 / (続き物などの)1回分,1部
 instalment	=installment
 instance	『例』,実例 / 場合 / …'を'例に引く
 instant	『一瞬の間』,瞬間(moment) / 《the,this,thatなどを伴って》(…の)ちょうどその瞬間,まさに(…の)時 / 『即時の』,すぐの,即刻の / 《名詞の前にのみ用いて》『急の』,緊急の(urgent) / 『即席の』,インスタント[料理]の / 《古》今月の
@@ -1377,7 +1434,6 @@ interfere	(…に)『干渉する』,口出しをする(meddle)《+『in』(『w
 interference	〈U〉(…への)干渉,口出し,妨害《+『with』+『名』》 / 〈U〉〈C〉(ラジオ・テレビの)混信;(光波・音波などの)干渉 / 〈U〉(一般のスポーツで)妨害行為
 interferer	干渉者,妨害者
 interferometer	干渉計(光の干渉現象を利用して波長や天文学上の距離を測る)
-Interferon	インターフェロン (virusの増殖を抑制する)
 interferon	インターフェロン(ウイルス増殖抑制物質)
 intergalactic	銀河系(宇宙)間の
 interim	(二つのでき事・時期などの)中間,合い間 / 中間の,間の
@@ -1425,9 +1481,6 @@ internal revenue	(関税を除く)内国税収入
 internalize,internalise	〈方針・主義など〉'を'自分のものにする,内面化する
 internat.	international
 international	『国際的な』,国家間の,万国の / 国際関係の / 国際競技,国際試合 / 国際試合出場者
-International	インターナショナル(19‐20世紀に結成された国際的な社会主義的労働者組織)
-International Date Line	日付変更線
-Internationale	〈U〉《the~》インターナショナルの歌(共産主義者・労働者の間で歌われる革命歌) / =International
 internationalism	国際主義
 internationalization,internationalisation	国際化;国際管理下におくこと
 internationalize,internationalise	…'を'国際管理下におく,国際化する
@@ -1445,7 +1498,6 @@ interpenetrate	…'に'十分浸透(貫通)する / 十分に(相互に)浸透(�
 interpersonal	人と人との間の,人間関係の
 interplanetary	(太陽系の)惑星間の
 interplay	相互作用
-Interpol	国際警察(国際犯罪を防止するための国際機構)
 interpolate	(新材料を加えて)〈原文〉'に'手を加える,'を'書き改める / (原文などへ)〈新材料・でたらめ〉'を'挿入する《+『名』+『in』(『into』)+『名』》 / (対数のような関数関係の)〈中間項〉'を'級数に挿入する
 interpolation	〈U〉加筆,書き入れ / 〈C〉書き入れられた語句
 interpose	(会話や話などへ)〈批評・質問など〉'を'差しはさむ / (二つの部分・物・場所などの間に)…'を'置く,挿入する(insert)《+『名』+『between』(『among』)+『名』》 / 〈異議〉'を'唱える,〈拒否権〉'を'発動する / 割り込む,邪魔する
@@ -1505,7 +1557,6 @@ intolerance	〈U〉(宗教・意見・習慣の相違について)偏狭で認�
 intolerant	(人が)偏狭な / 《補語にのみ用いて》(物・事が)(…に)耐えられない《+『of』+『名』》
 intonation	(声の)抑揚,音調 / 詠唱,吟唱
 intone	〈祈りなど〉'を'詠唱する,朗唱する / 詠唱する,朗唱する
-in toto	全部で,全体として / 全く
 intoxicant	酔わせる;心を浮き立たせる / 酔わせるもの;(特に)アルコール飲料
 intoxicate	(酒で)〈人〉'を'『酔わせる』《+『名』+『with』(『from』)+『名』》 / 〈物事が〉〈人〉'を'興奮させる,夢中にさせる
 intoxication	酔い,酩酊(めいてい) / 夢中,陶酔
@@ -1592,7 +1643,6 @@ invigilate	試験(受験者)の監督をする
 invigorate	…'を'元気づける;…'を'励ます
 invincibility	打ち勝ちがたいこと,無敵;不屈
 invincible	打ち勝ちがたい;(精神などが)不屈の
-Invincible Armada	=Spanish Armada
 inviolability	侵してはならないこと,不可侵性
 inviolable	侵してはならない / 侵すことのできない
 inviolate	(約束などが)破られていない / (場所が)汚されていない
@@ -1622,61 +1672,32 @@ inwardly	内側(内部)に;内側(内部)へ / 心の中で;内心は
 inwardness	霊性,精神性 / 真意
 inwards	=inward / 《話》内臓
 inwrought	《補語にのみ用いて》 / (模様が)織物に織り込まれた / (織物が)模様を織り込んだ
-IOC	International Olympic Committee 国際オリンピック委員会
 iodide	ヨウ化物
 iodine	ヨード,ヨウ素(非金属元素;化学記号は『I』)
 iodize,iodise	…'を'ヨードで処理する,'に'ヨードを加える
 ion	イオン
-Ionia	イオニア(小アジア西岸にあった古代ギリシアの植民地)
-Ionic	イオニアの;イオニア人の / (建築物が)イオニア式の(女性的で優雅;柱頭の渦巻形がその特徴)
 ionic	イオンの;イオンを含む
 ionization,ionisation	イオン化,電離
 ionize,ionise	…'を'イオン化する,電離する / イオン化する,電離する
 ionosphere	電離層(地上約80‐400kmのイオン圏;無線電波が反射され,遠方との交信を可能にする)
 iota	イオタ(ギリシア語アルファベットの第9字Ι,ι;英語のI,iに相当) / 《an~》《否定文で》少し(の…)《+『of』+『名』》
-IOU	借用証(I owe you.「私はあなたに借金がある」の音をとった略字)
-Iowa	アイオワ州(米国中西部の州;州都はDes Moines;《略》『IA』,『Ia』.)
-IP	(野球で)innings pitched
-IPA	International Phonetic Alphabet 国際音標文字
 ipecac	トコン(南米産のアカネ科の低木) / 吐根剤(トコンの乾燥根で吐剤,下剤に用いる)
 ips,i.p.s.	inches per second
 ipso facto	事実それ自体によって,事実上
-IQ,I.Q.	intelligence quotient 知能指数
-Ir	iridiumの化学記号
-Ir.	Ireland / Irish
-IRA,I.R.A.	Irish Republican Army アイルランド共和国軍
-Iran	イラン共和国(旧称はPersia;首都はTeheran)
-Iranian	イランの,イラン人(語)の / 〈C〉イラン人;〈U〉イラン語
-Iraq,Irak	イラク(アジア南西部の共和国;首都はBaghdad)
-Iraqi	〈C〉イラク人 / 〈U〉イラク語 / イラクの,イラク人(語)の
 irascibility	怒りっぽいこと,短気
 irascible	怒りっぽい,短気な
 irascibly	怒りっぽく
 irate	怒った,怒りの
-IRBM	intermediate range ballistic missile 中距離弾道弾
 ire	怒り(anger)
-Ire.	Ireland
 ireful	怒った(angry)
-Ireland	『アイルランド』(首都はDublin;北東部は英本国の一部であるが,南部はthe Republic of Ireland(アイルランド共和国)という独立国)
 irenic	平和的な,協調的な;平和主義の
 iridescence	(シャボン玉などの)にじ色,玉虫色
 iridescent	にじ色の,玉虫色の
 iridium	イリジウム(金属元素;化学記号は『Ir』)
 iris	(眼球の)虹彩(こうさい) / アイリス(アヤメ科の植物の総称) / にじ(ギリシア神話のにじの女神イリスから出た)
-Irish	『アイルランドの』;アイルランド語の;アイルランド人の / 《the~》アイルランド国民 / 〈U〉アイルランド語
-Irish bull	もっともらしいがつじつまの合わない話,とんちんかんな話
-Irish coffee	アイリッシュコーヒー(砂糖,生クリームで甘くしたウイスキー入りのコーヒー)
-Irish potato	ジャガイモ
-Irish Republic	アイルランド共和国(公式にはthe Republic of Ireland)
-Irish Sea	アイルランド海(イングランドとアイルランドとの間の海)
-Irish stew	アイルランドシチュー(羊肉または牛肉にジャガイモ・玉ねぎを入れた濃厚なシチュー)
-Irishman	アイルランド人
-Irishwoman	アイルランドの女性
 irk	…'を'いらいらさせる
 irksome	あきあきする,たいくつな(tiresome)
-IRO	International Refugee Organization 国際難民救済機関
 iron	〈U〉『鉄』 / 〈U〉鉄のように堅い(強い,冷たい)こと / 〈C〉鉄製の器具 / 〈C〉[電気]『アイロン』 / 〈C〉アイアン(球を打つ部分が金属のゴルフクラブ) / 〈C〉《複数形で》手かせ,足かせ / 《名詞の前にのみ用いて》『鉄の』,鉄製の / 鉄のように堅い(強い,冷たい) / …'に'アイロンをかける / 〈人が〉アイロンをかける
-Iron Age	《the~》 / 鉄器時代(Stone Age, Bronze Ageに続く時代) / 《i- a-》(ギリシア神話で)黒鉄時代
 iron curtain	《the~》鉄のカーテン(第二次世界大戦後の旧ソ連と西欧間の障壁)
 iron foundry	鋳鉄所,製鉄所
 iron horse	《the~》《古・詩》機関車
@@ -1698,7 +1719,6 @@ ironstone	鉄鉱石 / 白色硬質陶器
 ironware	鉄製品
 ironwork	《集合的に》鉄製品;《複数形で》製鉄所;鉄工所
 irony	〈U〉『皮肉』,『風刺』;反語[法] / 〈C〉(運命の)皮肉,(具体的な事例としての)皮肉な成り行き
-Iroquois	イロコイ同盟(族)の一員(モホーク族・オネイダ族などが組織した北米インディアンの政治同盟)・イロコイ族(の一人) (カナダ Quebec, Ontario両州および米国New York州付近に居住していた先住民); イロコイ語族
 irradiate	〈光・灯火などが〉…'を'照らす;〈喜びなどが〉〈顔など〉'を'明るくする;〈問題など〉'に'光を投げる / …'に'放射線を当てる;…'を'放射線で治療する / 〈光・熱・輝きなど〉'を'放射する;〈愛情・祝福など〉'を'そそぐ
 irradiation	照らす(照らされる)こと;発光 / (知的)啓発,開明 / 放射線治療
 irrational	理性のない / 理性に反する,ばかげた(absurd)
@@ -1753,16 +1773,9 @@ irritation	〈U〉いらだち;立腹,かんしゃく / 〈C〉炎症
 irrupt	(…に)侵入する,突入する《+『into』+『名』》 / 〈動物などが〉急増する
 irruption	(突然の)侵入,突入
 is	beの三人称・単数・現在
-Is.	Isaiah / Island / Isle
-Isa.	Isaiah
-Isaac	イサク(旧約聖書で,Abrahamの子でJacobの父)
-Isaiah	イザヤ(紀元前8世紀の旧約聖書中のヘブライ民族の預言者) / イザヤ書(旧約聖書の一書;《略》Isa.)
 ischium	座骨
 isinglass	にべ(魚の浮き袋から取ったゼリー) / 雲母(うんも)
-Isis	イシス(農事と受胎をつかさどる古代エジプトの女神)
 isl.	island / isle
-Islam	イスラム教,回教 / 《集合的に》イスラム教徒
-Islamic	イスラム教[徒]の
 island	『島』 / 島に似たもの;(街路上の)安全地帯(《米》safety island,《英》traffic island)
 islander	島の住民
 isle	《詩》島(island)
@@ -1782,25 +1795,16 @@ isotherm	(地図上の)等温線
 isothermal	一定温度で起こる,等温の
 isotonic	等張の(2種の溶液の浸透圧が等しい)
 isotope	同位元素,アイソトープ
-Isr.	Israel / Israeli
-Israel	イスラエル(地中海東端にあるイスラエル共和国;首都はJerusalem) / ヤコブ(Jacob)の異名
-Israeli	(現在の)イスラエル人
-Israelite	(古代の)イスラエル人,ユダヤ人
 issuance	発行,発布;配給
 issue	〈U〉(印刷物などの)『発行』;(法令などの)発布,公布《+『of』+『名』》 / 〈C〉『発行物』,号,版 / 〈U〉(…の)流出《+『of』+『名』》;〈C〉流出物 / 〈C〉『問題』,『問題点』 / 〈U〉《古》《集合的に》子,子孫 / 〈C〉《まれ》(…の)結果,なりゆき《+『of』+『名』》 / (…から)『出てくる』,流れ出る《+『from』+『名』》 / (…に)由来する,(…から)起こる《+『from』+『名』(do『ing』)》 / 《古》(結果的に)(…に)なる《+『in』+『名』》 / 〈命令など〉'を'出す,発令する;…'を'公布する / 〈雑誌など〉'を'『発行する』 / (人に)…'を'支給する《+『名』〈物〉+『to』+『名』〈人〉》;(衣料・食糧などを)〈人〉'に'支給する《+『名』〈人〉+『with』+『名』〈物〉》
-Istanbul	イスタンブール(トルコ共和国最大の都市)
 isthmian	地峡の / 《I-》コリント地峡の,パナマ地峡の
 isthmus	地峡
 it	《すでに述べられた物・事または幼児,動物などを指して》『それは』(『を』),そのものは(を),そのことは(を) / 《その場の状況で相手に何であるか分かるような物・事または人を指して》『それは』(『を』),そのことは(を) / 《天候・時間・距離・事情・状態などを指して》 / 《It seems(happens, appears… )thatなどの形で》 / 《形式主語として》 / 《形式目的語として》 / 《It is … that(who, which)の形で…を強調して》 / 《ある種の動詞・前置詞に添える形式上の目的語として》 / 〈C〉(遊戯の)鬼 / 〈U〉《話》理想,第一人者 / 〈U〉《話》性的魅力
 it'd	it would, it hadの短縮形
 it'll	it willの短縮形
-ITA	Independent Television Authority(英国)独立テレビジョン公社
 ital.	italic; italics / italicized
-Ital.	Italian / Italy
-Italian	〈C〉『イタリア人』 / 〈U〉『イタリア語』 / イタリアの;イタリア人の;イタリア語の
 italic	(活字が)イタリック体の / 《複数形で》イタリック体活字,斜字体
 italicize,italicise	…'を'イタリック体活字で印刷する
-Italy	『イタリア』(地中海に臨む共和国;首都はRome)
 itch	〈C〉《an~》かゆい感じ,かゆみ;《the~》(皮膚病の)疥癬(かいせん) / 《an~》うずうずする欲望,むずむずする気持ち / 〈人・体の一部が〉かゆい,むずむずする / 《しばしば進行形で》むずむずする,欲しくてたまらない
 itchiness	かゆいこと,むずむずすること
 itchy	かゆい,むずむずする / 欲しがる,うずうずする
@@ -1814,11 +1818,7 @@ its	『それの』,その / it is, it hasの短縮形
 itself	《強意用法》《名詞と同格に用いて》『それ自身』,『それ自体』,そのもの / 《再帰用法》《動詞・前置詞の目的語として》『それ自身を』(『に』),それ自体を(に)
 itsy-bitsy	=itty-bitty
 itty-bitty	《幼児語》ちっちゃい
-ITV	instructional television 教育テレビ
-IUD	intrauterine device 子宮内避妊具
 ivied	ツタ(ivy)でおおわれた
 ivory	〈U〉『象牙』(ぞうげ) / 〈C〉《しばしば複数形で》象牙製の物 / 〈U〉象牙色 / 象牙の[ような];象牙色の
-Ivory Coast	(西部アフリカの)象牙海岸(旧フランス植民地;かつてここで象牙の取引きが行われた) / コートジボアール共和国(1960年,象牙海岸が独立)
 ivory tower	象牙の塔(実社会から離れた思索の場所)
 ivy	ツタ
-IWW	Industrial Workers of the World 世界産業労働者組合

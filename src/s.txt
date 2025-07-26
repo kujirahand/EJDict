@@ -1,35 +1,347 @@
 S	sulfurの化学記号 / 《略》South[ern]
-s.	second[s] / section[s] / shilling[s] / singular
+S&L	savings and loan[association]貯蓄貸付[組合]
+S&M	sadist and masochist
+S,s	英語アルファベットの第19字 / S字形[のもの]
 S.	Saturday / September / Sunday
 S.A.	Salvation Army 救世軍 / South America / South Africa
-s.a.e.	stamped addressed envelope
 S.Am.	South America; South American
 S.B.	Bachelor of Science理学士
 S.C.,SC	South Carolina
-s.d.	sine die 無期限に
 S.D.,SD,S.Dak.	South Dakota
 S.L.	salvage loss
-s.o.	seller's option / strikeout
 S.O.B., s.o.b.	son of a bitch
 S.P.C.A.	Society for the Prevention of Cruelty to Animals 動物虐待防止 / 協会
 S.P.C.C.	Society for the Prevention of Cruelty to Children 児童虐待防止協会
-S,s	英語アルファベットの第19字 / S字形[のもの]
-s.s.,S.S.	steamship / Secretary of State 国務長官 / Sunday School
 S.T.D.	Sacra Theologize Doctor(ラテン語)神学博士(=Doctor of Sacred Theology)
 S.T.P.	standard temperature and pressure
-s.v.	sub verbo; sub voce(ラテン語)《参照の指示として》…という見出し語の下に
-S&L	savings and loan[association]貯蓄貸付[組合]
-S&M	sadist and masochist
-sabbatarian	安息日厳守[主義]者 / 安息日厳守の
+SALT	Strategic Arms Limitation Talks戦略兵器制限交渉
+SAM	surface-to-air missile地対空ミサイル
+SAT	Scholastic Aptitude Test(大学の入学選考のための)学力適性検査
+SBA	Small Business Administration(米国)中小企業庁
+SE,S.E.,s.e.	southeast; southeastern
+SEC	Securities and Exchange Commission(米国)証券取引委員会
+SEN	State Enrolled Nurse
+SG.	senior grade / Secretary General / Solicitor General / Surgeon General
+SJ,S.J.	Society of Jesus / イエズス会
+SLR	single-lens reflex 一眼レフ
+SOP	standard(standing) operating procedure管理運用規定
+SOS	(船・飛行機などの)遭難無電信号 / 救助を求める声
+SP	Shore Patrol / Specialist
+SR.	Seaman Recruit / shipping receipt
+SSE	south-southeast
+SSR	Soviet Socialist Republicソビエト社会主義共和国
+SSS	Selective Service System 選抜徴兵制
+SST	supersonic transport 超音速輸送[機]
+SSW	south-southwest
+STD	Subscriber Trunk Dialing加入者長距離ダイヤル直通方式
+STOL	短距離離着陸[short take off and/landingの省略形]
+STP	LSDより強力な幻覚剤の一種
+SW,S.W.,s.w.	southwest
 Sabbath	安息日(ユダヤ教と一部のキリスト教では金曜日の日没時から土曜日の日没時まで,キリスト教では通例日曜日,イスラム教では金曜日)
 Sabbath school	日曜学校(Sunday school)
+Sabin vaccine	セービンワクチン(小児麻痺予防用)
+Sacramento	サクラメント(米国California州の州都)
+Sadducee	サドカイ派(僧侶と貴族から成る古代ユダヤ教の一派)
+Saghalien	=Sakhalin
+Sagittarius	(星座の)射手(いて)座
+Sahara	サハラ砂漠(アフリカ北部にあり世界最大)
+Sahib	閣下、紳士、～殿、～様、だんな(植民地時代のインド人のヨーロッパ人に対する敬称):Jones Sahib ジョーンズ様
+Saigon	サイゴン(元南ベトナム共和国の首都;現在のホーチミン(『Ho Chi Minh』)市の中心地区)
+Saint Bernard,St.Bernard	セントバーナード犬
+Saint Patrick's Day	聖パトリック祭(アイルランドの守護聖人を祭る日;3月17日)
+Saint Valentine's Day	= Valentine's Day
+Saipan	サイパン島(西太平洋のMariana諸島中の島) / サイパン(ミクロネシア連合州の首都)
+Sakhalin	サハリン,樺太(からふと)(北海道の北方のロシア領の島)
+Salisbury	ソールズベリー(アフリカ南部Zimbabweの首都)
+Salisbury steak	ソールズベリーステーキ(ハンバーグステーキの一種)
+Salk vaccine	(小児麻痺予防用)ソークワクチン[J.E.Salkの名にちなむ]
+Salome	サロメ(ヘデロ王に頼み,ヨハネの首を得たヘロデ王の後妻の娘)
+Salt Lake City	ソルトレークシティー(米国Utah州の州都)
+Salvation Army	救世軍(1865年英国のWilliam Boothが組織した社会事業を行う軍隊式キリスト教団体)
+Sam.	Samuelサムエル書
+Samaritan	サマリア人(サマリア(Samaria)は聖書に出てくる古代パレスチナの一地方;現在のヨルダン西方に当たる) / =Good Samaritan / サマリアの;サマリア人の
+Samoa	サモア諸島(南太平洋の小群島;西サモア共和国とアメリカ領サモアに分かれている)
+Samoan	サモア島の / サモア人;〈U〉サモア語
+Samson	サムソン(旧約聖書「士師記」中の大力無双の勇士) / 〈C〉大力の人
+Samuel	サムエル(ヘブライの預言者) / サムエル記(旧約聖書中の一書;《略》Sam.)
+San Diego	サンディエゴ(米国California州南部の港市)
+San Francisco	『サンフランシスコ』(米国California州西部にある港市)
+San Jose	サン・ホセ(中央アメリカ南部にあるコスタ・リカ(Costa Rica)共和国の首都)
+San Juan	サンファン(アメリカ領プエルトリコ島(Puerto Rico)北東部の港市で首都)
+San Marino	サンマリノ(東部イタリアにある世界最小の共和国)
+San Salvador	サルバドル / エルサルバドル共和国(El Salvador)の首都 / コロンブスが最初に発見した西インド諸島の一島
+Sanctus	三聖誦(Holy,holy,holyで始まる賛美歌)
+Sanforized,Sanforised	(布地が)防縮加工された
+Sanskrit	サンスクリット語,梵語(ぼんご)(古代のインド人の言語) / サンスクリット語の,梵語の
+Santa Claus	『サンタクロース』
+Santa Fe	サンタフェ(米国New Mexico州の州都：ニューメキシコ州内では最も物価の高い町です)
+Santiago	サンティアゴ(チリ共和国の首都)
+Santo Domingo	サントドミンゴ(ドミニカ共和国の首都)
+Sao Paulo	サンパウロ(ブラジル南部の州及びその州都でコーヒーの大産地)
+Saracen	(十字軍時代・中世の)イスラム教徒 / サラセン人(古代のアラビア人)
+Sarawak	サラワク(ボルネオ北西,マレーシア連邦の一州)
+Sat.	Saturday
+Satan	(キリスト教でいう)『サタン』,魔王,悪魔(the Devil)
+Satanism	悪魔崇拝;悪魔教
+Saturday	『土曜日』(Saturn's dayの意;《略》『Sat.』)
+Saturday-night Special	安くて入手しやすい小口径短銃 = Saturday night Special
+Saturn	サトゥルヌス(ローマ神話の農業の神;ギリシア神話のCronus(クロノス)にあたる) / 〈U〉土星
+Saudi Arabia	サウジアラビア(中央アラビアの王国;首都はRiyadh)
+Saul	サウル(旧約聖書でイスラエル初代の王;新約聖書で使従パウロのもとの名)
+Sauterne, Sauternes	ソーテルヌ
+Saxon	〈C〉サクソン人;《the Saxons》サクソン族(アングロ族(the Angles)などと共に5‐6世紀に英国を征服したゲルマン民族) / 〈C〉(現代ドイツの)ザクセン地方(Saxony)の住民 / 〈U〉サクソン語 / サクソン(アングロサクソン)人(語)の / ザクセン地方の
+Sb	stibium(=antimony)の化学記号
+Sc	scandiumの化学記号
+Sc.	Scotch / Scotland / Scots
+Scand.	Scandinavia; Scandinavian
+Scandinavia	(またNorthland)スカンジナビア半島(ノルウエー・スウェーデンがある半島) / スカンジナビア,北欧(ノルウェー・スウェーデン・デンマーク,時にアイスランド・フィンランドも含める)
+Scandinavian	スカンジナビア[人,語]の;北欧[人,語]の / スカンジナビア人;北欧人 / スカンジナビア語,北欧語(Danish,Swedish,Icelandic,Norwegianを含むゲルマン語の一群)
+Schick test	シック試験(ジフテリア免疫試験法;発明者Bella Schickにちなむ)
+Schiller	シラー(『Johann Christoph Friedrich von Schiller』1759‐1805;ドイツの詩人・劇作家)
+Schubert	シューベルト(『Franz Peter』~;1797‐1828;オーストリアの作曲家)
+Schumann	シューマン(『Robert』~;1810‐56;ドイツの作曲家)
+Schweitzer	シュバイツァー(『Albert』~;1875‐1965;アフリカで医療・伝道に従事した;Nobel平和賞州賞(1952))
+Scorpio	(星座の)サソリ座 / 天蝎(てんかつ)宮(黄道十二宮の8番目)
+Scot	スコットランド人
+Scotch	=Scottish / スコッチウイスキー / =Scottish
+Scotch broth	牛肉または羊肉と野菜や大麦で作る濃いスープ
+Scotch egg	ソーセージにかたゆで卵をはさんだ料理
+Scotch mist	霧雨,こぬか雨
+Scotch tape	スコッチテープ(米国3M社の各種粘着テープの商標名) (Sellotapeは英国セロテープ社の製品)
+Scotch terrier	スコッチテリア(スコットランド産の小型のテリア犬)
+Scotch whisky	スコッチウイスキー
+Scotch woodcock	ペーストを塗っていり卵を載せたトースト
+Scotchman	スコットランド人
+Scotchwoman	スコットランド婦人
+Scotland	『スコットランド』(Great Britain島の北部;首都Edinburgh)
+Scotland Yard	ロンドン警視庁;(特にその)犯罪捜査部
+Scots	=Scottish
+Scotsman	=Scotchman
+Scotswoman	=Scotchwoman
+Scott	スコット(Sir Walter Scott;1771‐1832;スコットランド出身の小説家・詩人)
+Scottie	=Scotch terrier
+Scottish	《the ~》《集合的に》スコットランド人 / スコットランド方言 / 『スコットランドの』;スコットランド人(方言)の
+Scottish terrier	=Scotch terrier
+Script.	Scriptural / Scripture
+Scrooge, scrooge	意地悪なけちん坊[DickensのA Christmas Carolの主人公Ebenezer Scroogeから]
+Scylla	スキュラ(ギリシア神話でMessina海峡の洞窟に住む6頭12足の怪物;海峡の反対側には大渦巻のCharybdis があり,Charybdisから溺死をまぬがれた水夫たちは,今度はScyllaの餌食になったという)
+Se	seleniumの化学記号
+Sea lab	シーラブ,海底実験室
+Sealyham	シーリハムテリア(ウェールズ原産のテリア犬)
+Seattle	シアトル(米国Washington州の港市)
+Second Advent	=Second Coming
+Second Coming	(最後の審判の日における)キリストの再来
+Security Council	(国際連合の)安全保障理事会
+Seder	(ユダヤ教の)過ぎ越しの祭りの儀式的正餐(せいさん)
+Seine	セータ川(フランス北部を流れパリを通ってイギリス海峡に注ぐ)
+Sellotape	セロテープ(透明接着テープの商標名)(《米》Scotch tape) / …'を'セロテープで接着する
+Seltzer	セルツァ炭酸水(西ドイツの天然鉱泉水) / 《しばしばs-》(人工の)炭酸水
+Semite	セム族[の人](主として中東地域に居住するセム語を話す種族の総称;ユダヤ人・アラビア人など)
+Semitic	セム族(語)の / セム語(ヘブライ語・アラビア語など)
+Sen.,sen.	Senate / Senator
+Seneca	(『Lucius Annaeus Seneca』;4B.C.‐A.D.65;ローマの哲学者・政治家)
+Senegal	セネガル(アフリカ西部の共和国;もとフランス領;首都 Dakar)
+Seoul	ソウル,京城(大韓民国の首都)
+Sep.	September
+Sept.	September
+September	『9月』(英米では学校の新学年の始まる月;Sept.,Sep.)
+Septuagesima	四旬節(Lent)前の第3日曜日
+Septuagint	セプチュアギンタ,70人訳ギリシア語聖書(旧約聖書の最古のギリシア語訳)
+Serb	= Serbian
+Serbia	セルビア(Yugoslaviaを構成する共和国の一つ)
+Serbian	セルビアの;セルビア人(語)の / セルビア人;〈U〉セルビア語
+Serg.,Sergt.	Sergeant
+Sermon on the Mount	山上の垂訓(キリストが山上で,弟子たちにした有名な説教;新約聖書「マタイによる福音書」)
+Sexagesima	四旬節(Lent)から2週前の日曜日;復活祭前60日目
+Sfc	Sergeant First Class(米陸軍の)一等軍曹
+Sgt.	Sergeant
+Shah	(もと)イラン国王の称号
+Shakespeare	シェークスピア(『William~』;1564‐1616;英国の大劇作家・詩人)
+Shakespearean,Shakespearian,Shakesperian	シェークスピアの(風の) / シェークスピア学者
+Shame on you!	恥を知れ・みっともない
+Shanghai	シャンハイ(上海)(中国第一の貿易港市)
+Shangrila,Shangri-La	地上の楽園[James Hilton 作の小説Lost Horizon(1933)の中の理想郷にちなむ] /ユートピア 桃源郷《米》秘密基地
+Shaw	ショー(George Bernard~;1856‐1950;アイルランドの劇作家・評論家)
+Shelley	シェリー(『Percy Bysshe』~;1792‐1822;英国の叙情詩人)
+Sheraton	(家具が)優美なシェラトン風の[18世紀の英国の家具製作者Thomas Sheratonの名より]
+Sherpa	シェルパ族[の人](Himalaya山地に住むチベット系ネパール人,登山隊の道案内・運搬人を勤める)
+Shetland	シェトランド諸島(スコットランド北部にある群島)
+Shetland pony	シェトランド馬(シェトランド原産の毛のあらいがんじょうな小馬)
+Shetland wool	シェトランド諸島産の柔らかい羊毛
+Shiva	シバ(ヒンズー教の神;Brhama,Vishnuに次ぐ第三番目の神)
+Shrove Tuesday	ざんげの火曜日(灰の水曜日(Ash Wednesday)の前日)
+Shylock	冷酷な高利貸し[Shakespeare作「ヴェニスの商人」の金貸しの名から]
+Si	siliconの化学記号
+Siam	シャム(Thailandの旧名)
+Siamese	〈C〉シャムネコ / 〈C〉シャム人(歴史的・差別的表現でタイ人)
+Siamese cat	シャムネコ
+Siamese twins	シャム双生児(身体の接合した双生児)
+Siberia	シベリア
+Siberian	シベリアの / シベリア人
+Sicilian	シチリア人 / シチリア方言 / シチリア島の;シチリア人の;シチリア方言の
+Sicily	(イタリア南端の)シチリア島,シシリー島
+Sierra Leone	シエラレオネ(大西洋に面したアフリカ西部の国)
+Sierra Nevada	《the~》シエラネバダ山脈(米国California州東部の山脈)
+Sikh	シク(シーク)教徒(一神教を奉ずるインドの一宗派)・シーク教徒の，シク教徒の
+Silurian	(地質時代の)シルル紀
+Simon Peter	ペテロ(キリストの十二使徒の一人)
+Sinai	《the~》(またSinai Peninsula)シナイ半島(地中海から紅海北部に伸びる半島で砂漠地帯) / シナイ山(アラビア北部にあって,神がモーセに十戒(the Ten Commandments)を与えたという山)
+Sindbad,Sinbad	シンドバッド(アラビアンナイトで七つの不思議な航海をした人)
+Singapore	シンガポール(マレー半島南端の島で英国の自治領であったが1965年に独立国となった) / シンガポール国の首都である港市
+Singhalese	=Sinhalese
+Sinhalese	シンハラ族(語)の / 〈C〉シンハリー人(セイロン島の主要民族) / 〈U〉シンハリー語(インド語派の一言語) / シンハリー人(語)の
+Sinology	中国学,中国研究(中国の言語・歴史・制度などを研究する学問)
+Siouan	〈U〉スー語族(北米インディアンの大語族) / 〈U〉〈C〉スーインディアン,スー族[の人] / スー語(族)の
+Sioux	〈U〉〈C〉スーインディアン,スー族[の人](スー語を話すアメリカインディアン,特にDakota族) / 〈U〉スー語 / スー語[族]の
+Sirius	シリウス,天狼(てんろう)星(大犬座の中の星;最も明るい星)
+Sisyphus	シシュフォス(ギリシア神話で悪事の報いとして死後,地獄で大きな石を山頂に押し上げることを永遠に繰り返さねばならなかったというコリント王)
+Siva	=Shiva
+Skt.	Sanskrit
+Skylab	スカイラブ(米国の地球を周回する実験用宇宙ステーション)
+Slav	スラブ人;《the Slavs》スラブ民族(ロシア人・ポーランド人・チェコ人・ブルガリア人・スロバキア人など) / スラブ人の,スラブ民族の;スラブ語の
+Slavic	スラブ民族の,スラブ語族の / スラブ語族
+Slavonic	=Slavic
+Slovak	〈C〉スロバキア人 / 〈U〉スロバキア語 / スロバキア人の / スロバキア語の
+Sm	samariumの化学記号
+Smokey	森林火災防止マーク 《森林消防団員の服を着た熊の漫画》[しばしば s-] / 《俗》 ハイウェーパトロール警官 《その制帽が森林消防団マスコットの熊のかぶる帽子に似ているところから》
+Sn	tin の化学記号
+Snow Belt	降雪地帯(米国の北東地方をいう) 大西洋からロッキー山脈北部に至る北部地帯
+Snr.	Senior
+So.	south
+SoHo	ソーホー(ニューヨークのマンハッタンの一地域;美術館やスタジオ街で有名) South of Houston Streetの略
+Socialist Party	社会党
+Society of Friends	キリスト友会(ゆうかい)(この会員が通例Quakersと呼ばれるキリスト教の一派)
+Socrates	ソクラテス(ギリシアの哲学者;469?‐399B.C.)
+Socratic method	ソクラテス式問答法
+Sodom	ソドム(旧約聖書で死海南岸にあったとされる古代都市;罪悪のため神に滅ぼされた)
+Sofia	ソフィア(ブルガリアの首都)
+Soho	ソーホー(ロンドン市内の歓楽街で外国人経営のレストランが多い)
+Sol	(ローマ神話の)太陽の神 / 《文》太陽
+Sol.	Solicitor / Solomon
+Solomon	ソロモン大王(紀元前10世紀ごろの賢明なイスラエルの大王) / 〈C〉(ソロモンのような)賢い人
+Solon	ソロン(638?‐559?B.C.;古代アテネの立法家) / 〈C〉《米》立法府の議員
+Somalia	ソマリア(アフリカ東岸の共和国)
+Sophocles	ソフォクレス(古代ギリシアの悲劇詩人;紀元前496?‐406?)
+South Africa	南アフリカ(アフリカ南部の共和国で,公式名は the Republic of South Africa;首都は,行政府 Pretoria,立法府 Cape Town,司法府 Bloemfontein)
+South African	南アフリカの / 南アフリカ共和国の / 南アフリカ人
+South America	南アメリカ,南米(西半球の南部では第4の広さの大陸)
+South American	南米の,南米人の / 南米人
+South Carolina	サウスカロライナ州(大西洋に面する米国南東部の州;州都はColumbia;《略》『S.C.,SC』)
+South China Sea	南シナ海(中国の南東に広がる海域)
+South Dakota	サウスダコタ州(米国中北部の州;州都はPierre;《略》『S.Dak.,S.D.,SD』)
+South Island	南島(ニュージーランド最大の島)
+South Korea	韓国(朝鮮半島の北緯38゜以南の共和国;公式名はthe Republic of Korea(大韓民国);首都Seoul)
+South Pole	南極
+South Sea Islands	南太平洋諸島
+South Seas	赤道以南の海;南太平洋
+South-West Africa	南西アフリカ(南アフリカ共和国の委任統治領だった) 現在は Namibia
+Southeast Asia	東南アジア
+Southern Hemisphere	南半球
+Southern Yemen	南イエメン(アジア南西部の共和国;公式名People's Democratic Republic of Yemen(イエメン民主人民共和国);首都Aden)
+Soviet Russia	旧ソ連(the Soviet Union)の通称
+Soviet Union	《the~》『ソビエト連邦』(15の共和国より成る世界最大の国で公式名はthe Union of Soviet Socialist Republics(ソビエト社会主義共和国連邦);首都はMoscow) 1991年に崩壊 略は USSR
+Sp.	Spain / Spaniard / Spanish
+Spain	『スペイン』(ヨーロッパ南西部の王国;首都はMadrid)
+Spaniard	スペイン人
+Spanish	《the ~》《集合的に》『スペイン人』 / 『スペイン語』 / 『スペイン』[人]『の』;スペイン語の
+Spanish America	スペイン語圏中南米諸国
+Spanish American	スペイン語圏中南米人 / スペイン系アメリカ人 / スペインのアメリカの,スペインとアメリカ合衆国の / スペイン語圏中南米の
+Spanish American War	米西戦争(1898年)
+Spanish Armada	スペインの無敵艦隊(1588年英国を攻撃したが敗北し,その後暴風雨のために全滅した)
+Spanish Main	南米北部カリブ海沿岸 / カリブ海(Caribbean Sea)(植民地時代のスペイン商船の航路で海賊が出没した)
+Spanish fly	(またcantharis)〈C〉ハンミョウ[類のこん虫] / (またcantharides)〈U〉カンタリデス(ハンミョウを粉末にした薬)
+Spanish moss	サルオガセモドキ(米国南部の樹木に寄生する灰色がかった緑のこけ)
+Sparta	スパルタ(古代ギリシアの都市国家;兵士の厳格な訓練で有名)
+Spartan	スパルタ[人,文化]の / スパルタ式の,質実剛健な,鍛練の厳しい / スパルタ人 / 質実剛健な人
+Springer spaniel	スパニエル犬([狩]猟用の犬)
+Springfield	スプリングフィールド(米国Illinois州の州都)
+Sq.	square{名}2
+Sr	strontiumの化学記号
+Sr.	Senior / Sir / Sister
+Sri	…様,…先生(英語の『Mr.』に相当する)
+Sri Lanka	スリランカ(インド洋にある島国の共和国;Ceylonの正式国名;首都Colombo)
+Ssh	=sh
+St.	Street / Strait / Saint(複SS.,Sts.)聖…,セント…
+St. Bernard	=Saint Bernard,St.Bernard
+St. Louis	セントルイス(米国Missouri州東部ミシシッピー河畔の港市)
+St. Paul	セントポール(ミシシッピー河畔にあるMinnesota州の首都)
+St. Paul's	セントポール大聖堂(ロンドンにある大教会堂)
+St. Peter's	サンピエトロ大聖堂(イタリアのバチカンにある)
+St. Petersburg	ペテルスブルグ(レニングラードの旧称;1703‐1914) / セントピーターズバーグ(米国Florida州の避寒地・引退した人達が温暖な気候を求めて移り住むので年寄りの多い町です)
+St. Valentine's Day	=Valentine's Day
+St. Vitus's dance	=St. Vitus' dance =Sydenham's disease シデナム病
+Stalin	スターリン(『Joseph~』;1879‐1953;ソ連の政治家;首相1941‐53)
+Stamp Act	印紙条例(1765年英国が米植民地に課す)
+Star Chamber	《the 『S-』『C-』》星法院(陪審を用いず専断と不公平、厳罰で知られた英国の高等法院(1487‐1641)) / 〈C〉(一般に)専断不公正な裁判所(委員会)
+Star-Spangled Banner	星条旗(正式の名称;the Stars and Stripesは俗称) / 米国国歌
+Stars and Stripes	星条旗
+State Enrolled Nurse	准看護婦(《略》『SEN』)
+State Registered Nurse	正看護婦(《略》『SRN』)
+Staten Island	ステタン島(米国New York湾内の島)
+Statue of Liberty	自由の女神(ニューヨーク湾のLiberty Islandにある像)
+Ste.	Sainte《女性に用いて》聖…
+Sten gun	ステン銃(英国の軽機関銃)
+Stetson	ステットソン帽(つば広で山高のフェルト製の帽子,特にカウボーイがかぶる;もと商標名)
+Stevenson	スティーブンスン(『Robert Louis』 ~;1850‐94;スコットランド生れの小説家・詩人)
+Stewart	=Stuart
+Stilton	スチルトンチーズ(英国産の濃厚な白色チーズ)
+Stockholm	ストックホルム(スウェーデンの首都)
+Stone Age	石器時代(道具や武器に石を使った時代;鉄器時代(Iron Age),青銅器時代(Bronze Age)に先行する)
+Stradivarius	ストラディバリウス(イタリアのStradivari(1644‐1737)およびその一族の製作したバイオリンその他の弦楽器;名器として有名)
+Stratford on Avon	ストラトフォードオンエイボン(英国中部の都市で,Shakespeareの出生地及び埋葬地)
+Strauss	シュトラウス / 『Johann Strauss』(1804-1849;オーストリアの作曲家;「ワルツの父」と呼ばれる) / 『Johann Strauss Jr.』(1825-1899;1の息子で作曲家;「ワルツの王」と呼ばれる) / 『Richard Strauss』(1864-1949;ドイツの作曲家)
+Stuart	(また Stewart)英国の王室の名
+Stygian	(ギリシア神話で)三途(さんず)の川(Styx)の,地獄の;地獄のような / 《文》暗い,陰うつな
+Styrofoam	発泡スチロール(合成樹脂の一種;商標名)
+Styx	(ギリシア神話で)三途(さんず)の川
+Succoth, Sukkoth	仮庵の祭(秋に収穫を祝うユダヤ教の祭)
+Sudan	アフリカ北東部の共和国;首都Khartoum / アフリカのサハラ砂ばくの南部地方名
+Suez Canal	スエズ運河(エジプト北東部にあって地中海と紅海とを結ぶ運河)
+Sukkoth	=Succoth, Sukkoth
+Sumatra	スマトラ(マレー群島第2の大島)
+Sumerian	〈C〉シュメール人 / 〈U〉シュメール語 / シュメール(語)の
+Sun.	Sunday
+Sunbelt	米国南部地域(VirginiaからSouth Californiaまでの温暖地帯のこと)
+Sunday	『日曜日』(キリスト教の安息日で週の第1日;《略》Sun.)
+Sunday best	晴れ着
+Sunday school	日曜学校(宗教教育のため日曜日に教会などで開かれる);《集合的に》その生徒と先生
+Superior	スペリオル湖(lake~;北米五大湖中で最北最大のもの)
+Supreme Being	神(God)
+Supreme Court	(米国連邦の,また米国各州の)最高裁判所
+Supreme Soviet	最高ソビエト(旧ソ連の最高議会)
+Surgeon General	軍医総監 / (公衆衛生局の)衛生局長
+Surinam	スリナム共和国(南米北東沿岸の国;かつて Dutch(Netherlands) Guiana と呼ばれた;首都はParamaribo)
+Surrey	サリー州(英国南部の州)
+Sussex	サセックス(England 南東部の州;行政上 East Sussex と West Sussex の2州に分かれている)
+Swahili	スワヒリ語(アフリカ東部・中部の共通語);〈C〉スワヒリ人
+Swaziland	スワジランド(アフリカ南東の王国)
+Swed.	Sweden / Swedish
+Swede	スウェーデン人
+Sweden	スウェーデン(北欧の王国;首都は Stockholm)
+Swedish	スウェーデンの;スウェーデン人(語)の / 《the ~》《集合的に;複数扱い》スウェーデン人 / 〈U〉スウェーデン語
+Swift	スウィフト(Jonathan Swift;1667‐1745;英国の作家)
+Swiss	『スイス人』;《the ~》《集合的に》スイス人,スイス国民 / 『スイスの』;スイス人の
+Swiss chard	=chard 不断草 スイスチャード
+Swiss cheese	スイスチーズ(薄黄色の穴の多い固いチーズ)
+Swiss roll	ジャム(クリーム)入りロールパン,ゼリーロール
+Switz.	Switzerland
+Switzerland	『スイス』(ヨーロッパ中部の共和国;首都はBern)
+Sydney	シドニー(オーストラリア最大の都市;東海岸にある海港)
+Syria	シリア(地中海東沿岸の共和国;首都は Damascus)
+Syrian	シリアの,シリア人の,シリア語の / シリア人
+s.	second[s] / section[s] / shilling[s] / singular
+s.a.e.	stamped addressed envelope
+s.d.	sine die 無期限に
+s.o.	seller's option / strikeout
+s.s.,S.S.	steamship / Secretary of State 国務長官 / Sunday School
+s.v.	sub verbo; sub voce(ラテン語)《参照の指示として》…という見出し語の下に
+sabbatarian	安息日厳守[主義]者 / 安息日厳守の
 sabbatical	〈C〉サバティカル休暇(長期有給休暇) / {形}長期休暇の
 sabbatical year	安息年(7年目ごとにイスラエル人が耕作を休んだ年)・研究休暇，サバティカル 《研究や旅行のため本来 7 年ごとに大学教授などに与えられる 1 年または半年の有給休暇》
-saber,sabre	〈U〉(騎兵の)軍刀,サーベル(通例片刃で,湾曲している) / 〈C〉フェンシング用剣(両刃である) / 〈U〉サーベル術 / …'を'サーベルで切る
 saber saw	携帯用電気のこぎり(刃が往復運動をする)
+saber,sabre	〈U〉(騎兵の)軍刀,サーベル(通例片刃で,湾曲している) / 〈C〉フェンシング用剣(両刃である) / 〈U〉サーベル術 / …'を'サーベルで切る
 saber-toothed tiger	剣歯トラ(ネコ科の哺乳動物。8000年くらい前に絶滅。今のライオンと同じくらいの大きさで、上顎の犬歯が牙のように長く発達していた) サーベルタイガー スミロドン
 saberrattling,sabrerattling	サーベルをガチャつかせること,武力の誇示 =saber-rattling sabre-rattling
-Sabin vaccine	セービンワクチン(小児麻痺予防用)
 sable	〈C〉クロテン(北ヨーロッパ・アジア産);〈U〉その毛皮 / 〈U〉黒 / 《しばしば複数形で》喪服 / (紋章で)黒色の / 《詩》黒い,暗黒の
 sabot	サボ(フランス・オランダなどで農夫などがはいた木靴,または木底靴)
 sabotage	(反乱分子や敵側による)破壊(妨害)行為;(争議中の労働者による)生産妨害 / 〈反乱分子・敵側が〉…'を'破壊する,妨害する;〈労働者が〉…'の'生産を妨害する
@@ -52,7 +364,6 @@ sacral	聖礼の
 sacral vertebrae	仙椎
 sacrament	(キリスト教) サクラメント 《神の恩寵(おんちょう)の印として神聖と考えられる宗教的儀式; カトリックでは「秘跡」といい，洗礼 (baptism)・堅信 (confirmation)・聖体 (the Eucharist)・告解 (penance)・終油 (extreme unction)・叙階 (holy orders)・婚姻 (matrimony)の七つをさす; プロテスタントでは「聖礼典」, 聖公会では「聖奠(せいてん)」といい，洗礼と聖餐だけをさす》・[通例 the ～，the S]聖餐(式), 聖晩餐(式)、聖体; (特に)聖餐用パン 《カトリックでは the Blessed [Holy] Sacrament という》
 sacramental	秘蹟の;聖礼典の;聖餐の・準秘跡(聖水を用いたり十字を切ったりすること)
-Sacramento	サクラメント(米国California州の州都)
 sacred	『神聖な』,神の / 『宗教の』,宗教に関する / 厳粛な;神聖にして侵すことができない / 《補語にのみ用いて》(神に)ささげられた,(…を)祭った,記念する《+『to』+『名』》
 sacred cow	(ヒンズー教の)聖牛 / 《おもに皮肉に》神聖視されていて批判や攻撃してはいけない人(集団,組織)
 sacrifice	〈U〉〈C〉(神に…の)『いけにえをささげること』;〈C〉(神への…の)『いけにえ』《+『of』+『名』+『to』+『名』》 / 〈C〉〈U〉(人・国家・目的などのために…を)『犠牲にすること』《+『of』+『名』+『for』(『to』)+『名』》,(…のための)犠牲的行為;〈C〉(…のために)犠牲にされるもの《+『for』(『to』)+『名』》 / 〈C〉〈U〉投げ売り[値段];見切品 / 〈C〉(野球の)犠牲バント,犠打 / (神に)〈人・動物など〉'を'『いけにえにする』《+『名』+『to』+『名』》 / (…のために)…'を'『犠牲にする』《+『名』+『for』(『to』)+『名』》 / 《話》'を'投げ売りする / (野球で)〈走者〉'を'犠打で進める / (神に)いけにえをささげる《+『to』+『名』》 / (野球で)犠打を打つ
@@ -74,7 +385,6 @@ saddlebag	くら袋(くらの後ろの左右にぶら下げる) / (自転車の)
 saddlebow	くら頭(がしら)(弓形に湾曲したくらの前部)
 saddler	馬具屋
 saddlery	〈U〉馬具製造業 / 〈C〉馬具類[一式] / 〈C〉馬具店
-Sadducee	サドカイ派(僧侶と貴族から成る古代ユダヤ教の一派)
 sadhu	(ヒンズー教の)聖者
 sadiron	火のし,こて
 sadism	サディズム,加虐(かぎゃく)症(異性を虐待して喜ぶ変態性欲)
@@ -114,15 +424,10 @@ sagacity	賢明
 sage	(通例経験に富んだ年輩の)賢人 / 思慮深い,賢明な / セージ(薬用・調味料のシソ科の草);その葉 / =sagebrush
 sagebrush	ヤマヨモギ(米西部の乾燥地に生える雑草)
 saggy	たるんだ,垂れ下がった
-Saghalien	=Sakhalin
-Sagittarius	(星座の)射手(いて)座
 sago	サゴ(サゴヤシの幹から製するでんぷん) / =sago palm
 sago palm	サゴヤシ(サゴの原料となるヤシの木)
 saguaro	サグワロサボテン(非常に大きなサボテンで,アメリカ合衆国西南部・メキシコに産する;白色の花をつけ,実は食用となる)
-Sahara	サハラ砂漠(アフリカ北部にあり世界最大)
-Sahib	閣下、紳士、～殿、～様、だんな(植民地時代のインド人のヨーロッパ人に対する敬称):Jones Sahib ジョーンズ様
 said	sayの過去・過去分詞 / 前記の前述の
-Saigon	サイゴン(元南ベトナム共和国の首都;現在のホーチミン(『Ho Chi Minh』)市の中心地区)
 sail	〈C〉〈U〉『帆』;《集合的に》一隻の帆全部 / 〈C〉帆のような物;風車の羽根,カエデの種子の羽根など / 〈C〉《単複同形で》帆船;船 / 〈C〉《単数形で》(短い)船旅,船遊び;〈U〉《時にa sail》航程 / 《副詞[句]を伴って》〈船が〉『航海する』 / (…から…へ)『出航する』《+『from』+『名』+『for』(『to』)+『名』》 / 《副詞[句]を伴って》〈人が〉『船で旅をする』,航海する / ヨットを操る,帆走する / 《副詞[句]を伴って》すべるように進む(飛ぶ);〈人が〉さっそうと歩く / 〈人・船などが〉〈海・川など〉'を'渡る / 〈船〉'を'操る,走らせる
 sailboat	(小型の)帆船,ヨット(《英》sailing boat)
 sailcloth	帆布,ズック,帆木綿
@@ -134,18 +439,13 @@ sailor	『水夫』,船員,海員 / (海軍士官に対して)水兵 / 《形容
 sailor suit	(子供用の)セーラー服
 sailplane	セイルプレーン(上昇気流で飛ぶ軽いグライダー)
 saint	《しばしばs-》『聖人』,聖者(死後カトリック教会や他の教会また特定の宗教によって聖徒に列せられ,尊敬される人);《聖者の名の前に置いて》聖…(《略》St.) / (無私,無欲,有徳の)聖人のような人
-Saint Bernard,St.Bernard	セントバーナード犬
-Saint Patrick's Day	聖パトリック祭(アイルランドの守護聖人を祭る日;3月17日)
-Saint Valentine's Day	= Valentine's Day
 saint's day	聖徒祭(キリスト教の祭の日) 聖人の祝日
 sainted	聖人に加えられた / 聖人のような,高徳の / 《名詞の前にのみ用いて》天国の,死んだ,故…
 sainthood	聖人であること;聖徒の地位 / 《集合的に》聖人
 saintliness	(聖人のような)気高さ,こうごうしさ
 saintly	聖人らしい / 気高い,崇高な
-Saipan	サイパン島(西太平洋のMariana諸島中の島) / サイパン(ミクロネシア連合州の首都)
 saith	sayの三人称単数現在形
 sake	『ため』;利益;理由,目的
-Sakhalin	サハリン,樺太(からふと)(北海道の北方のロシア領の島)
 sal soda	炭酸ソーダ;洗たくソーダ (結晶)ソーダ
 sal volatile	炭酸アンモニウム;アンモニア水(昔の気付け薬)
 salaam	〈U〉サラーム(「平和」を意味するイスラム教徒のあいさつ) / 〈C〉額手(ぬかで)礼(イスラム教徒の体をかがめ右手を額に当てる敬礼) / 額手礼をする
@@ -181,27 +481,21 @@ salify	…'を'塩化する,塩と化合させる
 saline	塩の,塩分のある / (薬用の)塩類,含塩物;〈C〉含塩下剤
 salinity	塩分,塩度
 salinometer	塩分計,検塩器
-Salisbury	ソールズベリー(アフリカ南部Zimbabweの首都)
-Salisbury steak	ソールズベリーステーキ(ハンバーグステーキの一種)
 saliva	だ液,つば
 salivary	だ液の;だ液を分泌する
 salivate	だ液を分泌する
 salivation	つばを出すこと;だ液分泌過多,流涎(りゅうぜん)
-Salk vaccine	(小児麻痺予防用)ソークワクチン[J.E.Salkの名にちなむ]
 sallow	(顔色などが)土色の,血色の悪い / 〈顔色など〉'を'土色にする,黄ばんだ色にする / ヤナギ属の植物;(特に)サルヤナギ
 sally	(城兵などの)出撃,突撃 / (感情・言動などの)爆発,突発,ほとばしり《+『of』+『名』》 / 《話》ちょっと旅に出ること / (悪意のない)軽い冗談(皮肉) / 出撃する;出かける《+『forth』(『out』)》
 salmon	〈C〉(魚の)『サケ』;〈U〉サケの肉 / 〈U〉サケの肉の色,サーモンピンク(黄色がかったピンク色)
 salmon trout	(大型の)鱒(マス)
 salmonella	サルモネラ菌(食中毒の原因になる)
-Salome	サロメ(ヘデロ王に頼み,ヨハネの首を得たヘロデ王の後妻の娘)
 salon	(上流家庭の)客間,大広間 / (昔のフランスで,上流貴婦人の開いた)招待会;社交界 / 美術品展示場(室),画廊 / 《米》(美容・服飾などの)店
 saloon	(客船やホテルなどで)『大広間』 / (特殊な目的で人が出入りする)…場,…所 / 《米》酒場,バー / 《英》=saloon car
 saloon bar	(居酒屋の)特別室;高級酒場
 saloon car	(またsaloon carriage)(列車の)特別車 / =sedan
 salsify	バラモンジン(紫色の花をつける;根は食用)
 salt	〈U〉『塩』,食塩 / 〈U〉(化学で)塩(えん) / 《複数形で》薬用塩類(Epsom salt[s],smelling salts) / 〈U〉生気(刺激,興趣)を与えるもの / 〈C〉《話》(特に老練な)水夫 / 塩の,塩を含んでいる;塩気のある,塩辛い / 塩漬けにした / (土地が)塩につかった / 塩水でできた,塩水の中で育つ / 〈食べ物〉'を'塩で味をつける;〈肉・魚など〉'を'塩漬けにして保存する《+『名』+『down』,+『down』+『名』》 / 《受動態で》(…で)〈言葉・話など〉'を'ぴりっとさせる,'に'味をつける《+『名』+『with』+『名』》
-SALT	Strategic Arms Limitation Talks戦略兵器制限交渉
-Salt Lake City	ソルトレークシティー(米国Utah州の州都)
 salt of the earth	地の塩(社会で最も善良で高潔な人[々];新約聖書「マタイによる福音書」の中の文句)
 saltbox	木造建築の一様式;正面が2階で裏面は屋根が傾斜して1階になっている
 saltcellar	(食卓用)塩入れ
@@ -222,34 +516,20 @@ salutatory	(特に卒業式の)開会のあいさつ / 開会のあいさつの
 salute	(挙手・礼砲などで)…'に'敬礼する / 《文》(身振り・言葉で)…'に'あいさつをする;…'を'歓迎する / 敬礼する / あいさつする / 挙手の礼;礼砲 / あいさつ,敬礼
 salvage	(主として船・乗組員・貨物の)海難救助;(一般に)救助 / 救助された貨物 / 救助作業,沈没船引き上げ作業 / (難船・火災などから)〈船・貨物など〉'を'救出する《+『名』+『from』+『名』》 / 〈負傷者〉'を'救う,〈けが〉'を'治療する
 salvation	〈U〉(キリストによる)魂の救済,救い《+『of』+『名』》 / 〈C〉《単数形》救うもの,救済手段 / 〈U〉(海難・火災などからの)(…の)救助,救済《+『of』+『名』》
-Salvation Army	救世軍(1865年英国のWilliam Boothが組織した社会事業を行う軍隊式キリスト教団体)
 salvationist	救世軍軍人;伝道者
 salve	軟こう / 《文》慰め / …'に'軟こうをはる / 《文》〈悔恨・苦しみなど〉'を'静める,和らげる
 salver	食物・飲料・名刺などを載せて出す昔の金属製の盆
 salvia	サルビア(シソ科サルビア属の各種の植物)
 salvo	(攻撃,時に礼砲の)一斉(いっせい)射撃;一斉爆撃 / 一斉に起こる拍手かっさい
-Sam.	Samuelサムエル書
-SAM	surface-to-air missile地対空ミサイル
-Samaritan	サマリア人(サマリア(Samaria)は聖書に出てくる古代パレスチナの一地方;現在のヨルダン西方に当たる) / =Good Samaritan / サマリアの;サマリア人の
 samarium	サマリウム(銀色の希土類元素;化学記号は『Sm』)
 samba	サンバ(ブラジルのダンスの一種;その音楽)
 same	《the same》(いつもと)『同じ』,(以前と)変わらない / 《the same》(…と)『同一の』,同じ;同種の《+『as節』(『that節』,『wh-節』)》 / 《this,these,that,thoseと共に》《強調的,時に軽べつして》この,その,例の,前に述べた / 同じ物,同じ事 / 同様に
 sameness	同一[性];酷似していること;単調さ
 samizdat	(特に旧ソ連における発禁書などの)地下出版[物]
-Samoa	サモア諸島(南太平洋の小群島;西サモア共和国とアメリカ領サモアに分かれている)
-Samoan	サモア島の / サモア人;〈U〉サモア語
 samovar	サモワール(おもにロシアで用いられているお茶用の湯沸かし器)
 sampan	サンバン(中国の平底の小舟;通例1枚の帆を持ち,船尾で一人の船頭が櫓(ろ)をこぐ)
 sample	(…の)『見本』,標本《+『of』+『名』》 / (…の)『実例』(example)《+『of』+『名』》 / (無料で進呈する)試供品,サンプル / 見本の,標本の / …'の'見本をとる;(見本をとって)…'を'試す(調べる,判断する) / …'を'実際に試す
 sampler	(初心者の腕前を見せるための)刺しゅう試作品
-Samson	サムソン(旧約聖書「士師記」中の大力無双の勇士) / 〈C〉大力の人
-Samuel	サムエル(ヘブライの預言者) / サムエル記(旧約聖書中の一書;《略》Sam.)
-San Diego	サンディエゴ(米国California州南部の港市)
-San Francisco	『サンフランシスコ』(米国California州西部にある港市)
-San Jose	サン・ホセ(中央アメリカ南部にあるコスタ・リカ(Costa Rica)共和国の首都)
-San Juan	サンファン(アメリカ領プエルトリコ島(Puerto Rico)北東部の港市で首都)
-San Marino	サンマリノ(東部イタリアにある世界最小の共和国)
-San Salvador	サルバドル / エルサルバドル共和国(El Salvador)の首都 / コロンブスが最初に発見した西インド諸島の一島
 sanatorium	サナトリウム,療養所(結核など長期治療患者を収容する病院)
 sancta	sanctumの複数形
 sanctification	神聖化,奉納 / 罪を清める(清められる)こと
@@ -260,7 +540,6 @@ sanction	〈U〉(支配者・当局の)『認可』,許可,裁可《+『of』+�
 sanctity	〈U〉(生活態度・性格の)清らかさ,気高さ / 〈U〉(場所などの持つ)神聖さ,神々しさ / 《複数形で》神聖な義務(おきて)
 sanctuary	〈C〉(教会・寺院など)神聖な場所,聖所 / 〈C〉(教会・寺院などで)最も神聖な場所,聖域(教会堂の内陣,ユダヤ教会の至聖所など) / 〈C〉(犯罪者の)隠れ場,(一般に)安らかな場所 / 〈U〉保護,避難 / 〈C〉(鳥・獣の)保護区,禁猟地
 sanctum	神聖な場所 / 《話》(だれにもじゃまされない)私室,個室,自分だけの場所
-Sanctus	三聖誦(Holy,holy,holyで始まる賛美歌)
 sand	〈U〉『砂』 / 《複数形で》砂地,砂浜,砂漠 / 《複数形で》時刻,時間 / …'を'砂(紙やすり)で磨く《+『down』+『名,』+『名』+『down』》 / 〈道路など〉'に'砂をまく
 sand dollar	カシパンウニ(米国の海浜にいる平たいウニの一種)
 sand dune	=dune
@@ -292,7 +571,6 @@ sandwich man	サンドイッチマン;ちんどん屋
 sandy	『砂の』;砂だらけの / 砂色の,薄茶色の(yellowish brown)
 sane	(人が)『正気の』,気の確かな / (考え方・判断などが)『思慮(分別)のある』
 sanely	正気で,分別をもって
-Sanforized,Sanforised	(布地が)防縮加工された
 sang	singの過去
 sangfroid	冷静,沈着
 sangria	サングリア(赤ぶどう酒を薄めて甘味・香料を加えた清涼飲料)
@@ -309,12 +587,6 @@ sanitorium	=sanatorium
 sanity	正気,気の確かさ; / (考え方・判断などの)健全さ,穏健さ《+『of』+『名』》
 sank	sinkの過去
 sans	なしに(で)
-Sanskrit	サンスクリット語,梵語(ぼんご)(古代のインド人の言語) / サンスクリット語の,梵語の
-Santa Claus	『サンタクロース』
-Santa Fe	サンタフェ(米国New Mexico州の州都：ニューメキシコ州内では最も物価の高い町です)
-Santiago	サンティアゴ(チリ共和国の首都)
-Santo Domingo	サントドミンゴ(ドミニカ共和国の首都)
-Sao Paulo	サンパウロ(ブラジル南部の州及びその州都でコーヒーの大産地)
 sap	〈U〉樹液 / 〈U〉活力,生気,元気 / 〈C〉《話》ばか,まぬけ / 〈体力など〉'を'除々に弱らせる;…'を'しだいに壊す
 sapience	知恵,博識
 sapiens	(古代化石人類と対照して)現生人類の,現人に関する
@@ -329,10 +601,8 @@ saprophyte	寄屍(きし)植物(腐敗物に寄生するかび・バクテリア
 sapsucker	シルスイキツツキ(くちばしで穴をあけ樹液を吸うキツツキ)
 sapwood	(木材の)辺材，白太(しらた) 《心材を囲む，樹液に富む白色の材部》・白木質
 saraband,sarabande	サラバンド(優美なスペインのダンス);サラバンド舞曲
-Saracen	(十字軍時代・中世の)イスラム教徒 / サラセン人(古代のアラビア人)
 saran	サラン(ビニル化合物から得られる各種プラスチック性樹脂;耐酸性管,透明の包装材料,繊維を作る)
 sarape	=serape
-Sarawak	サラワク(ボルネオ北西,マレーシア連邦の一州)
 sarcasm	〈U〉皮肉,風刺,当てこすり / 〈C〉皮肉な言葉
 sarcastic	(言葉などが)皮肉な,当てこすりの,いやみの / (人が)皮肉をよくいう
 sarcastically	皮肉たっぷりに
@@ -354,11 +624,7 @@ sass	生意気な口のきき方,口答え / 〈親など〉'に'生意気な口
 sassafras	サッサフラス(北米のクスノキ科の高木);〈U〉その樹皮,根皮(薬用・香料用)
 sassy	=saucy
 sat	sitの過去・過去分詞
-SAT	Scholastic Aptitude Test(大学の入学選考のための)学力適性検査
-Sat.	Saturday
-Satan	(キリスト教でいう)『サタン』,魔王,悪魔(the Devil)
 satanic	サタンの,悪魔の / 極悪非道の
-Satanism	悪魔崇拝;悪魔教
 satchel	肩掛けカバン(教科書などを入れる通学用)
 sate	〈欲望・食欲など〉'を'満足させる / 《受動態で》(…で)〈人〉'を'飽き飽きさせる《+『名』+『with』+『名』》
 sateen	(サテン(satin)に似せた)綿じゅす
@@ -385,9 +651,6 @@ saturate	《しばしば受動態で》〈水などが〉…'に'しみ込む,�
 saturated	十分にしみ込んだ / 飽和した
 saturation	十分にしみ込むこと,飽和させること / しみ込んだ状態,飽和状態 / (色の)飽和度,彩度
 saturation point	飽和点
-Saturday	『土曜日』(Saturn's dayの意;《略》『Sat.』)
-Saturday-night Special	安くて入手しやすい小口径短銃 = Saturday night Special
-Saturn	サトゥルヌス(ローマ神話の農業の神;ギリシア神話のCronus(クロノス)にあたる) / 〈U〉土星
 saturnalia	〈C〉《文》お祭り騒ぎ,どんちゃん騒ぎ / 《the S-》《単数・複数扱い》(古代ローマの)農神祭
 saturnine	陰気な
 satyr	サチュロス(ギリシア神話で半人半獣の酒色を好んだ森の神;ローマ神話のfaunにあたる)
@@ -396,9 +659,7 @@ sauceboat	=gravy boat
 saucepan	(長い柄のついた)シチューなべ
 saucer	(紅茶・コーヒー用の茶わんの)『受け皿』,台皿
 saucy	生意気な,ずうずうしい / 《話》気のきいた,いきな
-Saudi Arabia	サウジアラビア(中央アラビアの王国;首都はRiyadh)
 sauerkraut	サワークラウト(千切りにして酸味が出るまで塩漬けにしたキャベツの漬け物)
-Saul	サウル(旧約聖書でイスラエル初代の王;新約聖書で使従パウロのもとの名)
 sauna	(フィンランドの)蒸しぶろ / サウナぶろ(浴場)
 saunter	ぶらつく / ぶらぶら歩き,散歩(stroll)
 saunterer	ぶらぶら歩く人,散歩する人
@@ -406,7 +667,6 @@ saurian	トカゲ類の動物 / トカゲ類の,トカゲ類動物特有の
 sausage	『ソーセージ』,腸詰め
 sausage roll	ソーセージ入りロールパン
 saute,sauté	(強火で)…'を'さっと揚げる / 軽く揚げた / (軽く揚げた)ソテー料理
-Sauterne, Sauternes	ソーテルヌ
 savage	(人・動物・行為などが)『残忍な』,どう猛な / 『野蛮な』,未開の / (動物が)野生の,飼い慣らされていない / 『未開人』,野蛮人 / 残酷(残忍)な人 / 無作法な人 / 〈動物が〉…'に'襲いかかってかみつく
 savagely	残酷に;野蛮に
 savageness	残忍;野蛮,未開
@@ -443,18 +703,13 @@ sawpit	木びき穴(昔,大きな丸木を一人がかりの大のこぎりで�
 sawyer	木びき,木をひく人
 sax	=saxophone
 saxifrage	ユキノシタ(高山植物)
-Saxon	〈C〉サクソン人;《the Saxons》サクソン族(アングロ族(the Angles)などと共に5‐6世紀に英国を征服したゲルマン民族) / 〈C〉(現代ドイツの)ザクセン地方(Saxony)の住民 / 〈U〉サクソン語 / サクソン(アングロサクソン)人(語)の / ザクセン地方の
 saxophone	サキソフォーン(管楽器の一種)
 saxophonist	サキソフォーン奏者
 say	《直接話法で》「…」'と'『言う』,述べる;(人に)「…」'と'言う《+『to』+『名』〈人〉》 / (意見として)…'を'『言う』,述べる / 〈時計などが〉〈時刻など〉'を'示している;〈本・新聞などが〉…'と'言っている,述べている,書いている / 《しばしば受動態で》(世間などで)…'と'言う,うわさする,伝える / 《命令形に用いて》かりに…'と'すれば;たとえば,そうですねえ,まあ / …'を'暗唱する,復唱する;〈祈りなど〉'を'唱える / 《米話》…'を'命じる / 『言う』,話す,断言する / 《米話》ねえ,おい 《one's say》言うべきこと,言い分 / 《時にa say》発言権 / 《the say》決定権
 say-so	〈U〉《the ~,one's ~》決定権,許可 / 〈C〉《one's ~》ひとりよがりの発言,独断
 saying	〈U〉『言うこと』;〈C〉言われた言葉 / 〈C〉『格言』,『ことわざ』
 says	sayの三人称単数現在
-Sb	stibium(=antimony)の化学記号
-SBA	Small Business Administration(米国)中小企業庁
-Sc	scandiumの化学記号
 sc.	scale / scene / science
-Sc.	Scotch / Scotland / Scots
 scab	(傷口の)かさぶた / 《話》(労働組合にはいらない)非組合員;スト破り / スト破りをする
 scabbard	(刀の)さや
 scabby	かさぶたでおおわれた,かさぶただらけの
@@ -483,13 +738,10 @@ scamp	ならず者 / いたずら者,わんぱく小僧
 scamper	あわてて逃げる,すばやく走る《+『off』(『away』)》 / はね回る,ふざけ回る《+『about』》 / 疾走;ふざけまわること
 scampi	スキャンピ(車エビをフライにしたイタリア料理)
 scan	…'を'じっと見る,詳しく調べる;〈広い区域〉'を'端から端までよく見る / …'に'さっと目を通す,'を'ざっと読む / 〈詩〉'の'韻律を調べる,'を'詩脚に分ける / (テレビ・レーダーで)〈映像〉'を'走査する / 詩の韻律を調べる;〈詩行が〉韻律の法則に合う,音脚が合う / (テレビ・レーダーで)走査をする / じっと見ること,吟味
-Scand.	Scandinavia; Scandinavian
 scandal	〈C〉『醜聞』,スキャンダル / 〈U〉恥,不面目 / 〈C〉(スキャンダルに対する人々の)義憤,反感,物議 / 〈U〉(…についての)中傷,陰口,悪口《+『about』(『over』)+『名』》
 scandalize,scandalise	〈人〉'を'憤慨させる,あきれさせる
 scandalmonger	人の悪口を言いふらす人,悪口屋
 scandalous	不面目な,恥ずべき(shameful) / (報道・うわさなどが)人の名誉を傷つける,中傷的な / (人が)中傷好きな,醜聞をまき散らしたがる
-Scandinavia	(またNorthland)スカンジナビア半島(ノルウエー・スウェーデンがある半島) / スカンジナビア,北欧(ノルウェー・スウェーデン・デンマーク,時にアイスランド・フィンランドも含める)
-Scandinavian	スカンジナビア[人,語]の;北欧[人,語]の / スカンジナビア人;北欧人 / スカンジナビア語,北欧語(Danish,Swedish,Icelandic,Norwegianを含むゲルマン語の一群)
 scandium	スカンジウム(希有金属元素;化学記号は『Sc』)
 scanner	精密に調べる人 / スキャナー(テレビ・レーダーの映像走査機・走査板)・ 光学式走査器(文字を読み取りコンピューターに記憶させる機器)
 scansion	詩を韻律分析して音脚に分けること
@@ -556,8 +808,6 @@ schematize,schematise	…'を'図式化する;…'の'概要をまとめる
 scheme	(仕事・活動の)『計画』,案《+『for』(『of』)+『名』(do『ing』)》 / 『陰謀』,策謀,計略 / …'を'計画する;〈良くないこと〉'を'たくらむ《+『out』+『名』,+『名』+『out』》 / (…を)計画する;たくらむ《+『for』(『against』)+『名』(do『ing』)》
 schemer	計画者;策士
 scherzo	スケルツォ(おどけた調子の楽章)
-Schick test	シック試験(ジフテリア免疫試験法;発明者Bella Schickにちなむ)
-Schiller	シラー(『Johann Christoph Friedrich von Schiller』1759‐1805;ドイツの詩人・劇作家)
 schilling	シリング(オーストリアの通貨);旧ドイツの硬貨
 schism	〈U〉(団体,特に教会の)分裂,分離 / 〈C〉(教会の)分派
 schismatic	分裂の(を引き起こす) / 宗派分立論者
@@ -605,12 +855,9 @@ schoolteacher	(小・中学校・高校の)先生,学校教師
 schoolwork	学業,学校の勉強(授業および宿題)
 schoolyard	(学校の)運動場,校庭
 schooner	スクーナー(2本以上のマストの帆船) / ビール用大型コップ
-Schubert	シューベルト(『Franz Peter』~;1797‐1828;オーストリアの作曲家)
-Schumann	シューマン(『Robert』~;1810‐56;ドイツの作曲家)
 schuss	(スキーの)直滑降 / 直滑降する
 schussboomer	猛スピードで直滑降するスキーヤー
 schwa	あいまい母音,シュワー(əで示される弱母音) / あいまい母音の発音記号
-Schweitzer	シュバイツァー(『Albert』~;1875‐1965;アフリカで医療・伝道に従事した;Nobel平和賞州賞(1952))
 sci.	science / scientific
 sciatic	座骨の / 座骨神経[痛]の
 sciatica	座骨神経痛
@@ -666,30 +913,9 @@ scoria	〈U〉鉱滓(こうさい),かなくそ / 〈U〉〈C〉岩滓(噴石状
 scorn	〈U〉(…の,…に対する)『軽べつ』,さげすみ《+『of』(『for』)+『名』》 / 〈C〉(…の)軽べつの的,物笑いの種《+『of』(『to』)+『名』》 / …'を'『軽べつする』,さげすむ / (軽べつして)…'を'『はねつける』
 scornful	軽べつする,さげすむ;(…を)軽べつする《+『of』+『名』》
 scornfully	軽べつして,冷笑して
-Scorpio	(星座の)サソリ座 / 天蝎(てんかつ)宮(黄道十二宮の8番目)
 scorpion	サソリ
-Scot	スコットランド人
 scotch	…'を'押しつぶす,弾圧する;'を'かき消す / 'を'殺さない程度に傷つける
-Scotch	=Scottish / スコッチウイスキー / =Scottish
-Scotch broth	牛肉または羊肉と野菜や大麦で作る濃いスープ
-Scotch egg	ソーセージにかたゆで卵をはさんだ料理
-Scotch mist	霧雨,こぬか雨
-Scotch tape	スコッチテープ(米国3M社の各種粘着テープの商標名) (Sellotapeは英国セロテープ社の製品)
-Scotch terrier	スコッチテリア(スコットランド産の小型のテリア犬)
-Scotch whisky	スコッチウイスキー
-Scotch woodcock	ペーストを塗っていり卵を載せたトースト
-Scotchman	スコットランド人
-Scotchwoman	スコットランド婦人
 scotfree	損害を受けない,無傷の;罰を受けない = scot-free
-Scotland	『スコットランド』(Great Britain島の北部;首都Edinburgh)
-Scotland Yard	ロンドン警視庁;(特にその)犯罪捜査部
-Scots	=Scottish
-Scotsman	=Scotchman
-Scotswoman	=Scotchwoman
-Scott	スコット(Sir Walter Scott;1771‐1832;スコットランド出身の小説家・詩人)
-Scottie	=Scotch terrier
-Scottish	《the ~》《集合的に》スコットランド人 / スコットランド方言 / 『スコットランドの』;スコットランド人(方言)の
-Scottish terrier	=Scotch terrier
 scoundrel	悪党,ならず者
 scour	(きれいにするために)…'を'こする,磨く / (…の)〈汚れなど〉'を'こすって洗い流す《+『of』+『名』》;(…の)〈汚れなど〉'を'こすって落とす《+『名』+『off』+『名』》 / 〈水流が〉〈水路〉'を'作る / こする,磨く / こすること,磨き洗い / (特に何かを求めて)〈場所〉'を'捜し回る《+『名』+『for』(『after』+『名』》 / (…を)捜し回る《+『about for』(『after』)+『名』》)
 scourer	ナイロンたわし
@@ -748,7 +974,6 @@ scrimshank	職務を怠ける,さぼる
 scrimshaw	(特に,船員が航海中に鯨ひげやきば,貝などを彫る)彫り物技術 / 彫り物細工;(特に,船員が彫った鯨ひげやきば,貝などの)彫り物類 / 彫り物細工を作る,(鯨ひげやきば,貝などで)彫り物をする
 scrip	(非常時に用いる)臨時紙幣・商品券・引替券
 script	〈U〉手書き;筆記体 / 〈U〉筆記活字 / (ある言語の)文字,(alphabetなどの)文字体系 / 台本,脚本
-Script.	Scriptural / Scripture
 scriptural	聖典の(に基づく),(特に)聖書の(に基づく)
 scripture	聖書・経典,聖典・聖書の一節
 scriptwriter	(映画・テレビ・ラジオなどの)脚本家,シナリオ作者
@@ -759,7 +984,6 @@ scrofulous	るいれきの;るいれきにかかった
 scroll	〈C〉(記録などを書きとめておくための羊皮紙,パピルス紙などの)巻物 / 〈U〉〈C〉(いすのひじかけ・バイオリンなどの)渦巻き形模様(装飾)
 scroll saw	雲形のこぎり,糸のこ
 scrollwork	うず形装飾,雲形模様
-Scrooge, scrooge	意地悪なけちん坊[DickensのA Christmas Carolの主人公Ebenezer Scroogeから]
 scrotum	陰嚢(いんのう)
 scrounge	《しばしば軽べつして》…'を'苦労して手に入れる / …'を'返す気もなく借りる;…'を'くすねる / 捜す,あさる《+『around』》
 scrounger	他人にたかってばかりいる人,無断借用する人
@@ -809,10 +1033,7 @@ scut	(ウサギ・シカなどの)短い尾
 scutcheon	盾板 =escutcheon
 scuttle	(船の甲板にある)ふたのついた昇降口;おおいのついた船室の小窓 / (昇降口・船室の窓などの)ふた,おおい / 〈船〉'に'穴をあけて沈没させる / 〈計画など〉'を'やめる,だめにする / 石炭入れ,バケツ;大かご / (逃げようとして)小走りに急ぐ,せかせか走る / 急ぎ足
 scuttlebutt	うわさ,ゴシップ
-Scylla	スキュラ(ギリシア神話でMessina海峡の洞窟に住む6頭12足の怪物;海峡の反対側には大渦巻のCharybdis があり,Charybdisから溺死をまぬがれた水夫たちは,今度はScyllaの餌食になったという)
 scythe	(長柄の刃の大きな)草刈りがま / 〈草など〉'を'大がまで刈る
-Se	seleniumの化学記号
-SE,S.E.,s.e.	southeast; southeastern
 sea	《通例the~》《しばしば複数形で単数扱い》『海』,海洋 / 〈C〉《固有名詞につけるときはS-》(部分的に陸地に囲まれた)海,…海 / (波の状態から見た)海面,湖面,水面;(海・湖などの)波;大波,高波 / 〈U〉《the ~》船乗り(水兵)の仕事,海上生活 / 《a ~》大量(の…),たくさん(の…)《+『of』+『名』》
 sea anemone	イソギンチャク
 sea biscuit	=hardtack
@@ -822,7 +1043,6 @@ sea cow	カイギュウ(海牛)(カイギュウ(manatee)・ジュゴン(dugong)�
 sea cucumber	ナマコ
 sea fog	海霧(海から陸へ流れる霧)
 sea green	海緑色 = sea-green
-Sea lab	シーラブ,海底実験室
 sea legs	(特に荒海で)甲板上をよろけずに歩ける能力,船酔いしない体質
 sea lion	アシカ,トド
 sea mile	海里(かいり)(1828.8メートル)
@@ -854,7 +1074,6 @@ sealevel	(満潮時と干潮時の間の)平均海面,海面 海抜 = sea level 
 sealing	アザラシ狩り
 sealing wax	封ろう(手紙のとじ目・びんを口につけ封をするのに使う一種のろう)
 sealskin	オットセイ(アザラシ)の皮(毛皮)
-Sealyham	シーリハムテリア(ウェールズ原産のテリア犬)
 seam	(服などの)『縫い目』,(れんが・板などの)合わせ目,継ぎ目 / 縫い目のようなひび(しわ,割れ目,手術あとなど) / (岩石などの)薄層《+『of』+『名』》 / …'を'縫い合わせる;…'を'継ぎ合わせる / 《通例受動態で》…'に'(切り傷,きざみ目など)をつける《+『名』+『with』+『名』》 / ひびがはいる,割れ目ができる;しわが寄る
 seaman	水夫,船乗り,船員 / (米国海軍および沿岸警備隊の)水兵,(英国の特に下士官以下の)水兵 / 船の操縦のうまい人
 seaman apprentice	米海軍兵卒(seamanの下の位)
@@ -865,7 +1084,6 @@ seaminess	(物事の)裏面,いやな面
 seamless	縫い目(継ぎ目)のない
 seamstress	(女性の)仕立て屋,針子
 seamy	いやな,見苦しい / 縫い目のある
-séance,seance	心霊術の会
 seaplane	水上飛行機
 seaport	海港;港町
 sear	(治療のため)〈傷口〉'を'焼く;…'を'やけどする;〈肉など〉'を'焼く,あぶる / 〈植物〉'を'枯らす,しなびさせる / …'を'無感覚にする,〈心など〉'を'固くする / =sere
@@ -892,7 +1110,6 @@ seasoning	(塩・こしょうなどの)調味料,薬味 / 《比喩(ひゆ)的�
 seat	『腰掛け』 / 『座席』,席 / (腰掛けの)腰をおろす部分;(体・ズボン・パンツの)しりの部分,しり / (権威の)座,地位,身分;(議会における)議席《+『in』+『名』》 / (…の)予約席《+『for』+『名』》 / (…の)所在地,ありか,中心地《+『of』+『名』》 / (馬・自転車などの)乗り方 / 《しばしば受動態で》〈人〉'を'『着席させる』 / 〈ある数〉'の'座席がある / 〈部品など〉'を'固定する,すえつける
 seatbelt	(自動車・飛行機などの)安全ベルト,座席ベルト
 seating	着席 / 座席配置,収容力 / 馬の乗り方
-Seattle	シアトル(米国Washington州の港市)
 seawall	防波堤;岸壁
 seaward	海に面した;海のほうへの / 海からの / 海のほうへ,海へ向かって
 seawater	海水
@@ -900,7 +1117,6 @@ seaway	〈C〉海路,航路 / 〈C〉(外洋船が航行できる)内海路,内�
 seaweed	海草,海の藻
 seaworthy	(船が)航海に適する
 sebaceous gland	皮脂腺(皮膚に脂肪性物質を分泌する腺)
-SEC	Securities and Exchange Commission(米国)証券取引委員会
 sec.	second / secondary / secretary / section
 secant	(三角法で)セカント,正割・(幾何で)割線・(数学)切る・(線または面が)交わる,交差する
 secateurs	せん定ばさみ,植木ばさみ
@@ -912,11 +1128,9 @@ secluded	引き込もった,隠居した / 人里離れた
 seclusion	(…からの)引き込もること,隠退;(…からの)隔離,孤立《+『from』+『名』》
 seclusive	引き込もりがちな,ひとり暮らしを好む
 second	《通例the~》『第2の』,2番目(2度目)の《略》『2nd,sec.』) / 《A~+名で》『もう一つの』,別の / 一級(最上)のものに次ぐ,二流の / (自動車の変速機の)第2速の / 低音(声)部の,第2の / 〈C〉《the~》『2番目の人』(『物,事』) / 〈U〉《the~》(月の)『第2日』 / 〈C〉(ボクシングの)セコンド;(決闘などの)介添人;(一般に)援助者 / 〈C〉《しばしば複数形で》二級(流)品(ボタンが取れているなど、比較的小さな問題のある格安の服)・〈C〉〈U〉2度音程,第2音(声)部 / 〈U〉(自動車の変速機の)第2速,セカンド[ギア] / 《the~》《最上級の形容詞を伴って》第2に,2番目に / 第2位で,2等で / 〈提案・動議など〉'に'賛成する,'を'支持する / …'を'援助する,後援する,激励する;(ボクシングで)…'の'セコンドを務める / (時間・角度の)『秒』 / 《単数形で》『瞬間』(moment
-Second Advent	=Second Coming
 second base	(野球の)二塁,二塁手
 second childhood	老衰,もうろく
 second class	(乗物の)『2等』 / 《米》第2種郵便[物](新聞・雑誌などの定期刊行物),《英》(速達に対する)普通郵便
-Second Coming	(最後の審判の日における)キリストの再来
 second cousin	またいとこ
 second floor	(建物の)2階;《英》3階
 second in command	(軍隊の)副司令官 = second-in-command
@@ -978,7 +1192,6 @@ secure	『安定した』,確実性のある,保証されている / 『安全�
 securely	安全に;安心して;しっかりと
 security	〈U〉『安全』,無事(safety) / 〈U〉『安心』 / 〈U〉(犯罪・被害などに対する)警備,防衛(保護)手段《+『against』(『from』)+『名』》 / 〈U〉〈C〉(…に対する)担保,抵当[物件]《+『for』(『against』)+『名』》 / 〈C〉《複数形で》株券,有価証券
 security blanket	幼児が安心感を得るためにたえず手にしている毛布(布など)
-Security Council	(国際連合の)安全保障理事会
 security risk	(治安上の)危険人物
 secy.,secy	secretary
 sedan	《米》セダン(2ドアまたは4ドアの箱型の自動車) / =sedan chair
@@ -987,7 +1200,6 @@ sedate	落ち着いた,もの静かな,穏やかな / (鎮静剤で)〈人〉'�
 sedation	(鎮静剤で)落ち着かせること,鎮静状態
 sedative	鎮静効果のある,鎮静[作用]の / 鎮静剤
 sedentary	(人などが)体を動かすことが少ない,いつも座っている;(仕事が)体を動かさなくてもよい / (鳥などが)定住性の,移住しない
-Seder	(ユダヤ教の)過ぎ越しの祭りの儀式的正餐(せいさん)
 sedge	スゲ(湿地にはえる草)
 sedgy	スゲでおおわれた;スゲの,スゲに似た
 sediment	《時にa~》沈殿物,かす(dregs) / (岩・石・土砂などの)堆積(たいせき)物
@@ -1037,7 +1249,6 @@ segregationist	人種差別主義者
 seigneur	封建君主
 seignior	君主,支配者 / [荘園]領主
 seine	地引き網 / 〈魚〉'を'地引き網でとる / 地引き網で漁をする
-Seine	セータ川(フランス北部を流れパリを通ってイギリス海峡に注ぐ)
 seism	地震
 seismic	地震の,地震によって生ずる
 seismic center	震源(地)
@@ -1154,9 +1365,7 @@ sell	…'を'『売る』,売却する / …'を'『販売する』,商う / 〈
 seller	売る人,売り手 / 《good,bad,poorなどの形容詞と共に》売れるもの
 sellers' market	売り手市場(商品不足のため売り手に有利な市場)
 selling point	セールスポイント(商品販売のポイントとなる点)
-Sellotape	セロテープ(透明接着テープの商標名)(《米》Scotch tape) / …'を'セロテープで接着する
 sellout	売り切れ;売り払い / 入場券売り切れの催し物 / 裏切り
-Seltzer	セルツァ炭酸水(西ドイツの天然鉱泉水) / 《しばしばs-》(人工の)炭酸水
 selvage, selvedge	(織物の)耳
 selves	selfの複数形
 semantic	(言語の)意味に関する;意味論の
@@ -1191,8 +1400,6 @@ semipro	=semiprofessional
 semiprofessional	半職業的な,(選手など)セミプロの・半職業人,セミプロ選手
 semiquaver	=sixteenth note
 semiskilled	(工員などが)半熟練の;(仕事が)半ば熟練を要する
-Semite	セム族[の人](主として中東地域に居住するセム語を話す種族の総称;ユダヤ人・アラビア人など)
-Semitic	セム族(語)の / セム語(ヘブライ語・アラビア語など)
 semitone	半音
 semitrailer	セミトレーラー(前部をトラクターと接続するトレーラー) = semi-trailer
 semitropical	亜熱帯の
@@ -1200,8 +1407,6 @@ semivowel	半母音([w][j]などの音);半母音字
 semiweekly	週2回の / 週2回 / 週2回の刊行物
 semolina	セモリーナ(マカロニ・プディングの原料となる粗い小麦粉)
 sempstress	女裁縫師,お針子
-SEN	State Enrolled Nurse
-Sen.,sen.	Senate / Senator
 senate	(古代ローマの)元老院 / 《the S-》(米国・カナダ・フランスなどの)『上院』 / (大学の)評議会,理事会
 senator	(古代ローマの)元老院議員 / (米国・カナダ・フランスなどの)『上院議員』
 senatorial	元老院[議員]の / 上院[議員]の
@@ -1209,8 +1414,6 @@ send	〈物〉'を'『送る』,届ける;〈人〉'を'『行かせる』,派�
 sender	発送人,送り主,差し出し人 / 送信機,送話機
 sendoff	(旅・人生の門出などへの)見送り,送別
 sendup	物まね(parody) = send-up
-Seneca	(『Lucius Annaeus Seneca』;4B.C.‐A.D.65;ローマの哲学者・政治家)
-Senegal	セネガル(アフリカ西部の共和国;もとフランス領;首都 Dakar)
 senescence	初老,老境
 senescent	初老の,老境にかかった
 seneschal	(中世の王族・貴族の)執事,家令
@@ -1260,9 +1463,7 @@ sentimentalize,sentimentalise	(…に対した)感傷(感情)的になる《+『
 sentinel	歩哨(ほしょう),番人
 sentry	(特に軍隊の)番兵,歩哨;張り番
 sentry box	哨舎(しょうしゃ) 番兵小屋
-Seoul	ソウル,京城(大韓民国の首都)
 sep.	separate / separated
-Sep.	September
 sepal	(花の)萼片(がくへん)
 separable	分離できる・引き離せる・(…から)分離できる《+『from』+『名』》
 separably	分離して
@@ -1278,15 +1479,11 @@ sepia	セピア(イカの墨から作る暗かっ色の絵の具) / セピア色
 sepn.	separation
 sepoy	(英国統治時代のインドで編成された)インド現地人兵
 sepsis	敗血症
-Sept.	September
-September	『9月』(英米では学校の新学年の始まる月;Sept.,Sep.)
 septet	7人(7個)一組のグループ / 七重奏(唱)曲
 septic	腐敗性の / 敗血症[性]の
 septic tank	腐敗槽(そう),浄化槽(バクテリアを利用して下水などを浄化する)
 septicemia	=blood poisoning
 septuagenarian	70歳[代]の人 / 70歳[代]の
-Septuagesima	四旬節(Lent)前の第3日曜日
-Septuagint	セプチュアギンタ,70人訳ギリシア語聖書(旧約聖書の最古のギリシア語訳)
 septum	(動・植物体の)隔膜,隔壁
 septuple	7倍の,7重の / …'を'7倍にする
 sepulcher,sepulchre	墓地,墓
@@ -1312,9 +1509,6 @@ serape	セラーペ(ラテンアメリカで用いるはでな色彩肩掛けま
 seraph	最高位の天使(聖書の中の人の形をした3対の翼のある天使)
 seraphic	天使のような;気高く神神(こうごう)しい
 seraphim	seraphの複数形
-Serb	= Serbian
-Serbia	セルビア(Yugoslaviaを構成する共和国の一つ)
-Serbian	セルビアの;セルビア人(語)の / セルビア人;〈U〉セルビア語
 sere	枯れた,しなびた
 serenade	セレナード,小夜(さよ)曲 / 〈人〉'の'ためにセレナードを歌う(演奏する) / セレナードを演奏する
 serendipity	思わぬ良い物を見つけ出すこと,掘出し物じょうず
@@ -1322,7 +1516,6 @@ serene	(生活・風景などが)『穏やかな』,平穏な / うららかな,
 serenity	平穏,落ち着き / うららかさ,晴朗
 serf	(昔のヨーロッパで)農奴 / 奴隷[のような人]
 serfdom	農奴の身分(境遇) / 農奴制
-Serg.,Sergt.	Sergeant
 serge	(服地の)サージ
 sergeant	(陸・海軍の)軍曹(ぐんそう)(伍長(corporal)のすぐ上の下士官);(空軍の)曹長 / 巡査部長(police sergeant)
 sergeant at arms,serjeant at arms	(議会・法廷などの)守衛官 = sergeant-at-arms = serjeant-at-arms
@@ -1345,7 +1538,6 @@ seriously	『真剣に』,まじめに,本気で / 『重大に』,ひどく
 seriousness	まじめ,本気 / 重大さ;危篤
 serjeant-at-arms	=sergeant at arms =sergeant-at-arms =serjeant at arms
 sermon	(教会での)『説教』 / (道徳的な)講話,訓話;(一般に長い)お説教,小言
-Sermon on the Mount	山上の垂訓(キリストが山上で,弟子たちにした有名な説教;新約聖書「マタイによる福音書」)
 sermonize,sermonise	説教する,小言をいう / …'に'説教する,小言をいう
 serology	血清学
 serous	漿液(しょうえき)状の,漿液を含む / 水のような,希薄な
@@ -1436,7 +1628,6 @@ sex change	性転換
 sex chromosome	性染色体
 sex symbol	非常にセクシーな人
 sexagenarian	60歳[代]の / 60歳[代]の人
-Sexagesima	四旬節(Lent)から2週前の日曜日;復活祭前60日目
 sexennial	6年に1回の
 sexily	性的に
 sexiness	セクシーなこと,性的魅力のあること
@@ -1454,12 +1645,9 @@ sexual intercourse	性交
 sexuality	(両性の)性的特質 / 性欲,性的関心
 sexy	性に関する;セクシーな,性的魅力のある
 sf,SF	science fiction 空想科学小説
-Sfc	Sergeant First Class(米陸軍の)一等軍曹
 sforzando	スフォルツァンド,強音 / (音楽で)強音の,力を込めた / 強音に,力を込めて
-SG.	senior grade / Secretary General / Solicitor General / Surgeon General
-Sgt.	Sergeant
-sh.	Share [of stock] / sheet / shilling[s]
 sh,shh,ssh	シッ,静かに
+sh.	Share [of stock] / sheet / shilling[s]
 shabbily	みすぼらしく;卑しく
 shabbiness	みすぼらしさ,卑劣さ
 shabby	『古ぼけた』,みすぼらしい / (人が)『みすぼらしい服装の』 / (人・行いが)『恥ずべき』,さもしい
@@ -1485,13 +1673,10 @@ shagginess	毛むくじゃら,もじゃもじゃ
 shaggy	毛むくじゃらの,毛深い / (髪・まゆなど)くしゃくしゃの / けば立った
 shaggy-dog story	話し手が思うほどは聞き手にとっておもしろくないだらだらとしたとぼけた話 / ものを言う動物が主役の物語
 shagreen	粒起皮(馬・サメ・アザラシなどのなめされていない皮) さめ皮 シャグリーン皮 シャグリーン皮の
-Shah	(もと)イラン国王の称号
 shake	(前後・上下・左右などに)…'を'『振る,』揺り動かす,揺する / (…から)…'を'『振り落とす』《+『名』+『from』(『out of』)+『名』》 / 〈地震・爆発などが〉…'を'『震動される』 / 〈基礎・信念など〉'を'『動揺させる,』ぐらつかせる / 〈人〉'を'『動揺させる,』'を'心をかき乱す / 〈ちり・病気・悪習・追っ手など〉'を'振り払う,振り切る,除く《+『off』+『名,』+『名』+『off』》 / 『揺れる,』震動する / (恐怖・寒さなどで)『震える』《+『with』+『名』》 / 揺り動かす / 〈C〉『揺ること』;揺れ;震え / 《the shakes》《話》(熱・寒けによる)身震い,悪寒(おかん)
 shakedown	ゆすり,おどし / 《米俗》徹底的な捜索(検査) / (床の上にわらや毛布などを敷いた)仮の寝床 / (船・航空機が)試運転の,性能試験の
 shaken	shakeの過去分詞
 shaker	振る人(物) / (塩・こしょうなどの)振り出し容器;(カクテル用の)シェーカー
-Shakespeare	シェークスピア(『William~』;1564‐1616;英国の大劇作家・詩人)
-Shakespearean,Shakespearian,Shakesperian	シェークスピアの(風の) / シェークスピア学者
 shakeup	(事業・政治上の)大異動,大刷新
 shakily	震えて,よろよろして
 shakiness	震え,揺れ,動揺,不安定
@@ -1512,7 +1697,6 @@ shamanism	シャーマニズム,黄教(シベリア北部の遊牧人などの�
 shamble	よろよろ歩く / よろよろ歩く
 shambles	流血の場面,殺りくの場 / 大混乱の場所(状況)
 shame	〈U〉『恥ずかしさ』,羞恥(しゅうち)心 / 〈U〉『恥』,恥辱,不名誉 / 〈C〉《単数形で》《話》『恥になる人』(『物』,『事』),面汚し,名折れ / 〈C〉《単数形で》残念なこと,遺憾なこと / 〈人〉'を'『恥じさせる』,赤面させる / 〈人〉'の'不名誉になる,面目をつぶす
-Shame on you!	恥を知れ・みっともない
 shamefaced	恥じた,恥じ入った / はにかむ,内気な
 shameful	『恥ずべき』,けしからぬ(disgraceful)
 shameless	恥知らずな;みだらな
@@ -1522,8 +1706,6 @@ shamrock	コメツブツメクサ(アイルランドの国章をかたどるカ�
 shan't	shall notの短縮形
 shandy	シャンディー(ビールとジンジャーエールまたはレモネードとの混合酒)
 shanghai	(麻薬・酒・暴力などで)…'を'意識を失わせ船に連れ込んで水夫にする / 〈人〉'に'無理やり(…を)やらせる《+『名』+『into』+『名』》
-Shanghai	シャンハイ(上海)(中国第一の貿易港市)
-Shangrila,Shangri-La	地上の楽園[James Hilton 作の小説Lost Horizon(1933)の中の理想郷にちなむ] /ユートピア 桃源郷《米》秘密基地
 shank	(人や動物の)すね / 脚(あし) / 動物の脚から取った肉 / 道具類の取っ手と頭部をつなぐ細い部分
 shantey	=chantey
 shantung	山東絹,シャンタン(つむぎ風の平織絹布)
@@ -1559,7 +1741,6 @@ shaven	shaveの過去分詞・そってある・そった
 shaver	そる人;そり道具,削り道具;電気かみそり / 《話》若者,小僧
 shaving	〈U〉そること,ひげそり;削ること / 〈U〉《複数形で》削りくず,かんなくず
 shaving cream	ひげそり用クリーム
-Shaw	ショー(George Bernard~;1856‐1950;アイルランドの劇作家・評論家)
 shawl	ショール,肩掛け
 she	『彼女は』,『彼女が』 / 《月・船・汽車・都市・国などを指して》それは,それが / 女,婦人;(動物の)雌
 she'd	she had, she wouldの短縮形
@@ -1600,7 +1781,6 @@ shelf life	(在庫商品の)貯蔵寿命
 shell	『貝がら』,貝;(甲虫・卵などの)堅い殻(から),(カメなどの)こうら / (種子・果実などの)『堅い外皮』,さや / 殻に似た物;建物の外郭,骨組 / 《比喩(ひゆ)的に》(心を閉ざした)殻,打ち解けない態度 / 砲弾;《米》薬きょう / シェル(一人または二,三人でこぐ競漕用ボート) / 〈貝など〉'の'殻を取る,〈豆〉'の'さやを取る / …'に'弾丸(砲弾)を浴びせる,'を'砲撃するる
 shellac, shellack	セラック(ワニスの原料);セラックニス / …'に'セラックニスを塗る / 《米》完全に敗北させる
 shellacking	完敗,大敗 / 殴打
-Shelley	シェリー(『Percy Bysshe』~;1792‐1822;英国の叙情詩人)
 shellfire	砲火,砲弾
 shellfish	〈C〉甲殻類(エビ・カニなど)の総称 / 〈U〉(食物としての)貝,甲殻類
 shellshock	爆弾性ショック(戦争の衝撃による自制力・記憶力・視覚などの喪失症)
@@ -1615,15 +1795,10 @@ shepherd dog	= sheep dog = sheepdog 牧羊犬 羊の番犬
 shepherd's pie	シェパードパイ(ひき肉をマッシュポテトの衣で包んで焼いたパイの一種)
 shepherd's plaid	白黒碁盤じま模様[の織物]
 shepherdess	女の羊飼い
-Sheraton	(家具が)優美なシェラトン風の[18世紀の英国の家具製作者Thomas Sheratonの名より]
 sherbet	《英》シャーベット水(果汁(かじゅう)に水・砂糖などを加えた清涼飲料水) / (またsorbet)《米》シャーベット(果汁に牛乳・卵白などを入れて凍らせたもの)
 sherd	=shard 破片 かけら
 sheriff	(州(county)または都市の)『長官』(行政のほか儀式的な仕事もする) / 《米》『保安官』(郡(county)で法の施行権限を持つ首席役人)
-Sherpa	シェルパ族[の人](Himalaya山地に住むチベット系ネパール人,登山隊の道案内・運搬人を勤める)
 sherry	シェリー酒(南スペイン原産の強い白ぶどう酒)
-Shetland	シェトランド諸島(スコットランド北部にある群島)
-Shetland pony	シェトランド馬(シェトランド原産の毛のあらいがんじょうな小馬)
-Shetland wool	シェトランド諸島産の柔らかい羊毛
 shew	=show
 shh	=sh
 shibboleth	シボレテ(聖書で,ギレアデ人がshの音を発音できないエフライム人を区別する目的で発音させた言葉);ある集団を特徴づける習慣・言葉遣い・昔は重要であったが現在では重要性のない表現や習慣
@@ -1691,7 +1866,6 @@ shishkebab	=kebab = shish-kebab シシカバブ 串焼き肉 ギリシアや中�
 shit	くそをする,大便をする / …'を'大便をして汚す / くそ,大便;《しばしばa ~》くそをすること / たわごと / (怒り・嫌悪などを表して)ちぇっ,くそっ
 shitkicker	田舎者
 shitty	下劣な,いやな,くだらない,ばかげた
-Shiva	シバ(ヒンズー教の神;Brhama,Vishnuに次ぐ第三番目の神)
 shiver	(寒さ・恐れなどで)『震える』,おののく《+『with』(『from』)+『名』》 / 〈C〉 / 〈C〉『震え』,身震い / 《the shivers》寒け,悪寒(おかん) / …'を'粉みじんに砕く / 粉みじんに砕ける / 破片,かけら
 shivery	寒さ・恐怖などで)身震いする,寒けのする;(気候が寒い
 shoal	浅瀬,州,砂州(さす) / 浅瀬の / (魚の)群れ《+『of』+『名』》 / 《話》《通例複数形で》(人や物の)大群,多数,多量《+『of』+『名』》 / 〈魚が〉群をなす
@@ -1859,7 +2033,6 @@ shrivel	縮む,しぼむ;しわになる《+『up』》 / …'を'縮ませる,�
 shriven	shriveの過去分詞
 shroud	(死体に着せる)経帷子(きょうかたびら) / (…の)幕《+『of』+『名』》 / 《複数形で》横静索(マストを支えるため船の両側に張った索) / 〈死体〉'に'経かたびらを着せる / 《通例受動態で》…'を'おおう,包む
 shrove	shriveの過去
-Shrove Tuesday	ざんげの火曜日(灰の水曜日(Ash Wednesday)の前日)
 shrub	(根もとからたくさん枝分かれしている)『低木』,かん木
 shrubbery	〈U〉《集合的に》低木,かん木 / 〈C〉低木の植わっている場所,低木の植え込み
 shrug	〈肩〉'を'『すくめる』 / 『肩をすくめる』 / 肩をすくめること
@@ -1890,18 +2063,10 @@ shutterbug	アマチュアの写真狂,写真ファン
 shuttle	(織機の)杼(ひ)(縦糸の間を走り横糸を通す器具) / (ミシンの)シャトル(下糸を入れる器具) / (特に短距離の)定期往復列車(バス,飛行機)便 / …'を'前後(左右)に動かす,往復させる / 行ったり来たりする,左右に動く
 shuttlecock	(バドミントンの)羽根
 shy	(人が)『恥ずかしがり屋の』,内気な;(態度などが)恥ずかしそうな,引っ込み思案の・(動物が)『おく病な』,びくびくする・《補語にのみ用いて》(…を)用心する,警戒する,ためらう,いやがる《+『of』+『名』(do『ing』)》・《補語にのみ用いて》《米語》(…が)足りない,欠けている(short)《+『of』+『名』》・(…に)〈馬が〉驚いて(おびえて)後ずさりする《+『at』+『名』》;(…から)しりごみする,(…に)おじける《《+『away』『from』+『名』(do『ing』)》 / …'を'す早く投げる / (…に)す早く投げること《+『at』+『名』》 / 《話》(…の)試み《+『at』+『名』》
-Shylock	冷酷な高利貸し[Shakespeare作「ヴェニスの商人」の金貸しの名から]
 shyly	はにかんで;おずおずして
 shyness	恥ずかしさ,内気;おく病
 shyster	いかさま弁護士,いかさま師
 si	=ti
-Si	siliconの化学記号
-Siam	シャム(Thailandの旧名)
-Siamese	〈C〉シャムネコ / 〈C〉シャム人(歴史的・差別的表現でタイ人)
-Siamese cat	シャムネコ
-Siamese twins	シャム双生児(身体の接合した双生児)
-Siberia	シベリア
-Siberian	シベリアの / シベリア人
 sibilance	シューシュー(シッシッ)いう音
 sibilant	シューシュー音がする / 歯擦音
 sibilate	シューシュー(シッシッ)いう(hiss) ・歯擦音を発する / …'を'歯擦音で発音する
@@ -1909,8 +2074,6 @@ sibling	きょうだい[のひとり](兄・弟・姉・妹のどれか)
 sibyl	(古代ギリシア・ローマの)みこ,女占い師 / 女予言者
 sibylline	sibylの[ような] / 予言的な,神秘的な
 sic	原文のまま(疑わしいまたは誤った原文をそのまま引用するときにつける) / …'を'攻撃する / (…に対して)〈人・犬〉'を'けしかける《+『名』〈人・犬〉+『on』+『名』》
-Sicilian	シチリア人 / シチリア方言 / シチリア島の;シチリア人の;シチリア方言の
-Sicily	(イタリア南端の)シチリア島,シシリー島
 sick	(人が)『病気の』;(部屋などが)病人の[ための];(顔色などが)病気を示す(思わせる) / 《名詞的に》《the ~;複数扱い》病人 / 《補語にのみ用いて》《おもに英》(…で)むかついて,吐き気を催して,気分が悪い《+『at』(『with』,『from』+『名』(do『ing』)》 / 《補語にのみ用いて》(…に)『うんざりして』,あきあきして,いや気がさして;(…に)しゃくにさわって,腹が立って《+『of』+『名』(do『ing』)》 / 《補語にのみ用いて》(…に)『がっかりして』,落胆して《+『at』(『about』)+『名』(do『ing』)》 / 《補語にのみ用いて》(…を)熱望して,こがれて《+『for』+『名』》 / 病的な,異常心理の;気味の悪い)
 sick call	(軍隊で)診療呼集[の時間](《英》sick parade) 患者呼集 往診慰問
 sick headache	(吐き気を伴う)偏頭痛(migraine)
@@ -1967,8 +2130,6 @@ sidle	(こっそりと)横に進む,にじり寄る
 siege	〈C〉〈U〉(町・要さいなどに対する)『包囲』,包囲攻撃 / 〈C〉《米》(病気などの)長く苦しい期間
 sienna	シエンナ(酸化鉄を含む特殊な黄土;顔料として用いる)・シエナ色(赤褐色と黄褐色の2種がある)，黄褐色のそれが取れたイタリアの地名から
 sierra	(のこぎり歯状の)山脈
-Sierra Leone	シエラレオネ(大西洋に面したアフリカ西部の国)
-Sierra Nevada	《the~》シエラネバダ山脈(米国California州東部の山脈)
 siesta	(スペイン・ラテンアメリカ諸国での)昼寝,午睡
 sieve	(目の細かい)ふるい,ざる / …'を'ふるう,ふるいにかける(sift) / …'を'ふるい分ける
 sift	〈粉・砂・灰など〉'を'『ふるいにかける』 / …'を'入念に調べる / ふるい分けをする / (ふるい,すき間を通して)ぱらぱらと降りかかる / (…を)入念に調べる《+『through』+『名』》
@@ -2011,7 +2172,6 @@ signora	(イタリア語)《S-》…様(さん,夫人,奥様)(英語のMrs.,Mada
 signorina	(イタリア語)《S-》…様(さん,嬢)(英語のMissに相当) / (特にイタリアの)令嬢
 signpost	道しるべ,道標;看板柱
 signposted	道しるべ(道標)のある
-Sikh	シク(シーク)教徒(一神教を奉ずるインドの一宗派)・シーク教徒の，シク教徒の
 silage	(サイロに蓄えた)貯蔵牧草
 silence	〈U〉『静けさ』,音がしないこと / 〈U〉『沈黙』,無言 / 〈U〉音信のないこと,無沙汰(ぶさた) / 〈C〉沈黙(無沙汰)の期間 / 〈人・騒音など〉'を'静かにさせる / 〈反対など〉'を'沈黙させる,抑圧する / 黙れ,静かに
 silencer	(機械・ピストルなどの)消音装置 / 《英》=muffler2 / 沈黙させる人(物)
@@ -2038,7 +2198,6 @@ silly	(人・人の用動が)『愚かな』,思慮のない,ばかな,おめで
 silo	サイロ(牛馬の飼料として牧草(silage)を貯蔵する普通円筒形の建物) / サイロ(ミサイルを格納し発射する地下設備)
 silt	(川底などの)沈泥 / 〈水路・港湾など〉'を'沈泥でふさぐ《+『up』+『名,』+『名』+『up』》 / 〈水路・港湾などが〉沈泥でふさがる,詰まる《+『up』》
 silty	沈泥の;沈泥が詰まった
-Silurian	(地質時代の)シルル紀
 silvan	=sylvan
 silver	『銀』(金属元素;化学記号は『Ag』) / (商品・通貨基準としての)銀 / 『銀貨』(一般に銀白色の)硬貨 / 《集合的に》『銀(銀めっき)の食器類』,銀器 / 『銀製の』,銀めっきした / 銀色の,銀白色の / …'に'銀めっきする / 《文》…'を'銀色にする / 銀色になる
 silver birch	シラカバ[の木]
@@ -2062,7 +2221,6 @@ similarly	類似して / 《文修飾語に用いて》同様に
 simile	直喩(ちょくゆ)(like や as を用いて二つのものを直接比較する修辞法;たとえば[as]quick as thought(電光石火のごとく),pale like a ghost(幽霊のように青ざめた)など)
 similitude	〈U〉類似,相似;〈C〉(…と)似た姿《+『of』+『名』》 / 〈C〉(たとえ話・直喩で用いられる)たとえ,比較
 simmer	〈スープ・肉などが〉(たぎらない程度で)ぐつぐつ煮える / 〈人が〉(怒りなどで)今にも爆発しそうである《+『with』+『名』》 / …'を'ぐつぐつと煮る / ぐつぐつ煮ること,ぐつぐつ煮えていること
-Simon Peter	ペテロ(キリストの十二使徒の一人)
 simon-pure	本物の,正真正銘の
 simonize,simonise	〈車〉'を'ワックスでみがく
 simony	(昔の)聖職売買[の罪]
@@ -2093,12 +2251,10 @@ simultaneous	同時の;(…と)同時に起こる《+『with』+『名』》
 simultaneously	同時に
 simultaneousness	同時性,同時に存在する(起こる)こと
 sin	〈U〉(宗教・道徳上の)『罪』 / 〈C〉(宗教・道徳上の)『罪の行為』,罪悪 / 〈C〉《特におどけて》違反(過失)の行為 / (宗教・道徳上の)おきてを破る,罪を犯す / (…に)違反(過失)をする,背く《+『against』+『名』》 / sine
-Sinai	《the~》(またSinai Peninsula)シナイ半島(地中海から紅海北部に伸びる半島で砂漠地帯) / シナイ山(アラビア北部にあって,神がモーセに十戒(the Ten Commandments)を与えたという山)
 since	《通例完了形またはit is(was)と共に用いて》…『以後』[『ずっと』],…以来[ずっと] / …『ので』,…だから / …『以来』,…から[今まで] / 《完了形とともに用いて》『その時から現在まで』,それ以来ずっと / 《完了形とともに用いて》『その後』[『今までの間に』] / 《過去時制・完了形とともに用いて》(現在より)…前に
 sincere	(感情・行動が)『偽りのない』,心からの,真剣な / (人が)『誠実な』,まじめな
 sincerely	『真心込めて』,心から
 sincerity	『誠実』,偽りのないこと,正直
-Sindbad,Sinbad	シンドバッド(アラビアンナイトで七つの不思議な航海をした人)
 sine	(数学で)正弦,サイン(《略》『sin』)
 sine die	無期限に(=without fixing a day)
 sine qua non	不可欠のもの,必要条件
@@ -2108,10 +2264,8 @@ sinewy	(肉が)筋の多い / 筋骨たくましい,がんじょうな
 sinful	罪深い / 《話》けしからぬ,罰当たりな
 sing	『歌う』;(…に)歌って聞かせる《+『to』(『for』)+『名』》;(楽器に合わせて)歌う《+『to』+『名』》・〈小鳥・虫などが〉『鳴く』,さえずる / 《文》(…を)詩(歌)にする,(詩(歌)を詠んで)賛美する《+『of』+『名』》・〈小川・風・弾丸・湯沸かし・耳などが〉歌うように鳴る・《米語》自白する;密告する・〈歌〉'を'歌う・《副詞[句]を伴って》歌って…'を'(…に)する・…'を'唱える,詠唱する・《文》…'を'詩(歌)にする,(詩(歌)に詠んで)賛美する・合唱の集い
 sing.	singular
-Singapore	シンガポール(マレー半島南端の島で英国の自治領であったが1965年に独立国となった) / シンガポール国の首都である港市
 singe	…'の'表面を焼く,焦がす / 〈毛髪・糸など〉'の'先端を焼く / 焦げあと;焦がすこと,先端を焼くこと
 singer	『歌う人』,(特に本職の)歌手
-Singhalese	=Sinhalese
 singing	〈U〉歌,歌唱,声楽 / 〈U〉歌うこと;歌声 / 〈U〉ヒューヒュー(ブンブンなど)と鳴る音
 single	《名詞の前にのみ用いて》『たった一つ』(『一人』)『の』,単独の;《否定文で》ただ一つ(一人)(もない) / 《名詞の前にのみ用いて》『一人用の』・『独身の』・《名詞の前にのみ用いて》個々の,別々の / 単一の,単式の;(花が)一重咲きの,単弁の / 《英》(切符が)片道の / 〈C〉一人,1個;独身者 / 〈C〉《話》(ホテルの部屋,船室,列車寝台などの)一人用 / 〈C〉(野球で)シングルヒット,単打 / 《複数形で》(テニスなどの)シングルスの試合,単試合 / 《英》片道切符 / 《複数形で》《話》1ドル(ポンド)札 / …'を'1人(1個)だけ選び出す《+『out』+『名,』+『名』+『out』》 / (野球で)シングルヒットを打つ
 single file	一列縦隊
@@ -2130,7 +2284,6 @@ singly	一つ一つ,個々に(one by one) / ひとりで,単独で(alone) / 独�
 singsong	〈U〉単調な調子(リズム),抑揚のない話し方 / 〈C〉単調な詩[歌] / 〈C〉《英》(一般会衆による)即席合唱会 / 単調な,抑揚のない
 singular	『非凡な』,目ざましい / 『奇妙な』,変わった / (文法で)『単数の』 / 単数[形]
 singularity	〈U〉特異点 / 〈C〉特異性
-Sinhalese	シンハラ族(語)の / 〈C〉シンハリー人(セイロン島の主要民族) / 〈U〉シンハリー語(インド語派の一言語) / シンハリー人(語)の
 sinicize,sinicise	中国化する,中国の影響を受ける
 sinister	不吉な,縁起の悪い / 悪意のある,邪悪な(evil)
 sink	(水平面下に)〈船・太陽などが〉『沈む』・(…に)『下降する』,落ちる《+『into』(『to』)+『名』》・『量』(『勢い』,『程度など』)『が減る』,弱まる,下がる・〈健康・士気・名声・地位などが〉悪化する,衰える,下がる・(…の状態に)次第に落ち込む,陥る《+『in』(『into』)+『名』(do『ing』)》・(…に)深く入る,しみ込む《+『in』(『into』)+『名』》・〈船など〉'を'『沈める』・…'の'水平面の高さを下げる,'を'低くする・(…まで)…'の'『量(勢い,程度)を減らす』,'を'弱める《+『名』+『to』+『名』》・〈井戸・穴など〉'を'掘る・(…に)…'を'沈み込ませる《+『名』+『in』(『into』)+『名』》・(…に)〈資本・労力など〉'を'投ずる《+『名』+『in』(『into』)+『名』》 / …'を'隠す;…'を'無視する・《話》《しばしば受動態で》…'を'だめにする,滅ぼす;失う・(バスケットボールで)〈球〉'を'バスケットに入れる・(ゴルフで)〈球〉'を'ホールに入れる・(台所・洗濯場・洗面所などの)『流し』・《米》洗面器(washbasin, washbowl) ・下水溝,下水だめ
@@ -2142,21 +2295,17 @@ sinking feeling	無気力
 sinking fund	減債基金(公債・社債などの償還資金として積み立てる基金)
 sinless	罪のない,潔白な
 sinner	(宗教・道徳上の)罪人
-Sinology	中国学,中国研究(中国の言語・歴史・制度などを研究する学問)
 sinuosity	〈U〉曲がりくねり,湾曲 / 〈C〉(川・道路などの)湾曲部
 sinuous	曲がりくねった,カーブの多い
 sinus	洞(どう)(骨や組織の中の穴・くぼみなど);静脈洞
 sinusitis	洞炎,(特に)静脈洞炎
 sion	=zion
-Siouan	〈U〉スー語族(北米インディアンの大語族) / 〈U〉〈C〉スーインディアン,スー族[の人] / スー語(族)の
-Sioux	〈U〉〈C〉スーインディアン,スー族[の人](スー語を話すアメリカインディアン,特にDakota族) / 〈U〉スー語 / スー語[族]の
 sip	…'を'『ちびちび飲む』,すする / (…を)『ちびりちびり飲む』《+『at』+『名』》 / (…を)ちびりちびり飲むこと;(飲み物の)『一口』,一すすり《+『of』+『名』》
 siphon bottle	サイフォンびん(炭酸水用のびん;ガスの力で水が流出する)
 siphon,syphon	サイフォン,吸水管 / =siphon bottle / (水中動物の)吸管 / …'を'サイフォンで吸い上げる《+『off』(『out』)+『名,』+『名』+『off』(『out』)》 / サイフォンを通る
 sir	《時にS-》《冠詞なしで》《男性の目上の人・見知らぬ人・店の客・上官・先生・議長などに対する敬った丁寧な呼び掛け語として》『あなた』,だんな,先生,(警官などが男性を呼び止めて)おい,君 / 《S-》〈U〉サー / 《しばしばS-》〈C〉《手紙の書き出しのあいさつに用いて》『拝啓』
 sire	《S-》《冠詞なしで》《古》(国王などに対する呼び掛けで)陛下・〈C〉(動物,特に馬の)雄親 / 〈種馬が〉…'を'生む
 siren	『サイレン』,『警笛』 / サイレン(ギリシア神話で美声で船人を誘い,殺したという半女半鳥の海の精) / 美声の歌い手;(男を惑わす)美女,妖婦(ようふ)
-Sirius	シリウス,天狼(てんろう)星(大犬座の中の星;最も明るい星)
 sirloin	サーロイン(牛の腰肉の最も美味な部分)
 sirocco	シロッコ(北アフリカから南ヨーロッパ地方に吹きつける乾燥したほこりっぽい熱風) / (一般に)うっとうしい熱風
 sirrah	おい,こら(目下の者・子供などに対する軽べつ的呼び掛け)
@@ -2169,7 +2318,6 @@ sister	(父母,またその一方が同じ)『~』,『妹』,女のきょうだ�
 sister-in-law	義理の姉(妹),兄(弟)の妻
 sisterhood	〈U〉姉妹の関係;(姉妹のような)友好関係 / (結びついた)集団,グループ / 〈C〉婦人の宗教団体,修道女会
 sisterly	姉妹の;姉妹のような;仲のよい
-Sisyphus	シシュフォス(ギリシア神話で悪事の報いとして死後,地獄で大きな石を山頂に押し上げることを永遠に繰り返さねばならなかったというコリント王)
 sit	(…に)『座る』,座っている《+『at』(『on, in』)+『名』》・着席する《+『down』》・(…に)〈鳥などが〉『止まる』,休む《+『on』+『名』》・〈めんどりが〉卵を抱く,巣に就く / 《場所の副詞[句]を伴って》(ある場所に)『位置する』・ (画家・写真家のために)ポーズをとる・しっとしている,動かないでいる・(議員・委員などの)職に就いている《+『on』+『名』》・〈議会・法廷などが〉開会(開廷)される・(…に)負担となる,重荷となる《+『on』(『upon』)+『名』》・〈衣服などが〉(…に)合う,似合う《+『on』+『名』》・〈人〉'を'座らせる,着席させる《+『down』+『名,』+『名』+『down』》・〈馬〉'に'乗る・《英》〈試験〉'を'受ける
 sit-down strike	座り込みストライキ
 sit-in	(抗議のため公共の場所を占拠して行う)座り込み
@@ -2188,7 +2336,6 @@ situation	(人の)『立場』,状態,境遇 / (事の)『事態』,形勢,情�
 situation comedy	連続ホームコメディー(同一人物を中心とする連続テレビ・ラジオ喜劇)
 situs	あり場所,位置 / (部分・器官の)正常な位置,原位置
 sitz bath	腰湯;腰湯用の浴槽
-Siva	=Shiva
 six	〈C〉(数の)『6』;6の記号(6,VIなど) / 〈U〉6時,6分;6歳 / 《複数扱い》6人,6個 / 〈C〉六つ(6人,6個)一組のもの / 〈C〉(カード・さいころなどの)6の札(目) / 『6の』,6人の,6個の / 《補語にのみ用いて》6歳の(で)
 six-footer	身長が6フィート[以上]の人
 six-shooter	6連発ピストル
@@ -2210,7 +2357,6 @@ sizeable	=sizable
 sizing	サイズ(どうさ)を塗ること,のり付け;サイズ剤,のり剤,どうさ
 sizzle	(油で揚げるときのように)ジュージュー(シューシュー)いう / 《話》焼けるように暑い(熱い) / ジュージュー(シューシュー)いう音
 sizzler	非常に暑い日
-SJ,S.J.	Society of Jesus / イエズス会
 skag	ヘロイン(heroin)
 skate	=ice skate / =roller skate / 『スケートをする』,氷滑りをする / ガンギエイ
 skateboard	スケートボード(路上などで遊ぶ車輪付きの長方形の板) / スケートボードですべる
@@ -2300,7 +2446,6 @@ skittle	《複数形で;単数扱い》九柱戯(ninepins) / 〈C〉九柱戯の
 skive	仕事をなまける(さぼる)
 skivvy	〈女性が〉家庭内の雑事をする / (男性用の)綿製Tシャツ / 《複数形で》綿製Tシャツとパンツから成る下着
 skoal	(健康を祝して)乾杯
-Skt.	Sanskrit
 skua	オオトウゾクカモメ(北大西洋産の海鳥)
 skulduggery,skullduggery	いんちき,不正
 skulk	こそこそ隠れる,こそこそ逃げる;こそこそ歩く,こっそり動く
@@ -2322,7 +2467,6 @@ skyhook	《米》《おどけて》空からぶらさがっていると想像さ
 skyjack	〈飛行機〉'を'乗っ取る
 skyjacker	飛行機乗っ取り犯人
 skyjacking	飛行機乗っ取り
-Skylab	スカイラブ(米国の地球を周回する実験用宇宙ステーション)
 skylark	『ヒバリ』 / (…のことで)ばか騒ぎをする《+『about』》
 skylight	(天井の)天窓,明かり窓
 skyline	地平線(horizon) / スカイライン(山・都市の建物などの空を背景とした輪郭)
@@ -2373,7 +2517,6 @@ slaty	スレートの,スレート状の
 slaughter	〈U〉(食肉用の)『屠殺』(とさつ),畜殺 / 〈C〉(人間・動物の)『大虐殺』;大量殺人 / 〈C〉《単数形で》《話》完敗 / (食肉用として)〈動物〉'を'『屠殺する』,畜殺する(butcher) / 〈多数の人〉'を'虐殺する(massacre) / 《話》(ゲームで)…'を'完敗させる
 slaughterer	屠殺人;虐殺者
 slaughterhouse	屠殺場
-Slav	スラブ人;《the Slavs》スラブ民族(ロシア人・ポーランド人・チェコ人・ブルガリア人・スロバキア人など) / スラブ人の,スラブ民族の;スラブ語の
 slave	『奴隷』(どれい) / (欲望・習慣・職業などの)『とりこ』,(…に)ふける人《+『of』(『to』)+『名』》,(他人のために)あくせく働く人 / (奴隷のように)あくせく働く《+『away』》
 slave driver	奴隷監督 / 《話》こき使う主人,人使いの荒い人
 slave labor, slave labour	奴隷のする労働(仕事);一般に低賃金のまたは強制された割の合わない仕事
@@ -2381,9 +2524,7 @@ slave state	奴隷州(アメリカ南部の15州,南北戦争の時まで奴隷�
 slave trade	奴隷売買
 slaver	奴隷商人(slave trader) / 奴隷貿易船(slave ship) / よだれ / よだれを垂らす
 slavery	『奴隷制度』;奴隷の身分,奴隷の状態 / (欲望・悪習などの)とりこになっていること《+『to』+『名』》 / 骨の折れる仕事,つらい労働
-Slavic	スラブ民族の,スラブ語族の / スラブ語族
 slavish	奴隷の;奴隷根性の,卑屈な / 独創性のない
-Slavonic	=Slavic
 slaw	《おもに米》=coleslaw
 slay	(乱暴な方法で)…'を'殺す,殺害する(《米》では,特に新聞用語としてkillの代りに普通に用いられる.《英》では《文》または戯言的にのみ用いられる)
 slayer	殺害者(killer)
@@ -2486,7 +2627,6 @@ slouch	(疲れたような)前かがみの姿勢で座る(立つ,歩く) / 〈U�
 slouch hat	広い縁のたれたソフト帽
 slouchingly	前かがみに;だらしなく
 slough	ぬかるみ / 《米》(またslue)どろ沼,沼地,湿地 / (蛇などの)抜け殻(がら);かさぶた / (一般に)脱ぎ捨てたもの,捨てた習慣など / 〈蛇が〉脱皮する;〈人が〉脱皮する / 〈蛇が〉〈皮〉'を'脱する;(蛇のように)…‘から'脱皮する《+『off』+『名』,+『名』+『off』》
-Slovak	〈C〉スロバキア人 / 〈U〉スロバキア語 / スロバキア人の / スロバキア語の
 sloven	(服装・習慣などが)だらしない人
 slovenliness	だらしないこと,いいかげんさ
 slovenly	(服装・言語などが)だらしのない,いいかげんな / だらしなく,いいかげんに
@@ -2500,7 +2640,6 @@ slowness	遅いこと,緩慢
 slowpoke	のろま
 slowwitted	のみこみの悪い,愚鈍な
 slowworm	ヘビトカゲ,アシナシトカゲ
-SLR	single-lens reflex 一眼レフ
 sludge	ぬるぬるしたどろ;(特に川底などの)軟泥 / (ボイラー・汚水処理装置などの)沈積物,おり / (海上の)小浮氷
 slue	=slew / =slough
 slug	《米俗》弾丸,たま / (自動販売機などで不法に使われる)偽造硬貨 / ナメクジ / …'を'げんこつでぶんなぐる / (特に)こぶしでの強打
@@ -2527,7 +2666,6 @@ slushy	雪解けの,ぬかるみの / くだらない;感傷的な
 slut	不潔な女 / ふしだらな女
 sluttish	(女が)だらしのない / (女が)身持ちの悪い
 sly	『ずるい』,陰険な / 茶目っ気のある,いたずらっぽい
-Sm	samariumの化学記号
 smack	(…の)味,風味《+『of』+『名』》 / (…)らしいところ《+『of』+『名』(do『ing』)》 / 《『smack of』+『名』》(…の)味(香り)がする;(…の)気味がある / 舌打ち,舌鼓 / チュッと音のするキス / 平手打ち / ドスン(ガツン)という音 / …'に'チュッとキスする / …'を'パチリ(ピシャリ)と打つ / 舌打ちをする,(…に)舌鼓を打つ《+『at』+『名』》 / 音を立ててぶつかる / 激しく,ピシャリと / (また《米》『smack-dab』)まともに,じかに / 1本マストの小型魚船
 smacker	ドル
 small	(大きさが)『小さい』,小形の;(量が)『少ない』,わずかな / 『取るに足りない』,ささいな(trivial) / 《名詞の前にのみ用いて》(仕事・活動などが)『小規模の』,ささやかな / 心が狭い,利己的な / (音・声が)弱い,小さい / (文字が)小型の,小文字の / 《the~》小さいもの;(…の)細い部分《+『of』+『名』》 / 《複数形で》《英》(衣類・ハンカチなどの)小物,小間物 / 小さく,細かく / (声などが)低く,弱く / 小規模に,こぢんまりと
@@ -2592,7 +2730,6 @@ smokeless	(石炭・炉)などが[ほとんど]煙の出ない,無煙の
 smoker	喫煙家 / (また『smoking car』)喫煙車 / 《まれ》男だけの楽しみの集まり
 smokescreen	煙幕 / (一般に)隠す(ごまかす)ためのもの
 smokestack	(工場・汽船の)煙突,煙出し / 《米》(機関車の)煙突
-Smokey	森林火災防止マーク 《森林消防団員の服を着た熊の漫画》[しばしば s-] / 《俗》 ハイウェーパトロール警官 《その制帽が森林消防団マスコットの熊のかぶる帽子に似ているところから》
 smokiness	煙だらけ
 smoking	煙ること / 喫煙
 smoking jacket	家庭のくつろぎ着[喫煙のときに着たことから]
@@ -2617,7 +2754,6 @@ smuggler	密輸業者
 smut	〈C〉(一片の)すす,ほこり;汚れ,しみ / 〈U〉わいせつな物(写真・文章など) / 〈U〉(麦の)黒穂病 / …'を'汚す
 smuttiness	すすだらけなこと / みだらなこと
 smutty	汚れた,すすだらけの / わいせつな / (麦が)黒穂病にかかった
-Sn	tin の化学記号
 snack	(特に食事と食事の間にとる)『軽食』,スナック / 軽い食事をとる;間食する
 snack bar	(カウンター式の)軽食堂,スナック
 snaffle	(馬の)はみ,小勒(しょうろく) / …'を'盗む,かっぱらう
@@ -2696,7 +2832,6 @@ snotty	《俗》鼻水の,鼻水をたらした,鼻水で汚れた / 《話》�
 snout	(豚などの突き出た)鼻;鼻先(口とあごも含むことがある) / 鼻先に似たもの;筒口,管先など / 〈U〉刻みたばこ / 〈C〉巻きたばこ
 snow	〈U〉『雪』 / 〈C〉《単数形で》『降雪』;《複数形で》積雪 / 〈U〉〈C〉雪のような物;(特に)コカイン,ヘロイン / 《itを主語にして》『雪が降る』 / (…に)雪のように降る《+『on』+『名』》;雪のように舞い込む《+『in』》 / …'を'雪のように降らせる / …'を'雪でおおう(閉じ込める)《+『名』+『in』(『under, up』)》
 snow bank	かき寄せた雪の山;大きな雪の吹きだまり
-Snow Belt	降雪地帯(米国の北東地方をいう) 大西洋からロッキー山脈北部に至る北部地帯
 snow bird	(また『snow bunting』)ユキホオジロ / =junco
 snow fence	雪さく,雪よけ
 snow leopard	ユキヒョウ(中央アジア高地に生息するヒョウ)
@@ -2721,7 +2856,6 @@ snowshoe	雪ぐつ,かんじき
 snowslide	なだれ
 snowstorm	吹雪
 snowy	『雪の』,『雪の降る』 / 雪におおわれた,雪深い / 雪のように白い
-Snr.	Senior
 snub	(特に)〈目下の者〉'を'冷淡に扱う;〈申し出〉'を'すげなく拒絶する / 鼻であしらうこと,けんつく,冷遇 / しし鼻の
 snub-nosed	しし鼻の
 snuck	sneakの過去・過去分詞
@@ -2734,7 +2868,6 @@ snuggle	(暖かさ・愛情などを求めて)(…に)する寄る,寄り添う�
 snugly	心地よく;こぢんまりと
 snugness	心地よいこと
 so	《様態の指示》『そういうふうに』,『そのように』・《補語に用いて》『そのようで』,そうで・《程度》『それほど』,そんなに・《強意として》《話》『非常に』,『とても』,たいへん・《前に述べたことの内容に対する同意を表して;「so+主語+[助]動詞」》『その通りで』,『本当に』,確かに,おっしゃるとおり・《肯定文を受けて;「so+[助]動詞+主語」の語順で》…『もまた』,『も同様に』・《as~, so…で》~と同じように…,(~のように)そのように・《目的を表して》…『するように』・《理由・結果を表して》『その結果』,それで・《文・節の頭に用いて》『それで』,だから・《驚き・賛成・嫌悪・疑いなどを表して》そうか,そうなんだ,どうかな,まさか・それでよし / =sol
-So.	south
 so and so	(明言できない人・物をさして)だれそれ,なんとかさん;なになに,しかじか = so-and-so
 so long	さようなら
 so so	よくも悪くもない,まあまあの / まあまあ,可もなく不可もなく = so-so
@@ -2777,7 +2910,6 @@ social work	社会事業
 social worker	社会事業家(特に訓練をうけた専門職員) ソーシャルワーカー 社会事業相談員 社会福祉指導員 民生委員 社会福祉事業担当指導員
 socialism	『社会主義』
 socialist	社会主義者 / 《通例S-》社会党員 / 社会主義の;社会主義者の
-Socialist Party	社会党
 socialistic	社会主義の,社会主義的な
 socialite	社交界の名士
 socialization,socialisation	社会主義化 / 社交的にすること
@@ -2785,7 +2917,6 @@ socialize,socialise	〈国・制度など〉'を'社会主義化する / 〈人�
 socialized medicine	医療社会化制度
 socially	社会的に,社会によって / 社交上;社交的に
 society	〈U〉《通例冠詞をつけないで》(全体として見た人間の)『社会』,世間[の人々],すべての人々 / 〈C〉〈U〉(特定の利害・文化を共にする人間の)『社会』 / 『会』,協会,クラブ / 〈U〉『上流社会』[『の人々』],社交界 / 〈U〉交際,つきあい,社交 / 上流社会の,社交界の
-Society of Friends	キリスト友会(ゆうかい)(この会員が通例Quakersと呼ばれるキリスト教の一派)
 sociol.	sociological / sociology
 sociological	社会学上の,社会学に関する
 sociologist	社会学者
@@ -2793,8 +2924,6 @@ sociology	社会学
 sociopath	反社会的な人
 sock	『短い靴下』,ソックス / (こぶしなどで)…'を'殴る,強打する / 強打 / まともに,じかに
 socket	(物を差し込む)穴,受け口,ソケット / 窩(か)(体の部分で落ちくぼんだ所)
-Socrates	ソクラテス(ギリシアの哲学者;469?‐399B.C.)
-Socratic method	ソクラテス式問答法
 sod	〈U〉芝地 / 〈C〉(移植用に根をつけて四角か長方形に切り取った)芝土 / …'を'芝でおおう / 男色者 / 《好感を表して》やつ / やっかい者;苦労の種
 soda	〈U〉『ソーダ』,炭酸ソーダ,重炭酸ソーダ
 soda fountain	ソーダ水売り場(ソーダ水容器を備え,コーヒー・清涼飲料・アイスクリーム・軽食なども売る) / ソーダ水容器(カウンターに備えてあり,蛇口からソーダ水・シロップなどを出して調合する機械)
@@ -2807,12 +2936,10 @@ sodium carbonate	炭酸ナトリウム,炭酸ソーダ
 sodium chloride	塩化ナトリウム;食塩(table salt)
 sodium hydroxide	水酸ナトリウム,苛性(かせい)ソーダ
 sodium nitrate	硝酸ナトリウム
-Sodom	ソドム(旧約聖書で死海南岸にあったとされる古代都市;罪悪のため神に滅ぼされた)
 sodomite	男色家;獣姦(じゅうかん)者
 sodomy	男色;獣姦
 soever	《who,what,whereなどと連結して》どんな…でも,たとえどのように…とも / 《否定語を強調して》全然[…でない]
 sofa	『長いす』,ソファー
-Sofia	ソフィア(ブルガリアの首都)
 soft	(押されて形を変えるほど)『柔らかい』 / (木材・金属などが,同種の中で比較的)『柔らかい』 / (手ざわりの)なめらかな,すべすべした / (声・音が)穏やかな,低い,静かな / (見た目に)どぎつくない,落ち着いた / (天候・気候が)穏やかな,温和な / (心・言動が)優しい,もの柔らかな / (体または精神などが)軟弱な,虚弱な / (市況・相場が)弱気の,下がり気味の / (水が)軟性の / (水音が)軟音の / アルコール分を含まない / 柔らかに / 静かに
 soft coal	=bituminous coal
 soft drink	(アルコール分を含まない)清涼飲料;(特に)炭酸飲料
@@ -2845,16 +2972,12 @@ softy	めそめそした人;軟弱な人
 soggily	びしょびしょになって / ふやけて
 sogginess	びしょぬれ / (パンなどが)ふやけていること
 soggy	(特に地面が)水浸しの,びしょぬれの / (生焼けのパンなどが)湿って重い
-Soho	ソーホー(ロンドン市内の歓楽街で外国人経営のレストランが多い)
-SoHo	ソーホー(ニューヨークのマンハッタンの一地域;美術館やスタジオ街で有名) South of Houston Streetの略
 soigne,soigné	念入りな,行き届いた / (身なりの)きちんとした
 soil	〈U〉(植物の成長に適する)『土』,土壌(どじょう) / 〈U〉(特殊な)土 / 〈U〉〈C〉《気取って》国,地方;《the~》土地,農地 / 〈衣服など〉'を'汚す,きたくなくする / 《比喩(ひゆ)的に》〈名声など〉'を'けがす / 〈衣服などが〉汚れる,きたなくなる / 汚れ,汚点,しみ / (人の)汚物
 soiree,soirée	夜会,夜の社交会
 sojourn	(…に)短期間滞在する《+『in』(『at, with』)+『名』》 / 短期間の滞在,逗留(とうりゅう)
 sojourner	逗留(とうりゅう)者,滞在者
 sol	ソ(全音階の第5音) / ソル(ペルーの貨幣単位で青銅貨)
-Sol	(ローマ神話の)太陽の神 / 《文》太陽
-Sol.	Solicitor / Solomon
 solace	〈U〉慰め;安らぎ / 〈C〉慰めとなるもの;慰めを与える人 / {動}…を慰める
 solar	『太陽の』,太陽からの;太陽の作用による
 solar battery	太陽電池[装置](互いに連結された多数の)
@@ -2909,8 +3032,6 @@ solitary confinement	独房監禁
 solitude	〈U〉『弧独』,独居 / 〈C〉人里離れた寂しい場所,辺地
 solo	独唱曲,独奏曲;独唱,独奏,ソロ / (一般に)一人で行う演技や行為 / 単独飛行 / 独唱の,独奏の;一人でする / 独唱で,独奏で;一人で / 一人でする / 単独飛行する / (カードゲームで)ソロ(一人で全員を相手にするWhistに似たゲーム)
 soloist	独奏者,独唱者
-Solomon	ソロモン大王(紀元前10世紀ごろの賢明なイスラエルの大王) / 〈C〉(ソロモンのような)賢い人
-Solon	ソロン(638?‐559?B.C.;古代アテネの立法家) / 〈C〉《米》立法府の議員
 solstice	(太陽の)至(し)(太陽が天球の赤道から最も離れるとき)
 solubility	溶解性;溶解度
 soluble	溶解できる / 解決できる
@@ -2922,7 +3043,6 @@ solve	〈問題など〉'を'『解く』,解明する,解決する
 solvency	支払い能力 / 溶解力[のあること]
 solvent	(借金の)支払い能力がある / 溶解力のある,溶かす / 溶剤,溶媒 / 解決策
 solver	解決者,解答者
-Somalia	ソマリア(アフリカ東岸の共和国)
 somatic	身体の / 体腔(たいこう)の / 体細胞の
 somatic cell	(生物の)体細胞
 somber, sombre	暗い(dark),ほの暗い(gloomy);(色が)くすんだ
@@ -2976,7 +3096,6 @@ soothing	慰める,なだめる,和らげる
 soothsayer	《古》予言者,占い師(prophet)
 sooty	すすでおおわれた,すすで汚れた / すすの,すすのような
 sop	(ミルク・肉汁などに浸して食べる)食物片,(特に)パン切れ / きげんをとるために与えるもの,わいろ,鼻薬 / (ミルクなどに)〈パン切れなど〉'を'浸す《+『名』+『in』+『名』》 / 〈液体〉'を'吸い取る《+『up』+『名,』+『名』+『up』》 / …'を'びしょぬれにする
-SOP	standard(standing) operating procedure管理運用規定
 soph	=sophomore
 sophism	詭弁(きべん),へりくつ,こじつけ;〈U〉詭弁法
 sophist	《しばしばS-》ソフィスト(古代ギリシアの一般教養・修辞・政治などを教えた教師) / 詭弁(きべん)家,理屈屋
@@ -2985,7 +3104,6 @@ sophisticate	〈人〉'の'純真さを失わせる,'を'世慣れさせる / �
 sophisticated	『世慣れた』,世間ずれした,純真でない / 洗練された,気のきいた / (機械・方式などが)極めて複雑な,精巧な
 sophistication	世間ずれ,世慣れ / 洗練された考え方;高尚な好み / 詭弁(きべん)を用いること / (機械・方式などの)複雑さ
 sophistry	〈U〉詭弁(きべん)法 / 〈C〉《通例複数形で》詭弁,へ理屈
-Sophocles	ソフォクレス(古代ギリシアの悲劇詩人;紀元前496?‐406?)
 sophomore	(4年制大学・4年制高校の)『2年生』;(3年生高校の)1年生
 sophomoric	(高校・大学の)2年生の / 気取っているが未熟な,生意気な
 soporific	眠けを催させる,催眠の / 催眠剤,睡眠薬
@@ -3014,7 +3132,6 @@ sort	『種類』,部類(kind) / 性格,性質,タイプ / 《おもに英話》
 sort-out	(部屋などの)整理,整頓
 sorter	分類する人,分類機
 sortie	(包囲されている側の)突撃,出撃 / (飛行機の)単機出撃 / 《英》(知らない土地への)小旅行
-SOS	(船・飛行機などの)遭難無電信号 / 救助を求める声
 sot	大酒飲み,のんだくれ
 sottish	酔っぱらった,大酒飲みの,飲んだくれの / ばかな,まぬけの
 sotto voce	(イタリア語)低い静かな声で / わきぜりふで ささやくように 声を忍ばせて
@@ -3047,9 +3164,9 @@ soundproof	防音の / 〈部屋・建物など〉'を'防音する
 soundtrack	サウンドトラック(発声映画のフィルムの端の録音帯)
 soup	『スープ』
 soup kitchen	貧困者・罹災(りさい)者のための無料食堂 炊き出し
-soupçon	(…の)気味,ほんの少量《+『of』+『名』》
 soupspoon	スープ用スプーン
 soupy	(霧が)スープのように濃い, どろっとした; どろどろした・ひどく感傷的な,涙もろい
+soupçon	(…の)気味,ほんの少量《+『of』+『名』》
 sour	(酢・レモンのように)『すっぱい』 / 『発酵してすっぱい』 / (においなどが)不快な / よくない,まずい / 『気難しい』,不きげんな / (土地が)酸性の / …'を'すっぱくする / …'を'不きげんにする / すっぱくなる / 不きげんになる
 sour cream	サワークリーム(クリームに乳酸菌を加えて発酵させたもの;スープ・サラダ・肉料理に使う)
 sour grapes	負け惜しみ[手が届かなかったぶどうをキツネが負け惜しみに「あれはすっぱい」と言ったイソップ物語から]
@@ -3061,24 +3178,10 @@ sousaphone	スーザフォン(チューバ(tuba)に似た大型の低音金管�
 souse	(水などに)…'を'入れる,突っ込む《+『名』+『in』(『into』)+『名』〈水など〉》 / …'を'ずぶぬれにする / …'を'酢(塩水)につける / 《米》…'を'酔わせる / 水につかる,ずぶぬれになる / 《米》酔っ払う / (豚の足などの)塩づけ / (つけ物の)塩づけ汁,塩水 / 《米》大酒飲み,酔っ払い
 soused	酔っ払った
 south	〈U〉《通例the south》『南』,南方 / 《the south, the South》南方[地方] / 《the South》(米国の)南部地方 / 『南の』,南部の,南向きの;南からの / 『南の方へ(に)』
-South Africa	南アフリカ(アフリカ南部の共和国で,公式名は the Republic of South Africa;首都は,行政府 Pretoria,立法府 Cape Town,司法府 Bloemfontein)
-South African	南アフリカの / 南アフリカ共和国の / 南アフリカ人
-South America	南アメリカ,南米(西半球の南部では第4の広さの大陸)
-South American	南米の,南米人の / 南米人
-South Carolina	サウスカロライナ州(大西洋に面する米国南東部の州;州都はColumbia;《略》『S.C.,SC』)
-South China Sea	南シナ海(中国の南東に広がる海域)
-South Dakota	サウスダコタ州(米国中北部の州;州都はPierre;《略》『S.Dak.,S.D.,SD』)
-South Island	南島(ニュージーランド最大の島)
-South Korea	韓国(朝鮮半島の北緯38゜以南の共和国;公式名はthe Republic of Korea(大韓民国);首都Seoul)
-South Pole	南極
-South Sea Islands	南太平洋諸島
-South Seas	赤道以南の海;南太平洋
 south-southeast	南南東 / 南南東へ向かう / 南南東へ(に)
 south-southwest	南南西 / 南南西へ向かう / 南南西へ(に)
-South-West Africa	南西アフリカ(南アフリカ共和国の委任統治領だった) 現在は Namibia
 southbound	南へ向かう,南行きの / 南方への旅の
 southeast	〈U〉《the ~》『南東』(《略》『SE,S.E.』) / 《the ~》南東地域,南東部;《the S-》米国南東部 / 南東へ向かう / (風が)南東からの / 南東へ(に)
-Southeast Asia	東南アジア
 southeaster	南東の強風
 southeasterly	南東の,南東へ向かう / (風が)南東からの / 南東へ(に) / (風が)南東から
 southeastern	南東の,南東へ向かう / (風が)南東からの / 南東部特有の
@@ -3087,9 +3190,7 @@ southeastwards	=southeastward
 souther	強い南風
 southerly	南の,南へ向かう / (風が)南からの / 南へ(に) / (風が)南から
 southern	『南の』,南[部]にある;南へ向かう / (風が)南からの / 《しばしばS-》南部特有の,南部ふうの;(特に)米国南部の
-Southern Hemisphere	南半球
 southern lights	=aurora australis
-Southern Yemen	南イエメン(アジア南西部の共和国;公式名People's Democratic Republic of Yemen(イエメン民主人民共和国);首都Aden)
 southerner	南国の人,南部の人 / 《S-》米国南部人
 southernmost	最南の,最南端の
 southland	《しばしばS-》〈C〉南部地方 / 《S-》米国南部
@@ -3105,8 +3206,6 @@ souvenir	(人・場所・でき事などを思い出させる)記念品,みや�
 sovereign	(国王・女王などの)『君主』,主権者 / (英国の古い)1ポンド金貨 / 『君主の』,最高権力(最高位)を持つ / 『独立の』 / 最高の,この上ない / 《文》(薬・療法などが)効能のある,よく効く
 sovereignty	主権,統治権 / 主権者の身分(支配権,権力)
 soviet	〈C〉(旧ソ連の)地方会議(労働者・農民によって選出され,立法権・行政権を有する) / 《the Soviets》『旧ソ連政府』;『旧ソ連人民』 / 地方会議の / 《S-》ソ連の
-Soviet Russia	旧ソ連(the Soviet Union)の通称
-Soviet Union	《the~》『ソビエト連邦』(15の共和国より成る世界最大の国で公式名はthe Union of Soviet Socialist Republics(ソビエト社会主義共和国連邦);首都はMoscow) 1991年に崩壊 略は USSR
 sow	…'の'『種をまく』 / (…の種を)〈土地〉'に'『まく』《+『名』+『with』+『名』》 / 〈うわさ・紛争など〉'の'『種をまく』 / 〈自〉種をまく / 雌豚
 sower	種子をまく人(機械) / (うわさ・紛争などを)まき散らす人
 sown	sow(種子をまく)の過去分詞
@@ -3115,9 +3214,7 @@ soy	〈U〉しょうゆ / =soybean
 soy sauce, soya sauce	醤油
 soybean	大豆(だいず)
 sozzled	酔っ払った,酩酊(めいてい)した
-SP	Shore Patrol / Specialist
 sp.	special / species / specimen / spelling / spirit
-Sp.	Spain / Spaniard / Spanish
 sp.gr.	specific gravity 比重
 spa	鉱泉,温泉 / 温泉場
 space	〈U〉『空間』,広がり / 〈U〉『宇宙』,地球の大気圏外(outer space) / 〈C〉〈U〉『間隔』,距離;《しばしば複数形で》空地 / 〈C〉(特定目的のための)『場所』 / 〈U〉《しばしばa~》時間 / 〈C〉〈U〉スペース,余白,余地 / 〈C〉線間(譜表において五線の間の部分) / …'を'間隔をおいて配置する《+『out』+『名,』+『名』+『out』》
@@ -3144,22 +3241,12 @@ spade	『すき』,踏みぐわ(シャベルを違って金属部分が平ら) /
 spadeful	(…の)すき1杯[分の量]《+『of』+『名』》
 spadework	骨の折れる予備作業,基礎研究(テータ収集など)
 spaghetti	スパゲッティ(マカロニより細く,中が空になっていない)
-Spain	『スペイン』(ヨーロッパ南西部の王国;首都はMadrid)
 spake	(古語・詩)speakの過去
 spam	スパム(コンビーフに似た豚肉かん詰の商標名：アメリカ軍に占領された歴史の長い場所、例えば沖縄・ハワイ・フィリピンなど、で郷土料理に採り入れられることが多い)・迷惑メール・迷惑メールを送る
 span	『スパン』,親指と小指を広げた長さ(約9インチ=23センチ) / (ものが及ぶ限りの)長さ,伸び,範囲 / (アーチ・はり・橋などの)支柱間の距離,径間,渡間(わたりま)・『短い期間』,つかの間 / (親指と小指を広げて)…'を'測る / 〈橋・道路などが〉〈川・土地など〉'に'架(か)かる,'を'横切る,'に'伸びる / 〈川・土地など〉'に'(橋・道路などを)架ける,渡す《+『名』+『with』+『名』》 / (空間・時間的に)…'に'及ぶ,わたる / (引き具を付け荷車を引く)一端の馬(または団の動物) / =spick-and-span
 span roof	切妻(きりづま)屋根
 spangle	スパングル(特に衣服につけるぴかぴか光る小さな薄い金属やプラスチックの飾り) / ぴかぴか光る小さな物 / (光る物などで)…'を'飾る;…'を'ぴかぴか光らす
-Spaniard	スペイン人
 spaniel	スパニエル(小型または中型の犬で,足は短く,耳は長く垂れ下がり,光沢のある毛並をもつ)
-Spanish	《the ~》《集合的に》『スペイン人』 / 『スペイン語』 / 『スペイン』[人]『の』;スペイン語の
-Spanish America	スペイン語圏中南米諸国
-Spanish American	スペイン語圏中南米人 / スペイン系アメリカ人 / スペインのアメリカの,スペインとアメリカ合衆国の / スペイン語圏中南米の
-Spanish American War	米西戦争(1898年)
-Spanish Armada	スペインの無敵艦隊(1588年英国を攻撃したが敗北し,その後暴風雨のために全滅した)
-Spanish fly	(またcantharis)〈C〉ハンミョウ[類のこん虫] / (またcantharides)〈U〉カンタリデス(ハンミョウを粉末にした薬)
-Spanish Main	南米北部カリブ海沿岸 / カリブ海(Caribbean Sea)(植民地時代のスペイン商船の航路で海賊が出没した)
-Spanish moss	サルオガセモドキ(米国南部の樹木に寄生する灰色がかった緑のこけ)
 spank	(罰として平手などで)…'の'しりをピシャリと打つ / (しりへの)平手打ち
 spanker	ピシャリとたたく人(物) / 《話》ピシャリとひざをたたくほどすばらしい物(人) / (船の)後檣(こうしょう)縦帆
 spanking	しりの平手打ち(体罰の一種) / 《話》すばらしい,りっぱな / (風などが)そう快な,さわやかな / (動作・足どりなどが)速い,元気のいい,きびきびした / とても,ひじょうに
@@ -3182,8 +3269,6 @@ sparse	希薄な,まばらな,少ない;(頭髪などが)薄い:a sparse populat
 sparsely	まばらに
 sparseness	=sparsity
 sparsity	希薄
-Sparta	スパルタ(古代ギリシアの都市国家;兵士の厳格な訓練で有名)
-Spartan	スパルタ[人,文化]の / スパルタ式の,質実剛健な,鍛練の厳しい / スパルタ人 / 質実剛健な人
 spasm	(筋肉などの)けいれん / (感情・活動などの)発作《+『of』+『名』》
 spasmodic	けいれん性の / 発作的な / 断続的な,不規則な
 spasmodically	けいれん的に,発作的に
@@ -3486,8 +3571,6 @@ spring mattress	スプリング付きマットレス
 spring-clean	…'の'[春の]大掃除をする
 springboard	(水泳の)飛び込み;(体操の)跳躍台 / (…への)出発点《+『to』+『名』》
 springbok	トビカモシカ(南アフリカ産;驚くと跳び上がる習性がある)
-Springer spaniel	スパニエル犬([狩]猟用の犬)
-Springfield	スプリングフィールド(米国Illinois州の州都)
 springless	ばねがきかない,弾力性のない;活気のない
 springlike	春のような,春らしい / ばねのような
 springtide	(新月時と満月時に起こる)大潮 / =springtime
@@ -3523,7 +3606,6 @@ sputum	つば,たん
 spy	『スパイ』,諜報員 / 『探偵』(たんてい),密偵 / (敵意をもって)(…を)『ひそかに見張る』(探る)《『+on』(『upon』)+『名』》 / (…について)調査する,せんさくする《+『into』+『名』》 / …'を'見つけ出す,探り出す《『out』+『名』,+『名』+『out』》
 spyglass	小望遠鏡
 sq.	square{名}5,{形}3
-Sq.	square{名}2
 sqq.	sequentia以下(the following ones)
 squab	(食用の)ひなバト
 squabble	つまらない口論 / (…のことで)つまらないけんか(口論)をする《+『over』(『about』)+『名』》
@@ -3590,27 +3672,7 @@ squirt gun	(おもちゃの)水鉄砲
 squirter	(液体の)噴出器,噴霧器
 squish	…'を'絞る,押しつぶす / (水・ぬかるみの中で)ビチャビチャ音をたてる / ビチャビチャという音
 squishy	ぬれて柔らかい,ぐしょぐしょの
-Sr	strontiumの化学記号
-Sr.	Senior / Sir / Sister
-SR.	Seaman Recruit / shipping receipt
-Sri	…様,…先生(英語の『Mr.』に相当する)
-Sri Lanka	スリランカ(インド洋にある島国の共和国;Ceylonの正式国名;首都Colombo)
-SSE	south-southeast
-Ssh	=sh
-SSR	Soviet Socialist Republicソビエト社会主義共和国
-SSS	Selective Service System 選抜徴兵制
-SST	supersonic transport 超音速輸送[機]
-SSW	south-southwest
 st.	stone(重量名) / street
-St.	Street / Strait / Saint(複SS.,Sts.)聖…,セント…
-St. Bernard	=Saint Bernard,St.Bernard
-St. Louis	セントルイス(米国Missouri州東部ミシシッピー河畔の港市)
-St. Paul	セントポール(ミシシッピー河畔にあるMinnesota州の首都)
-St. Paul's	セントポール大聖堂(ロンドンにある大教会堂)
-St. Peter's	サンピエトロ大聖堂(イタリアのバチカンにある)
-St. Petersburg	ペテルスブルグ(レニングラードの旧称;1703‐1914) / セントピーターズバーグ(米国Florida州の避寒地・引退した人達が温暖な気候を求めて移り住むので年寄りの多い町です)
-St. Valentine's Day	=Valentine's Day
-St. Vitus's dance	=St. Vitus' dance =Sydenham's disease シデナム病
 sta.	station / stationary
 stab	(刃物・とがったものなどで)…'を'『刺す』,突き刺す《+『名』+『with』+『名』〈刃物など〉》 / (…に)〈刃物・とがったものなど〉'を'突き刺す《+『名』〈刃物など〉+『into』+『名』》stab a fork into meatフォークを肉に突き刺す / (…まで)〈人・心など〉'を'鋭く傷つける《+『名』〈人・心など〉+『to』+『名』》 / (…に)刃物で突きかかる,(…に)突き刺さる《+『at』+『名』》 / 『突き刺すこと』 / 刺し傷 / 刺すような鋭い痛み / 《話》(…に対する)試み,企て《+『at』+『名』(do『ing』)》
 stabbing	(痛みが)突き刺すような,鋭い / しんらつな,痛烈な
@@ -3669,7 +3731,6 @@ stalactite	(鍾乳洞の天井から垂れ下がる)鍾乳(しょうにゅう)�
 stalagmite	(鍾乳洞の床上に生じる)石筍(せきじゅん)
 stale	(食物などが)『新鮮でない』,腐り始めた;(酒などが)気の抜けた;(空気などが)むっとする / 新鮮さを失った,古くさい,陳腐な / (過老・退屈などで)生気がない,頭のぼんやりした,(練習不足などで)調子をくずした / 古くさくなる,気が抜ける;陳腐になる
 stalemate	(チェスで)手詰まり / 行き詰まり,窮境 / (チェスで)〈相手〉'を'手詰まりにさせる / …'を'行き詰まらせる
-Stalin	スターリン(『Joseph~』;1879‐1953;ソ連の政治家;首相1941‐53)
 stalk	《しばしば複合語を作って》『茎』;葉柄 / 細長い支え / 《副詞[句]を伴って》『大手を振って歩く』,堂々と歩く / (場所に)〈疫病・災害などが〉広がる,はびこる《+『through』(『across』)+『名』》 / 〈敵・獲物など〉'に'『忍び寄る』,そっと近づく / (災害・疫病などが)〈場所〉'に'広まる / (敵・獲物などに)忍び寄ること / いばって歩くこと,闊歩(かっぽ)
 stalker	(獲物などに)忍び寄る人 / いばって歩く人
 stalking-horse	隠れ馬(猟師が身を隠し獲物に忍び寄るための馬または馬形の物) / 口実,だし
@@ -3683,7 +3744,6 @@ stammer	『どもる』,口ごもる / …'を'『どもりながら言う』《
 stammerer	どもる人
 stammering	どもる,どもりながら言う
 stamp	〈地面・床など〉'を'『踏みつける』;〈足〉'を'踏み鳴らす;…'を'踏みにじる,踏みつぶす / …'に'『印』(『判』)『を押す』;(印などを)…'に'押す《+『名』+『with』+『名』〈印〉》;(…に)〈印など〉'を'押す《+『名』〈印〉+『on』+『名』》 / 《しばしば受動態で》(印象などを)〈心など〉に刻みつける《+『名』+『with』+『名』〈印象〉》;(心などに)〈印象など〉'を'刻みつける《+『名』〈印象〉+『on』(『in』)+『名』》 / …'に'切手(印紙)をはる / (…であると)〈事が〉〈人〉'を'はっきり示す《+『名』〈人〉+『as』+『名』(『形』)〈補〉》 / …'を'押しつぶす,粉砕する;…'を'粉々にして(…に)する《+『名』+『into』(『to』)+『名』》 / 踏みつける,足を踏み鳴らす;足を踏み鳴らして歩く / 〈C〉『切手』(postage stamp),[収入]印紙,証紙 / 〈C〉『判』,印章;押し型,抜き型 / 〈C〉(判・押し型などで押した)印,スタンプ,消し印,検印 / 〈U〉特質,特徴,印 / 〈U〉種類,型 / 〈C〉足踏み,踏みつけること,じだんだ
-Stamp Act	印紙条例(1765年英国が米植民地に課す)
 stampede	(動物の群れが)驚いてどっと逃げること / (群衆・暴徒が)なだれを打って逃げだすこと;どっと押し寄せること,殺到 / どっと逃げ出す,殺到する / …'を'どっと逃げ出させる
 stamping ground	行きつけの場所,たまり場
 stance	態度,立場 / スタンス(ゴルフ・野球などで打球のときの足の位置)
@@ -3723,10 +3783,8 @@ staphylococcus	ブドウ状球菌
 staple	つぼくぎ(電線などを固定する『U』字形のくぎ) / (書類・製本用の)留め金,ホッチキスの針 / …'を'つぼくぎで止める;…'を'留め金でとじる / 〈C〉《複数形で》(ある国・地方の)主要産物,重要商品 / 〈C〉《通例複数形で》基本(必需)食品 / 〈C〉《通例複数形で》主要素,主成分;主題 / 〈U〉繊維;(繊維の)標準品位 / 〈U〉原料 / 主要な,重要な / (ある地域の)特産の
 stapler	製本機,針金つづり機,ホッチキス
 star	『星』;恒星(fixed star) / 『星形のもの』;星章,星標(*)(asterisk) / 『スター』,花形 / (人の運勢を左右するといわれる)運星;《しばしば複数形で》運勢,運,星回り / (星印で示した)等級 / 《the star》《文》実現不可能な逆標(願望) / 星の / 花形の,主役の;卓越した,すぐれた / …を星(星形の物)で飾る;…'に'星印をつける;(…を)…'に'星のようにちりばめる《+『名』+『with』+『名』》 / …'を'主役にする / 主役を務める,主演する
-Star Chamber	《the 『S-』『C-』》星法院(陪審を用いず専断と不公平、厳罰で知られた英国の高等法院(1487‐1641)) / 〈C〉(一般に)専断不公正な裁判所(委員会)
 star-crossed	星回りの悪い,不運な
 star-spangled	星を散らした
-Star-Spangled Banner	星条旗(正式の名称;the Stars and Stripesは俗称) / 米国国歌
 star-studded	星がいっぱいの / 《話》有名俳優たちがいっぱいの
 starboard	(船首に向かって)右舷(うげん),機首に向かって右側 / 右舷の方へ
 starch	〈U〉でんぷん / 〈U〉〈C〉でんぷん食品 / 〈U〉のり(糊) / 〈U〉堅苦しさ / …'に'のりをつける,'を'のりづけして堅くする
@@ -3749,7 +3807,6 @@ starling	ホシムクドリ(人家の近くに群生する鳴鳥)
 starlit	星に照らされた,星あかりの
 starry	星の多い,星あかりの / ぴかぴか光る,星のように光る / 星形の
 starry-eyed	空想的な,非現実的な
-Stars and Stripes	星条旗
 start	(…から…に向かって)『出発する』《+『from』+『名』+『for』(『to』)+『名』》 / 〈事が〉『始まる』,発生する;(…で)始まる《+『with』+『名』》,(…から)生じる《+『from』+『名』》 / 〈人が〉『活動し始める』,〈機械などが〉動き始める;(…を)始める,(…に)着手する《+『in』(『on』)+『名』》 / 《しばしば副詞[句]を伴って》〈人が〉(…に驚いて)急に動く;《比喩(ひゆ)的に》ぎまりとする,ぎょっとする 《+『at』+『名』》 / 《しばしば副詞[句]を伴って》〈物が〉急に動く,飛び出る,噴出する / (試合の)先発メンバーになる / …'を'『始める』,開始する / 〈人〉'に'始めさせる / …'を'生じさせる,引き起こす / 〈機械など〉'を'『始動させる』 / …'を'使い始める / 〈獲物〉'を'狩り出す,飛び立たせる,先発メンバーしとて出す / 〈C〉『出発』,スタート;出発点 / 〈C〉(事業などの)『開始』,着手 / 〈C〉最初,初め,出だし / 〈C〉《a ~》はっと(びっくり)すること,びっくりして飛び上がること / 〈U〉《時にa ~》(…に対する)先発[権],優先[権];機先《+『on』(『over』)+『名』》
 starter	出発合図係,スターター / (出発線の)競走馬,競走者 / 《修飾語を伴って》始める人 / 《話》皮切り,手始め / (機械の)始動機
 starting block	(競走の)スタート台
@@ -3764,9 +3821,7 @@ starveling	飢えてやせこけた人(動物) / 飢えた,やせこけた
 stash	…'を'隠してしまっておく,取っておく《+『away』+『名』,+『名』+『away』》 / (秘密の)貯蔵物,蓄え
 stat.	statue / statute
 state	〈C〉(人・物事の)『状態』,ありさま,様子 / 〈C〉《a ~》《話》極度の緊張状態,異常な精神状態 / 〈U〉地位,階級,身分 / 〈C〉〈U〉《しばしばS-》『国家』,国,政府 / 〈C〉《時にS-》(アメリカ・オーストラリアなどの)『州』 / 《the States》《話》『米国』 / 〈U〉威厳;公式;堂々とした様子 / 国家の,国事に関する / 《しばしばS-》《米》州の,州立の / 公式の,儀式用の / …'を'『はっきり述べる』,公式に申し立てる / 〈当局が〉…'を'指定する,決める
-State Enrolled Nurse	准看護婦(《略》『SEN』)
 state of the art	特定の分野またはある時点での科学・規術水準 = state-of-the-art
-State Registered Nurse	正看護婦(《略》『SRN』)
 state's evidence	共犯証言(被告が自分の減刑のため行う他の共犯者に不利な証言)(《英》king's (queen's) evidence)
 statecraft	政治的手腕(statesmanship)
 stated	決まった,規定の;定期の / はっきり述べられた,明言された;公認された
@@ -3777,7 +3832,6 @@ stateliness	荘重,威厳
 stately	『威厳のある』,荘厳な,堂々とした,品位ある
 stately home	(由緒ある)いなかの大邸宅
 statement	〈U〉『声明』(『供述』)『すること』 / 〈C〉『声明』(『供述』)[『書』] / 〈C〉(銀行などの)計算書,決算報告 / 〈C〉(音楽で)曲の主題の提示
-Staten Island	ステタン島(米国New York湾内の島)
 stateroom	(船・列車の)専用室,特等室
 stateside, Stateside	米国[内]の,米国に向けた / 米国内で,米国に(へ)
 statesman	(特に有能で公正な)『政治家』
@@ -3800,7 +3854,6 @@ statistician	統計家,統計学者
 statistics	《複数扱い》『統計』,統計資料,統計表 / 《単数扱い》『統計学』
 statuary	〈U〉《集合的に》彫像(statues) / 《古》彫刻家 / 〈U〉彫像術,彫塑(ちょうそ) / 彫像の,立像の
 statue	『像』,彫像,立像
-Statue of Liberty	自由の女神(ニューヨーク湾のLiberty Islandにある像)
 statuesque	彫像のような,(彫像のように)優美な,均整のとれた
 statuette	(テーブルや棚の上に置く)小像,小立像
 stature	『背』(せい),身長(height) / (身体の,また道徳的・知的な)発達,成長,進歩
@@ -3822,8 +3875,6 @@ stayer	根気強い人(動物),がん張り屋
 staying power	耐久力,持久力
 staysail	支索帆(両マスト間の三角帆など)
 std.	standard
-STD	Subscriber Trunk Dialing加入者長距離ダイヤル直通方式
-Ste.	Sainte《女性に用いて》聖…
 stead	代わり;役だち,助け
 steadfast	『確固とした』,忠実な
 steadily	『着実に』,堅実に,たゆまずに
@@ -3877,7 +3928,6 @@ stellar	星の;星のような / スターの,花形の / 主要な;すぐれた
 stem	(草の)『茎』,(木の)『幹』 / 葉柄,花梗(かこう) / 『茎状のもの』;(杯・グラスの)『脚』,(パイプ・さじの)柄,(時計の)りゅうず / (単語の)語幹,語根 / 船首;船首材 / …'の'茎(軸)を取り去る,へたをとる / (…から)生じる,(…に)由来する《+『from』+『名』(do『ing』)》 / 〈流れなど〉'を'止める / 〈風・水流など〉'に'逆らって進む,抵抗する / 〈攻撃・反対など〉'を'くい止める,抑える
 stemmed	茎(柄,軸など)のある / 茎(柄,軸など)を取り去った
 stemware	(飲物・デザート用の)脚付きのグラス[類]
-Sten gun	ステン銃(英国の軽機関銃)
 stench	いやなにおい,悪臭
 stencil	ステンシル,型紙,型板,刷り込み型 / (謄写版の)原紙 / (ステンシルを用いた)刷り込み / 〈文字・模様など〉'を'ステンシルで刷り出す
 steno	=stenographer / =stenography
@@ -3928,14 +3978,11 @@ steroid	ステロイド(脂肪溶解性の有機化合物の総称)
 stertorous	(病気のため)高いびきをかく
 stet	〈校正で訂正された箇所が〉生きる,もとへもどる / 〈いったん訂正した箇所〉'を'もとへもどす,生かす,'に'「イキ」と記す
 stethoscope	聴診器
-Stetson	ステットソン帽(つば広で山高のフェルト製の帽子,特にカウボーイがかぶる;もと商標名)
 stevedore	沖仲仕,荷役人夫
-Stevenson	スティーブンスン(『Robert Louis』 ~;1850‐94;スコットランド生れの小説家・詩人)
 stew	〈食物〉'を'『とろ火で煮る』,シチューにする / 《話》…'の'気をもませる,'を'いらいらさせる / とろとろに煮える,シチューになる / 《話》やきもきする,気をもむ / 〈C〉〈U〉『シチュー』(肉・野菜などをとろ火で煮込んだ料理) / 〈C〉《話》気をもむこと
 steward	(大家の)執事,家令 / (組合・団体などの)支配人,取締役 / (ホテル・病院・学校・クラブなどの)食堂主任 / (汽船・旅客機などの)『スチュワード』,ボーイ,給仕 / (会などの)世話役,幹事
 stewardess	(汽船・旅各機・列車などの)『スチュワーデス』,女給仕 / 女家令
 stewardship	stewardの職(義務) / 管理,運営
-Stewart	=Stuart
 stewed	とろ火で煮込んだ,シチューにした / 《英》(お茶が)出すぎた,苦い / 《補語にのみ用いて》《話》酔っぱらった
 stg.	sterling
 stibium	アンチモン(antimony)金属元素;化学記号は『Sb』
@@ -3981,7 +4028,6 @@ stillroom	酒類蒸留室 / (大邸宅の)食料品貯蔵室
 stilly	静かな
 stilt	《複数形で》竹馬 / セイタカシギ(水辺の鳥)
 stilted	(文体など)誇張した,大げさな;堅苦しい
-Stilton	スチルトンチーズ(英国産の濃厚な白色チーズ)
 stimulant	刺激[するもの] / 興奮性飲食物
 stimulate	…を『刺激する』,励ます,元気づける / 刺激[剤]となる
 stimulating	刺激する;激励する,元気づける
@@ -4026,7 +4072,6 @@ stockbroker	株式仲買人
 stockcar	ストックカー(レース用に改造された乗用車) / 《米》箱型家畜運搬用貨車
 stockfish	干し魚,魚の干物
 stockholder	=shareholder
-Stockholm	ストックホルム(スウェーデンの首都)
 stockily	ずんぐりと,がんじょうに
 stockiness	ずんぐりしていること,がんじょうさ
 stockinet,stockinette	(伸縮性のある機械編みの)メリヤス
@@ -4051,7 +4096,6 @@ stoke	〈火〉'を'かき立てる;〈炉など〉'に'燃料をくべる《+�
 stokehold	(汽船の)機関室,火室
 stokehole	=stokehold / (炉の)たき口
 stoker	(機関の)火夫 / 給炭機
-STOL	短距離離着陸[short take off and/landingの省略形]
 stole	ストール(牧師が肩からたらす絹のけさ) / (婦人用の)肩掛け,ストール / stealの過去
 stolen	stealの過去分詞・盗まれた
 stolid	ぼんやりした,鈍感な
@@ -4065,7 +4109,6 @@ stomachful	(…の)(うんざりするほどの)胃(腹)一杯[分]《+『of』+
 stomata	stomaの複数形
 stomp	〈床・地面など〉'を'踏みつける / (力を込めて)〈足〉'を'踏みおろす / (力を込めて)踏みつける / ストンプ(力強いリズムとテンポの早い初期のジャズおよびそのダンス)
 stone	〈U〉(物質としての)『石』,石材 / 〈C〉『小石』,岩石の小片 / 〈C〉《複合語を作って》(特定の目的に用いる)石材 / =precious stone / 〈C〉(形・堅さが)石に似たもの(あられなど) / 〈C〉(腎臓・膀胱(ぼうこう)などの)結石 / 〈C〉(果実の)種,核 / 〈C〉《英》(体重を表す重量単位の)ストーン(14ポンド(約5.35キログラム)に相当) / 『石造りの』,石の・石器製の / …'に'石を投げる,石を投げて殺す / …'に'石を取り付ける(張る,敷く),沿って石を並べる / 〈果実〉'の'種を取る
-Stone Age	石器時代(道具や武器に石を使った時代;鉄器時代(Iron Age),青銅器時代(Bronze Age)に先行する)
 stone fruit	核果,石果(桃・梅など堅い内果皮のある果実)
 stone less	(果実が)種のない
 stone-blind	全く目の見えない
@@ -4131,10 +4174,8 @@ stovepipe	ストーブの煙突 / 《話》シルクハット
 stow	(場所・入れ物に)…'を'しまい込む,詰め込む《+『away』+『名』+『in』(『into』)+『名』》 / (…を)〈場所・入れ物〉'に'しまう,詰め込む《+『名』+『with』+『名』》
 stowage	積み込み / 積み込みの余地 / 荷積み料
 stowaway	密航者
-STP	LSDより強力な幻覚剤の一種
 strabismus	斜視,やぶにらみ
 straddle	…'に'またがる:straddle a horse(bicycle, chair)馬(自転車,いす)にまたがる / 〈ある問題〉'に'どっちつかずの態度をとる,ひより見する / 〈両脚〉'を'広げる / 両脚を広げて座る(立つ,歩く) / どっちつかずの態度をとる / 〈両脚が〉大きく開いている / またがること / ひより見
-Stradivarius	ストラディバリウス(イタリアのStradivari(1644‐1737)およびその一族の製作したバイオリンその他の弦楽器;名器として有名)
 strafe	(飛行機から)…'を'機銃掃射する
 straggle	《副詞[句]を伴って》ばらばらに広がる,散在する;ばらばらに行く(来る) / (行進などで)本隊からはぐれる;進路からそれる
 straggler	落後者・連れにはぐれた人
@@ -4183,7 +4224,6 @@ strategic,strategical	(比較変化なし)戦略の,計略の;戦略上重要な
 strategically	戦略上
 strategist	戦術(戦略)家
 strategy	〈U〉兵法,用兵学 / 〈C〉戦略,戦術 / 〈C〉(商売や政治上の)巧みな戦略;(ある目的に達するための)計画,方法
-Stratford on Avon	ストラトフォードオンエイボン(英国中部の都市で,Shakespeareの出生地及び埋葬地)
 strati	stratusの複数形
 stratification	層にすること;層をなす状態 / (岩などの)成層
 stratify	…'を'層に配列する,層にする / 〈社会・人〉'を'階層に区別する / 層になる
@@ -4192,7 +4232,6 @@ stratocumulus	層積雲
 stratosphere	成層圏(地上約60kmまで広がる大気層)
 stratum	地層,岩層 / (社会的な)階層
 stratus	層雲
-Strauss	シュトラウス / 『Johann Strauss』(1804-1849;オーストリアの作曲家;「ワルツの父」と呼ばれる) / 『Johann Strauss Jr.』(1825-1899;1の息子で作曲家;「ワルツの王」と呼ばれる) / 『Richard Strauss』(1864-1949;ドイツの作曲家)
 straw	〈U〉《集合的に》『麦わら』,『わら』 / 〈C〉(1本の)『わら』 / 〈C〉(飲み物を飲むときに使う)『ストロー』 / 〈U〉《しばしばa~》《否定文で用いて》つまらない物;ごくわずか
 straw boss	(工場などの)小頭,職長補佐;力のない上役
 straw hat	麦わら帽子
@@ -4313,7 +4352,6 @@ strum	〈弦楽器・曲〉'を'気ままに弾く,つまびく,かき鳴らす 
 strung	string の過去・過去分詞
 strut	(人目を意識して)気どって歩く,そりかえって歩く / 気どり歩き / (建物の)支柱,筋かい / …'に'支柱をかう
 strychnine	ストリキニーネ(有毒の結晶で中枢神経の興奮剤)
-Stuart	(また Stewart)英国の王室の名
 stub	(鉛筆・たばこなどの)使い残り;短い切れ端,(木の)切り株 / (小切手帳などの)控え;《米》(入場券などの)半券 / (…に)〈つま先〉'を'ぶつける《+名+against+名》
 stubble	《集合的に》(刈り取り後の鼻などの)刈り株 / 刈り株状の物;無精ひげ
 stubbly	刈り株の;刈り株のような
@@ -4325,8 +4363,8 @@ stucco	〈U〉化粧しっくい / 〈C〉化粧しっくい細工 / …'に'化
 stuck	stick の過去・過去分詞 / 動かない,固定している,粘着している / 動けない,(支障があって)進行が止まっている・「stuck on 何々」で「何々に夢中になっている・惚れ込んでいる」
 stuck-up	つんとしている,思い上がった,うぬぼれた・高慢な
 stud	《おもに米》種馬 / 《集合的に》(一群の)繁殖用動物(種馬,種牛など) / (インテリアなどに用いる)飾りびょう / カフスボタン,カラーボタン / (建物の)間柱 / (…を)…'に'ちりばめる《+名+with+名》 / …'に'点在(散在)している / …'に'間柱をつける
-stud.	student
 stud farm	種馬飼育場
+stud.	student
 studbook	(馬の)血統台帳,血統登録帳
 studding	(一つの壁の)間柱 / 間柱用材
 student	学生,生徒 / (…の)『研究者』,学者《+of+名》
@@ -4377,7 +4415,6 @@ stutterer	どもる人,口ごもる人
 stutteringly	どもりながら
 sty	豚小屋(=pigsty) / 汚い(不潔な)場所
 sty,stye	(目にできる)ものもらい,麦粒腫(ばくりゅうしゅ)
-Stygian	(ギリシア神話で)三途(さんず)の川(Styx)の,地獄の;地獄のような / 《文》暗い,陰うつな
 style	〈C〉〈U〉(服装などの)『流行[型]』,スタイル / 〈C〉(衣服・物腰・ふん囲気などの)優雅さ,上品 / 〈C〉〈U〉(個人・集団・時代などに特有の)『様式』,型;文体,口調 / 〈C〉(商品などの)種類,形式 / 〈C〉称号,肩書き,呼び名 / 〈C〉鉄筆(stylus) / 〈C〉(植物の)花柱 / 〈U〉〈C〉印刷様式,体裁 / 〈服装・家具など〉'を'流行に合わせてデザインする(作る) / (特定の印刷様式に合わせるため)〈原稿など〉'に'手を加える / 《style+名+名〈補〉》(…と)…'を'呼ぶ,称する
 styler	整髪用電気器具
 styli	stylusの複数形
@@ -4391,16 +4428,14 @@ stylus	尖(せん)筆;(製図,エッチングなどの)鉄筆 / (レコードプ
 stymie	(ゴルフの)スタイミー(相手のボールが自分のボールとホール線上にある状態) / 〈相手・ボール・自分〉'を'スタイミーの位置にする / …'の'じゃまをする,妨害する
 styptic	血止めの / (みょうばんなどの)止血剤
 styrene	スチレン,スチロール(合成ゴムの原料)
-Styrofoam	発泡スチロール(合成樹脂の一種;商標名)
-Styx	(ギリシア神話で)三途(さんず)の川
 suasion	勧告,説得
 suave	(内心はともかく表面上は)人当たりのよい,もの柔らかな
 suavity	(表面上の)人当たりのよさ,もの柔らかさ;《複数形で》もの柔らかな態度(言葉)
 sub	=submarine / (おもにスポーツで)=substitute / =subordinate / 《英》=sublieutenant / =subeditor / 《英》給料の前払い分 / (…の)代役を勤める,代りとなる《+for+名》 / 《英》給料を前借り(前貸し)する / 〈給料〉'を'前借り(前貸し)する
-sub.	substitute / subscription / suburban
 sub judice	(訴訟事件などが)審理中で,未決で
 sub marginal	限度以下の,最低基準以下の
 sub rosa	秘密に,内密に,こっそりと
+sub.	substitute / subscription / suburban
 subaltern	《英》准大尉(captain(陸軍大尉)の下) / 下級(下位)の人 / 下級の,下位の
 subatomic	亜原子の(原子より小さい電子・陽子など)
 subatomic particle	=elementary particle
@@ -4543,7 +4578,6 @@ successor	(…の)『後任者』,継承者,相続人;(…に)取って代わる
 succinct	(文章などが)簡潔な,簡明な(concise) / 簡潔さを特徴とする
 succor, succour	救助,救援 / …'を'助ける,救援する(help)
 succotash	サッコタシ(とうもろこしと豆を混ぜ,時にピーマン,とうがらしを加えた料理)
-Succoth, Sukkoth	仮庵の祭(秋に収穫を祝うユダヤ教の祭)
 succour	=succor
 succubus	(睡眠中の男性と情交するという)魔女
 succulence	汁の多いこと,多液
@@ -4560,7 +4594,6 @@ suckle	…に乳を飲ませる,授乳する / 乳を飲む
 suckling	乳児,幼獣 / 若くて未熟な / 乳離れしていない
 sucrose	蔗糖(しょとう)
 suction	(圧力の差によって気体・液体を)吸い込むこと,吸引;吸引力
-Sudan	アフリカ北東部の共和国;首都Khartoum / アフリカのサハラ砂ばくの南部地方名
 sudden	『突然の』,だしぬけの / 急いだ,あわただしい;急な
 sudden death	一回勝負(同点どうしの決勝戦で,先に得点した方を勝ちとする方式)
 suddenly	『突然に』,だしぬけに
@@ -4569,7 +4602,6 @@ suds	(またsoapsuds)石けんの泡;石けん水 / (一般に)泡 / 《米》�
 sue	(…の件で)〈人など〉'を'告訴する,訴える《+名〈人〉+for+名》 / (…の件で)告訴する,訴える《+for+名》 / (…を)請う,請求する,懇願する《+for+名》
 suede,suède	スエード革(裏をけば立てた柔らかいなめし革) / スエード革まがいの織物
 suet	スエット(牛や羊の腎臓のあたりの脂肪;料理や獣脂製造に用いる)
-Suez Canal	スエズ運河(エジプト北東部にあって地中海と紅海とを結ぶ運河)
 suf.,suff.	suffix
 suffer	(…に)『苦しむ,』悩む,心を痛める《+for+名》,(…で)苦しむ《+from+名》 / 〈物事が〉(…のために)損害を受ける,傷つく《+from+名》 / 《suffer from+名》〈人が〉(一時的な病気に)かかる,わずらわされる / 〈苦痛・悲しみなど〉'を'『受ける』,〈損害など〉'を'被る / 《suffer+名+to do》《古》(…することを)〈人〉'に'許す / 《否定文で》…'を'『がまんする』
 sufferable	がまんできる,耐えられる / かなりよい,まあまあの
@@ -4618,7 +4650,6 @@ suitcase	スーツケース,(長方形で平たい)小型旅行かばん
 suite	(ホテルなどで寝室・居間・客間などの)一続きの豪華な部屋 / (家具などの)一そろい,一組 / (いっしょに使われるものの)一続き,一組,一そろい / (楽曲の一形式である)組曲 / 《集合的に》《まれ》随行員,従者の一行
 suiting	服地,スーツ地
 suitor	(男の)求婚者 / 原告(plaintiff) / 請願者
-Sukkoth	=Succoth, Sukkoth
 sulfa drug, sulpha drug	サルファ剤
 sulfate,sulphate	硫酸塩
 sulfide, sulphide	硫化物
@@ -4641,8 +4672,6 @@ sultriness	蒸し暑さ
 sultry	『ひどく蒸し暑い』,うだるような / 官能的な,なまめかしい;わいせつな,きわどい
 sum	〈C〉《the sum》(数・量の)『合計』,総計(sum total)《+of+名》 / 〈U〉《時に a sum》(抽象的なことの)全体《+of+名》 / 〈C〉《形容詞をつけて》(…の)『額』《+of+名》 / 〈C〉《話》算数,算数の問題 / 〈U〉《the sum》(…の)要約,要旨《+of+名》 / …'を'『合計する』《+up+名,+名+up》 / 合計して…になる《+up to+名》
 sumac, sumach	ウルシ類の樹木(ウルシ,ハゼ,ヌルデなど)
-Sumatra	スマトラ(マレー群島第2の大島)
-Sumerian	〈C〉シュメール人 / 〈U〉シュメール語 / シュメール(語)の
 summa cum laude	最優等で(大学の最優等生の卒業証書に用いられる言葉)
 summarily	かいつまんで,手短に / 略式に,即決で
 summarize, summarise	…'を'要約する,手短に述べる
@@ -4663,7 +4692,6 @@ sump	水などを集める穴;汚水だめ / (坑底の)水だめ,集水坑 / (�
 sumptuary	節約の;ぜいたく禁止の
 sumptuous	ぜいたくな,金のかかった,豪しゃな
 sun	《the~》『太陽』,日 / 〈U〉《the~》『日光』 / 〈C〉恒星 / 〈自分〉'を'日光にさらす / 日光浴をする
-Sun.	Sunday
 sun god	太陽神,日の神
 sun helmet	=pith helmet
 sun lounge	サンルーム(《米》sun parlor)
@@ -4674,16 +4702,12 @@ sunbaked	(陶器・れんがなどが)日干しの;天日でからからにな�
 sunbath	日光浴
 sunbathe	日光浴をする
 sunbeam	『太陽光線』,日光
-Sunbelt	米国南部地域(VirginiaからSouth Californiaまでの温暖地帯のこと)
 sunblind	(窓の)日よけ,ブラインド
 sunbonnet	(婦人・赤ちゃん用)日よけ帽
 sunburn	(ひりひりして痛い)日焼け / 焼けした箇所 / …'を'過度に日焼けさせる / ひどく日焼けする
 sunburned	ひどい日焼けにやられた;《英》日焼けした
 sunburst	(雲間から差す)強烈な日光 / 光り輝く宝石(装飾品など);日輪型花火
 sundae	サンデー(チョコレート・シロップ・ナッツ・果物などをかけたアイスクリームの一種)
-Sunday	『日曜日』(キリスト教の安息日で週の第1日;《略》Sun.)
-Sunday best	晴れ着
-Sunday school	日曜学校(宗教教育のため日曜日に教会などで開かれる);《集合的に》その生徒と先生
 sundeck	サンデッキ(住居・ホテルなどの日光浴用のテラス) / (客船の)上甲板
 sunder	…'を'分ける,切り離す / (…から)分かれる,離れす《+from+名》
 sundew	モウセンゴケ(食虫植物)
@@ -4754,7 +4778,6 @@ superintend	〈仕事・人・組織など〉'を'監督する,指揮する,管�
 superintendence	(…の)監督,指揮,管理《+of+名》
 superintendent	(仕事・施設・組織などの)監督者,長官,所長《+of+名》 / (アパート・事務所などの)管理者,支配人《+of+名》
 superior	(程度・質が)『普通(平均)以上に優れた』,優秀な / (地位・階級などが)『上位の』,上級の,目上の / (数量的に)勝る,優勢な / (言動が)偉ぶった,高慢な / 《補語にのみ用いて》(…に)屈しない,動じない《+to+名》 / 《名詞の前にのみ用いて》(動・植物の器官や部分が)上位の,上についている / (地位・階級などが)『上位の人』,上役,上司,先輩 / 『いっそう優れた人』 / 《しばしば S-》修道院長
-Superior	スペリオル湖(lake~;北米五大湖中で最北最大のもの)
 superiority	『優越』,優位,優勢 / 高慢;超然
 superiority complex	優越複合(精神分析の用語で,無意識に抱く優越感)
 superl.	superlative
@@ -4828,9 +4851,6 @@ supranational	超国家的な
 supremacist	至上主義者(特定集団の優秀性を信じる人)
 supremacy	最高,至上 / 主権;支配権,覇権
 supreme	『最高位(権威)の』 / (程度・質が)『最高の』,最大の / できる限りの
-Supreme Being	神(God)
-Supreme Court	(米国連邦の,また米国各州の)最高裁判所
-Supreme Soviet	最高ソビエト(旧ソ連の最高議会)
 supt.	superintendent
 supvr.	supervisor
 surcharge	追加料金,積み増し金 / (荷物などの)積み過ぎ / (郵便物に印刷された切手の)訂正金額 / 〈人〉'に'(…の)不足額を払わせる《+名〈人〉+on+名》 / 〈荷物〉を積み過ぎる(overload) / …'に'訂正金額を印刷する
@@ -4856,11 +4876,9 @@ surfing	波乗り,サーフィン
 surg	surgeon / surgery / surgical
 surge	波のように押し寄せる,殺到する / 〈感情が〉こみあげる《+up》 / 急増する,〈株などが〉急騰する / (…が)押し寄せること,(…の)襲来,殺到《+of+名》 / (感情の)高まり,急増,急騰
 surgeon	『外科医』 / 軍医
-Surgeon General	軍医総監 / (公衆衛生局の)衛生局長
 surgery	〈U〉外科医術 / 〈U〉手術 / 〈C〉診察室 / 〈U〉診察時間
 surgical	外科の;手術用の / 《名詞の前にのみ用いて》(衣服などが)整形用の
 surgical spirt	(傷口などをふく)消毒用アルコール
-Surinam	スリナム共和国(南米北東沿岸の国;かつて Dutch(Netherlands) Guiana と呼ばれた;首都はParamaribo)
 surlily	不きげんに,無愛想に
 surly	(人・行為などが)不きげんな,無愛想な
 surmise	…'を'『推測する』,推量する / 推測する,推量する / 『推測』,推量
@@ -4882,7 +4900,6 @@ surrealistic	起現実主義の,シュールレアリズムの / 無気味な
 surrender	(…に)…'を'『引き渡す』,明け渡す《+名+to+名》 / (感情などに)〈自分の身〉'を'『任せる』,ゆだねる《+oneself to+名》 / 《文》〈権利・自由など〉'を'『譲る』,放棄する / (…に)『降伏する』,自首する《+to+名》 / (感情などに)身をゆだねる,屈服する《+to+名》 / 『引き渡し,降伏』,自首;譲渡,放棄
 surreptitious	こそこそと行われる(行う)
 surrey	《米》サリー(2座席4人乗りの遊覧用の屋根つき四輪馬車)
-Surrey	サリー州(英国南部の州)
 surrogate	(…の)代理人;代用品《+of(for)+名》 / 《米》(ある州での)遺言検認判事
 surround	…'を'『囲む』,取り巻く / (…で)…'に'『囲いをする』《+名+with+名》 / (窓回りなどの)装飾的な枠取り;(じゅうたんと壁との間の)ほり敷物 / (ある区域・範囲を)取り囲む物
 surrounding	『囲む』,周囲の,付近の
@@ -4915,7 +4932,6 @@ suspicion	〈U〉〈C〉(…の)『疑い』,疑惑,嫌疑《+of+名》 / 〈C�
 suspicious	(人物・話などが)『疑わしい』,怪しい / 疑い深い,人を疑う / 疑っている
 suspiciously	疑い深く,うさんくさそうに;怪しげに,不審に
 suspiciousness	疑惑,不審
-Sussex	サセックス(England 南東部の州;行政上 East Sussex と West Sussex の2州に分かれている)
 sustain	…'を'『持続する』,続けてする / 〈人〉'を'『元気づける』 / 〈家族など〉'を'『養う』 / 《文》(物が下から)…'を'『支える』 / 〈損害・傷害など〉'を'『受ける』,こうむる / 〈苦難など〉'に'耐える,耐え抜く / (法的に)…'を'認める / …'を'立証する,確証する
 sustained	持続した,一様の
 sustenance	(養分としての)食物,栄養[物] / 生計,暮らし・扶養
@@ -4928,7 +4944,6 @@ suzerainty	宗主権;領主の地位(権力)
 svc.,svce.	service
 svelte	(特に女性が)ほっそりと美しい
 svgs.	savings
-SW,S.W.,s.w.	southwest
 swab	棒ぞうきん,モップ / (治療用・塗布用の)消毒綿;綿棒(耳かきなど) / …'を'モップで掃除する / (薬などを)…'に'綿棒で塗る
 swaddle	…'を'包帯で巻く / (昔の風習で)〈赤ん坊〉'を'細長い布で包む / 細長い布;包帯
 swaddling clothes	昔,新生児を包んだ細長い布
@@ -4936,7 +4951,6 @@ swag	《俗》略奪品,盗品 / 《オーストラリア》(放浪者の持ち�
 swage	型鉄 / …'を'型鉄で曲げる(型をつくる)
 swagger	いばって歩く,ふんぞり返る / 自慢する(boast) / いばって歩く(ふんぞり返る)こと / 自慢すること
 swaggerer	いばる人,ふんぞり返る人 / 《単数形で》いばった歩き方
-Swahili	スワヒリ語(アフリカ東部・中部の共通語);〈C〉スワヒリ人
 swain	いなかの若者 / 恋人,求婚者
 swallow	『ツバメ』 / 〈食物など〉'を'『飲み込む』 / 〈言葉など〉'を'取り消す / 〈感情など〉'を'表さない,抑える / …'を'我慢する / 《話》…'を'うのみにする / (特に,緊張して)つばを飲み込む / (…を)飲み込むこと《+of+名》 / (…の)一飲みする量《+of+名》
 swallow dive	=swan dive
@@ -4972,7 +4986,6 @@ swatter	ぴしゃっと打つ人(物) / はえたたき
 sway	『前後(左右)に動く,』揺れる / 《方向を表す副詞[句]を伴って》(一方に)『傾く,』かしぐ / …'を'『揺する,』揺り動かす / (方向を表す副詞[句]を伴って)…'を'傾ける / …'に'『影響を与える,』'を'左右する;《古》…'を'支配する / (…の)揺れ,動揺《+of+名》 / (…の)影響;支配,統治《+of+名》
 swayback	(特に馬の)脊柱湾曲
 swaybacked	(馬が)脊柱湾曲の
-Swaziland	スワジランド(アフリカ南東の王国)
 swear	(神などにかけて)『誓う,』宣誓する / (宣誓して)(…を)『証言する』《+to+名(doing)》 / 『罰当たりな言葉を使う,』(…を)ののしる《+at+名》 / (神などにかけて)…'を'誓う,誓って言う / 《話》《swear+that節》…だと断言する,主張する / (…を)〈人〉'に'誓わせる,宣誓させる《+名+to+名(doing)》
 swearer	宣誓者 / ののしる者
 swearword	悪口,のろい(ののしり)の言葉
@@ -4984,10 +4997,6 @@ sweater	『セーター』
 sweatshirt	(特に運動選手が着る)綿ジャージーの長袖のTシャツ
 sweatshop	搾取工場(低賃金で長時間労働させる工場・仕事場)
 sweaty	(人が)汗をかいている / 汗にまみれた,汗くさい / 汗ばむほど暑い / 骨の折れる
-Swed.	Sweden / Swedish
-Swede	スウェーデン人
-Sweden	スウェーデン(北欧の王国;首都は Stockholm)
-Swedish	スウェーデンの;スウェーデン人(語)の / 《the ~》《集合的に;複数扱い》スウェーデン人 / 〈U〉スウェーデン語
 sweep	…'を'『掃く』,掃除する / (ほうきで掃くなどして)〈ごみなど〉'を'『取る』,集める《+away(up)+名》;(…から)…'を'取る《+away(up)+名+from(off)+名》 / (掃くように)…'の'『上をさっと通る』,…'を'さっとなでる(吹き抜ける);《副詞句を伴って》…'を'掃くように動かす / …'を'押し流す,吹き飛ばす《+along(away, off)+名》;(…から)…'を'押し流す《+『名』+『off(from)』+『名』》 / 〈選挙など〉'に'全面的に勝利をおさめる / 『掃く』,掃除をする / 《副詞[句]を伴って》(掃くように)『さっと通る(動く)』 / 《副詞[句]を伴って》〈山などが〉弓なりに伸びる / 《副詞[句]を伴って》〈人が〉堂々と通り過ぎる / (…を)『掃くこと』,掃除すること,(…か)一掃《+『of』+『名』》 / (…を)『さっと動かすこと』,一振り,(オールなどの)一こぎ《+of+名》 / (…の)湾曲,曲線,カーブ《+of+名》 / (…の及ぶ)範囲《+of+名》 / (物が)押し寄せること,突進 / 《話》掃除人,(特に)煙突掃除人 / 長いオール(かい) / 全面的勝利 / 《複数形で》=sweepstakes
 sweeper	掃除人;掃除機
 sweeping	(広い範囲を)『一掃する』,大きくさっと動かす / 『広範囲の』,全面的な;決定的な / 《複数形で》掃き集めたもの,ごみ,くず / 〈U〉掃除
@@ -5026,7 +5035,6 @@ swept	sweep (掃く, 払う, 掃除する) の過去・過去分詞
 sweptback	(飛行機の翼が)後退角を持つ,(飛行機が)後退翼を有する / (髪を)オールバックにした
 swerve	(…から)急にそれる,急に向きを変える,はずれる《+from+名》 / 〈他〉(…から)…'の'向きを急に変える,'を'はずれさせる《+名+from+名》 / 急にそれる(曲がる)こと;(球の)カーブ
 swift	『速い』,快速の / (行動・反応などが)『即座の』,さっそくの;『す早い』,機敏な / 《おもに詩》つかのまの / 速く;す早く / アマツバメ(翼の長い鳥;高山や断崖に群棲)
-Swift	スウィフト(Jonathan Swift;1667‐1745;英国の作家)
 swiftly	速く;す早く
 swiftness	速やかさ,迅速
 swig	(…の)がぶ飲み,痛飲《+of+名》 / 〈ビールなど〉'を'痛飲する,がぶがぶ飲む / 痛飲する,がぶがぶ飲む
@@ -5055,10 +5063,6 @@ swinish	(豚のように)意地ぎたない,どん欲な
 swipe	大振りの打撃,強打 / …'を'大振りで打つ,強打する / 《話》…'を'盗む,かっぱらう / (…を)強打する《+at+名》
 swirl	うず巻く,旋回する / …'に'うず巻きを起こす;…'を'旋回させる / 旋回すること,回転 / (水・ほこりなどの)大量のうず《+of+名》 / うず巻き形;巻き飾り;巻き毛
 swish	(衣擦れの・きぬずれの)シュッシュッという音,サラサラいう音;(むちなどの)ヒュッという音;ヒュッと音のする一振り(動き)・強く振られて,〈むちなどが〉ヒュッと鳴る・〈むち・尾など〉'を'ヒュッ(シュッ)と音をたてて振る・しゃれた，スマートな・《米俗》〈男が〉女性的な同性愛者の.
-Swiss	『スイス人』;《the ~》《集合的に》スイス人,スイス国民 / 『スイスの』;スイス人の
-Swiss chard	=chard 不断草 スイスチャード
-Swiss cheese	スイスチーズ(薄黄色の穴の多い固いチーズ)
-Swiss roll	ジャム(クリーム)入りロールパン,ゼリーロール
 switch	(特にむち打ち用の)『しなやかな小枝』(棒) / (しなやかな小枝・棒などで)むち打つこと / (…における)『変更』《+in+名》;(…から…への)転換《+from+名+to+名》 / (電気の)『スイッチ』,開閉器 / (電話の)交換台 / (鉄道の)転てつ器,ポイント / (女性の髪用の)入れ毛,かもじ / 〈人・動物〉'を'むちで打つ,むち打つ(whip) / 〈むちなど〉'を'振る,(むちを打つように)…'を'さっと振る / (…に)…'を'『転換する,』変更する《+名+to+名(doing)》 / …'を'交換する(exchange) / 〈線路のポイント〉'を'転換する,転てつする / (ある方向・進路に)変わる,転じる,移る《+to(into)+名》 / 交換する,取り替える
 switch hitter	(野球で)左右どちらでも打てる打者
 switchback	スイッチバック(急勾配をジグザグに上る線路)・ジグザグの山道・ジェットコースター(roller coaster)・(一般に)変換,変更
@@ -5067,8 +5071,6 @@ switchboard	(電話の)交換器,交換台
 switched-on	《話》敏感な,油断のない / 《話》流行の最先端を行く / 《俗》(麻薬によって)幻覚状態にある
 switchgear	(発電所の)[電流]開閉装置
 switchman	(鉄道の)転轍(てんてつ)手(《英》pointsman) ポインツマン ポイントマン
-Switz.	Switzerland
-Switzerland	『スイス』(ヨーロッパ中部の共和国;首都はBern)
 swivel	さる環(かん),回し継ぎ手(片方が自由に動くように二つの部分をつなぎ合わせる取付け具) / 転環,スイベル(結合された二つの部分が互いに自由に動ける複式リンク) / (回転いすの)回転台 / 回る,旋回する / 〈回転椅子など〉'を'回す,旋回させる
 swiz	失望;詐欺,ぺてん
 swizzle	スウィズル(ラム酒・ライムジュース・砕き氷・砂糖などを混ぜたカクテル)
@@ -5096,7 +5098,6 @@ sybaritic	ぜいたく(快楽)にふける,遊蕩好きの
 sycamore	〈C〉《英》カエデの一種;《米》アメリカスズカケノキ;(中近東産の)イチジクの一種 / 〈U〉その木材(固く良質)
 sycophant	おべっかをいう人,へつらう人
 sycophantic	おべっか使いの,ごますりの
-Sydney	シドニー(オーストラリア最大の都市;東海岸にある海港)
 syll.	syllable / syllabus
 syllabary	音節[文字]表(日本語の五十音図など)
 syllabi	syllabus の複数形
@@ -5177,8 +5178,6 @@ synthetically	総合して,総合的に;合成的に
 syphilis	梅毒
 syphilitic	梅毒[性]の,梅毒に感染した / 梅毒患者
 syphon	=siphon
-Syria	シリア(地中海東沿岸の共和国;首都は Damascus)
-Syrian	シリアの,シリア人の,シリア語の / シリア人
 syringe	注射器 / 洗浄器,かん腸器,スポイト / 〈液〉'を'注射する;(洗浄器で)〈傷など〉'を'洗浄する
 syrinx	牧羊神パンの笛 / 鳴管(鳥の発声器官)
 syrup	シロップ(砂糖や果汁を煮詰めて作る甘い汁) / (薬用の)シロップ剤
@@ -5194,3 +5193,4 @@ systems analysis	システム分析(能率や正確度を高める科学的・�
 systems analyst	システム分析者
 systems engineering	システム工学
 systole	心臓収縮
+séance,seance	心霊術の会

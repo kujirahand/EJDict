@@ -243,7 +243,7 @@ p.a.	per annum
 p.c.	percent / post card / post cibum 食後服用(after meals)
 p.d.	per diem / potential difference
 p.j.s	=pajamas
-p.m.,P.M.	『午後』(ラテン語post meridiem(after noon)の略;数字の後につける)：例えば「P.M.2:00」と書くのは日本式です。おそらく「午後2時」と表記することから連想しての語法と思われます。英語式には「2:00P.M.」と書きます。
+p.m.,P.M.	『午後』(ラテン語post meridiem(after noon)の略;数字の後につけて「2:00p.m.」などと表記)
 p.p.	past participle / (またP.P.)parcel post / postpaid
 p.q.	previous question / 【議会】 先決問題 《本問題の採決のいかんを前もって決める問題; 略 p.q.》 / Parliamentary Question / personality quotient / Province of Quebec / Quebec Party
 p.t.	past tense / pro tempore
@@ -2341,7 +2341,7 @@ porpoise	ネズミイルカ(北太平洋,北大西洋にすむ鼻先の丸い種
 porridge	ポリッジ(水や牛乳で煮たオートミールでおもに朝食用)
 porringer	深皿(特に小児のためのスープ・ポリッジ用)
 port	〈C〉〈U〉『港』 / 〈C〉『港町』,『港市』 / (船の)左舷(さげん);(飛行機の)(機首に向かって)左側 / 左舷の,左側の / 〈かじなど〉'を'左舷に向ける / =porthole / (船の)荷役口 / (装甲車・城壁などの)銃眼,砲門 / ポートワイン(ポルトガル原産の甘口のぶどう酒で深紅色) / 控え銃(つつ)の姿勢(銃をからだの正面に斜めに保持し先端が左肩の近くにくる) / 〈銃など〉'を'控え銃にする
-port of entry	税関[空]港 / 《入国者・輸入品の》 通関手続地, 通関港, 入国管理事務所のある港[空港] / 通関手続港(空港もこれに含まれます),出入国許可所
+port of entry	税関[空]港 / 《入国者・輸入品の》 通関手続地, 通関港, 入国管理事務所のある港[空港] / 通関手続港(空港を含む),出入国許可所
 portability	持ち運び(携帯)のできること,軽便さ
 portable	『持ち運びのできる』,携帯用の / 携帯用器具,ポータブル(タイプ・ラジオなど)
 portage	〈C〉〈U〉(2水路間の貨物の)陸上輸送,連水陸路運搬 / 〈C〉連水陸路 / 〈U〉《a~》その運賃 / 〈貨物など〉'を'連水陸送する
@@ -2790,7 +2790,7 @@ presage	(…の)前兆,虫の知らせ,予感《+『of』+『名』》 / …'の
 presbyopia	[老人性]遠視,老眼
 presbyter	〈C〉（キリスト教の）長老(=elder) / 長老職の聖職者,司祭
 presbytery	(教会堂の聖歌隊席裏の)内陣・(長老教会の)中会;中会管轄区域・(カトリック教の)司祭館・(キリスト教)長老会(管轄区)・(集合的) 中会管轄下の全教会; (教会の)司祭席
-preschool	《名詞の前にのみ用いて》小学校入学前の,学齢未満の・幼稚園より手前の児童の通う幼稚園予科のような施設(保育園=day-care centerとは異なります)
+preschool	《名詞の前にのみ用いて》小学校入学前の,学齢未満の・幼稚園より手前の児童の通う幼稚園予科のような施設(保育園=day-care centerとは異なる)
 prescience	予知,先見の明
 prescient	予測できる,推測可能な
 prescribe	〈守るべき規則・方針など〉'を'『規定する』,『勧める』,指示する / 《『prescribe』+『名』〈人〉+『名』〈薬〉=『prescribe』+『名』+『for』+『名』》〈人〉'に'〈薬〉'を'処方する / 規定する,資示する / (病人・病気に対して)処方を書く

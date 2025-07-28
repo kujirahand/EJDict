@@ -5,11 +5,11 @@ Y.T.	Yukon Territory
 YMCA,Y.M.C.A.	Young Men's Christian Association《通例 the YMCA,Y.M.C.A.》キリスト教青年会
 YMHA	Young Men's Hebrew Association ユダヤ青年団
 YWCA,Y.W.C.A.	Young Women's Christian Association《通例 the ~》キリスト教女子青年会
-YWHA	young Women's Hebrew Association ユダヤ女子青年団
+YWHA	Young Women's Hebrew Association ユダヤ女子青年団
 Yahweh, Yahwe	ヤハウェ,エホバ(聖書にある神の名)
 Yangtze	揚子江(東シナ海に注ぐ中国第一の大河)
 Yank	=Yankee
-Yankee	ヤンキー / 《米》New England 出身の人(住民);(一般に)北部生まれの人(に住む人) / (南北戦争の時の南軍から見ての)北軍側の人(兵士) / アメリカ人
+Yankee	ヤンキー / 《米》New England出身の人(住民);(一般に)北部生まれの人(に住む人) / (南北戦争の時の南軍から見ての)北軍側の人(兵士) / アメリカ人
 Yankee Doodle	米国独立戦争当時の流行歌
 Yb	ytterbium の化学記号
 Yellow River	(中国の)黄河
@@ -42,7 +42,7 @@ yachting	ヨット遊び,ヨット航海(競走);ヨット操縦術
 yachtsman	ヨット操縦者;ヨット所有者
 yachtswoman	女性のヨット操縦者(所有者)
 yah	やあい(あざけり・軽べつを示す)
-yahoo	粗野な武骨者・野蛮な人間・獣のような人間[Swift のガリヴァー旅行記より]・(Yahooとして)ヤフー (米国スタンフォード大学の学生だったジェリー・ヤン(Jerry Young)とデービッド・ファイロ(David Filo)が創設したインターネット上の検索エンジン) ・田舎者・やっほー・わーい・大声でしゃべりまくる人
+yahoo	〈C〉乱暴者,粗野な人,無教養の人 (ジョナサン・スウィフトの小説『ガリヴァー旅行記（Gulliver’s Travels）』に登場する「ヤフー族（Yahoos）」が語源) / YahooはIT企業; ポータルや検索サービスの名称
 yak	ヤク(チベット・中央アジアの荷物運搬用の毛の長い牛) / のべつまくなしにおしゃべりする / のべつまくなしのむだ話(おしゃべり)
 yam	ヤム(熱帯産のつる植物);その根(食用) / 《米》サツマイモ
 yammer	めそめそ不平を言う,こぼす / 大声でしゃべり続ける
@@ -86,7 +86,7 @@ yellow fever	黄熱病(マラリア性熱病の一種)
 yellow flag	=yellow jack 2
 yellow jack	=yellow fever / (また yellow flag) / 黄色旗,検疫旗(検疫中の船や病院が掲げる黄色い旗)
 yellow jacket	スズメバチ
-yellow pages	(電話帳の)職業別欄(注意：複数形のため語尾に「s」がついています)
+yellow pages	(電話帳の)職業別欄
 yellowbellied	おく病な,ひきょうな
 yellowbelly	おく病者,ひきょう者
 yellowhammer	キアオジ(ヨーロッパ産ホオジロ属の小鳥) / 北米産のキツツキの一種
@@ -124,7 +124,7 @@ yonder	あそこに,向こうに / あそこの,向こうの
 yonks	長期間,長い間
 yore	昔,往時
 you	『あなた[がた]は(を)』,君[たち]は(を) / 《命令文》君[たち],皆さん / 《呼び掛け》君[たち],おまえ[たち] / 《一般に人を指して》人は(を)
-you all	《二人またはそれ以上の人たちに,また家族・団体などを代表する一人に直接呼びかけて》君たち,諸君 みなさん(アメリカ南部でよく使われます) / 《方言》《一人に用いて》あなたは
+you all	《二人以上の人たちに,また家族・団体などを代表する一人に直接呼びかけて》君たち,諸君,みなさん / 《方言》《一人に用いて》あなたは
 you'd	you had, you would の短縮形
 you'll	you will, you shall の短縮形
 you're	you are の短縮形

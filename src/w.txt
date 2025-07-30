@@ -1,11 +1,11 @@
-W	Watt / West; Western / wolfram(=tungsten)の原子記号
+W	Watt / West; Western / wolfram(=tungsten,タングステン)の元素記号
 W,w	英語アルファベットの第23文字 / W字形のもの
 W.A.	Western Australia
 W.B.C.	white blood cell 白血球
 W.I.	West Indies / West Indian
 W.W.I	World War I
 W.W.II	World War II
-W/B,W.B.	waybill
+W/B,W.B.	waybill(貨物運送状)
 WA	Washington
 WAC	Women's Army Corps 陸軍婦人部隊
 WAF	Women in the Air Force 空軍婦人部隊
@@ -13,8 +13,8 @@ WASP, Wasp	《しばしば軽べつして》ワスプ(米国社会の中核を�
 WATS	Wide Area Telecommunications Service 広域電話サービス
 WAVES	海軍婦人予備部隊
 WC,W.C.	water closet
-WCTU	Woman's Christian Temperance Union キリスト教婦人矯風会
-WHO	World Health Organizationの略称 / 世界保健機関
+WCTU	Woman's Christian Temperance Union 女性キリスト教禁酒同盟
+WHO	世界保健機関(World Health Organization)
 WI	Wisconsin
 WL	wavelength 波長
 WNW,W.N.W.	west-northwest 西北西
@@ -99,7 +99,7 @@ Windsor chair	ウィンザーいす(背部に丸棒をはめ込んだ木製の�
 Windward Islands	ウィンドワード諸島(西インド諸島南東部の群島)
 Winnipeg	ウイニペグ(カナダ南部 Manitoba 州の州都)
 Wirephoto	有線電送写真機の商標名
-Wis.,Wisc.	Wisconsin
+Wis.,Wisc.	Wisconsinの略(ウィスコンシン州)
 Wisconsin	ウィスコンシン州(米国中北部,ミシガン湖に接する州;州都は Madison;《略》WI,Wis.,Wisc)
 Woden	ウォーデン(チュートン民族神話の主神で,北欧神話のOdinに相当)
 Worcester	ウスター(米国Massachusetts 州中部の都市)・英国 Worcestershire 州の州都
@@ -115,7 +115,7 @@ w	week / width / weight
 w.b.	water ballast 水脚荷(みずあしに)
 w/	with
 w/o	without
-wabble	=wobble
+wabble	=wobble(揺れるグラグラする)
 wack	おい,君
 wackiness	《米俗》気違いじみていること,とっぴなこと
 wacky	気違いじみた,とっぴな

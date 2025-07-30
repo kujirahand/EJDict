@@ -22,7 +22,7 @@ B.W.I.	British West Indies
 B/D	bank draft / bills discounted 割引手形 / brought down(会計の)次期繰り越し
 B/E	bill of exchange為替手形
 B/F	brought forward(帳簿で前ページ・前期より)繰り越し
-B/L	bill of landing
+B/L	bill of lading（船荷証券）
 B1	black(鉛筆の軟度を示す;硬度は『H』(=hard)で表す) / boronの化学記号
 BBB	Better Business Bureau 商務改善協会
 BBC	British Broadcasting Corporation 英国放送協会
@@ -45,7 +45,7 @@ Bacon	ベーコン(『Francis』『~』;1561‐1626;英国の随筆家・哲学�
 Bactrian camel	フタコブラクダ(背にこぶが二つある)
 Baedeker	(ドイツの)ベデカー旅行案内書 / (一般)旅行案内書
 Bagdad	=Baghdad
-Baghdad	バグダッド(トラク共和国の首都)
+Baghdad	バグダッド(イラク共和国の首都)
 Bahama	《複数扱い》バハマ諸島(米国Florida半島東南の群島) / 《単数扱い》バハマ共和国(1973年バハマ連邦として独立)
 Baikal	バイカル湖(『Lake Baikal』;シベリア東南部,モンゴル国境に近い世界最深の湖)
 Bakelite	ベークライト(合成樹脂の商標名)
@@ -64,7 +64,7 @@ Bangladesh	バングラデシュ人民共和国(インド半島東部の国;首�
 Bantu	〈C〉バンツー族(人)(アフリカ南部・中部に住む諸族) / 〈U〉バンツー語
 Bap.,Bapt.	Baptist
 Baptist	バプテスト派(浸礼派)の会員(幼児洗礼・滴礼に反対し,成人になって自ら選んで浸礼を行うキリスト教新教の一派) / 《the ~》洗礼者ヨハネ
-Barbados	バルバドス(西インド諸島の英連邦に属する独立直)
+Barbados	バルバドス(西インド諸島の英連邦に属する独立国)
 Barcelona	バルセロナ(スペイン北東部の地中海の港市)
 Bartlett	バートレット種のセイヨウナシ;実が大きくて黄色で汁気が多い
 Basenji	バセンジー犬(アフリカ産のほえない猟犬)
@@ -77,7 +77,7 @@ Beaufort scale	ビューフォート風力階級(風力を0から12までの13�
 Bedfordshire	ベッドフォードシャー(英国イングランド中部の州)
 Bedouin,Beduin	ベドウィン族(アラブ系遊牧民) / ベドウィン族の
 Beelzebub	ベルゼブブ(新約聖書に出てくる悪魔の王)
-Beethoven	ベートーベン(Ludwig van~;1770‐1827;ドイツの作曲家)
+Beethoven	ベートーヴェン(Ludwig van~;1770‐1827;ドイツの作曲家)
 Beirut	ベイルート(Lebanonの港市で首都)
 Belfast	ベルファスト(英国北アイルランド東海岸の港市で首都)
 Belg.	Belgian / Belgium
@@ -145,7 +145,7 @@ Bombay	ボンベイ(インド最大の商工業中心地)
 Bonin Islands	小笠原諸島
 Bonn	ボン(西ドイツの首都)
 Bordeaux	ボルドー(フランス南西部の港市;ぶどう酒産地) / 〈U〉ボルドー産ぶどう酒
-Borneo	ボルネオ(Malay群島中にある世界第3の大島;インドネシア領・マレーシア領・英国保護領にわかれる)
+Borneo	ボルネオ(Malay群島中にある世界第3の大島;インドネシア領・マレーシア領・英国保護領に分かれる)
 Bosporus	ボスポラス海峡(黒海とMarmara海を結ぶ)
 Boston	『ボストン』(米国Massachusetts州の州都)
 Boston terrier	ボストンテリア(顔がブルドッグに似て黒白のテリア)
@@ -700,6 +700,7 @@ bate	…'を'減らす,減ずる,弱める
 bateau	〈C〉両頭の平底のこぎ舟
 bath	『入浴』;水浴び / (また《おもに米》『bathtub』,《話》『tub』)浴槽(よくそう),ふろ[がま] / 『浴室』(bathroom); / 《複数形で》(古代の)大浴場 / (化学作用を与えるための)浴液;電解そう / …'を'入浴させる / 入浴する
 bath chair	(病人用の)ほろ付き車いす
+bath mat,bathmat	浴室用マット
 bath mitzvah	13歳になった少女をユダヤ教社会の成人として受け入れる儀式 / その儀式を受ける少女
 bath salt	バスソルト,浴剤(ふろの硬水を柔らかくするために用いる)
 bathe	《米》〈子供など〉'を'『入浴させる』(《英》bath) / …'を'『浸す』,『洗う』 / 〈汗・涙が〉…'を'ぬらす / 〈光などが〉…'に'いっぱいに注ぐ,'を'包む / 《米》入浴する(《英》bath) / 《おもに英》水泳する / 《英語》(海・川での)水泳
@@ -711,7 +712,6 @@ bathing cap	水泳帽
 bathing machine	(昔の)海水浴用移動式更衣車
 bathing suit	水着,水泳着
 bathing trunks	男子用水泳パンツ
-bathmat	浴室用マット
 bathos	漸降法(荘重な調子を急に低い調子に落とす修辞法) / (文体など)陳腐,平凡 / 甘い感傷,感傷過剰
 bathrobe	化粧着
 bathroom	『浴室』,ふろ場 / 便所(toilet)
@@ -719,7 +719,7 @@ bathtub	〈C〉入浴用の浴槽
 bathyscaphe	バチスカーフ(深海生物調査用の潜水艇)
 bathysphere	潜水球(深海生物調査用)
 batik	ろうけつ染め / ろう染めの布
-batiste	バチスト布(綿・リンネルの薄地の上質の布)
+batiste	バチスト布(綿・リネンの薄地の上質の布)
 batman	バットマン(米コミック/映画のヒーロー) / 従卒,(軍隊将校の)従者
 baton	(音楽の)指揮棒 / バトンガールが持つバトン / (元帥などの官位を示す)官杖,司令杖 / (リレー用の)バトン / (警官の)警棒
 baton twirler	バトンガール
@@ -730,12 +730,12 @@ batt.	battalion / battery
 battalion	(陸軍の)大隊 / 《しばしば複数形で》(…の)大軍,多数《+『of』+『名』》
 batten	(板の継ぎ目をふさぐ)小割り,小角材;(船舶の防水用の)当て木 / (特に,防水のため)(船の甲板昇降口など)'に'当て木をする《+『down』+『名』,+『名』+『down』》 / 《文》〈牛などが〉肥える / たらふく食う;(特に他人の金で)肥え太る,ぜいたくに暮らす《+『on』(『upon』)》 / (機会・口実などを)とらえる《+『on』+『名』》
 batter	(野球・クリケットの)『バッター』,『打者』 / …'を'乱打する,打ち壊す,たたきつぶす / (ひどい扱いで)…'を'壊す,だめにする / 乱打する,打つける / 練り粉(牛乳・鶏卵・バター・メリケン粉などをこね混ぜたもの)
-battering-ram	破城つち(昔,城門などを破るのに用いた重い突き棒)
+battering-ram	破城槌(昔、城門などを破るのに用いた重い突き棒)
 battery	〈C〉砲兵中隊;砲列,砲台;(軍艦の)備砲 / 〈C〉『電池』,バッテリー / 〈C〉一組みの器具;(関連するものの)一群,一連《+『of』+『名』》 / 〈C〉(野球で)バッテリー(投手と捕手) / 〈U〉(法律用語で)殴打,暴行
 batting	(野球の)打撃 / ふとん綿,中入れ綿
 batting crease	バッティングのライン
 battle	〈C〉(個々の)『戦闘』,戦い;〈U〉『戦争』 / 〈C〉闘争 / 〈U〉《the~》勝利;成功 / (…と)『戦う』《+『with』(『against』)+『名』》 / …'と'戦う,苦闘する
-battle ax, battle axe	(昔の)戦斧(せんぶ) / 《俗》がみがみいう女
+battle ax, battle axe	(昔の)戦斧(せんぷ) / 《俗》がみがみいう女
 battle cruiser	巡洋戦艦
 battle cry	ときの声(=war cry) / (運動などの)標語,スローガン
 battle fatigue	戦闘疲労症(戦闘中の兵士の間に起こる神経症の一種)
@@ -753,7 +753,7 @@ battleship	戦艦
 battlewagon	戦艦
 batty	気違いの,気の狂った
 bauble	安ぴかもの,愚っぽい飾り
-baulk	=balk
+baulk	=balk (躊躇する,ためらう,拒否する)
 bauxite	ボーキサイト(アルミニウム原鉱)
 bawd	売春宿のおかみ / 売春婦
 bawdy	みだらな,わいせつな,品のない
@@ -797,7 +797,7 @@ beam	〈C〉(建設の)『はり』,『けた』,横材 / 〈C〉(船の甲板�
 beam-ends	(船の)梁端(りょうたん)
 beaming	輝く,晴れやかな
 bean	『豆』(おもにいんげん豆・そら豆など大きめの豆類) / 豆のさや(pod) / 豆に似た実 / 《俗》頭 / 《俗》(野球で)ビーンボールを投げる
-bean ball	(野球で)ビーンボール(打者の頭をめがけて故意に投げたホール)
+bean ball	(野球で)ビーンボール(打者の頭をめがけて故意に投げたボール)
 bean curd	豆腐 = tofu
 beanbag	お手玉
 beanery	安い二流のレストラン

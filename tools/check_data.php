@@ -1,4 +1,7 @@
 <?php
+//
+// しっかりタブ区切りデータになっているか確認する
+//
 $root = dirname(__DIR__);
 // check files
 $files = glob("$root/src/*.txt");

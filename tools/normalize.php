@@ -18,8 +18,9 @@ foreach ($files as $file) {
         $cells = explode("\t", $line);
         $org_word = $word = $cells[0];
         $org_mean = $mean = $cells[1];
-        # ‘を'と'を'を統一
-        $mean = preg_replace("/‘([あ-ん]{1,4})'/", "'$1'", $mean);
+        # 「‘を'」を「を」に統一
+        # $mean = preg_replace("/‘([あ-ん]{1,4})'/", "'$1'", $mean);
+        $mean = preg_replace("#[‘\']([あ-ん]{1,2})[\'\']#u", "$1", $mean);
         # 全角記号を半角記号に揃える
         $mean = mb_convert_kana($mean, "rsKV", "UTF-8");
         # 再構築

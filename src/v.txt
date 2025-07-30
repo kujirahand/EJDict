@@ -304,7 +304,7 @@ venture	〈C〉〈U〉(生命や金をかける)『危険な企て,冒険』,(�
 venturer	冒険者;投機家
 venturesome	(また venturous) / (人が)大胆な,向こう見ずな(daring) / (行為が)冒険的な,危険な(risky)
 venturous	=venturesome
-venue	行為地(犯罪・不法行為などの発生地) ・現場 / 裁判地(裁判の行われる場所)会合場所; 開催地，予定地; (仕事などの)場所 〈米〉立場、意見 「a change of venue」で「会合場所の変更・ 裁判地の変更」
+venue	行為地(犯罪・不法行為などの発生地) ・現場 / 裁判地(裁判の行われる場所)会合場所; 開催地,予定地; (仕事などの)場所 〈米〉立場、意見 「a change of venue」で「会合場所の変更・ 裁判地の変更」
 ver.	version
 veracious	(人が)真実を語る,正直な / (話などが)正確な,ほんとうの
 veracity	真実を語ること,正直さ / (事実・陳述の)真実性,正確さ
@@ -347,7 +347,7 @@ verminous	ノミ(シラミなど)がたかった:verminous children シラミの
 vermouth	ベルモット酒(薬草で味を付けた白ぶどう酒)
 vernacular	(言葉が)その土地(国)の,その土地特有の / 土地言葉の,土地言葉で書かれた / 自国語;(標準語に対して)地方語 / 職業語,仲間言葉
 vernal	春の,春に起こる / 青春の,生き生きとした
-vernal equinox	〈C〉春分 / 春分点 /（秋分はautumnal equinox）
+vernal equinox	〈C〉春分 / 春分点 /(秋分はautumnal equinox)
 vernalize,vernalise	〈植物〉'の'開花結実を促進させる
 vernier	(また vernier scale)副尺,遊尺(精密測定用の補助の物差し) / (精密器機を調整するための)補助装置[1の発明者,フランスの数学者の名から]
 veronal	ベロナール(睡眠薬の商標名)
@@ -356,12 +356,12 @@ versatile	(人が)多才の,多芸な,なんでもじょうずな / (道具な�
 versatility	多才,多芸;用途が広いこと,万能
 verse	〈U〉『韻文』,詩 / 〈C〉詩の一行 / 〈C〉詩節,連 / 〈U〉特定の詩形 / 〈C〉(聖書の)節
 versed	(…に)熟練した,精通した《+in+名》
-versicle	短詩[句](教会の祈りで会衆の答唱(response)に対し牧師が唱える短句;通例詩篇からの引用)(礼拝式で司祭が唱える)小詩句，短句 《しばしば詩篇の引用》
+versicle	短詩[句](教会の祈りで会衆の答唱(response)に対し牧師が唱える短句;通例詩篇からの引用)(礼拝式で司祭が唱える)小詩句,短句 《しばしば詩篇の引用》
 versification	作詩;作詩法 / 格調,韻律の形式
 versifier	詩人
 versify	〈散文〉'を'韻文にする;…'を'詩で述べる / 《しばしば軽べつして》詩を作る
 version	(…の)『翻訳』,訳文(translation)《+of+名》;《しばしば Version》(聖書の)翻訳,欽定訳 / (…についての)[個人的な]『説明』,所見,解釈《+of+名》 / (ある物の)変形,脚色,…版《+of+名》
-verso	〈C〉左ページ / 本の左側のページ（表をrectoとする裏面）
+verso	〈C〉左ページ / 本の左側のページ(表をrectoとする裏面)
 versus	(訴訟・競技などで)…対(《略》v.,vs.)(against) / (比較や二者択一において)…に対して
 vert.	vertical
 vertebra	脊椎骨

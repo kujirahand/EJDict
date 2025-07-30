@@ -3,7 +3,7 @@ E,E.,e,e.	east / eastern
 E,e	〈C〉英語アルファベットの第5字 / 〈U〉《E》(音階の)ホ音;ホ調 / 〈C〉《E》《米》(学校の成績の)E(5段階評価の第5位) / 〈C〉靴の幅広さを表す単位
 E.C.M.	European Common Market欧州経済共同体(公式名はEEC)
 E.E.	Electrical Engineer 電気技師
-E.T.	〈略〉地球外生命体（extraterrestrial） / 映画『E.T.』（1982年） / Eastern Time 米国の東部標準時
+E.T.	〈略〉地球外生命体(extraterrestrial) / 映画『E.T.』(1982年) / Eastern Time 米国の東部標準時
 EC	European Community欧州共同体
 ECG	electrocardiogram
 EDP	electronic data processing
@@ -118,7 +118,7 @@ Eur.	Europe / European
 Eurasia	ユーラシア,欧亜大陸
 Eurasian	欧亜大陸の / 欧亜混血の / 欧亜混血児
 Euripides	エウリピデス(ギリシア三大悲劇詩人の一人;480‐406?B.C.)
-Eurocrat	C〉欧州連合（EU）の行政官・官僚
+Eurocrat	C〉欧州連合(EU)の行政官・官僚
 Eurodollar	ユーロダラー(ヨーロッパの銀行に預金されて米ドルで国際間の信用の決済,特に貿易支払に用いられる)
 Europe	『ヨーロッパ』,欧州
 European	『ヨーロッパ』[『人』]『の』,欧州[人]の / 『ヨーロッパ人』,欧州人
@@ -305,7 +305,7 @@ efferent	(血管・導管が)輸出性の,導出性の;(神経が)遠心性の
 effervesce	(…で)〈ソーダ水・ビールなどが〉泡立つ《+『with』+『名』》 / (…で)〈人が〉はしゃぐ,活気づく《+『with』+『名』》
 effervescence	泡立ち / 興奮,活気
 effervescent	泡立つ / はしゃいだ,興奮した,活気づいた
-effete	{形} 活力を失った / 衰弱した / 時代遅れの / （けなして）女々しい
+effete	{形} 活力を失った / 衰弱した / 時代遅れの / (けなして)女々しい
 efficacious	(特に薬・治療法などが)効きめのある,効果的な
 efficacy	(…に対する,における)効きめ,効力《+『against』(『in』)+『名』》
 efficiency	『能率』,(仕事をする)『能力』 / (機械の)『効率』
@@ -345,7 +345,7 @@ ego	〈U〉〈C〉自我;《しばしばEgo》主観 / 〈U〉《話》うぬぼ
 ego ideal	自我理想(個人が到達しようとする理想標準)
 ego-trip	自我充足行為(自我・自負を満足させるための行為)
 egocentric	自己中心の,自分本位の
-egoism	〈U〉利己主義 / 自己中心主義 / 自我主義（哲学）
+egoism	〈U〉利己主義 / 自己中心主義 / 自我主義(哲学)
 egoist	利己主義者;自分勝手な人 / うぬぼれ屋
 egoistic	利己的な;自分本位な / うぬぼれた
 egoistical	=egoistic
@@ -394,7 +394,7 @@ elastic	『弾力のある』,伸縮自在の / 融通性のある / ゴムひ�
 elastic band	=rubber band
 elasticity	弾力,弾性;伸縮自在;融通性
 elastomer	エラストマー(ゴムのような弾性物質)
-elate	{動}（人を）意気揚々とさせる / 大得意にさせる《文語》
+elate	{動}(人を)意気揚々とさせる / 大得意にさせる《文語》
 elated	得意の,意気揚々とした
 elation	得意,意気揚々
 elbow	『ひじ』 / ひじ形(L字形)のもの;ひじ形の屈曲;(管の)ひじ形継ぎ手;(いすの)ひじ掛け / …'を'『ひじで押す』(『突く』);(…から)…'を'ひじで押し出す《+『名』+『out of』+『名』》
@@ -825,7 +825,7 @@ enl.	enlarge / enlarged / enlisted
 enlarge	…'を'『大きくする』,拡大する / 大きくなる,広がる,ふえる
 enlargement	〈U〉〈C〉拡大,増大,拡張;増補;増築 / 〈C〉拡大(増大,拡張)された部分 / 〈C〉(写真)の引き伸ばし;引き伸ばした写真
 enlarger	(写真の)引き伸ばし機
-enlighten	{動}（人に）教える / 啓発する / 気づかせる
+enlighten	{動}(人に)教える / 啓発する / 気づかせる
 enlightened	啓発された,教化された
 enlightenment	〈U〉啓発,啓蒙,教化;文明開化 / 《the Enlightenment》啓蒙主義(17‐18世紀のヨーロッパの思想運動)
 enlist	〈人〉'を'兵籍に入る,兵役につかせる;(軍隊に)〈人〉'を'入れる《+『名』+『for』+『名』》 / 〈援助・支持〉'を'得る;〈人〉'の'支持(援助)を得る / (…の)徴兵に応ずる;(志願して)(…に)入隊する《+『in』+『名』》 / (事業・運動などに)参加する,協力する《+『for』+『名』》
@@ -837,7 +837,7 @@ enmity	(…に対する)敵意,憎しみ;敵対《+『against』(『towards』)+
 ennoble	…'を'高尚にする,高潔にする / 〈人〉'を'貴族にする,〈人〉'に'爵位を授ける
 ennoblement	品位向上 / 爵位を授けること
 ennui	ものうさ,けん怠感,退屈
-enormity	〈U〉〈C〉極悪 / 非道 / 〈U〉（影響・出来事の）重大さ・重大性
+enormity	〈U〉〈C〉極悪 / 非道 / 〈U〉(影響・出来事の)重大さ・重大性
 enormous	『巨大な』,ばく大な
 enough	『不足のない』,十分な / 『十分な量(数)』,足りる量 / 『十分に』(sufficiently) / 全く,すっかり / もうたくさんだ,やめてくれ(Stop!)
 enplane	飛行機に乗る(《英》emplane)
@@ -1151,7 +1151,7 @@ estrangement	(…との,…間の)仲たがい《+『with』(『between』)+『�
 estrogen	エストロゲン(動物の雌を発情させる卵胞ホルモン)(《英》oestrogen)
 estrous cycle	(雌の)発情期(《英》oestrus cycle)
 estuary	(潮のさす大きな川の)河口
-et al	〈略〉他（およびその他）/ その他の人々 (ラテン語et aliiの略)
+et al	〈略〉他(およびその他)/ その他の人々 (ラテン語et aliiの略)
 et seq.	and the following…以下参照
 eta	エータ(ギリシア語アルファベットの第7字Η,η;英語のE,eに相当)
 etc.	…『など』,その他…(ラテン語et cetera=and other thingsの略)
@@ -1169,7 +1169,7 @@ ethereal	空気のように軽やかな,きわめて優美な / 《詩》天上�
 ethic	倫理,道徳律 / =ethical
 ethical	倫理の,道徳の;倫理学 / 道徳的な,(特に)職業道徳にかなった
 ethics	《単数扱い》『倫理学』 / 《複数扱い》『倫理』,道徳[律],規範
-ethnic cleansing	民族浄化、人種浄化、ほかの民族を一掃する［壊滅させる］こと
+ethnic cleansing	民族浄化、人種浄化、ほかの民族を一掃する[壊滅させる]こと
 ethnic, ethnical	(共通の言語・文化・歴史を持つ)民族の
 ethnicity	民族的特徴(背景),民族性
 ethnocentric	自民族中心主義の
@@ -1186,7 +1186,7 @@ ethyl	エチル / エチルの
 ethyl alcohol	エチルアルコール
 ethylene	エチレン(引火性の気体;吸入麻酔薬に用いる)
 etiolate	(光をあてずに)〈植物〉'を'白く生長させる
-etiological	病因学的（原因を調べる学問）
+etiological	病因学的(原因を調べる学問)
 etiology	〈U〉病原学 / 〈C〉〈U〉病気の原因,病因
 etiquette	『礼儀』,『作法』,エチケット / (同業者仲間の)礼儀,仁義
 etude	(音楽の)練習曲,エチュード;(絵の)習作
@@ -1270,7 +1270,7 @@ evermore	常に;永久に
 every	《数えられる単数名詞と共に》『すべての』,どの…も / 『毎』…,…ごと[に] / 《数えられる単数名詞と共に》『可能な限りの』,あらゆる
 every which way	四方八方に;乱雑に
 everybody	『すべての人』,万人,だれもみな
-everyday	『毎日の』,日々の / (日曜日などに対して)平日の / 日常の,ありふれた・(つづりに注意：一語です・everyとdayが離れずにくっついています)
+everyday	『毎日の』,日々の / (日曜日などに対して)平日の / 日常の,ありふれた・(つづりに注意:一語です・everyとdayが離れずにくっついています)
 everyone	『すべての人』,万人,だれでもみな
 everyplace	=everywhere
 everything	《単数扱い》 / 『なんでも』,何もかも,万事 / 《補語にのみ用いて》何よりも大切なもの
@@ -1282,7 +1282,7 @@ eviction order	(法廷による)立ち退き命令
 evidence	『証拠』,証拠物件 / 印,徴候,形跡(indication)・(証拠をあげて)…'を'証明する・「in evidence」で「証拠(証人)として」
 evident	『明白な』,はっきりした
 evil	(思想・行動などが)『邪悪な』,罪深い / 害を与える,有害な / 『不吉な』;不運な / 〈U〉『悪』,罪悪 / 〈C〉『害悪』,悪弊 / 不幸,不運 / 悪く
-evil eye	邪眼,悪魔の目・(the ～ eye) 憎悪のこもった目つき; (悪魔の)邪眼 (人に禍を与える)・凶眼，邪眼 《にらまれると災難がくるという》
+evil eye	邪眼,悪魔の目・(the ～ eye) 憎悪のこもった目つき; (悪魔の)邪眼 (人に禍を与える)・凶眼,邪眼 《にらまれると災難がくるという》
 evil-minded	悪意のある,腹黒い
 evil-tempered	よこしまな性質の
 evildoer	悪事を働く人,悪人
@@ -1596,7 +1596,7 @@ extermination	絶滅,根絶;駆除
 external	『外側の』,外部の / (作用・動作などが)『外側からの』,外部からの / 表面上の,見せかけの / 体外の;体外用の / 外国の(foreign) / (…の)外観,外形《+『of』+『名』》
 external ear	外耳
 external evidence	外的証拠
-externalize,externalise	{他動詞}（感情・考えなどを）外に表す / {他動詞}（費用・責任などを）外部に転嫁する / {動} 外在化する
+externalize,externalise	{他動詞}(感情・考えなどを)外に表す / {他動詞}(費用・責任などを)外部に転嫁する / {動} 外在化する
 extinct	(生物・民族などが)絶滅した;(貫習などが)滅びてしまった / (火山などが)活動をやめた / (火が)消えた,燃えていない
 extinction	消滅(絶滅)すること,(火などが)消えること;(…を)消滅(絶滅)させること,(火などが)消すこと《+『of』+『名』》
 extinguish	〈火・光など〉'を'『消す』,〈燃えているもの〉'の'炎(火)を消す / 〈希望・熱意など〉'を'失わせる

@@ -825,7 +825,7 @@ indignation	(不正・悪などに対する)『憤慨』,怒り《+『at』(『a
 indignity	〈U〉軽べつ(侮辱)すること;〈C〉軽べつの言葉(行為) / 〈U〉面目のないこと;〈C〉面目のない行為
 indigo	〈C〉(一年生植物の)アイ / 〈U〉藍(あい)色,紺色 / 藍色の,紺色の
 indirect	(道などが)『真っすぐでない』,回り道の / (話し方が)遠回しの,率直でない / (結果などが)『間接的な』,二次的な
-indirect narration	間接叙述（間接的に話す表現）
+indirect narration	間接叙述(間接的に話す表現)
 indirect object	間接目的語
 indirect speech	間接話法
 indirect tax	間接税
@@ -1009,7 +1009,7 @@ infl.	influence / influenced
 inflame	〈人〉'を'『興奮させる』,〈感情〉'を'あおる / 〈身体組織〉'に'炎症を起こさせる / 興奮する,激怒する / 充血する,炎症を起こす
 inflamed	(体の一部が)赤くふくれた,炎症を起こした
 inflammability	燃えやすいこと,可燃性 / 興奮しやすいこと
-inflammable	{形}可燃性の / 燃えやすい / {形}興奮しやすい / 怒りっぽい（比喩的用法）
+inflammable	{形}可燃性の / 燃えやすい / {形}興奮しやすい / 怒りっぽい(比喩的用法)
 inflammation	〈U〉〈C〉炎症 / 〈U〉点火,燃焼 / 〈U〉興奮すること,激怒すること
 inflammatory	炎症を起こす,炎症性の / 憤激させる,扇動的な
 inflatable	ふくらませて使う
@@ -1069,7 +1069,7 @@ inglorious	不名誉な,恥ずべき
 ingoing	はいって来る
 ingot	(金属の)鋳塊,鋳棒
 ingraft	=engraft
-ingrain	{動}〔習慣・信念などを〕深く根付かせる / 染み込ませる / {形}〔性格・習慣などが〕生まれつきの / 根深い / 〈C〉（織物の）先染めの糸で織った布
+ingrain	{動}〔習慣・信念などを〕深く根付かせる / 染み込ませる / {形}〔性格・習慣などが〕生まれつきの / 根深い / 〈C〉(織物の)先染めの糸で織った布
 ingrained	深くしみ込んだ
 ingrate	恩知らず[の人]
 ingratiate	気に入られるようにする, 迎合する
@@ -1191,7 +1191,7 @@ inquisitive	むやみに知りたがる,せんさく好きの
 inquisitor	取り調べ官,尋問者 / 《I-》(昔の)宗教裁判官,異端審問官
 inquisitorial	取り調官のような,せんさく好きの
 inroad	(…への)突然の攻撃,侵略,侵害,食い込み《+『on』(『upon, into』)+『名』》
-inrush	突入, 侵入，来襲・流入，殺到 〔of〕
+inrush	突入, 侵入,来襲・流入,殺到 〔of〕
 ins and outs	複雑な事情,詳細 / 特質,特性
 ins.	inches / insurance
 insalubrious	(気候・風土が)建築によくない,不健康な
@@ -1214,7 +1214,7 @@ insecticide	殺虫剤
 insectivore	食虫動物(植物)
 insectivorous	食虫性の,虫を食う
 insecure	(物が)崩れやすい,ぐらぐらする / 保証されていない,不安定な / (人が)自信のない,心配な;(…に)自信のない《+『about(of)+名』》
-insecurity	〈U〉不安 / 自信のなさ（精神的・感情的な不安定さ） / 〈U〉安全でないこと / 危険性（物理的・社会的な不安定さ）/ 〈C〉不安要素 / 危険な状態
+insecurity	〈U〉不安 / 自信のなさ(精神的・感情的な不安定さ) / 〈U〉安全でないこと / 危険性(物理的・社会的な不安定さ)/ 〈C〉不安要素 / 危険な状態
 inseminate	〈思想など〉'を'吹き込む
 insemination	受精
 insensate	感覚(生命)のない / 感受性(思いやり)のない,無情な;(…に)感受性がない《+to+名》 / 理性を欠いた
@@ -1243,7 +1243,7 @@ insincere	誠意のない,不まじめな,偽善的な(hypocritical)
 insincerity	〈U〉不誠実,不まじめ / 〈C〉不誠実な言動
 insinuate	…'を'ほのめかす,遠回しに言う / 《『insinuate』+『名』+『into』+『名』》(人の心などに)…'を'徐々に(巧みに)はいり込ませる(しみ込ませる)
 insinuating	うまく取り入る,こびるような
-insinuation	〈C〉遠回しな非難 / 皮肉 / 〈U〉（考え・意見などを）巧みに植え付けること / 〈C〉ほのめかし / 含みのある言葉
+insinuation	〈C〉遠回しな非難 / 皮肉 / 〈U〉(考え・意見などを)巧みに植え付けること / 〈C〉ほのめかし / 含みのある言葉
 insipid	(飲食物が)味のない,まずい / (人・話などが)味気ない,無味乾燥な
 insipidity	(飲食物の)風味のなさ / (人・話などの)味気なさ
 insist	…'と'『強く要求する』 / …'と'『主張する』 / 強く要求する《+『on』(『upon』)+『名』(a person['s]do『ing』)》 / (…を)『主張する』《+『on』(『upon』)+『名』》
@@ -1313,8 +1313,8 @@ instructor	教師,指導者 / 《米》(大学の)専任講師(assistant profess
 instructorship	講師の身分(地位)
 instrument	(主として精密な)『器具』,器械,計器・(また『musical instrument』)『楽器』) / 手段,方便(means);(人の)手先 / 法律文書(証書・遺書・協定書・約束手形など
 instrumental	役立つ;(…をするのに)役立つ《+『in』 do『ing』》 / 楽器の,器楽の
-instrumentalist	〈C〉器楽奏者（楽器を演奏する音楽家）/ 〈C〉〔哲学・科学での〕道具主義者
-instrumentality	〈U〉何かを実現するための手段・働き / 〈C〉手段 / 媒介物（助けとなるもの） / 〈C〉機関 / 組織（目的を果たすために使われる団体）
+instrumentalist	〈C〉器楽奏者(楽器を演奏する音楽家)/ 〈C〉〔哲学・科学での〕道具主義者
+instrumentality	〈U〉何かを実現するための手段・働き / 〈C〉手段 / 媒介物(助けとなるもの) / 〈C〉機関 / 組織(目的を果たすために使われる団体)
 instrumentation	(特にオーケストラのための)器楽編法[法] / (特に科学・産業での)器具(器械)の使用
 insubordinate	従順でない,反抗的,反抗的な;(…に)従わない《+『to』+『名』》
 insubordination	不服従,不従順,反抗
@@ -1442,7 +1442,7 @@ interior decoration	室内装飾
 interior decorator	室内装飾家
 interj.	interjection
 interject	(不意に)〈言葉など〉'を'差しはさむ / …'を'叫ぶ,…'と'叫ぶ《+『that節』》
-interjection	〈C〉間投詞（感情・反応を表す語。例：Oh!、Wow!、Hey! など）/ 〈U〉割り込み / 差し挟み（会話や話の途中に口を挟むこと）
+interjection	〈C〉間投詞(感情・反応を表す語。例:Oh!、Wow!、Hey! など)/ 〈U〉割り込み / 差し挟み(会話や話の途中に口を挟むこと)
 interlace	(…と)〈糸・ひも・枝など〉'を'組み合わせる,織り混ぜる《+『名』+『with』+『名』》 / 織り混ざる,組み合わさる
 interlard	…'を'混ぜる;(…を)…'に'混ぜる,混ぜて変化をつける《+『名』+『with』+『名』》
 interleaf	(本に差しこんだ)間紙,差しこみ白紙
@@ -1473,7 +1473,7 @@ intermit	…'を'一時中断する / 一時中断する
 intermittent	断続する,間欠的な
 intermix	(…と)…'を'混ぜる,混合する《+『名』+『with』+『名』》 / (…と)混ざる《+『with』+『名』》
 intermixture	混合;〈C〉混合物
-intern, interne	〈C〉インターン（企業などで短期間で勤務する社員）/ 〈C〉実習生 / 研修生 / {動}（戦時などに）（人を）拘束する,抑留する
+intern, interne	〈C〉インターン(企業などで短期間で勤務する社員)/ 〈C〉実習生 / 研修生 / {動}(戦時などに)(人を)拘束する,抑留する
 internal	『内側の』,内部にある / 『国内の』(domestic) / 内からとる,内用の
 internal combustion engine	内燃機関
 internal medicine	内科[医学]
@@ -1734,7 +1734,7 @@ irrefragable	論争の余地のない,反論できない,否定できない
 irrefutable	(事実・論理・証拠などが)反ばくできない
 irreg.	irregular / irregularly
 irregular	『不規則な』;不定の / (行いなどが)不規律な,乱れた / 不ぞろいな / (文法で)不規則変化の / 正規でない人(物),非正規兵 / 特価品
-irregularity	〈U〉不規則であること / 異常（通常のパターンからの逸脱）/ 〈C〉不正行為 / 違反 / 〈C〉異常な事態 / 乱れ
+irregularity	〈U〉不規則であること / 異常(通常のパターンからの逸脱)/ 〈C〉不正行為 / 違反 / 〈C〉異常な事態 / 乱れ
 irregularly	不規則に;不ぞろいに
 irrelevance	〈U〉見当違い / 〈C〉見当違いの言葉(もの)
 irrelevancy	=irrelevance

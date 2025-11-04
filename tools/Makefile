@@ -2,6 +2,7 @@
 .PHONY: build-all
 
 build-all:
+	make clean
 	make build
 	make makezip
 
@@ -15,3 +16,6 @@ makezip:
 	php ./makezip.php
 	echo "make archive complete."
 
+clean:
+	php ./clean.php
+	echo "Clean complete."

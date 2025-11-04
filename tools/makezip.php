@@ -9,15 +9,15 @@ $json_zip = "$dir_root/ejdic-hand-json.zip";
 $files = [
     [
         "org" => "ejdict-hand-utf8.txt",
-        "zip" => "ejdict-hand-txt.zip",
+        "zip" => "ejdic-hand-txt.zip",
     ],
     [
         "org" => "ejdict.sqlite3",
-        "zip" => "ejdict-hand-sqlite.zip",
+        "zip" => "ejdic-hand-sqlite.zip",
     ],
     [
         "org" => "ejdict.json",
-        "zip" => "ejdict-hand-json.zip",
+        "zip" => "ejdic-hand-json.zip",
     ],
 ];
 // copy
@@ -30,7 +30,7 @@ foreach ($files as $conf) {
     if (file_exists($zip)) {
         unlink($zip);
     }
-    system("zip -r $zip '$dir_out/README.md' '$org'");
+    system("zip -j $zip '$dir_out/README.md' '$org'");
 }
 echo "ok\n";
 

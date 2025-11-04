@@ -18,7 +18,7 @@ PA	personal assistant個人秘書 / public address [system]
 PBX	private branch exchange 私設電話交換局,私設電話組織
 PC	Peace Corps 平和部隊
 PCB	polychlorinated biphenyl ポリ塩化ビフェニール(強い毒性)
-PCP	phencyclidine pill パラフェナスレン(強い幻覚剤)
+PCP	phencyclidine pill フェンサイクリジン(強い幻覚剤)
 PDT	Pacific Daylight Time
 PEN	International Association of Poets,Playwrights,Editors,Essayists,and Novelists国際ペンクラブ(1922年創設)
 PG	parental guidance(映画の観客指定で)親の認可[映画]
@@ -28,7 +28,7 @@ PLO	Palestine Liberation Organizationパレスチナ解放機構
 PM,P.M.	paymaster / Police Magistrate / Postmaster / postmortem / Prime Minister / Provost Marshal
 POB,P.O.B.,PO Box	=post-office box / 郵便私書箱
 POC	port of call寄港地
-POD	port of debarkation陸揚げ港 / pay on delivery代金払換払い
+POD	port of debarkation陸揚げ港 / pay on delivery代金引換払い
 POE	port of embarkation船積港
 POW,P.O.W.	prisoner of war・戦争捕虜
 PR	public relations
@@ -98,7 +98,7 @@ Penn.,Penna.	Pennsylvania
 Pennsylvania	ペンシルバニア州(米国東部の州で,州都はHarrisburg…《略》『Pa.,PA,Penn.,Penna.』)
 Pennsylvanian	ペンシルバニア州の人(住民) / (地質時代の)ペンシルバニア紀[系] / ペンシルバニア州の / ペンシルバニア紀[系]の
 Pentateuch	《the~》モーセの五書(旧約聖書の初めの5巻)
-Pentecost	ペンテコステ,五旬節(過越しの祭りのあと50日目に行われるユダヤ人の祭り) / 聖霊降臨祭(Whitsunday)(復活祭後の7日曜日;使徒たちに聖霊がくだったのを祝うキリスト教の祭り)
+Pentecost	ペンテコステ,五旬節(過越しの祭りのあと50日目に行われるユダヤ人の祭り) / 聖霊降臨祭(Whitsunday)(復活祭後の第7日曜日;使徒たちに聖霊がくだったのを祝うキリスト教の祭り)
 Per.	Persia / Persian
 Pericles	ペリクレス(495?‐429 B.C.古代アテネの将軍・政治家:貴族会議の権限を奪い民主的改革を断行、デロス同盟への支配力を高めアテネの黄金時代を築いた)
 Perl	テキスト処理のためのスクリプト言語。
@@ -200,7 +200,7 @@ Promised Land	(また『Land of Promise』)《the~》約束の地(神がイス�
 Prophets	(聖書の)預言者
 Prot.	Protestant
 Protectorate	〈C〉保護領(他国の保護・支配下にあるが一定の自治を持つ国や地域) / 保護制度 / 保護領状態
-Proterozoic	《the P-》(地質時代の)元生代(25億年から5億4千万年前の時代) / 元生代の
+Proterozoic	《the P-》(地質時代の)原生代(25億年から5億4千万年前の時代) / 原生代の
 Protestant	新教徒,プロテスタント / 新教[徒]の,プロテスタントの
 Protestant Episcopal Church	米国監督教会,米国聖公会(1789年英国国教会から独立した一派)
 Protestantism	新教 / 《集合的に》新教徒,新教教会
@@ -958,7 +958,7 @@ peeve	〈人〉をじらす,腹だたせる,悩ます(annoy) / じらす(悩ま�
 peevish	だだをこねる;気むずかしい
 peewee	異常に小さい人(物),ちび / =pewee / ちびっこの,非常に小さい
 peewit	=pewit
-peg	(木などの,おもに木工に用いる)『くぎ』,掛けくぎ;(たるなどの)『せん』;(テントなどの)『くい』 / (弦楽器の弦をしめる)ねじ / 《話》(評価などの)段階)degree) / (議論などの)きっかけ,口実 / 《話》(おもに野球で)送球 / …を『木くぎ』(『くい』)『でとめる』,に木くぎ(木くいを打つ《+『名』+『down』,+『down』+『名』》 / 〈物価・賃金など〉を仰える,安定させる / 《話》(おもに野球で〈ボール〉を投げる / 《話》…を認める,見定める
+peg	(木などの,おもに木工に用いる)『くぎ』,掛けくぎ;(たるなどの)『せん』;(テントなどの)『くい』 / (弦楽器の弦をしめる)ねじ / 《話》(評価などの)段階)degree) / (議論などの)きっかけ,口実 / 《話》(おもに野球で)送球 / …を『木くぎ』(『くい』)『でとめる』,に木くぎ(木くいを打つ《+『名』+『down』,+『down』+『名』》 / 〈物価・賃金など〉を抑える,安定させる / 《話》(おもに野球で〈ボール〉を投げる / 《話》…を認める,見定める
 peg leg	義足 / 義足をつけた人
 pegboard	(ゲームなどに用いる)くぎ差し板 / (くぎなどを差し込む穴のある)構図版
 pegmatite	巨晶花崗岩,文象花崗岩(断面に文字模様のついたもの)
@@ -978,7 +978,7 @@ pelt	〈石など〉を(…に)立て続けに投げる《+『名』〈石など
 pelves	pelvisの複数形
 pelvic	骨盤の
 pelvis	骨盤
-pemmican,pemican	ペミカン(乾操した肉の粉をこねた保存食料)
+pemmican,pemican	ペミカン(乾燥した肉の粉をこねた保存食料)
 pen	〈C〉(インクを用いる筆記具全体をさして)『ペン』;万年筆,ボールペン,フェルトペン;ペン先 / 〈U〉《the~》文筆,著述 / 〈C〉《単数形で》《文》文筆家 / 《気どって》…を書く,著す(write) / 〈C〉(家畜などを入れる)『おり』 / 《集合的に》おりの中の動物 / 〈C〉(監禁・保護に使われる)囲い,幼児用遊びわく(playpen) / (囲い・ありなどに)…を入れる,閉じ込める,監禁する《+『名』+[『up』]『in』+『名』》 / 刑務所[penitentiaryの短縮形]
 pen friend	=pen pal
 pen pal	ペンパル,文通仲間(《英》pen friend)
@@ -1431,8 +1431,8 @@ phobia	(…に対する)恐怖症,病的恐怖(嫌悪)《+『about』+『名』(
 phoebe	フェーベ(ヒタキ類の北米産の小鳥;その名は鳴き声に由来する)
 phoenix	不死鳥,フェニックス(エジプト神話の霊鳥;500年ごとに自ら焼け死んで生まれかわるという)
 phone	〈U〉〈C〉『電話』;〈C〉『電話機』,受話器 / …に『電話をかける』 / 『電話をかける』 / 音(おん),音声単音
-phone collect	…に先払いで長距離電話をかける
-phone-in	テレビ・ラジオの)視聴者が電話で参加する番組(《米》call-in
+phone collect	…に料金受取人払いで長距離電話をかける
+phone-in	(テレビ・ラジオの)視聴者が電話で参加する番組(《米》call-in
 phoneme	音素(一つの単語を他の単語と区別する役割をはたす最小の音声上の単位)
 phonemic	音素の
 phonemics	音素論;音素体系
@@ -2494,7 +2494,7 @@ potluck	ありあわせの食べ物・ポットラックパーティー(potluck 
 potpie	肉入りパイ;肉だんご入りシチュー
 potpourri	香つぼ(バラなどの干した花弁と香料を混ぜて入れたもので部屋に芳香を漂わせる) / 寄せ集め;(文学の)雑集;(音楽の)混成曲
 potsherd	(特に考古学的価値のある)陶器片
-potshot	めくら撃ち
+potshot	無差別射撃,手当たり次第の射撃
 pottage	濃いスープ,ポタージュ
 potted	鉢植えの / びんづめの / (名著などが)簡約版の
 potter	=putter / 陶工,陶芸家

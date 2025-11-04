@@ -16,4 +16,3 @@ echo "ok\n";
 // count
 $a = explode("\n", $text);
 echo count($a)." lines\n";
-

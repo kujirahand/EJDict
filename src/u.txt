@@ -1,6 +1,6 @@
 U	uraniumの化学記号 / 上流の,上流階級にふさわしい / (映画が)児童観覧用の
 U,u	英語アルファベットの第21字 / U字形[のもの];a U-tube U字管
-U-boat	ドイツの潜水鑑(第一次および第二次世界大戦中に活躍した)
+U-boat	ドイツの潜水艦(第一次および第二次世界大戦中に活躍した)
 U-turn	自動車の U ターン / 《俗》(方針などの)180度転換;(急激な)方向転換,逆行
 U.	union / unit / university / upper
 U.S.,US	United States 合衆国
@@ -33,7 +33,7 @@ UT,Ut.	Utah
 UV	ultraviolet
 Uganda	ウガンダ(アフリカ東部の独立国;首都 Kampala)
 Ukraine	ウクライナ(旧ソ連南西部の共和国;豊かな農産地で首都は Kiev)
-Ukrainian	〈C〉ウクライナ人 / 〈U〉ウクライナ語 / ウクライナの,ウラクイナ人(語)の
+Ukrainian	〈C〉ウクライナ人 / 〈U〉ウクライナ語 / ウクライナの,ウクライナ人(語)の
 Ulysses	ユリシーズ(トロイ戦争の勇士)
 Uncle Sam	アンクルサム(米国政府・米国人を擬人化していったもの)
 Uncle Tom	白人に従順な黒人[Harriet Beecher Stoweの小説 Uncle Tom's Cabin の黒人主人公の名にちなむ]
@@ -181,7 +181,7 @@ unbroken	壊れて(破れて)いない,完全な / とぎれない / (記録な�
 unbuckle	…の留め金をはずす
 unburden	…の荷物を降ろす / (打ち明けて)〈心〉の重荷を降ろす,を軽くする / 〈悩みなど〉を打ち明ける
 unbutton	…のボタンをはずす
-unbuttoned	ボタンをはずした(はめていない) / 《まれ》くつろいだ,むとんちゃくな
+unbuttoned	ボタンをはずした(はめていない) / 《まれ》くつろいだ,無頓着な
 uncalled-for	適切でない,不当な / 不必要な
 uncanny	不気味な,異様な / (直感力などが)並はずれてよい
 uncap	…の帽子をとる;…のふた(おおい)を取る
@@ -222,11 +222,11 @@ uncoil	〈巻いたもの〉をほどく,解く / ほどける,解ける
 uncolored, uncoloured	色のついていない / 誇張されていない,ありのままの
 uncomfortable	(物が)『心地よくない』 / (人が)『不愉快に感じる』
 uncomfortably	心地よくなく,不愉快に
-uncommitted	拘束されていない / 未遂の;約束
+uncommitted	拘束されていない / 未遂の;約束していない
 uncommon	『普通でない』,めったにない,並はずれた
 uncommunicative	打ち解けない,話したがらない,無口な
 uncompromising	妥協(譲歩)しない;がんこな
-unconcern	無関心,むとんじゃく / (心配事に)平気,平然
+unconcern	無関心,無頓着 / (心配事に)平気,平然
 unconcerned	《補語にのみ用いて》《be unconcerned with+名》(…と)かかわりがない / 《補語にのみ用いて》(…に)興味がない,無関心な《+with+名》 / (…を)心配しない,気にしない《+about+名》
 unconditional	無条件の,絶対な
 unconditioned	無条件の,絶対の / (心理学で)生来の,本来の
@@ -235,7 +235,7 @@ unconquerable	征服(克服)できない
 unconquerably	征服(克服)できないほどに
 unconscionable	良心のない,恥ずべき(shameful) / 不当な,不合理な,法外な
 unconscionably	非良心的に,不謹慎にも / 不当に,不合理に
-unconscious	(一時的に)『意識を失った』,人事不省の / 《補語にのみ用いて》(…を)『気付いていない』,知らない《+of+名(doing)》 / (動作などが)無意識の,何気なしの / (精神分析で)無意識
+unconscious	(一時的に)『意識を失った』,人事不省の / 《補語にのみ用いて》(…を)『気付いていない』,知らない《+of+名(doing)》 / (動作などが)無意識の,何気なしの / (精神分析で)無意識の
 unconsciously	意識を失って;知らずに,無意識に,何気なく
 unconsciousness	無意識;意識不明
 unconsidered	考慮を欠いた / 軽視された(disregarded)

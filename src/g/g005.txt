@@ -1,0 +1,100 @@
+gem	(特に,カットして磨いた)『宝石』(jewel),宝玉 / 宝石のような人(もの),逸品,珠玉 / …を宝石で飾る,に宝石をちりばめる;(…で)…を飾る《+『名』+『with』+『名』》
+geminate	…を二重にする,対(つい)にする / 二重になる,対になる
+gemology,gemmology	宝石学
+gemstone	宝石の原石
+gemutlich	意にかなった;気持ちのよい(ドイツ語)
+gen.	gender / general / genitive / genus
+gendarme	(フランスの)憲兵,警官
+gendarmerie,gendarmery	(フランスの)武装警官隊
+gender	(名詞・代名詞の)性
+gene	遺伝子
+genealogical	系図の,系図上の / 家系の
+genealogist	系図学者,系譜専門家
+genealogy	〈C〉系図,系譜 / 〈U〉系図(系譜)学 / 〈C〉子孫,血統
+genera	genusの複数形
+general	(あるグループ)『全部の』,全部を含む / 『世間一般の』,広く行き渡った / 『一般の』,専門的でない / 『大体の』,概略の / 『陸軍大将』;(陸軍の)『将軍』,将官 / 概して,一般に
+general delivery	〈U〉(郵便物の)局留め / 〈C〉局留め郵便物係(《英》poste restante)
+general election	総選挙
+general practitioner	(専門医に対して)一般開業医;一般診断医
+general semantics	一般意味論
+general staff	一般参謀,参謀本部
+general store	(通例いなかの)よろず屋,雑貨店
+general strike	ゼネスト,総同盟罷業(ひぎょう)
+generalissimo	大元帥;全軍の最高責任者 / (台湾などの)総統
+generalist	何でも屋,万能選手
+generality	〈C〉一般的な考え(説明,文句),一般論 / 《the~》(…の)大多数,大部分(majority)《+『of』+『名』》 / 〈U〉一般性,普遍性
+generalization,generalisation	〈U〉一般化すること,概括すること / 〈C〉一般的な考え(説明,法則),一般論
+generalize,generalise	一般的に扱う(述べる) / (いくつかの事実から)一般原理(法則)を引き出す / 〈一般的な原理・法則〉を引き出す / …を一般的に述べる,概括する
+generally	『普通は』(usually) / 『大部分は』 / 『概して』,『一般的に』
+generalship	将軍としての才能と手腕 / (一般に)指導性,リーダーシップ / 将官の地位(身分)
+generate	〈電気・熱〉を『発生させる』,生む;〈文〉を生成する / 《文》(一般的に)…を起こす,生じる
+generation	〈C〉《the ~》《集合的に》《単数扱い》『同時代の人人』,[同]世代 / 〈C〉〈U〉(家の)『一代』 / 〈C〉世代(ある代の出生から次の代の出生までの期間,約30年) / 〈U〉(電気などの)『発生』,生成《+『of』+『名』》
+generation gap	世代の断絶
+generative	発生の,生殖の;生成力(繁殖力)のある
+generator	発電機(dynamo) / ガス(蒸気)発生器
+generic	(生物分類上の)属(genus)の / ある種類(群)全体にあてはまる / (商品が)特定銘柄品でない / (文法で)総称的な
+generically	属に関して,属的に / 一般的に
+generosity	〈U〉『寛大さ』,心の広さ;気前のよさ / 〈C〉《複数形で》『寛大な』(『気前のよい』)『行為』
+generous	『気前のよい』;『心が大きい』,『寛容な』 / 大きい;豊富な,十分な
+generously	気前よく,物惜しみせず / 寛大に / 豊富に,たっぷりと
+genesis	〈U〉〈C〉《the ~》起源,発生,創始 / 《the G-》創世記(旧約聖書の第1書;《略》Gen.)
+genetic code	遺伝子配列
+genetic,genetical	遺伝学の / 遺伝子の / 発生(起源)の
+geneticist	遺伝学者
+genetics	遺伝学
+genial	『温情ある』,親切で愛想のよい / (気候などが)『温和な』,温暖な(mild)
+geniality	温情,親切で愛想のよいこと
+genie	(イスラム神話の)魔神,妖精(魔術を持ち,人または動物に変身できる)
+genii	genius, genieの複数形
+genit.	genitive
+genital	生殖の,生殖器の
+genitalia	=genitals
+genitals	生殖器;(特に)外部生殖器
+genitive	(文法で)属格の / 属格(学校文法でいう所有格);属格の語(構造)
+genitourinary	泌尿生殖器の
+genius	〈U〉(特に科学・芸術における)『天才』《+『in』+『名』》 / 〈C〉(…の)『天才』[『の人』]《+『in』+『名』》 / 〈C〉知能指数の非常に高い人 / 《a ~》(一般的に)(…に対する)才能,素質《+『for』+『名』(do『ing』)》 / 《単数形で》(時代・人々・言語などの)特質,精神《+『of』+『名』》 / 〈C〉(一般的に)才能のある人 / 〈C〉影響力の強い人 / 〈C〉《文》(人・場所の)守り神
+genius loci	土地柄,風土
+genned-up	(…について)物知りの,博識の《+『about』(『on』)+『名』》
+genocide	(人種・民族などを絶滅させる目的の)大虐殺,集団虐殺
+genotype	遺伝子型
+genre	(芸術・文学作品における)形式,種類,様式,ジャンル / 風俗画 / 日常生活を描いた;風俗画の
+gens	(古代ローマの)氏族(共通の姓を持つ集団)
+gent	紳士,だんな
+genteel	《英では古》(人・人の態度が)育ち(しつけ)のよい,上品な,洗練された / 上品ぶった,気取った
+gentian	リンドウ
+gentile	(ユダヤ人から見た)異邦人 / 《米》(モルモン教徒から見た)非モルモン教徒 / (一般に)異教徒 / 非ユダヤ人の;異教徒の
+gentility	育ちの良さ;洗練 / 生まれ(家柄)のよさ;上流階級に属していること
+gentle	(態度・性質・口調などが)『優しい』,物柔らかな / (天候・動作などが)『穏やかな』,適度の / (動物などが)おとなしい,なれた / (傾斜などが)なだらかな / 《古》生まれ(家柄)のよい / しつけのよい,上品な
+gentle sex	女性,婦人
+gentlefolk	上流階級の(良家の)人々
+gentleman	〈C〉『紳士』(名誉を重んじ,礼儀正しく,思いやりのある男性);君子 / 〈C〉上流階級の男性 / 〈C〉(manの敬称として)『男の方』 / 《複数形で》(複数の男性へ呼びかけて)『諸君』,『皆さん』
+gentleman at arms	儀仗(ぎじょう)衛士(英国王の護衛官)
+gentleman farmer	(収入の対象としてではなく)趣味で農業をする地方名士
+gentleman's agreement	紳士協約,紳士協定
+gentleman's gentleman	国王(貴人)の従者,従僕
+gentlemanly	紳士的な,紳士にふさわしい;礼儀正しい
+gentleness	(気だて・態度などの)優しさ,物柔らかさ / (動作・手段などの)穏やかさ,極端に走らないこと
+gentlewoman	〈C〉上流階級の女性 / 貴婦人(家柄がよく,身分の高い女性) / 淑女(礼儀正しく,上品な婦人) / (王室など身分の高い女性に仕えた)侍女
+gently	『優しく』,親切に / 『穏やかに』,適度に / (傾斜が)なだらかに / 家柄がよく / 上品に
+gentry	《the ~》《複数扱い》家柄のよい人々;紳士階級,ジェントリー(英国でnobility(貴族)の次に位置するupper middle class(上層中産階級)) / 《複数扱い》《軽べつして》人たち,連中,やから
+genuflect	(礼拝で,また畏敬(いけい)の念を示すため)片ひざをつく
+genuflection	(礼拝で,また畏敬を示すため)片ひざをつくこと
+genuine	『本物の』,真の / (疫病が)『真性の』 / 『誠実な』,[真]心からの
+genus	(生物分類上の)属(family(科)の下でspecies(種)の上) / (一般に)種類
+geocentric	(太陽中心に対して)地球中心の;地球の中心から見た(測定した)
+geochemistry	地球化学
+geode	晶洞(どう)石
+geodesic	測地線 / 測地線の
+geodesic dome	ジオデシックドーム(軽量建築構造の一つ)
+geodesy	測地学
+geodetic	測地学の;測地線の
+geog.	geographer / geographic[al] / geography
+geographer	地理学者
+geographic, geographical	地理の,地理学[上]の
+geography	〈U〉『地理』,『地理学』 / 〈C〉『地勢』,地形 / 〈C〉地理学書
+geol.	geologic[al] / geologist / geology
+geologic, geological	地質学上の
+geologist	地質学者
+geology	〈U〉地質学 / 〈C〉地質学書
+geom.	geometric[al] / geometry
+geomagnetic	地磁気の

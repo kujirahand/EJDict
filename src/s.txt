@@ -10,7 +10,7 @@ S.C.,SC	South Carolina
 S.D.,SD,S.Dak.	South Dakota
 S.L.	salvage loss
 S.O.B., s.o.b.	son of a bitch
-S.P.C.A.	Society for the Prevention of Cruelty to Animals 動物虐待防止 / 協会
+S.P.C.A.	Society for the Prevention of Cruelty to Animals 動物虐待防止協会
 S.P.C.C.	Society for the Prevention of Cruelty to Children 児童虐待防止協会
 S.T.D.	Sacra Theologize Doctor(ラテン語)神学博士(=Doctor of Sacred Theology)
 S.T.P.	standard temperature and pressure
@@ -100,7 +100,7 @@ Schick test	シック試験(ジフテリア免疫試験法;発明者Bella Schick
 Schiller	シラー(『Johann Christoph Friedrich von Schiller』1759‐1805;ドイツの詩人・劇作家)
 Schubert	シューベルト(『Franz Peter』~;1797‐1828;オーストリアの作曲家)
 Schumann	シューマン(『Robert』~;1810‐56;ドイツの作曲家)
-Schweitzer	シュバイツァー(『Albert』~;1875‐1965;アフリカで医療・伝道に従事した;Nobel平和賞州賞(1952))
+Schweitzer	シュバイツァー(『Albert』~;1875‐1965;アフリカで医療・伝道に従事した;Nobel平和賞受賞(1952))
 Scorpio	(星座の)サソリ座 / 天蝎(てんかつ)宮(黄道十二宮の8番目)
 Scot	スコットランド人
 Scotch	=Scottish / スコッチウイスキー / =Scottish

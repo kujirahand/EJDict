@@ -23,7 +23,7 @@ A-frame	A型フレーム(枠組みが三角形・逆V字型の建造物)
 A-line	Aラインの(衣服の上部が細く裾が広い)
 A-one	第一級の,すぐれた(excellent)
 A.A.	=AA / antiaircraft
-A.B.	B.A.
+A.B.	=B.A. / Bachelor of Arts 文学士
 A.C.	ラテン語「ante Christum」の略で『紀元前』;ただし「B.C.(Before Christ)」の方が一般的。
 A.C.L.U.	American Civil Liberties Union 米国自由人権協会
 A.D.	西暦…年
@@ -61,19 +61,19 @@ AID	artificial insemination by donor 非配偶者間人工受精
 AIH	artificial insemination by husband 配偶者間人工受精
 AK	Alaska
 AL	Alabama
-AM,A.M.	amplitude modulation
+AM,A.M.	ante meridiem 午前 / amplitude modulation 振幅変調
 AMA	American Medical Association 米国医師会
-AMVETS	(第二次世界大戦および朝鮮戦争の)退役軍人
+AMVETS	(第二次世界大戦および朝鮮戦争の)退役軍人 (American Veterans)
 AP	antipersonnel / (またA.P.)Associated Press
 APB	all points bulletin 全地点(非常)警戒通報(警察の無線連絡用語)
 APC	アスピリン(Aspirin)・フェナセチン(Phenacetin)・カフェイン(Caffeine)混合の鎮痛解熱剤
 APO	Army Post Office 陸軍郵便局
 AR	Arkansas
 AR	Augmented Reality 拡張現実
-ARC	American Red Cross(アメリカ赤十字); arch; arc; area; air route certificate
+ARC	American Red Cross アメリカ赤十字 / Automatic Reference Counting 自動参照カウント(プログラミング)
 AS	Anglo-Saxon
-ATV	all-terrain vehicle全地形万能車(水陸両用の小型自動車)
-AUS	Army of the United States米国陸軍
+ATV	all-terrain vehicle 全地形万能車(水陸両用の小型自動車)
+AUS	Army of the United States 米国陸軍
 AZ	Arizona
 Aaron	アロン(モーセの兄;ヘブライ人最初の大祭司とされる)
 Abel	アベル(聖書で,AdamとEveの第2子;兄のカイン(Cain)に殺された)

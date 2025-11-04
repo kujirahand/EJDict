@@ -10,7 +10,7 @@ S.C.,SC	South Carolina
 S.D.,SD,S.Dak.	South Dakota
 S.L.	salvage loss
 S.O.B., s.o.b.	son of a bitch
-S.P.C.A.	Society for the Prevention of Cruelty to Animals 動物虐待防止 / 協会
+S.P.C.A.	Society for the Prevention of Cruelty to Animals 動物虐待防止協会
 S.P.C.C.	Society for the Prevention of Cruelty to Children 児童虐待防止協会
 S.T.D.	Sacra Theologize Doctor(ラテン語)神学博士(=Doctor of Sacred Theology)
 S.T.P.	standard temperature and pressure

@@ -20,9 +20,9 @@
 ## 英和辞書「ejdict-hand」の来歴
 
 1. `ejdic`は、もともと学校などに無償配布されていた英和辞典ファイルです。作者などは不明とされています。
-2. 本データ`ejdict-hand`は、上記1に大々的な誤字脱字とデータの修正を加えたものです。その際、同じ`ejdict`を元にしている[PrepTutorEJDIC](http://www.tagoemura.com/ptdic.html )の修正を参考に訂正しました。
+2. 本データ`ejdict-hand`は、上記1に大々的な誤字脱字とデータの修正を加えたものです。その際、同じ`ejdic`を元にしている[PrepTutorEJDIC](http://www.tagoemura.com/ptdic.html )の修正を参考に訂正しました。
 3. 本データはライセンスを明確にパブリックドメインとし、皆様から寄せられる修正加筆を日々反映しています。
-4. 2025年に生成AIを利用して大々的な誤字脱字の校正を行いました。(GitHub Copilot{Claude Sonnet 4.5}, Ollama{gemma3n:e4b, qwen3:14b}を利用しました)
+4. 2025年に生成AIを利用して大々的な誤字脱字の校正を行いました。校正や修正のために、GitHub Copilot(Claude Sonnet 4.5)とOllama(gemma3n:e4b, qwen3:14b)を利用しました。
 
 ## 修正点の指摘
 

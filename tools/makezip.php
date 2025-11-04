@@ -21,7 +21,7 @@ $files = [
     ],
 ];
 // copy
-system("cp '$dir_template/README.md' '$readme'");
+system("cp '$dir_tools/README.md' '$readme'");
 
 // execute zip
 foreach ($files as $conf) {

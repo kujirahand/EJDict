@@ -12,7 +12,7 @@ OAS	Organization of American States 米州機構
 OAU	Organization of African Unity アフリカ統一機構
 OCAS	Organization of Central American States 米中央州機構
 OCD	Obsessive-Compulsive Disorder(強迫性障害;強迫神経症)
-OCR	～をOCR処理する、～をスキャナで読み込んでデジタル化する・= optical character reader 光学式文字読取装置・= optical character recognition 光学式文字認識
+OCR	～をOCR処理する、～をスキャナで読み込んでデジタル化する / =optical character reader 光学式文字読取装置 / =optical character recognition 光学式文字認識
 OCS	officer candidate school(軍の)幹部候補生学校
 OD	[致死量まで]麻薬を飲み過ぎる / 麻薬[など]の飲み過ぎ
 OE,OE.,O.E.	Old English
@@ -37,7 +37,7 @@ Odessa	オデッサ(旧ソ連南西部の港市)
 Odin	オーデン(北欧神話で知識・文化・戦争などをつかさどる最高神)
 Odysseus	(ギリシア神話の)オデュッセウス(Odysseyの主人公;ローマ神話ではUlysses)
 Odyssey	オデュッセイア(Homerの作といわれる古代ギリシアの叙事詩) / 〈C〉《O-》冒険に満ちた長旅行
-Oedipus	オイディプス(ギリシア神話で『Sphinx』のなぞを解き,テーベの王となった人;宿命によって知らずに父を殺し,母をそれし知らずに妻としたことを知りみずから目をつぶして諸国を流浪した)
+Oedipus	オイディプス(ギリシア神話で『Sphinx』のなぞを解き,テーベの王となった人;宿命によって知らずに父を殺し,母をそれと知らずに妻としたことを知りみずから目をつぶって諸国を流浪した)
 Oedipus complex	エディプス複合(特に男の子が無意識のうちに母に抱く性的な気持ち)
 Ohio	オハイオ州(米国中西部の州;州都はColumbus;《略》『O.,OH』) / 《the~》オハイオ川(米国中東部を南西に流れてMississippi川に合流する)
 Ohm's law	オームの法則

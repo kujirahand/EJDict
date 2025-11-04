@@ -52,7 +52,7 @@ Nanking	ナンキン(南京)(揚子江に臨む港市て,もと中国の首都)
 Naples	ナポリ(イタリア南西部の港市;イタリア名はNapoli)
 Napoleonic	ナポレオン1世の;ナポレオン時代の / ナポレオンのような
 Napoléon	ナポレオン1世(~『Bonaparte』;1769‐1821;コルシカ生まれのフランスの皇帝) / ナポレオン3世(『Louis ~ Bonaparte』;1808‐73;ナポレオン1世の甥(おい)で、フランス皇帝)
-Narcissus	ナルシサス(ギリシア神話で水に映った自分の姿に恋して水に落ちスイセンの花と化した美女年)
+Narcissus	ナルシサス(ギリシア神話で水に映った自分の姿に恋して水に落ちスイセンの花と化した美少年)
 Nashville	ナッシュビル(米国Tennessee州中部の都市で州都)
 National Guard	《the~;集合的に》(米国の)州民軍,州兵(平時は州の治安維持にあたり,戦時には,正規軍に編入される民兵隊)
 National Health Service	(英国の)国民健康保険制度
@@ -68,7 +68,7 @@ Nazism,Naziism	ナチズム,ドイツ国家社会主義
 Nb	niobiumの化学記号
 Nd	neodymiumの化学記号
 Ne	neonの化学記号
-Neanderthal man	〈U〉ネアンデルタール人(旧石器時代の原始人類) / 〈C〉《話》(がん強だが)鈍い男
+Neanderthal man	〈U〉ネアンデルタール人(旧石器時代の原始人類) / 〈C〉《話》(頑強だが)鈍い男
 Neapolitan	ナポリの,ナポリ風の / ナポリ[生まれの]人,ナポリの住人
 Near East	《the~》近東
 Neb.,Nebr.	Nebraska
@@ -97,7 +97,7 @@ New Englander	ニューイングランド地方の人(住民)
 New Guinea	ニューギニア(オーストラリア大陸の北方にある世界第2の大島)
 New Hampshire	ニューハンプシャー(米国北東部の州;州都はConcord;《略》N.H.,NH)
 New Haven	ニューヘーブン(米国Connecticut州南部のLong Island Soundに臨む港市;Yale大学の所在地)
-New Jersey	ニュージャージー州(米国東部大西男岸の州;州都はTrenton;《略》N.J.,NJ)
+New Jersey	ニュージャージー州(米国東部大西洋岸の州;州都はTrenton;《略》N.J.,NJ)
 New Left	新左翼(1960年代,英国・米国などで体制変革論をかかげた若者のグループ)
 New Mexico	ニューメキシコ州(米国南西部の州;州都はSanta Fe;《略》N.M.,NM,N,Mex.)
 New Orleans	ニューオーリンズ(米国のLouisiana州のミシシッピ河口に近い港市;綿の大集散地)
@@ -128,7 +128,7 @@ Nigeria	ナイジェリア(アフリカ西部の共和国で英連邦の一員;�
 Nightingale	ナイチンゲール(『Florence』『~』;1820‐1910;近代看護法と看護婦養成に貢献した英国婦人)
 Nike	ニケ(ギリシア神話の勝利の女神) / 〈C〉ナイキ(米軍の対空誘導弾) ・ ナイキ (米国のスポーツ用品製造会社)
 Nile	ナイル川(アフリカ東部ビクトリア湖に発し地中海に注ぐ大河)
-Nilotic	ナイル川の / ナイル川流域住宅の / ナイル言語群の
+Nilotic	ナイル川の / ナイル川流域住民の / ナイル言語群の
 Nimrod	ニムロデ(聖書に出てくる狩りの名人) / 〈C〉《しばしばn-》(一般に)狩りの名人
 Nippon	日本
 Nipponese	=Japanese
@@ -167,10 +167,10 @@ Norw.	Norway / Norwegian
 Norway	ノルウェー(スカンジナビア半島の西半分を占める王国;首都はOslo)
 Norwegian	ノルウェーの / 〈C〉ノルウェー人 / 〈U〉ノルウェー語
 Nos.,nos.	Numbers
-Notation	〈C〉(特殊な記号・符号による一組の)表記,表習 / 〈U〉(特殊な記号・符号による)表記法 / 〈C〉《米》(本の欄外などの)書き込み,注記(note)
+notation	〈C〉(特殊な記号・符号による一組の)表記,表記 / 〈U〉(特殊な記号・符号による)表記法 / 〈C〉《米》(本の欄外などの)書き込み,注記(note)
 Notre Dame	(パリにある)ノートルダム寺院 / 聖母マリア
 Nov.	November
-Nova Scotia	ノウァスコシア(カンダ南東部の半島,またその州)
+Nova Scotia	ノウァスコシア(カナダ南東部の半島,またその州)
 November	11月(《略》Nov.)
 Novocaine	ノボカイン(特に歯科治療などの局所麻酔剤の商標名)
 Np	neptuniumの化学記号
@@ -241,7 +241,7 @@ nark	=narc / たれ込み屋 / …を怒らせる,悩ませる・不平を言う
 narky	ふきげんな
 narrate	…の話をする,を物語る,述べる / (ドラマなどで)語り手になる
 narration	〈U〉(…について)『話をすること』,物語ること《+『of』+『名』》 / 〈C〉〈U〉物語(narrative) / 〈U〉(文法上の)話法
-narrative	〈C〉〈U〉『物語』,話(story) / 〈U〉話術,語り口 / 『物語の』 / 手術の
+narrative	〈C〉〈U〉『物語』,話(story) / 〈U〉話術,語り口 / 『物語の』 / 叙述の
 narrator,narrater	『語り手』,ナレーター
 narrow	(幅の)『狭い』,細い / 『範囲(種類)が限られた』(limited) / 『厳密な』,正確な(exact) / 『やっとり』,かろうじての / (海・川などの)『せばまった場所』; / (…に)…を狭くする,細める,せばめる《+『down』+『名』(+『名』+『down』)+『to』+『名』》 / 狭くする,細くなる
 narrow boat	運河用ボート

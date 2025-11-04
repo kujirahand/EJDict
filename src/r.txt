@@ -14,7 +14,7 @@ R.C.Ch.	Roman Catholic Church
 R.D.	rural delivery(米国の)地方郵便配達
 R.I,RI	Rhode Island
 R.I.P.	requiescat in peace安らかに眠れ
-R.N.	registered nurse正看護師 / 《英》Royal navy英国海軍
+R.N.	registered nurse 正看護師 / 《英》Royal navy 英国海軍
 R.S.V.P.	Répondez s'il vous plaît.(=Please reply.) (手紙文で)ご返事ください お返事をください
 R.W.	Right Worshipful 閣下
 RA	Regular Army正規軍
@@ -947,7 +947,7 @@ regionalism	地域的特質 / 地方主義 / 方言
 register	(氏名・出生などの)『登録』,届;記録 / 『登記簿』,『名簿』 / 自動登録機,レジスター / (暖房器などの)空調装置 / 音域,声域;(オルガンの)音栓,ストップ・…を『記録する』 / …を『登録する』,名簿に入れる / 〈郵便物〉を書留にする / 〈機械・器具が〉…を示す / 〈表情などが〉を表す / (…に)『記録する』,記名する《+『with』(『at, in』)+『名』》 / (…に)『登録する』;(…の)選挙人名簿に登録する;(…に)入学する《+『for』+『名』》 / 〈物事が〉心に残る,感銘を与える
 registered	記録された;登録(登記)された
 registered mail	書留便(《英》registered post)
-registered nurse	正看護婦(看護学校を卒業し,国家試験に合格して登録された者)
+registered nurse	正看護師(看護学校を卒業し,国家試験に合格して登録された者)
 registrar	(大学・役所などの)記録係,登記係,教務係
 registration	〈U〉(…に)登録すること,(…の)登録;書留《+『of』+『名』》 / 《米》《集合的に》登録者数;(特に大学の)在籍者数;受講者数 / 〈C〉登録証明書 / 〈C〉記録された事がら
 registration book	(自動車の)登録証明書

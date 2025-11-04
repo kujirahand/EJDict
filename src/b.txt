@@ -33,7 +33,7 @@ BTW	【インターネットで使われる略語】= by the way・ところで�
 BW	black and white
 Ba	bariumの化学記号
 Baal	バール神(古代セム人の豊作の神) / 〈C〉《時にb-》邪神
-Babbitt	低俗な実業家[米の小説家S.ルイスの小事の主人公の名から]
+Babbitt	低俗な実業家[米の小説家S.ルイスの小説の主人公の名から]
 Babbitt metal	《時にb- m-》バビット合金(スズ・アンチモン・銅の軸受け用合金)
 Babel	(旧約聖書で)バベルの塔(the tower of Babel)(昔Babylonで,天まで届かせようとして神にとめられた塔) / 〈C〉〈U〉《b-》騒音;騒然とした場所
 Babylon	バビロン(古代Babyloniaの首都)
@@ -232,7 +232,7 @@ Byzantine Empire	ビサンチン帝国(東ローマ帝国の別名;395‐1453)
 Byzantium	ビザンチン(東ローマ帝国の首都;現在のIstanbulの古称)
 b and b	bed and breakfast
 b.	bachelor / (野球の)base / bass; basso / blend of; blended / book / born / breadth / brother
-b.i.d.	bis in die(処方せんで)1日2回
+b.i.d.	bis in die(処方箋で)1日2回
 b.o.	branch office / buyer's option
 b.p.	bills payable / boiling point
 b.r.,B.R.	bills receivable
@@ -1535,7 +1535,7 @@ blent	blendの過去・過去分詞
 blepharitis	眼瞼(けん)炎(まぶたの炎症)
 bless	〈神などが〉(…を)〈人〉に『授ける』,恵む《『名』〈人〉+『with』+『名』》 / …を『祝福する』 / 〈神〉をほめたたえる,賛美する;…に感謝する / …を清める / 《「…を悪から守る」の意から転化して間投詞として用いて》 / …をのろう
 blessed	祝福を受けた,恵まれた / 神聖な(sacred, holy) / 《名詞の前にのみ用いて》《damnを遠回しに言って》いまわしい,ばちあたりの(cursed) / 《強意》
-blessing	神の祝福を求める祈り / (食前の食後の)祈り(grace) / (神の)恩恵,祝福 / 《しばしば複数形で》ありがたいこと(もの),恩恵,幸運
+blessing	神の祝福を求める祈り / (食前または食後の)祈り(grace) / (神の)恩恵,祝福 / 《しばしば複数形で》ありがたいこと(もの),恩恵,幸運
 blest	《古》《詩》blessの過去・過去分詞
 blew	blowの過去形
 blight	〈U〉胴枯れ病(さび病・黒穂病・べと病など,菌の寄生のために起こる植物の病気) / 〈C〉(…を)破壊(だめに)するもの(人)《+『of』(『on』)+『名』》 / 〈U〉荒廃した状態 / …を枯らす,しおれさせる / 〈希望など〉をくじく,損なう,台なしにする

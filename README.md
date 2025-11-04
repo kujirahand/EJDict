@@ -71,7 +71,8 @@ $ php tools/tosqlite.php
 
 ## 改変履歴
 
-- 2025/07/25 生成AIを利用した大々的な自動校正を実施(07/22-07/25)
+- 2025/11/04 生成AI(GitHub Copilot{Claude Sonnet 4.5})を利用した自動校正を実施。軽微な誤字脱字を多数修正。
+- 2025/07/25 生成AI(Ollama{qwen3:14b, gemma3n:e4b})を利用した大々的な自動校正を実施(GPUを3日間回しっぱなし)
 
 ## License
 

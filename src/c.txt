@@ -1,58 +1,58 @@
 C	carbonの化学記号
 C of E	Church of England英国国教会
 C,c	〈C〉英語アルファベットの第3字 / 〈U〉(音階の)ハ音,ハ調 / 〈U〉(ローマ数字の)100 / 〈C〉《C》《米》(学校の成績の)C
-C.	Cape / Catholic / Celsius / Centigrade / Conservative
-C. and W.	country and westernウエスタン音楽
-C. of C.	Chamber of Commerce商業会議所
-C. of S.	Chief of Staff参謀長
-C.A.	chartered accountant公認会計士 / chief accountant会計主任 / chronological age生活年齢
-C.B.W.	chemical and biological warfare生物化学戦
-C.E.	Chemical Engineer化学技師 / Civil Engineer土木技師 / Corps of Engineers工兵隊
-C.F.I.	(またc.f.i.)cost, freight, and insurance運賃・保険料込み値段
+C.	Cape (「岬」または「（地名）ケープ」) / Catholic (カトリック) / Celsius (摂氏) / Centigrade (摂氏) / Conservative (保守党,保守的な)
+C. and W.	country and western ウエスタン音楽
+C. of C.	Chamber of Commerce 商業会議所
+C. of S.	Chief of Staff 参謀長
+C.A.	chartered accountant 公認会計士 / chief accountant 会計主任 / chronological age 生活年齢
+C.B.W.	chemical and biological warfare 生物化学戦
+C.E.	Chemical Engineer 化学技師 / Civil Engineer 土木技師 / Corps of Engineers 工兵隊
+C.F.I.	(またc.f.i.)cost, freight, and insurance 運賃・保険料込み値段
 C.G.	Coast Guard / Commanding General / Consul General
 C.O.D.,c.o.d.	cash on delivery,《米》collect on delivery代金引き替え払い
 C.O.S.	cash on shipment 船積み払い / Chief of Staff
 C.P.	Command Post / Common Prayer / Communist Party
-C.P.A.	Certified Public Accountant公認会計士
-C.S.	Chief of Staff 参謀長 / Christian Science / Christian Scientist / Civil Service
+C.P.A.	Certified Public Accountant 公認会計士
+C.S.	Chief of Staff 参謀長 / Christian Science / Christian Scientist / Civil Service 公務員
 C.S.A.	Confederate States of America 南部連合国(1860年に米合衆国から脱退した南部11州が作った国)
-C.T.	Central Time
-C.inC.,CinC	Commander in Chief
-C/S	cycles per second
-CA	California
+C.T.	Central Time アメリカ中部の標準時刻
+C.inC.,CinC	Commander in Chief 最高司令官
+C/S	cycles per second 毎秒回転数
+CA	California カリフォルニア州
 CAB	Civil Aeronautics Board民間航空委員会
 CAF	cost and freight運賃込み値段
 CAP	Civil Air Patrol民間航空巡視員
 CAT	clear air turbulence晴天乱流
 CATV	community antenna television 共同アンテナテレビ
-CB	citizens band / construction battalion設営大隊
-CBC	Canadian Broadcasting Corporationカナダ放送協会
-CCTV	closed-circuit television
+CB	citizens band / construction battalion 設営大隊
+CBC	Canadian Broadcasting Corporation カナダ放送協会
+CCTV	closed-circuit television クローズドサーキットテレビ
 CD	certificate of deposit / (また『C.D.』)Civil Defense民間防衛
 CEO	chief executive officer (最高経営責任者),企業のトップに位置する人,最高執行官,会長,代表執行役
-CI	Channel Islands
-CIA	the Central Intelligence Agency of the United States米国中央情報局
-CID	Criminal investigation Department [of Scotland Yard]ロンドン警視庁捜査課
+CI	Channel Islands 英仏海峡諸島
+CIA	the Central Intelligence Agency of the United States 米国中央情報局
+CID	Criminal investigation Department [of Scotland Yard] ロンドン警視庁捜査課
 CIF.	cost, insurance and freight 運賃保険料込み値段
 CIO	{略}Chief Information Officer (企業や組織の情報戦略・IT部門の最高責任者)
-CIP	Cataloging in publication
-CJ	Chief Justice裁判長
-CO	Colorado
-CO,C.O.	Commanding Officer(陸軍の)部隊長 / conscientious objector
-COBOL	コボル(事務用データ処理のための共通コンピューター言語;common business oriented languageの短縮)
-COL	cost of living消費者物価
+CIP	Cataloging in publication (図書館)出版前目録作成
+CJ	Chief Justice 裁判長
+CO	Colorado コロラド州 / commanding officer 部隊長
+CO,C.O.	Commanding Officer(陸軍の)部隊長 / conscientious objector (軍隊での)良心的兵役拒否者
+COBOL	コボル(事務用データ処理のためのプログラミング言語)
+COL	cost of living 消費者物価
 CORE	Congress of Racial Equality(米国)人種平等会議
 COVID-19	新型コロナウイルス感染症
 CP	=Communist Party
-CPI,c.p.i.	consumer price index消費者物価指数
-CPO	chief petty officer(米海軍)一等兵曹
-CQ	charge of quarters(軍隊の)夜間当番 / アマチュア無線で相手を呼び出す通信合図
-CRC	Civil Rights Commission市民権擁護委員会
+CPI,c.p.i.	consumer price index 消費者物価指数
+CPO	chief petty officer (米海軍)一等兵曹
+CQ	charge of quarters (軍隊の)夜間当番 / アマチュア無線で相手を呼び出す通信合図
+CRC	Civil Rights Commission 市民権擁護委員会
 CST,C.S.T.	Central Standard Time 中央標準時
-CT,Ct	Connecticut
-CWO	chief warrant officer(米軍の)上級准尉
+CT,Ct	Connecticut コネチカット州
+CWO	chief warrant officer (米軍の)上級准尉
 CYO	Catholic Youth Organization カトリック青年会
-CZ,C.Z.	Canal Zone
+CZ,C.Z.	Canal Zone パナマ運河地帯
 Ca	Calciumの化学記号
 Cadette	(12歳から14歳までの)ガールスカウトの団員
 Caesar	シーザー,カエサル(『Gaius Julius』~;100?‐44B.C.;ローマの将軍・政治家) / 〈C〉(一般に)皇帝;専制君主,独裁者
@@ -60,10 +60,10 @@ Caesarean section	帝王切開術
 Caesarism	専制君主政治,独裁君主政治
 Cain	カイン(AdamとEveの長男で弟のAbelを殺した聖書の中の人物)
 Cairo	カイロ(Egyptの首都)
-Cal.	California
+Cal.	California (カリフォルニア州) / calendar (カレンダー) / calorie (カロリー) / call / calvary (カルバリ)
 Calais	カレー(Dover海峡に臨むフランスの港市)
 Calcutta	カルカッタ(インド東部の港市)
-Calif.	California
+Calif.	California (カリフォルニア州)
 California	『カリフォルニア州』(米国太平洋岸の州;州都Sacramento;《略》『Calif.,Cal.,CA』)
 California poppy	花菱草(ケシ科の多年草;米国California州の州草)
 Californian	カリフォルニアの / カリフォルニア州の住民

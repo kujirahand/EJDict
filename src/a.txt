@@ -2459,7 +2459,7 @@ athletics	運動競技;《英》陸上競技 / 《単数扱い》体育[実技]
 athwart	(海事用語で)横切って;逆らって / 《まれ》…を横切って;…に逆らって
 atilt	《補語にのみ用いて》傾いた,傾斜した / 傾斜して / 槍を構えて
 atishoo	=achoo (くしゃみの音)
-atishoo	=atchoo
+atishoo	=atchoo (くしゃみの音)
 atlas	『地図帳』 / 図解,表解
 atm.	atmosphere / atmospheric
 atmosphere	《the ~》(地球を取り巻く)『大気』 / 〈C〉(特定の場所の)『空気』 / 〈C〉『雰囲気』,環境,周囲の状況 / 〈C〉気圧単位(1cm²に1.013ダインの力が働いたときの圧力《略》『atm』.)
@@ -2518,7 +2518,7 @@ attenuate	〈固体など〉を細くする;〈体など〉をやせさせる / 
 attenuation	細くすること,薄めること / 減少
 attest	〈真実性など〉を証明する,の証拠となる / (…を)証明する,立証する《+『to』+『名』(do『ing』)》
 attestation	証明,証拠,保証
-attested	無病(無菌)であることを証明された / 《英》=certified 1
+attested	無病(無菌)であることを証明された / 《英》=certified
 attic	『屋根裏』;屋根裏部屋
 attire	(…に)…に装わせる,盛装させる《+『名』+『in』+『名』》 / 《文》衣装,服装
 attitude	(人・物に対する)『姿勢』,身構え,感じ方,(特に精神的な)傾向,性向《+『toward』(『to』,『on』)+『名』》 / (行為・感情などを示す)姿勢,身構え

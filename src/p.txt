@@ -2892,7 +2892,7 @@ prev.	previous / previously
 prevail	《文》 / (…に)〈強さ・影響力が〉『勝る』,勝つ《+『over』(『against』)+『名』》 / (…に)『普及している』,広く行きわたる《『in』(『among』)+『名』》
 prevailing	《名詞の前にのみ用いて》 / 『最も一般の』;『広く行きわたっている』; / 有力な,優勢な
 prevalence	広く行きわっていること,普及 / 優勢,支配
-prevalent	『いたる所ににある』,流行している
+prevalent	『いたる所にある』,流行している
 prevaricate	言い紛らす,言葉じりを濁す / 《遠回しに》うそをつく,ごまかす(lie)
 prevarication	言い紛らすこと,言い逃れ
 prevaricator	言い逃れをする人

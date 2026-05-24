@@ -15,6 +15,7 @@ foreach ($files as $fname) {
         $word_a = explode(',', $word);
         foreach ($word_a as $word) {
             $word = trim($word);
+            if ($word == '') { continue; }
             if (empty($keys[$word])) {
                 $keys[$word] = $mean;
             } else {

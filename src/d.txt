@@ -2047,7 +2047,7 @@ double bluff	裏の裏をかくこと
 double boiler	二重なべ,二重がま
 double chin	二重あご
 double date	ダブルデート(2組4人によるデート)
-double entry [bookkeeping]	複式薄記
+double entry,double entry bookkeeping	複式薄記
 double feature	(映画の)2本立て
 double first	(英国大学で)2科目最優等の学生
 double negation	二重否定

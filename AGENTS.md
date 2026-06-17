@@ -70,6 +70,7 @@ EJDict/
 | [fix_brackets.py](tools/fix_brackets.py) | Python | `check_brackets.py` で検出されるような、カッコの対応崩れを自動で補正・修復します。 |
 | [fix_zen_han.py](tools/fix_zen_han.py) | Python | 全角のスペース、カッコ、コロン、ピリオドなどを半角に一括置換して統一します。 |
 | [normalize.php](tools/normalize.php) | PHP | 訳語に含まれる表記のブレを修正したり、特定の全角記号を半角に揃える標準化処理を実行します。 |
+| [expand_brackets.py](tools/expand_brackets.py) | Python | 単語キーに含まれるブラケット表記（例: `adrenalin[e]`）を展開します。 |
 
 ### D. 分割 & 統合の特殊ツール
 

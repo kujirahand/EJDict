@@ -2197,7 +2197,7 @@ motorship	(内燃機関による)発動機船
 motortruck	貨物自動車
 motorway	《英》=expressway
 mottle	《受動態で》…をまだらにする,ぶちにする / ぶち,まだら,斑点(はんてん)
-motto	『モットー』,教え(戒め)とする言葉,座右の銘 / (器物・貨幣・記念碑などにしるす)題句,題銘 処世訓 金言 標語
+motto	『モットー』,教え(戒め)とする言葉,座右の銘 / (器物・貨幣・記念碑などにしるす)題句,題銘,処世訓,金言,標語
 mould	=mold
 moulder	=molder
 moulding	=molding

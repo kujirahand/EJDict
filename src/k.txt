@@ -380,5 +380,5 @@ kvass	クワス(東欧・ロシア産のライ麦ビール)
 kw,KW	kilowatt
 kwacha	クワーチャー(ザンビアの貨幣単位)
 kwela	クェイラ(南アフリカ黒人の踊りの音楽)
-kwh[r],KWh,K.W.H.	kilowatt-hour
+kwh,kwhr,KWh,K.W.H.	kilowatt-hour
 kyrie eleison	〈U〉キリスト教の礼拝文句の一部(カトリックや正教会、聖公会などの典礼で使われる)キリエ・エレイソン(ギリシャ語で「主よ、憐れみたまえ」の意味)

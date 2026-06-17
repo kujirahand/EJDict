@@ -44,7 +44,7 @@ United Arab Emirates	アラブ首長国連邦
 United Arab Republic	アラブ連合共和国(現在のエジプトアラブ共和国(the Arab Republic of Egypt)の旧名;《略》UAR,U.A.R.)
 United Kingdom	『イギリス連合王国』(英本国のこと;大ブリテンと北アイルランドとの連国王国;公式名は the United Kingdom of Great Britain and Northern Ireland;《略》UK)
 United Nations	『国際連合』(1945年 San Francisco において世界50か国の共同署名により発足した国際的連盟で,かつての国際連盟(the League of Nations)に代わる新たな機関;本部は New York 市にある;《略》UN,U.N.)
-United States [of America]	『アメリカ合衆国』,米国
+United States,United States of America	『アメリカ合衆国』,米国
 Univ.	University
 Upper House	上院(《英》the House of Lords,《米》the Senate の別名)
 Upper Volta	オートボルタ (アフリカ西部の共和国Burkina Fasoの旧名)

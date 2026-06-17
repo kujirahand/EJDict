@@ -183,7 +183,7 @@ Britannic	英国の,大英帝国の
 Briticism	英本国特有の語句(語法)
 British	『英国の』;英国人の / 英国民(人)
 British Columbia	ブリティッシュコロンビア(カナダ西部,太平洋岸の州;州都Victoria)
-British Commonwealth [of Nations]	英連邦(英本国・属領および旧British Empireからの独立国によって構成される;1949年から正式にはthe Commonwealth [of Nations]という)
+British Commonwealth,British Commonwealth of Nations	英連邦(英本国・属領および旧British Empireからの独立国によって構成される;1949年から正式にはthe Commonwealth [of Nations]という)
 British Empire	大英帝国(英国およびその植民地と自治領の旧称)
 British English	イギリス英語(大ブリテン島,特にイングランド南部で用いられる英語)
 British Isles	英国諸島(Great Britain, Irelandおよびその付近の島々)

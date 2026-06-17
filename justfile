@@ -36,8 +36,12 @@ fix-zen-han:
 normalize:
     php tools/normalize.php
 
-# Run all formatting and normalization tasks (fix-zen-han, fix-brackets, normalize)
-fix-all: fix-zen-han fix-brackets normalize
+# Expand bracket notations in dictionary keys (e.g. adrenalin[e] -> adrenalin,adrenaline)
+expand-brackets:
+    python3 tools/expand_brackets.py
+
+# Run all formatting and normalization tasks (fix-zen-han, fix-brackets, normalize, expand-brackets)
+fix-all: fix-zen-han fix-brackets normalize expand-brackets
 
 # Split merged ejdict-hand-utf8.txt back into src/*.txt by letter
 split-all:

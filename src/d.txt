@@ -51,7 +51,7 @@ Damascus	ダマスカス(シリアの首都)
 Damocles	ダモクレス(ギリシア神話において、シラクサの王ディオニュシウスの廷臣)
 Dan.	Danish / Daniel
 Dane	デンマーク人 / デーン人(10世紀ごろ英国に侵入した北欧人)
-Daniel	ダニエル 《男性名; 愛称 Dan,Danny》・ダニエル 《ユダヤの預言者》・ ダニエル書 (The Book of Daniel) 《旧約聖書中の一書; 略 Dan.》・〈C〉(ダニエルのような)名裁判官 《「聖書外典(がいてん)」から》
+Daniel	ダニエル 《男性名; 愛称 Dan,Danny》・ダニエル 《ユダヤの預言者》・ダニエル書 (The Book of Daniel) 《旧約聖書中の一書; 略 Dan.》・〈C〉(ダニエルのような)名裁判官 《「聖書外典(がいてん)」から》
 Danish	デンマーク(Denmark)の;デンマーク人(語)の / デーン人(Dane)の / デンマーク語
 Danish pastry	デニッシュペーストリー(バターを多く用いたパン生地を焼いた菓子パン・干しぶどう・カスタードクリームなどが入っているものが多い)
 Dante	ダンテ(1265‐1321;イタリアの詩人;「神曲」の作者)
@@ -497,7 +497,7 @@ decolonize,decolonise	〈植民地〉の自治を許す,を独立させる
 decommission	〈船など〉を廃役にする
 decompensate	〈心臓が〉代償機能を失う
 decompensation	(心臓の)代償不全
-decompose	を分解させる …を腐敗させる 分解する 腐敗する
+decompose	を分解させる …を腐敗させる,分解する,腐敗する
 decomposition	分解 / 腐敗 / 変質
 decompress	…の圧力を減らす
 decompression	減圧

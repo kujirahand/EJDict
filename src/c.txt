@@ -2091,7 +2091,7 @@ cliquey	=cliquish
 cliquish	排他的な,徒党を組む
 clitoris	クリトリス(女性器の陰核)
 clk.	clerk / clock
-cloaca	(鳥類,爬(は)虫類,両生類などの) 排出腔{はいしゅつ,くう}、下水道{げすいどう}
+cloaca	(鳥類,爬(は)虫類,両生類などの) 排出腔{はいしゅつくう}、下水道{げすいどう}
 cloak	『そでなし外とう』,マント / 口実,仮面 / …に外とうを着せる / …をおおい隠す,装う
 cloak-and-dagger	スパイの[ような]
 cloakroom	(また『checkroom, coatroom』)(ホテル・劇場などの)外とう・携帯品預り所 / (また『checkroom』)(駅の)手荷物一時預り所 / 《米》議員控え室 / 《英》《遠回しに》便所

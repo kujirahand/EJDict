@@ -1,0 +1,9 @@
+**/.DS_Store
+
+tool_ai/20250725/*.db
+tool_ai/20250725/config.json
+
+/release/
+/*.zip
+
+

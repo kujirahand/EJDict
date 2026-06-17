@@ -2075,8 +2075,8 @@ fundamentalist	根本主義者 / 根本主義の
 fundamentally	基本的に;本質的に
 funeral	『葬式』,葬儀,告別式 / (死者を送る)葬列 / 葬式の,葬儀の
 funeral director	葬儀屋
-funeral home	葬儀場; ・斎場・遺体安置所
-funeral parlor,funeral parlour	=funeral home・葬儀場; ・斎場・遺体安置所
+funeral home	葬儀場; 斎場・遺体安置所
+funeral parlor,funeral parlour	=funeral home・葬儀場; 斎場・遺体安置所
 funeral pile	(火葬用の)積みまき
 funerary	葬式の,埋葬用の
 funereal	『葬式の』 / しめやかな,悲しげな,陰気な

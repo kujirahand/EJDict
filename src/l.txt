@@ -827,7 +827,7 @@ lieutenant	(米陸軍で)中(少)尉;(英陸軍で)中尉 / (海軍で)大尉 / 
 lieutenant colonel	(米国の)陸軍(空軍,海兵隊)大佐,(英国の)陸軍中佐
 lieutenant commander	(米国・英国の)海軍少佐
 lieutenant general	(米国の)陸軍(空軍,海兵隊)中将,(英国の)陸軍中将
-lieutenant governor	(米)州副知事 / 《英》総督代理
+lieutenant governor	《米》州副知事 / 《英》総督代理
 lieutenant junior grade	(米国の)海軍中尉
 life	〈U〉(無生物と区別して,生物が持っている)『生命』,命 / 〈U〉《集合的に》『生物』,生き物 / 〈U〉(死後の)霊,霊的存在 / 〈C〉人間(person) / 〈U〉『一生』,生涯 / 〈C〉『寿命』,活動(有効,耐久)期間 / 〈U〉『人生』,現世,世間 / 〈C〉〈U〉『生活』,暮らし,生き方,暮らし方 / 〈C〉『伝記』(biography) / 〈U〉『生気』,活気,元気(vitality)
 life expectancy	期待寿命[余命], 平均余命 (=expectation of life)

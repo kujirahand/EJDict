@@ -8,7 +8,7 @@ N.C.,NC	North Carolina
 N.D.,ND	North Dakota
 N.Dak.	North Dakota
 N.E.	New England / North-East[ern]
-N.G.	National Guard(米国)州民軍,州兵 / (また『n.g.』)no good
+N.G.	National Guard《米》州民軍,州兵 / (また『n.g.』)no good
 N.H.,NH	New Hampshire
 N.J.,NJ	New Jersey
 N.M.,NM,N.Mex.	New Mexico
@@ -18,15 +18,15 @@ N.Y.,NY	New York
 N.Y.C.	New York City
 N.Z.	New Zealand
 NAACP	National Association for the Advancement of Colored People全米有色人種地位向上協会
-NAS	National Academy of Sciences(米国)連邦学術会議
+NAS	National Academy of Sciences《米》連邦学術会議
 NASA	The National Aeronautics and Space Administration 米国航空宇宙局
 NATO	North Atlantic Treaty Organization
 NB	Nebraska
-NBS	National Bureau of Standards(米国)規格基準局
+NBS	National Bureau of Standards《米》規格基準局
 NCO	Noncommissioned Officer陸軍下士官
 NE	Nebraska / northeast[ern]
 NE,N.E.	northeast; northeastern
-NEA	National Education Association(米国)連邦教育委員会
+NEA	National Education Association《米》連邦教育委員会
 NEB	New English Bible新英訳聖書
 NET	National Educational Television 米教育テレビジョン
 NF,N.F.	no funds預金なし(銀行から小切払出入への通知) / Norman French

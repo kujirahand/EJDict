@@ -9,7 +9,7 @@ I.E.	Indo-European / Industrial Engineer
 I.N.R.I.	(ラテン語)Iesus Nazarenus,Rex Iudaeorumユダヤ人の王,ナザレのイエス
 I.R.	information retrieval 情報検索
 ICBM	intercontinental ballistic missile 大陸間弾道弾
-ICC	Interstate Commerce Commission・(米国)(the ～) 州間通商委員会 (略 ICC)
+ICC	Interstate Commerce Commission・《米》(the ～) 州間通商委員会 (略 ICC)
 ICJ	International Court of Justice 国際司法裁判所
 ICU	intensive-care unit 集中治療設備
 ID card	=identity(identification) card
@@ -30,7 +30,7 @@ IQ,I.Q.	intelligence quotient 知能指数
 IRA,I.R.A.	Irish Republican Army アイルランド共和国軍
 IRBM	intermediate range ballistic missile 中距離弾道弾
 IRO	International Refugee Organization 国際難民救済機関
-ITA	Independent Television Authority(英国)独立テレビジョン公社
+ITA	Independent Television Authority《英》独立テレビジョン公社
 ITV	instructional television 教育テレビ
 IUD	intrauterine device 子宮内避妊具
 IWW	Industrial Workers of the World 世界産業労働者組合
@@ -987,7 +987,7 @@ infertility	生殖力のないこと / (土地の)不毛
 infest	〈害虫・盗賊などが〉に横行する,はびこる
 infestation	(害虫・賊・病気などの)横行,はびこり
 infidel	信心しない人 / (キリスト教徒とイスラム教徒が互いに相手をののしって)異教徒 / 信心しない / (キリスト教・イスラム教などの)信仰を受け入れない
-infidelity	〈U〉不貞,不義 / 〈C〉不貞な行為 / 〈U〉《文語》(宗教的な意味で)不信仰
+infidelity	〈U〉不貞,不義 / 〈C〉不貞な行為 / 〈U〉《文》(宗教的な意味で)不信仰
 infield	〈C〉(野球・クリケットの)内野 / 〈C〉《集合的に》内野手
 infielder	(野球・クリケットの)内野手
 infighting	(ボクシングなどの)接近戦 / 内輪もめ,内部抗争

@@ -185,7 +185,7 @@ Angelus bell	お告げの鐘(朝・正午・日没に鳴らすお告げの祈り
 Angl.	Anglican / Anglicized
 Angles	《the ~》アングル族(もと北ドイツのゲルマン族一派で,5世紀以後英国に渡った)
 Anglian	アングル族の / 〈C〉アングル人 / 〈U〉アングル語
-Anglican	英国国教会の,(英国)聖公会の / 《米》英国の(English) / 英国国教会の信者
+Anglican	英国国教会の,《英》聖公会の / 《米》英国の(English) / 英国国教会の信者
 Anglican Church	《the ~》英国国教会(the Church of England)系の教会(英国国教会およびこれと教義を同じくする各国の教会)
 Anglicanism	英国国教会の教義(制度)
 Anglicism	(外国語にとり入れられた)英語慣用語法 / 《米》イギリス語法(Briticism)
@@ -919,7 +919,7 @@ aesthetic	美学の;審美的な
 aesthetics	美学
 aestivate	夏を過ごす;(カタツムリなどが)夏眠する
 aether	=ether
-aetiology	(英国)病因学,原因論,原因の研究 / =etiology (米国)
+aetiology	《英》病因学,原因論,原因の研究 / =etiology 《米》
 afar	遠くに,はるかに
 affability	愛想のよさ,人好きのすること
 affable	(人が)近づきやすい,親しみのもてる
@@ -953,7 +953,7 @@ afforest	〈荒地・畑など〉を山林にする;〈土地〉に造林する,
 afforestation	造林,植林
 affray	《法》(公共の場所での)乱闘,口論,けんか
 affricate	破擦音
-affright	(古風)(文語)恐怖や恐れを引き起こす
+affright	(古風)《文》恐怖や恐れを引き起こす
 affront	(人前で故意に)…を侮辱する,恥ずかしめる / 公然の侮辱
 afft.	affidavit
 aficionado	熱愛者,こり屋

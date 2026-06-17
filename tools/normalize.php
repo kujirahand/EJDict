@@ -23,6 +23,17 @@ foreach ($files as $file) {
         $mean = preg_replace("#[‘\']([あ-ん]{1,2})[\'\']#u", "$1", $mean);
         # 全角記号を半角記号に揃える
         $mean = mb_convert_kana($mean, "rsKV", "UTF-8");
+        # 表現の統一 (Issue #35)
+        # 《俗語》(俗語) → 《俗》
+        $mean = str_replace(['《俗語》', '(俗語)'], '《俗》', $mean);
+        # 《英国》(英国)(英) → 《英》
+        $mean = str_replace(['《英国》', '(英国)', '(英)'], '《英》', $mean);
+        # 《米国》(米国)(米) → 《米》
+        $mean = str_replace(['《米国》', '(米国)', '(米)'], '《米》', $mean);
+        # 《文語》(文語) → 《文》
+        $mean = str_replace(['《文語》', '(文語)'], '《文》', $mean);
+        # 《口語》(口語)《口》 → 《話》
+        $mean = str_replace(['《口語》', '(口語)', '《口》'], '《話》', $mean);
         # 再構築
         $result[] = "$word\t$mean";
         # report

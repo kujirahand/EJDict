@@ -764,7 +764,7 @@ heavy hydrogen	重水素
 heavy industry	重工業
 heavy petting	(性交を伴わない)濃密な愛撫
 heavy water	重水(重水素と普通の酸素から成る水)
-heavy-duty	{形}(機械などが)長持ちのする,頑丈な / {形}過酷な用途向けの / {形}《口》非常に強力な / 重大な
+heavy-duty	{形}(機械などが)長持ちのする,頑丈な / {形}過酷な用途向けの / {形}《話》非常に強力な / 重大な
 heavy-handed	手荒に扱う,無器用な / 横暴な,粗野な
 heavy-hearted	重い心の,悲しい
 heavy-laden	重荷を負わされた / 悩み事の多い
@@ -884,7 +884,7 @@ hepatitis	肝[臓]炎
 hepcat	ジャズ気違い, 新事情通, ジャズ通, ジャズミュージシャン
 heptagon	七角形,七辺形
 heptameter	(詩の韻律で)七歩格
-her	《sheの所有格》『彼女の』 / 《sheの目的格》『彼女に』 / 《口語》[be の補語に用いて] = her
+her	《sheの所有格》『彼女の』 / 《sheの目的格》『彼女に』 / 《話》[be の補語に用いて] = her
 herald	(昔の国王や領主の)使者 / 先触れ,先駆者 / 『使者』,伝達者,報道者 / …を先触れする;…を布告する,告知する
 heraldic	使者の / 紋章の,紋章学の
 heraldist	紋章学者

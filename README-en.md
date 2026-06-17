@@ -64,7 +64,8 @@ $ php tools/tosqlite.php
 - `《米》` indicates American English.
 - `《英》` indicates British English.
 - `《俗》` indicates slang.
-- `《口》` indicates colloquial expressions.
+- `《話》` indicates colloquial (spoken) expressions.
+- `《文》` indicates literary (written) expressions.
 - `《差別的表現》` indicates discriminatory expressions. Please avoid using them.
 - `《まれ》` indicates rarely used expressions.
 - `《法》` indicates legal terms.

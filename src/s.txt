@@ -17,9 +17,9 @@ S.T.P.	standard temperature and pressure
 SALT	Strategic Arms Limitation Talks戦略兵器制限交渉
 SAM	surface-to-air missile地対空ミサイル
 SAT	Scholastic Aptitude Test(大学の入学選考のための)学力適性検査
-SBA	Small Business Administration(米国)中小企業庁
+SBA	Small Business Administration《米》中小企業庁
 SE,S.E.,s.e.	southeast; southeastern
-SEC	Securities and Exchange Commission(米国)証券取引委員会
+SEC	Securities and Exchange Commission《米》証券取引委員会
 SEN	State Enrolled Nurse
 SG.	senior grade / Secretary General / Solicitor General / Surgeon General
 SJ,S.J.	Society of Jesus / イエズス会
@@ -566,7 +566,7 @@ sandstone	砂岩
 sandstorm	(砂漠の)砂あらし
 sandwich	『サンドイッチ』 / サンドイッチのようにはさまれた物 / (…の間に)…をはさむ,(時間的に)…を差し込む《+『名』+『between』+『名』》
 sandwich board	(体の前後に下げる)サンドイッチマンの広告板
-sandwich course	(英国)技術専門学校などのサンドイッチ課程(理論学習と現場学習を3ヶ月ないし6ヶ月交代で繰り返す教育制度)
+sandwich course	《英》技術専門学校などのサンドイッチ課程(理論学習と現場学習を3ヶ月ないし6ヶ月交代で繰り返す教育制度)
 sandwich man	サンドイッチマン;ちんどん屋
 sandy	『砂の』;砂だらけの / 砂色の,薄茶色の(yellowish brown)
 sane	(人が)『正気の』,気の確かな / (考え方・判断などが)『思慮(分別)のある』

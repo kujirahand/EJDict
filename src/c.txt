@@ -41,7 +41,7 @@ CO	Colorado コロラド州 / commanding officer 部隊長
 CO,C.O.	Commanding Officer(陸軍の)部隊長 / conscientious objector (軍隊での)良心的兵役拒否者
 COBOL	コボル(事務用データ処理のためのプログラミング言語)
 COL	cost of living 消費者物価
-CORE	Congress of Racial Equality(米国)人種平等会議
+CORE	Congress of Racial Equality《米》人種平等会議
 COVID-19	新型コロナウイルス感染症
 CP	=Communist Party
 CPI,c.p.i.	consumer price index 消費者物価指数
@@ -1102,7 +1102,7 @@ cay	〈C〉小さな砂洲 / サンゴ礁島
 cayenne	とうがらし
 cayman	=caiman
 cayuse	(米西部で)インディアンの小馬
-ccw	{略}反時計回り(counterclockwise),=anticlockwise (英国)
+ccw	{略}反時計回り(counterclockwise),=anticlockwise 《英》
 cd.	cord; cords
 cease	『やむ』,終わる / …を『やめる』,中止する / 終止
 ceasefire	休戦,休戦命令
@@ -1975,7 +1975,7 @@ clatter	(堅いものがぶつかり合うときの)『ガチャガチャ』(『
 clause	(文法で)『節』(文の一部で「主語+述語動詞」の構造を持っている語の集まり) / (条約・法律などの)『箇条』,条項
 claustrophobia	密室恐怖症,閉鎖恐怖症
 claustrophobic	密室(閉鎖)恐怖症の
-clave	〈C〉クラーベ(打楽器) / 拍子リズムパターン / {動}cleave の過去形(文語)
+clave	〈C〉クラーベ(打楽器) / 拍子リズムパターン / {動}cleave の過去形《文》
 clavichord	クラビコード(ピアノの前身であるけん盤楽器)
 clavicle	鎖骨
 clavier	(ピアノ・オルガンの)けん盤 / けん盤楽器

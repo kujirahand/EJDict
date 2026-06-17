@@ -502,7 +502,7 @@ acacia	アカシア属の木,《英》ハリエンジュ,ニセアカシア
 acad.	academic / academy
 academe	《A-》(古代アテネの)アカデミーの森 / 〈C〉(またacademia)大学[周辺]
 academia	=academe
-academic	学問の,学術的な,教育の / 学園の,大学の / 大学教員,研究者,学者 / (複数形で)学業,学課,大学課程
+academic	学問の,学術的な,教育の / 学園の,大学の / 大学教員,研究者,学者 / 《複数形で》学業,学課,大学課程
 academic freedom	学問の自由
 academical	=academic / 《複数形で》大学の式服
 academician	学士院会員,芸術院会員 / 伝統主義者

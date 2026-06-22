@@ -22,6 +22,7 @@ build-all: clean build makezip
 # Validate format of src/*.txt files and check brackets balance
 check:
     php tools/check_data.php
+    php tools/check_double.php
     python3 tools/check_brackets.py
 
 # Automatically fix mismatched brackets in dictionary text

@@ -1,7 +1,7 @@
 C	carbonの化学記号
 C of E	Church of England英国国教会
 C,c	〈C〉英語アルファベットの第3字 / 〈U〉(音階の)ハ音,ハ調 / 〈U〉(ローマ数字の)100 / 〈C〉《C》《米》(学校の成績の)C
-C.	Cape (「岬」または「（地名）ケープ」) / Catholic (カトリック) / Celsius (摂氏) / Centigrade (摂氏) / Conservative (保守党,保守的な)
+C.	Cape (「岬」または「(地名)ケープ」) / Catholic (カトリック) / Celsius (摂氏) / Centigrade (摂氏) / Conservative (保守党,保守的な)
 C. and W.	country and western ウエスタン音楽
 C. of C.	Chamber of Commerce 商業会議所
 C. of S.	Chief of Staff 参謀長

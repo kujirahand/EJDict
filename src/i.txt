@@ -1,9 +1,8 @@
-I	『私は』,私が / iodineの化学記号
+I,i	『私は』,私が / iodineの化学記号 / 〈C〉英語アルファベットの第9字 / 〈C〉I字型[の物] / 〈U〉(ローマ数字の)1
 I'd	I had, I wouldの短縮形
 I'll	I will, I shallの短縮形
 I'm	I amの短縮形
 I've	I haveの短縮形
-I,i	〈C〉英語アルファベットの第9字 / 〈C〉I字型[の物] / 〈U〉(ローマ数字の)1
 I.	Island; Islands / Isle; Isles / Interstate [Highway]
 I.E.	Indo-European / Industrial Engineer
 I.N.R.I.	(ラテン語)Iesus Nazarenus,Rex Iudaeorumユダヤ人の王,ナザレのイエス
@@ -167,7 +166,7 @@ icicle	つらら
 icily	氷のように;冷たく,冷淡に
 icing	(菓子などの)糖衣 / (飛行機の翼などへの)着氷
 icky	不快な,いやな / ねばっこい,べたべたする
-icon,ikon	像,肖像;(ギリシア教会の)聖画像
+icon,ikon	像,肖像;(ギリシア教会の)聖画像 / =icon
 iconoclast	聖像(偶像)破壊者(特に8‐9世紀に聖像礼拝に反対した信者) / 因襲を打破する人
 ictus	(詩の韻律で)強音,揚音
 icy	『氷の』,氷で覆われた / 『氷のように冷たい』 / 冷淡な,よそよそしい
@@ -203,7 +202,7 @@ ideology	〈C〉イデオロギー(社会・政党などが持つ典型的な思
 ides	(古代ローマ暦で)3・5・7・10月の15日,および他の月の13日
 idiocy	白痴;〈C〉愚かな言行
 idiom	〈C〉『慣用語法』,熟語 / 〈U〉(ある言語の)語法;(ある民族・地方の)方言,なまり(dialect);(美術・音楽などの)作風
-idiomatic, idiomatical	慣用語法にかなった,慣用的な,慣用語法の多い
+idiomatic,idiomatical	慣用語法にかなった,慣用的な,慣用語法の多い
 idiopathic	特発性疾患の(病気の原因があいまいな,また不明な場合)
 idiosyncrasy	(個人的)特質,特異性;特異な行動(反応)
 idiot	(3‐4歳以下の知能しかない)白痴 / 《話》ばか(fool)
@@ -236,7 +235,6 @@ ignorance	『無学』,『無知』,無教育;(…を)知らないこと《+『o
 ignorant	(人が)『知識がない』,無知な,教育を受けていない / 《補語にのみ用いて》『知らない』,気づかない(unaware) / 《話》(行為などが)無知から起こる,非常識な
 ignore	…を『無視する』,顧みない
 iguana	イグアナ(熱帯アメリカ産の大トカゲ)
-ikon	=icon
 ileitis	回腸炎
 ileum	回腸(小腸の下部の1/3の部分)
 ilex	ウバメガシ(常緑のカシの一つ) / 西洋ヒイラギ
@@ -375,7 +373,6 @@ impala	インパラ(アフリカ産レイヨウ;カモシカの一種)
 impale	(やり・ピンなどで)…を突き刺す《+『名』+『on』(『upon, by』)+『名』》
 impalement	(とがった物で)突き刺すこと / くし刺しの刑
 impalpable	手で触れない,触知(感知)できない / (差異などが)なかなか理解できない,微妙な
-impanel	=empanel
 impart	(…に)〈事〉を与える(give)《+『名』+『to』+『名』》
 impartial	片寄らない,公平な(fair)
 impartiality	かたよらないこと,公平
@@ -537,7 +534,7 @@ imputability	責任を負わせること,帰しうること
 imputable	負わせられる,帰せられる;(…を)負わせられる《+『to』+『名』》
 imputation	〈U〉(罰などの原因を)人のせいにすること / 〈C〉(押しかぶされた)汚名,そしり
 impute	(…に)…の罪(責任,原因など)を押しつける《『名』~『to』+『名』》
-in	《具体的な場所,位置》 / …『の中に』(『で』) / …『において』,…で / 《intoの代りに移動を表す動詞と共に》…『の中へ』 / (乗り物)『に乗って』 / …『の状態に』(『で』) / …『に従事して』,に属して / …『を身につけて』,に覆われて / 《『in』do『ing』の形で》…『するときに』,する際に(when) / 《時間》 / …『して』,…『が経過したあと』 / …『の間に』 / …『については』,…の点では / 《方法・手段・材料》…『で』 / 《人を目的語にして,性質・能力があることを示して》…の中に / …の目的で,のつもりで,として / 《比率割合》…のうちで,につき / 《過去分詞に伴って》…に[…されて] / 『中へ』(に) / 『在宅して』,帰って / (乗り物などが)『到着して』,(時期・季節が)来て / 出回って,流行して / 《俗》流行の,当世風の / 《話》特定の人々にのみ理解される
+in,in.	《具体的な場所,位置》 / …『の中に』(『で』) / …『において』,…で / 《intoの代りに移動を表す動詞と共に》…『の中へ』 / (乗り物)『に乗って』 / …『の状態に』(『で』) / …『に従事して』,に属して / …『を身につけて』,に覆われて / 《『in』do『ing』の形で》…『するときに』,する際に(when) / 《時間》 / …『して』,…『が経過したあと』 / …『の間に』 / …『については』,…の点では / 《方法・手段・材料》…『で』 / 《人を目的語にして,性質・能力があることを示して》…の中に / …の目的で,のつもりで,として / 《比率割合》…のうちで,につき / 《過去分詞に伴って》…に[…されて] / 『中へ』(に) / 『在宅して』,帰って / (乗り物などが)『到着して』,(時期・季節が)来て / 出回って,流行して / 《俗》流行の,当世風の / 《話》特定の人々にのみ理解される / inch[es]
 in extremis	窮極に / 死に臨んで
 in loco parentis	親の立場で,親の代りに
 in memoriam	(碑文などで)…を記念して,追悼して
@@ -548,7 +545,6 @@ in situ	もとの場所に,本来の場所に
 in so far as	…する限りにおいて
 in total	全部で,全体として / 全く
 in toto	全部で,全体として / 全く
-in,in.	inch[es]
 in-between	中間の,中間的な / 中間の[立場の]人(もの)
 in-depth	(調査など)深奥をきわめた,徹底的な
 in-flight	飛行中行われる,飛行中の
@@ -853,7 +849,7 @@ individualist	個人主義者;利己主義者
 individualistic	個人主義的な;利己主義的な
 individuality	〈U〉個性 / 《複数形で》個人的な特徴(特質,好み)
 individualization,individualisation	個性化;個別化;区別
-individualize, individualise	…に個性を与える / …を個々に考える / …を個々の好みに合わせる
+individualize,individualise	…に個性を与える / …を個々に考える / …を個々の好みに合わせる
 individually	個々に,個別的に / 個人として,個人的に / 個性的に,独自のやり方で
 individuate	…を個別化する / …に個性を与える
 indivisibility	分割できないこと,不可分性
@@ -1020,7 +1016,7 @@ inflationary	インフレの,通貨膨張の,物価騰貴の
 inflationary spiral	悪性インフレーション
 inflationist	インフレーション政策論者,通貨膨張論者
 inflect	〈単語〉を語形変化(活用)させる / 〈声〉の調を変える;…に抑揚をつける / …を曲げる,屈曲させる
-inflection, inflexion	〈U〉語形変化,屈折;〈C〉変化形,活用形 / 〈U〉(音声の)抑揚 / 〈U〉〈C〉湾曲,屈曲
+inflection,inflexion	〈U〉語形変化,屈折;〈C〉変化形,活用形 / 〈U〉(音声の)抑揚 / 〈U〉〈C〉湾曲,屈曲
 inflectional	語形変化する,屈折の
 inflexibility	曲げられないこと / 不屈 / 不変性
 inflexible	曲がらない / (態度・心情などが)堅固な / 変えることができない,不変の
@@ -1281,8 +1277,7 @@ instability	不安定,不確定;(心の)不安定,変わりやすさ
 install	〈装置など〉を『取り付ける』,設備する / 〈人〉を『就任させる』,の就任式を行う / 《場所を表す副詞[句]を伴って》…を落ち着かせる,席につける
 installation	〈U〉(装置などの)取り付け,据え付け / 〈U〉(人の)任命,就任 / 〈C〉(取り付けた)装置,設備 / 〈C〉軍事施設
 installment plan	分割払い購入法(《英》hire purchase)
-installment,instalment	(月賦などの1回分の)『分割払い込み金』 / (続き物などの)1回分,1部
-instalment	=installment
+installment,instalment	(月賦などの1回分の)『分割払い込み金』 / (続き物などの)1回分,1部 / =installment
 instance	『例』,実例 / 場合 / …を例に引く
 instant	『一瞬の間』,瞬間(moment) / 《the,this,thatなどを伴って》(…の)ちょうどその瞬間,まさに(…の)時 / 『即時の』,すぐの,即刻の / 《名詞の前にのみ用いて》『急の』,緊急の(urgent) / 『即席の』,インスタント[料理]の / 《古》今月の
 instant replay	(テレビのスポーツ実況中継などで)直前の場面のビデオ再生
@@ -1473,7 +1468,7 @@ intermit	…を一時中断する / 一時中断する
 intermittent	断続する,間欠的な
 intermix	(…と)…を混ぜる,混合する《+『名』+『with』+『名』》 / (…と)混ざる《+『with』+『名』》
 intermixture	混合;〈C〉混合物
-intern, interne	〈C〉インターン(企業などで短期間で勤務する社員)/ 〈C〉実習生 / 研修生 / {動}(戦時などに)(人を)拘束する,抑留する
+intern,interne	〈C〉インターン(企業などで短期間で勤務する社員)/ 〈C〉実習生 / 研修生 / {動}(戦時などに)(人を)拘束する,抑留する / =intern
 internal	『内側の』,内部にある / 『国内の』(domestic) / 内からとる,内用の
 internal combustion engine	内燃機関
 internal medicine	内科[医学]
@@ -1484,7 +1479,6 @@ international	『国際的な』,国家間の,万国の / 国際関係の / 国�
 internationalism	国際主義
 internationalization,internationalisation	国際化;国際管理下におくこと
 internationalize,internationalise	…を国際管理下におく,国際化する
-interne	=intern
 internecine	互いに殺し合う,共倒れの / 内輪げんかの
 internee	抑留されている人,監禁されている人
 internist	内科医

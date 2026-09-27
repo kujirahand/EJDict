@@ -1,6 +1,5 @@
-V	vanadium の化学記号
+V,v	vanadium の化学記号 / 〈C〉英語アルファベットの第22字 / 〈C〉V字形をしたもの / 〈U〉(ローマ数字の)5 / verb / verso / 《話》very / velocity / volt[s] / volume / vide
 V sign	Vサイン(人さし指と中指を立ててV字形を作り勝利を表す)
-V,v	〈C〉英語アルファベットの第22字 / 〈C〉V字形をしたもの / 〈U〉(ローマ数字の)5
 V-1	V1号[ロケット爆弾](第二次世界大戦中,ドイツ軍が英国攻撃用に使った)
 V-2	V2号[ロケット爆弾](第二次世界大戦末期に,ドイツ軍が英国攻撃用に使った)
 V-One	=V-1
@@ -9,7 +8,7 @@ V-two	=V-2
 V.	vice / village
 V.G.	very good / Vicar-General 司教総代理
 V.P.	Vice-President
-VA	Veterans Administration 在郷軍人局 / Vice Admiral
+VA,Va.	Veterans Administration 在郷軍人局 / Vice Admiral / Virginia
 VADM	Vice Admiral
 VAT	value-added tax
 VC	Victoria Cross
@@ -19,7 +18,6 @@ VIP,V.I.P.	重要人物
 VOA	Voice of America
 VSTOL	vertical short takeoff and landing 垂直短距離離着陸
 VTOL	vertical takeoff and landing 垂直離着陸
-Va.,VA	Virginia
 Vac	大学の休暇[vacation の略]
 Valencia	バレンシア(スペイン東部の港のある都市)
 Valentine's Day	聖バレンタインの祝日(2月14日;聖バレンタイン殉教の日;この日に男女とも異性に贈物やカードを贈る風習がある)
@@ -60,7 +58,7 @@ Victoria plum	ビクトリアプラム(プラムの一品種)
 Victorian	ビクトリア女王の;ビクトリア女王時代の,ビクトリア朝の / ビクトリア朝ふうの / ビクトリア女王時代の人
 Vienna	ウィーン(オーストリアの首都;ドイツ名は Wien)
 Vientiane	ビエンチャン(ラオスの首都)
-Vietnam, Viet-Nam	ベトナム(アジア南東部の社会主義共和国;首都はHanoi) = Viet Nam
+Vietnam,Viet-Nam	ベトナム(アジア南東部の社会主義共和国;首都はHanoi) = Viet Nam
 Vietnamese	ベトナムの;ベトナムの;ベトナム語の / ベトナム人;〈U〉ベトナム語
 Vigilance committee	(米国開拓時代の)自警団
 Viking	バイキング(8‐10世紀にわたってヨーロッパの北部および西部海岸を荒らしたスカンジナビア人)
@@ -80,7 +78,6 @@ Vulcan	ウルカヌス(ローマ神話の火と鍛冶の神;ギリシア神話�
 Vulg.	Vulgate
 Vulgar Latin	古代ローマの平俗ラテン語(貴族階級の使用していた標準ラテン語,文語ラテン語とは異なり,現代のロマンス諸語の起源となる)
 Vulgate	ラテン語訳聖書(St. Jerome が翻訳し,A.D. 838年ごろに完成したローマカトリック教会公認の聖書)
-v	verb / verso / 《話》very / velocity / volt[s] / volume / vide
 v.	versus(《米》vs.)
 v.i.	verb intransitive / vide infra(ラテン語)下を見よ
 v.s.	vide supra
@@ -140,10 +137,9 @@ validation	立証すること,合法化,批准
 validity	(理論・理由などの)『妥当性』,正当性《+of+名》 / (契約などの)有効性,合法性《+of+名》
 valise	(小型の)旅行かばん,スーツケース
 valley	『谷』,谷間 / 《修飾語を伴って》《通例単数形で》(大河の)流域
-valor,valour	『勇気』,(戦における)武勇,勇敢さ
+valor,valour	『勇気』,(戦における)武勇,勇敢さ / =valor
 valorize,valorise	〈特に政府が〉…の決定する
 valorous	=valiant
-valour	=valor
 valse	ワルツ,円舞曲(waltz)
 valuable	(金銭的に)『価値のある』,高価な / 役に立つ,有益な,貴重な / (身の回り品・宝石などの)貴重品
 valuate	…を評価する,見積もる
@@ -178,12 +174,11 @@ vantage	〈C〉有利な立場 / =vantage point
 vantage point	有利な地点(地位);見晴らしのきく場所
 vapid	おもしろくない,つまらない
 vapidity	〈U〉活気のないこと,退屈 / 〈C〉《通例複数形で》退屈な意見(考え,話)
-vapor trail, vapour trail	飛行機雲
-vapor,vapour	〈U〉〈C〉『蒸気』(空気中の水蒸気・湯気・霧・かすみ・煙霧など);気化物,気体 / 〈C〉《今はまれ》(水蒸気のように)はかないもの,とりとめのないもの;気まぐれ,空想 / 《the vapors》《古》気ふさぎ,憂うつ症
+vapor trail,vapour trail	飛行機雲
+vapor,vapour	〈U〉〈C〉『蒸気』(空気中の水蒸気・湯気・霧・かすみ・煙霧など);気化物,気体 / 〈C〉《今はまれ》(水蒸気のように)はかないもの,とりとめのないもの;気まぐれ,空想 / 《the vapors》《古》気ふさぎ,憂うつ症 / =vapor
 vaporization,vaporisation	蒸発,気化
 vaporize,vaporise	〈液体・固体〉を気化させる,蒸発させる / 気化する,蒸発する
 vaporous	蒸気状の,蒸気の / 蒸気に満ちた,霧深い / 《今はまれ》とりとめのない,気まぐれの
-vapour	=vapor
 vaquero	(米国南西部の)カウボーイ,牧畜者
 var.	variable / variant / variation / variety / various
 variability	変わりやすいこと,可変性,変動性
@@ -308,7 +303,7 @@ venue	行為地(犯罪・不法行為などの発生地) ・現場 / 裁判地(�
 ver.	version
 veracious	(人が)真実を語る,正直な / (話などが)正確な,ほんとうの
 veracity	真実を語ること,正直さ / (事実・陳述の)真実性,正確さ
-veranda, verandah	(屋根のある)ベランダ,縁側
+veranda,verandah	(屋根のある)ベランダ,縁側
 verb	『動詞』
 verbal	語の,言葉の;(意味とは関係なく)言葉の上だけの,語句だけの / 口頭の,口上の(oral) / 逐語的な,文字通りの / 動詞の,動詞的な / 準動詞(不定詞・分詞・動名詞の総称) / 《英話》自白 / 《英話》《おどけて》口げんか
 verbal noun	動詞状名詞
@@ -452,15 +447,15 @@ vicious	『悪意のある』,意地悪な,残忍な / (馬が)御しにくい;(
 vicious circle	悪循環
 vicissitude	(人生・境遇などの)変化,変動,浮沈
 victim	(…の)『犠牲者』,被害者(物)《+of+名》 / 『だまされる人』;(…の)食いもの,えじき《+of+名》 / (神にささげる)いけにえ
-victimization, victimisation	犠牲にする(なる)こと
-victimize, victimise	…を犠牲にする / …をだます(cheat)
+victimization,victimisation	犠牲にする(なる)こと
+victimize,victimise	…を犠牲にする / …をだます(cheat)
 victimless crime	(売春・ギャンブルのように)同意の下に行われる違法行為
 victor	『勝利者』,征服者
 victoria	二人乗り四輪ほろ馬車 / victoria plum
 victorious	(人・チームなどが)『勝利を得た』 / 勝利の,勝利を示す,勝ち誇った
 victory	(…に対する)『勝利』,戦勝《+over(in)+名》
 victual	飲食物,食料(provisions) / 〈多人数〉に食物を供給する,〈船など〉に食糧を積み込む
-victualer, victualler	食糧供給者 / 《英》飲食店主
+victualer,victualler	食糧供給者 / 《英》飲食店主
 vicuna,vicuña	〈C〉ビクーナ(南米産の野生ラマの一種) / 〈U〉ビクーナ毛織
 vide	(特に読者に対して参照のため)…を見よ
 vide infra	(ラテン語)下を見よ(《略》v.i.)
@@ -482,10 +477,9 @@ vigilance	警戒,用心
 vigilant	(危険に備えて)油断のない,用心深い
 vigilante	自警団員
 vignette	(書物の章頭・章尾などの)飾り模様(カット) / ビネット(背景をぼかしにした頭部と肩だけの写真または絵) / 小品文,スケッチ
-vigor, vigour	(精神的・肉体的な)『力強さ』,精力,活力 / (論旨・文体などの)強さ,迫力
+vigor,vigour	(精神的・肉体的な)『力強さ』,精力,活力 / (論旨・文体などの)強さ,迫力 / =vigor
 vigorous	(人が)『精力的な』,元気な;(行動などが)活気がある,力強い
 vigorously	精力的に,元気よく,活発に,力強く
-vigour	=vigor
 vile	『下劣な』,堕落した,不道徳な / 身分の卑しい,みじめな / 《話》ひどく不快な;ひどく悪い
 vile.	village
 vilification	悪く言うこと,けなすこと;〈U〉そしり,悪口
@@ -583,13 +577,13 @@ vista	通路(街路など)を通してみたながめ,見通し / 予想,展望;
 visual	『視覚の』 / 目に見える;目で見た / 有視界の
 visual aid	(スライドなど)視覚教材
 visual arts	(絵画・彫刻などの)視覚芸術
-visualization, visualisation	目に見えるようにすること,思い浮かべること,具象化
-visualize, visualise	…を目に見えるようにする;…をありありと心に描く(思い浮かべる)
+visualization,visualisation	目に見えるようにすること,思い浮かべること,具象化
+visualize,visualise	…を目に見えるようにする;…をありありと心に描く(思い浮かべる)
 vital	《名詞の前にのみ用いて》『生命の』,生命に関する(必要な) / 『生き生きとした』,生気に満ちた,エネルギッシュな / 『きわめて重大な』,肝要な / 『命にかかわる』,致命的な / 生命維持に必要な器官(心臓・肺臓・脳など)
 vital force	《おもに文》生命力
 vital statistics	人口動態統計(出生・死亡・結婚などの人口状況) / 《話》女性のバスト・ウエスト・ヒップの寸法
 vitality	『生気』,活気,バイタリティー / 『生命力』,体力,活力 / 忍耐力,持続力,永続力(性)
-vitalize, vitalise	…に生気を吹き込む,を活気づける / …に生命を与える
+vitalize,vitalise	…に生気を吹き込む,を活気づける / …に生命を与える
 vitally	きわめて重大に
 vitamin	『ビタミン』,栄養素(身体の正常な機能を維持するために少量ながら必要な有機化合物)
 vitamin A	ビタミン A
@@ -629,7 +623,7 @@ vivisect	〈動物〉を生体解剖する / 生体解剖をする
 vivisection	生体解剖
 vixen	雌ギツネ / がみがみ女
 viz.	すなわち
-vizier, vizir	(イスラム教国の)高官,大臣
+vizier,vizir	(イスラム教国の)高官,大臣
 vizor	=visor
 vl	Vulgar
 vlf,VLF	very low frequency
@@ -637,10 +631,10 @@ vocab.	vocabulary
 vocable	音語(意味に関係なく音と文字からみた語) 単語,母音,発声できる
 vocabulary	〈C〉(特定の人・グループ・分野で用いられるすべての)『語彙』,用語 / 〈C〉(アルファベット順に並べて語義や訳を付けた)語彙集,単語表(集) / 〈U〉(一言語の)全語彙
 vocal	『声の』,音声の / 声に出す,口頭の / 《話》(意見などを)遠慮なくしゃべる,口やかましい / (ポピュラー歌手の)ボーカル
-vocal cords, vocal chords	声帯
+vocal cords,vocal chords	声帯
 vocalic	母音の,母音を含む / 母音のような
 vocalist	(ポピュラーソングの)歌手
-vocalize, vocalise	〈言葉・音声など〉を声に出す,歌う / 〈子音〉を母音に変える / 声を出す,歌う,発声練習をする
+vocalize,vocalise	〈言葉・音声など〉を声に出す,歌う / 〈子音〉を母音に変える / 声を出す,歌う,発声練習をする
 vocat.	vocative
 vocation	〈C〉(特に,自分に適した,またはその訓練を受けた)職業 / 〈U〉《時にa~》(特定の職業・仕事に対する)適性,素質《+for+名(doing)》 / 〈U〉《しばしば a~》天職,使命
 vocational	職業の,職業上の / 職業指導の
@@ -711,15 +705,15 @@ voyeuristic	のぞき趣味の,観淫症の
 vs.	versus(《英》V.)
 vulcanism	火山活動 = volcanism
 vulcanite	硬化ゴム
-vulcanization, vulcanisation	ゴムの硬化,硫化,加硫,和硫
-vulcanize, vulcanise	〈ゴム〉を加硫する,硫化する,硬化する(弾性,硬度を増すためにイオウで処理すること)
+vulcanization,vulcanisation	ゴムの硬化,硫化,加硫,和硫
+vulcanize,vulcanise	〈ゴム〉を加硫する,硫化する,硬化する(弾性,硬度を増すためにイオウで処理すること)
 vulgar	『下品な』,野卑な,無作法な / 《おもに文》《名詞の前にのみ用いて》庶民の,民衆の,一般大衆の
 vulgar fraction	常分数
 vulgarian	《文》俗物,下品な(野卑な)人
 vulgarism	〈C〉野卑な言葉,卑俗語 / 〈U〉下品,野卑,無作法
 vulgarity	〈U〉下品,野卑,無作法 / 〈C〉《しばしば複数形で》野卑な言葉づかい,無作法なふるまい
-vulgarization, vulgarisation	俗悪(野卑)にすること,通俗化,大衆化
-vulgarize, vulgarise	…を野卑にする,俗悪にする / 〈むずかしいもの〉を人がわかるように書く,通俗的に表す
+vulgarization,vulgarisation	俗悪(野卑)にすること,通俗化,大衆化
+vulgarize,vulgarise	…を野卑にする,俗悪にする / 〈むずかしいもの〉を人がわかるように書く,通俗的に表す
 vulnerability	傷つきやすいこと,(批判・皮肉などに)弱いこと,脆弱性
 vulnerable	(身体的に)傷つきやすい / 攻撃(非難)を受けやすい,批判(皮肉など)に傷つきやすい;(…に)攻撃(非難)されやすい《+to+名》
 vulnerably	攻撃(非難)されやすく,傷つきやすく

@@ -1,5 +1,4 @@
-K	Kelvin / Kindergarten / (チェスの)King / kalium(ラテン語)(=potassium)の化学記号
-K,k	英語アルファベットの第11字 / 《K》K字形のもの
+K,k	Kelvin / Kindergarten / (チェスの)King / kalium(ラテン語)(=potassium)の化学記号 / 英語アルファベットの第11字 / 《K》K字形のもの
 K-ration	野戦食糧の一種
 K.	King[s] / Knight
 K.C.	Kansas City / King's Counsel / Knights of Columbus
@@ -9,8 +8,7 @@ K.P.H.,KPH,k.p.h.,kph	kilometers per hour
 KD	knockdown 底値の
 KGB	Komitat Gosudarstvennoy Bezopasnosti旧ソ連国家保安委員会
 KIA	killed in action戦死
-KO	…をノックアウトする
-KO,KO.,k.o.	knockout
+KO,KO.,k.o.	…をノックアウトする / knockout
 KP,K.P.	kitchen police
 KS	Kansas
 Kaaba	《the ~》カーバ神殿(メッカにあるイスラム教徒の霊所)
@@ -37,7 +35,7 @@ Kentucky bluegrass	ナガハグサ(ミシシッピー川流域に多い牧草)
 Kenya	ケニア(アフリカ東部の共和国;首都Nairobi)
 Khartoum,khartum	ハルツーム(スーダン(Sudan)の首都)
 Khazar	東はカスピ海から西は黒海北岸、南ロシアの草原地帯・コーカサス北部地方に強大な王国を築いたトルコ系民族。民族的には非ユダヤ人までがユダヤ教に改宗した唯一の例とされるハザール帝国(The Khazar Empire)を6世紀後半に建設。
-Kiev	 キーウ,キエフ(旧ソ連南西部の都市;ウクライナの首都,Kyivという表記が推奨されている)
+Kiev	キーウ,キエフ(旧ソ連南西部の都市;ウクライナの首都,Kyivという表記が推奨されている)
 Kilimanjaro	キリマンジャロ(アフリカ大陸最高の山)
 Kilner jar	キルナージャー(果物・野菜保存用溶器の商標名)
 King James Version	=Authorized Version
@@ -188,7 +186,7 @@ kilo	キログラム(kilogram) / キロメートル(kilometer)
 kilocycle	キロサイクル(1000サイクル;《略》『kc.』)
 kilogram,kilogramme	『キログラム』(《略》『kg.,kg』)
 kilohertz	キロヘルツ(周波数の単位;《略》『kHz』)
-kiloliter, kilolitre	キロリットル(《略》『kl.,kl』)
+kiloliter,kilolitre	キロリットル(《略》『kl.,kl』)
 kilometer,kilometre	『キロメートル』(《略》『km.,km』)
 kiloton	キロトン(1000トン) / キロトン(TNT火薬1000トンに相当する爆発力;100万トン相当をmegatonという)
 kilowatt	キロワット(1000ワット;《略》『kw.,KW,K.W.』)
@@ -199,7 +197,7 @@ kilter	好調,健全
 kin	《古・話》《複数扱い》親族,親類 / 〈U〉(…との)親類関係《+『to』+『名』》 / (…にとって)親類で,血族で;(…の)同類で《+『to』+『名』》
 kind	『親切な』,『優しい』,思いやりのある / (…の)『種類』,部類(sort)《+『of』+『名』》
 kindergarten	幼稚園
-kindergartner, kindergartener	幼稚園児 / 《おもに英》幼稚園の保母
+kindergartner,kindergartener	幼稚園児 / 《おもに英》幼稚園の保母
 kindhearted	心優しい,情け深い
 kindle	〈火〉を『起こす』;〈物〉に火をつける,点火する / 〈感情など〉を『かき立てる』,燃え立たせる / …を輝かせる,明るくする / 火がつく,燃え出す / 〈人が〉興奮する;〈怒りなどが〉燃え上がる / (…で)輝く;生き生きとする《+『with』+『名』》
 kindliness	〈U〉親切さ,思いやり,温情;〈C〉《古》親切な行い / 〈U〉《古》(気候などの)温和
@@ -215,7 +213,7 @@ kinesthesia	(筋肉・けん・関節に感じる)運動感覚
 kinetic	運動の / 動きによる,動的な
 kinetic art	動く芸術(光や動く物体を素材として利用する美術の一様式)
 kinetics	動力学
-kinfolk, kinfolks	=kinsfolk
+kinfolk,kinfolks	=kinsfolk
 king	『王』,国王 / 王にたとえられる人(物),…王,大立て者 / (カードの)キング / (チェスの)キング,王将
 king's evidence	訴追免除証言,共犯証言
 king's evil	るいれき(scrofula)(王に触れてもらえば治ると信じられていたリンパ腺の病気), 国王病
@@ -266,7 +264,7 @@ kitten	『子猫』
 kittenish	子猫のような / じゃれる
 kittiwake	ミツユビカモメ(長い翼を持つ鳥)
 kitty	子猫(kitten)
-kitty-corner, kitty-cornered	=cater-cornered, 対角線の, はすかいの, 斜め向かいの, 対角線上の
+kitty-corner,kitty-cornered	=cater-cornered, 対角線の, はすかいの, 斜め向かいの, 対角線上の
 kiwi	キウィ(ニュージーランド産の翼の小さな空を飛べない鳥)
 klaxon	クラクション(自動車の警笛)[の音]
 kleptomania	盗癖

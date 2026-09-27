@@ -1,6 +1,5 @@
 E pluribus unum	多から一を(諸州の合一を目ざす米国の標語;米国の数種類の硬貨に刻まれている)
-E,E.,e,e.	east / eastern
-E,e	〈C〉英語アルファベットの第5字 / 〈U〉《E》(音階の)ホ音;ホ調 / 〈C〉《E》《米》(学校の成績の)E(5段階評価の第5位) / 〈C〉靴の幅広さを表す単位
+E,E.,e,e.	east / eastern / 〈C〉英語アルファベットの第5字 / 〈U〉《E》(音階の)ホ音;ホ調 / 〈C〉《E》《米》(学校の成績の)E(5段階評価の第5位) / 〈C〉靴の幅広さを表す単位
 E.C.M.	European Common Market欧州経済共同体(公式名はEEC)
 E.E.	Electrical Engineer 電気技師
 E.T.	〈略〉地球外生命体(extraterrestrial) / 映画『E.T.』(1982年) / Eastern Time 米国の東部標準時
@@ -112,7 +111,7 @@ Eu	europiumの化学記号
 Eucharist	《the~》聖餐(せいさん)式(Holy Communion) / 〈U〉聖餐用のパンとぶどう酒
 Eucharistic	聖餐式の
 Euclid	ユークリッド(紀元前300年ごろの古代ギリシアの数学者) / 〈U〉ユークリッド幾何学
-Euclidean, Euclidian	ユークリッドの,ユークリッド幾何学の
+Euclidean,Euclidian	ユークリッドの,ユークリッド幾何学の
 Euphrates	ユーフラテス川(トルコ東部からTigris川に合流し,ペルシア湾に注ぐ;下流域は古代文明の発祥地)
 Eur.	Europe / European
 Eurasia	ユーラシア,欧亜大陸
@@ -253,7 +252,7 @@ ecstasy	『有頂天』,無我夢中,恍惚(こうこつ)
 ecstatic	有頂天の,無我夢中の;(…に)夢中で《+『at』+『名』》
 ecstatically	有頂天になって,無我夢中で
 ectoplasm	(霊媒の体から出る)心霊体
-ecumenical, ecumenical	全キリスト教会の,キリスト教各派の統一を目ざす / 全般的な,普遍的な,世界的な
+ecumenical	全キリスト教会の,キリスト教各派の統一を目ざす / 全般的な,普遍的な,世界的な
 ecumenicalism	全キリスト教会統一主義,世界教会主義
 eczema	湿疹(しっしん)
 eddy	うず,(風・霧・煙などの)渦巻き / 渦を巻く
@@ -512,9 +511,9 @@ eligible	適格な,適任の,選ばれる資格のある / 有資格者,適格�
 eligibly	選ばれるように,最適に
 eliminate	(…から)…を『取り除く』,削除する(get rid of)《+『名』+『from』+『名』》 / …を考慮に入れない,無視する(disregard)
 elimination	(…の)除去,削除《+『of』+『名』》 / (競技の)予選
-elite, élite	《the ~》《複数扱い》えり扱きの人々,エリート,精鋭 / 〈C〉エリート活字
+elite,élite	《the ~》《複数扱い》えり扱きの人々,エリート,精鋭 / 〈C〉エリート活字
 elitism	エリート(精鋭)主義 / エリート意識
-elitist, élitist	エリート[の一人]
+elitist,élitist	エリート[の一人]
 elixir	錬金薬液(卑金属を金に変えると信じられた) / 万能薬
 elk	ヘラジカ(北米・北欧・アジア産のオオジカ)
 elkhound	エルクハウンド(ノルウェー産シカ狩り用猟犬)
@@ -635,7 +634,7 @@ emotional	『感情の』,情緒の / 『感情的な』,感動しやすい / (�
 emotionalism	感情的で過剰な傾向 / 感情に訴えること
 emotionally	感情的に,情緒的に;感情に訴えて
 emotive	感動的な,情緒的な
-empanel,impanel	〈人名〉を陪審名簿に載せる / 〈陪審員〉を陪審名簿から選ぶ
+empanel,impanel	〈人名〉を陪審名簿に載せる / 〈陪審員〉を陪審名簿から選ぶ / =empanel
 empathize	(…に)感情移入する《+『with』+『名』》
 empathy	(心理学で)感情移入,共感
 empennage	(飛行機・飛行船の)尾部
@@ -942,15 +941,13 @@ environmentalist	環境保護論者
 environs	(都市の)近郊,郊外
 envisage	〈将来の物・事〉を心に描く,思い浮かべる
 envision	=envisage
-envoy	使者 / 外交官,外交使節 / 特命全権公使;公使
-envoy, envoi	詩の結び句(特にバラード(ballad)の最後の4行)
+envoy,envoi	使者 / 外交官,外交使節 / 特命全権公使;公使 / 詩の結び句(特にバラード(ballad)の最後の4行)
 envy	〈U〉(…に対する)『ねたみ』,羨望(せんぼう)《+『of』(『at』)+『名』》 / 〈C〉(…の)『羨望の的』,うらやましい物(人,事)《+『of』+『名』》 / …を『うらやむ』,ねたむ
 envyingly	うらやんで,ねたんで
 enwrap	…を包む,くるむ
 enzyme	酵素
 eolian	風の堆積(たいせき)作用による,風成の
-eon	非常に長い期間;永遠,永世 / 累代(地質学上の年代区分の最大の単位で,代(era)を二つ以上含む)
-epaulet, epaulette	肩飾り,(特に軍服の)肩章
+epaulet,epaulette	肩飾り,(特に軍服の)肩章
 epee,épée	エペ(フェンシングで使う切っ先にたんぽのついた細身の剣)
 epergne	食卓中央の飾り皿(果実・花などを載せる)
 ephemeral	(昆虫・草などが)1日限りの / 短命の,はかない,つかの間の
@@ -1170,7 +1167,7 @@ ethic	倫理,道徳律 / =ethical
 ethical	倫理の,道徳の;倫理学 / 道徳的な,(特に)職業道徳にかなった
 ethics	《単数扱い》『倫理学』 / 《複数扱い》『倫理』,道徳[律],規範
 ethnic cleansing	民族浄化、人種浄化、ほかの民族を一掃する[壊滅させる]こと
-ethnic, ethnical	(共通の言語・文化・歴史を持つ)民族の
+ethnic,ethnical	(共通の言語・文化・歴史を持つ)民族の
 ethnicity	民族的特徴(背景),民族性
 ethnocentric	自民族中心主義の
 ethnocentrism	自民族中心主義
@@ -1227,7 +1224,7 @@ evaluate	…を評価する,の数量を見積る
 evaluation	(物・行為などの)評価;(物の)見積り
 evanescence	(物・気持ちなどが)次第に消えていくこと
 evanescent	次第に消えていく;消えやすい
-evangelic, evangelical	福音[書]の / 福音主義の
+evangelic,evangelical	福音[書]の / 福音主義の
 evangelicalism	福音主義(儀式や教会よりも罪の自覚とキリストによる神の救いを強調する)
 evangelism	福音の伝道 / =evangelicalism
 evangelist	〈C〉福音伝道者 / 《E-》四福音書の著者(新約聖書の福音書を書いたMatthew,Mark,Luke,John)
@@ -1492,7 +1489,7 @@ expectation	〈U〉《時に複数形で》(…を)『期待』(『予期』,『
 expectation of life	=life expectancy
 expectorant	痰(たん)が出るのを促す / 去痰(きょたん)剤
 expectorate	〈痰(たん)・血など〉を吐き出す / つばを吐く
-expedience, expediency	便宜,好都合 / 便宜主義,ご都合主義
+expedience,expediency	便宜,好都合 / 便宜主義,ご都合主義
 expedient	都合のよい;得策な;(時に悪い意味で)ご都合主義の / 急場しのぎの手段,便法
 expedite	〈物事〉の進行を早める,促進する / 〈仕事など〉を手早くかたづける,てきぱきと処理する
 expedition	〈C〉(一定の目的をもって組織された集団が行う)『遠征』,探検 / 〈C〉『遠征隊』,探検隊 / 〈U〉《文》急速,迅速

@@ -1,7 +1,6 @@
-O	《呼び掛けの名前の前につけて》『おお』,あ / (驚き・恐れ・喜び・苦痛などを表して)『おお』,ああ,まあ / 《肯定・否定を強めて》 / oxygenの化学記号 / ohmオーム / Old
+O,o	《呼び掛けの名前の前につけて》『おお』,あ / (驚き・恐れ・喜び・苦痛などを表して)『おお』,ああ,まあ / 《肯定・否定を強めて》 / oxygenの化学記号 / ohmオーム / Old / アルファベット第15字 / O字形[のもの] / (数学で)ゼロ(zero)
 O Level	普通課程(中等学校終了資格試験(G.C.E.)の15‐16歳の課程)
 O'	ofの短縮形
-O,o	アルファベット第15字 / O字形[のもの] / (数学で)ゼロ(zero)
 O.	Ocean / October / Ohio / order / Oregon
 O.D.	Doctor of Optometry 検眼医 / oculus dexter(ラテン語)右目
 O.P.	observation post [弾着]監視所・Order of Preachersドミニコ修道会・(またo.p.)out of print絶版になって・opposite prompt(舞台の)上手(かみて)
@@ -20,8 +19,7 @@ OECD	Organization for Economic Cooperation and Development経済協力開発機�
 OEO	Office of Economic Opportunity《the~》《米》経済機会局
 OF	OLD French古[代]フランス語
 OH	Ohio
-OK	Oklahoma(オクラホマ州)の略
-OK,O.K.	{形} 大丈夫な / 問題ない / 許容できる / {間投} わかった / いいよ / 了解 / {副} よく / 問題なく / {動} …を承認する / 認可する
+OK,O.K.	Oklahoma(オクラホマ州)の略 / {形} 大丈夫な / 問題ない / 許容できる / {間投} わかった / いいよ / 了解 / {副} よく / 問題なく / {動} …を承認する / 認可する
 OM	ostmark
 OPEC	Organization of Petroleum Exporting Countries石油輸出国機構
 OR	Oregon
@@ -49,7 +47,7 @@ Old French	古[代]フランス語(9世紀‐13世紀のフランス語)
 Old Glory	米国国旗,星条旗(the Stars and Stripes)
 Old Nick	悪魔(the Devil)
 Old Testament	旧約聖書
-Old World	旧世界,東半球(ヨーロッパ・アジアおよびアフリカ)
+Old World,old world	旧世界,東半球(ヨーロッパ・アジアおよびアフリカ) / 旧世界の;古代の,昔の
 Olevel	普通課程(中等学校終了資格試験(G.C.E.)の15‐16歳の課程)
 Oligocene	(地質時代の)新生代第3紀 / 新生代第3紀の
 Olympia	オリンピア(ギリシアのペロポネソス半島西部のエリス州にある平原;Zeusの聖地で,古代4年めごとにZeus神の祭りの時,この平原で体育・文芸の大競技会が行われた;これがオリンピック競技の始まり)
@@ -247,7 +245,7 @@ oceanography	海洋学
 oceanologist	海洋学者,海洋研究家
 oceanology	海洋学,海洋研究
 ocelot	オセロット(はん点のある中型のヤマネコ;中・南米産)
-ocher, ochre	黄土(おうど)(絵の具の原料となる黄色の土) / オーカー色,黄土色 / オーカー色の,黄土色の
+ocher,ochre	黄土(おうど)(絵の具の原料となる黄色の土) / オーカー色,黄土色 / オーカー色の,黄土色の
 oct.	octavo
 octagon	八角形,八辺形;八角(八辺)形の物
 octagonal	八角形の,八辺形の
@@ -280,11 +278,10 @@ ode	頌歌(しょうか),頌詩,賦(ふ)(特定の人・でき事などをたた
 odious	憎むべき,いやな,ぞっとする,むかむかさせる
 odium	憎悪,反感 / 汚名,悪評
 odometer	(自などの)走行距離記録計
-odor,odour	『におい』(smell)
+odor,odour	『におい』(smell) / =odor
 odoriferous	かんばしい,かぐわしい
 odorless	においのない,無臭の
 odorous	かんばしい
-odour	=odor
 oecumenical	=ecumenical
 oedipal	エディプス複合(Oedipus complex)の
 oesophagus	=esophagus
@@ -313,10 +310,9 @@ off-white	純白でない, 灰色(黄色)がかった白色の〈U〉灰色(黄�
 off.	office / officer / official
 offal	(特に殺した動物の)くず肉,臓物,あら / (一般に)くず,がらくた(garbage)
 offbeat	オフビート,弱拍(強勢をつけない拍子) / 《話》型破りの,とっ拍子もない
-offence	=offense
+offence,offense	=offense / 〈C〉『罪』;(法律・規則などの)違反《+『against』+『名』》 / 〈U〉『人の感情を傷つけること』,無礼 / 〈C〉(人・感覚などに)不快なもの(こと)《+『to』+『名』》 / 〈U〉『攻撃』 / 〈C〉(フットボール・バスケットボールなどの)攻撃側,攻撃する選手
 offend	《しばしば受動態で》〈人〉の『感情を傷つける』,を恐らせる / 〈感覚など〉を不快感を与える,さわる / 罪を犯す / (法律・規則などに)反する,そむく《+『against』+『名』》
 offender	(特に法律などの)違反者;犯罪者
-offense, offence	〈C〉『罪』;(法律・規則などの)違反《+『against』+『名』》 / 〈U〉『人の感情を傷つけること』,無礼 / 〈C〉(人・感覚などに)不快なもの(こと)《+『to』+『名』》 / 〈U〉『攻撃』 / 〈C〉(フットボール・バスケットボールなどの)攻撃側,攻撃する選手
 offensive	『不愉快にする』,無礼な,しゃくにさわる / (感覚的に)『いやな』,不快な(disagreeable) / 『攻撃の』 / (スポーツで)攻撃[側]の / 〈C〉攻撃,攻勢
 offer	…を『申し出る』,すすめる,提供する / …を『企てる』 / (品物に)〈値段〉をつける《+『名』〈値段〉+『for』+『名』〈品物〉》 / (ある金額で)…を売りに出す《+『名』+『for』+『名』〈金額〉》 / (神に)…をささげる《+『up』+『名』+『to』+『名』》 / 〈機会などが〉現れる,起こる(occur) / (神に)ささげ物(祈り)をささげる / (女性に)求婚する / 『申し出』,提案 / 付け値
 offering	〈U〉(…の)申し出,提供《+『of』+『名』》 / 〈C〉(神への)お供え,ささげ物,(教会への)献金;(一般に)贈り物
@@ -403,7 +399,6 @@ old school	保守派
 old school tie	〈C〉旧友・学閥によるつながり / 派閥的な絆 / (けなして)特権階級のコネや仲間意識 / 《英》名門パブリックスクール出身者が身につけるネクタイ
 old wive's tale	(老婆の持つような)古くさい考え,迷信
 old woman	うちの女房,家内 / うちのおふくろ / 気むずかしく小心な男,おく病者
-old world,Old World	旧世界の;古代の,昔の
 old-boy network	(またold school tie)学閥気質,同窓生びいき / 《集合的に》(パブリックスクール出身の)著名人同窓生
 old-fashioned	『旧式の』,流行遅れの(out-of-date) / 昔風の,昔かたぎの / オールドファッションド(カクテルの一種)
 old-line	伝統に従っている,保守的な / 伝統のある,老舗(しにせ)の
@@ -415,10 +410,9 @@ old-womanish	老婆じみた,こうるさい
 old-world	旧世界の;古代の,昔の
 olde worlde	わざと古めかしくした,旧式風の
 olden	昔の
-oldie,oldy	昔はやった歌(冗談,映画など)
+oldie,oldy	昔はやった歌(冗談,映画など) / =oldie
 oldish	いくぶん年をとった,やや年配の,古めかしい
 oldster	老人,年配者
-oldy	=oldie
 ole	それっ,がんばれ(賛同・歓呼の叫び声;特に闘牛士・フラメンコダンサーへのかけ声)
 oleaginous	油を含む,油からなる / 油っぽい,油まみれの
 oleander	西洋キョウチクトウ(白または赤の花をつける有毒の常緑樹)
@@ -677,7 +671,7 @@ org.	organic / organization / organized
 organ	『オルガン』,パイプオルガン(pipe organ),リードオルガン(reed organ),電子オルガン(electronic organ),手回しオルガン(barrel organ) / (動植物の)『器官』 / (政党・会社などの)機関誌,機関紙 / 《しばしば複数形で》(行動・実施などの)組織,機関
 organ grinder	(大道の)手回しオルガン奏者
 organ loft	オルガン席(教会などのパイプオルガンを設置する上階)
-organdy, organdie	オーガンディー(薄い綿布;ブラウス・カーテン用)
+organdy,organdie	オーガンディー(薄い綿布;ブラウス・カーテン用)
 organic	有機体の,生物の,生物から生じた / (動植物の)器官の / 有機肥料を用いる(を用いて育った)・有機的な,組織的な,系統的な・有機質の
 organic chemistry	有機化学
 organically	有機的に,組織的に
@@ -732,7 +726,7 @@ orthodox	一般に認められた,定まった / (主義・主張・教義など
 orthodoxy	〈U〉一般に認められていること,正統性;正説に従うこと / 〈C〉正統派の信念(信仰)
 orthoepy	正音学(正しい発音を研究する学問)
 orthogonal	直角の,直交の
-orthographic, orthographical	正字法の / つづりの正しい
+orthographic,orthographical	正字法の / つづりの正しい
 orthography	〈U〉正字法,つづり字法 / 〈C〉(文字の)正しいつづり方;〈U〉つづり字論
 orthopedic,orthopaedic	整形外科の
 orthopedics,orthopaedics	整形外科,整形術

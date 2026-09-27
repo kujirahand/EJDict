@@ -1,5 +1,4 @@
-T	tritiumの化学記号
-T,t	英語のアルファベットの第20番目の文字 / T字形[のもの]
+T,t	tritiumの化学記号 / 英語のアルファベットの第20番目の文字 / T字形[のもの]
 T-bar lift	(スキー場の)T字型リフト
 T-bone	T字形の骨つき上肉ステーキ
 T-intersection	T字路(《英》T-junction)
@@ -24,7 +23,7 @@ TV	television
 TV dinner	テレビ食(冷凍食品で,レンジで温めさえすれば食べられる)
 TVA	Tennessee Valley Authority テネシー川流域開発公社
 TWX	teletypewriter exchange
-TX	Texas
+TX,Tex.	Texas
 Ta	tantalumの化学記号
 Tabasco	タバスコ(商標名;とうがらし入りの強い香りのソース)
 Tacoma	タコマ(米国 Washington 州の Puget 湾に臨む港市)
@@ -54,7 +53,7 @@ Tchaikovsky	チャイコフスキー
 Te	tellurium の化学記号
 Te Deum	感謝頌(神に対する賛美の歌) / それを歌う礼拝
 Teflon	テフロン(熱に強い樹脂の商標名)
-Teheran, Tehran	テヘラン(イランの首都)
+Teheran,Tehran	テヘラン(イランの首都)
 Tel Aviv	テルアビブ(イスラエル最大の都市)
 Tell	テル(William~;14世紀のスイスの伝説的英雄)
 Telstar	テルスター(通信衛星の商標名)
@@ -69,7 +68,6 @@ Test.	Testament
 Teut.	Teuton / Teutonic
 Teuton	チュートン人 / ドイツ人
 Teutonic	チュートン人(語)の / ドイツの;ドイツ人の / チュートン語
-Tex.,TX	Texas
 Texas	テキサス州(米国西南部の州;州都は Austin;《略》Tex.,TX)
 Th	thorium の化学記号
 Th.	Thursday
@@ -83,7 +81,7 @@ Theban	(ギリシア・エジプトの)テーベの / (ギリシア・エジプ�
 Thebes	古代ギリシアで栄えたナイル河畔の都市
 Thibet	Tibet
 Thibetan	Tibetan
-Thimphu, Thimbu	ティンブー(ヒマラヤのブータン(Bhutan)の首都)
+Thimphu,Thimbu	ティンブー(ヒマラヤのブータン(Bhutan)の首都)
 Third World	《the ~》《しばしば t- w-》第三世界(非同盟中立のアジア・アフリカの国々)
 Thor	(北欧神話の)トール(雷神)
 Thousand Islands	《the ~》サウザンド諸島(米国とカナダの国境のSt. Lawrence 川にある約1,700の島;米国領およびカナダ領)
@@ -108,7 +106,7 @@ Toltec	トルテカ族[の人](11‐13世紀にメキシコに住んでいたイ
 Tom Collins	トムコリンズ(細長いコリンズグラスにジン・レモン・ソーダ水を混ぜて入れた飲物)
 Tom Thumb	親指トム(英国の民話の主人公で,背たけが親指くらい)
 Tom and Jerry	トムとジェリー(ラム・ミルク・卵などを入れた温い飲物)
-Tommygun, tommy gun	トミーガン(小型自動機関銃の愛称) トムソン式小型機関銃,皮下注射器
+Tommygun,tommy gun	トミーガン(小型自動機関銃の愛称) トムソン式小型機関銃,皮下注射器
 Tonga	トンガ(南太平洋の小王国)
 Topeka	トピーカ(米国 Kansas 州の州都)
 Toronto	トロント(カナダのオンタリオ州の州都)
@@ -172,9 +170,8 @@ tablespoonful	(…の)大さじ1杯[分](小さじ3杯分)《+of+名》
 tablet	(銘文などを彫り込む,金属・石の)銘板 / (昔文字を記した粘土などの)書字板 / 《まれ》(はぎ取り式の)メモ帳,便せん帳(pad) / 錠剤,(チョコレート・石けんなどの)板状小片
 tableware	《集合的に》卓上食器類(皿・ナイフ・フォーク・スプーンなど)
 tabloid	タブロイド判新聞(普通の新聞紙の半分の大きさ)
-taboo, tabu	〈C〉〈U〉(南太平洋の原住民などの)禁忌,タブー(ある物や行為などを神聖または不浄なものとして,話したり触たりすることを禁ずる風習) / 〈C〉〈U〉(社会習慣的な)禁止,禁制 / 〈C〉禁忌物 / 禁忌(タブー)の;禁制の / …をタブーとする,禁ずる
+taboo,tabu	〈C〉〈U〉(南太平洋の原住民などの)禁忌,タブー(ある物や行為などを神聖または不浄なものとして,話したり触たりすることを禁ずる風習) / 〈C〉〈U〉(社会習慣的な)禁止,禁制 / 〈C〉禁忌物 / 禁忌(タブー)の;禁制の / …をタブーとする,禁ずる / =taboo
 tabor	テイバー(昔,竪笛の伴奏に用いたタンバリンに似た小太鼓)
-tabu	=taboo
 tabular	表になった,表で表した / 表面が平たい,平板状の
 tabulate	〈事実・数字など〉を表にする
 tabulation	表にすること,表の作成
@@ -258,7 +255,7 @@ talon	(特に猛鳥の)つめ
 talus	(くるぶしの)距骨;くるぶし,足首
 tam	=tam-o'-shanter タモシャンター,てっぺんに毛糸の玉房のついたウール製の大きなベレー帽
 tam-o'-shanter	タモシャンター(おもにスコットランドで用いるウールのベレー帽;上に房がついている)
-tamable, tameable	飼いならすことのできる
+tamable,tameable	飼いならすことのできる / tamable
 tamale	タマーリ(メキシコ料理の一種で,粉・ひき肉・からしをとうもろこしの素に包んで蒸したもの)
 tamarack	アメリカカラマツ;〈U〉その木材
 tamarind	〈C〉タマリンド(熱帯産のマメ科の常緑植物) / 〈U〉タマリンドの実(食用・調味料)
@@ -266,7 +263,6 @@ tamarisk	ギョリュウ(御柳)(地中海原産の低木でピンクの花を�
 tambour	(刺しゅう用の布地を張る2個の)わく / 太鼓 / (家具の)蛇腹とびら
 tambourine	タンバリン(手太鼓の一種)
 tame	(動物が)『飼いならされた』,人になれた / (人・動物が)『おとなしい』 / 《話》おもしろくない,退屈な,つまらない / 〈野獣など〉を『飼いならす,』(飼いならして)おとなしくさせる / …を制御する,制御して利用する
-tameable	tamable
 tamer	(動物の)調教師
 tamp	(軽くたたいて)…を詰める《+down+名,+名+down》 / (発破で)〈爆薬を詰めた口〉を泥でふさぐ
 tamper	(へたに)(…に)干渉する,よけいな手出しをする《+with+名(doing)》 / (人と)不正な交渉をする,(人に)わいろを使う《+with+名》
@@ -298,8 +294,8 @@ tannin	タンニン(皮なめし・インク製造などに用いられる植物
 tanning	皮なめし法,製革法
 tannoy	拡声器(loudspeaker)による宣伝 (商標)タノイ,タンノイ,スピーカーの一種
 tansy	〈C〉コモギギク[属](小さな黄色い花の房をつける) / 〈U〉(薬用・食用の)ヨモギギクの汁
-tantalize, tantalise	〈人・動物〉をじらす
-tantalizing, tantalising	じれったがらせる,じらして苦しめる
+tantalize,tantalise	〈人・動物〉をじらす
+tantalizing,tantalising	じれったがらせる,じらして苦しめる
 tantalum	タンタル(希有金属元素;化学記号は Ta)
 tantamount	(…と)同等の,(…に)相当した《+to+名》
 tantrum	かんしゃく,むかっ腹
@@ -411,7 +407,7 @@ tea break	(午前・午後の中ごろの)お茶の時間
 tea caddy	(小型の)茶筒
 tea chest	茶箱
 tea cloth	小テーブル掛け
-tea cozy, tea cosy	(保温用)紅茶ポットカバー
+tea cozy,tea cosy	(保温用)紅茶ポットカバー
 tea dance	お茶と軽食が出る午後のダンスパーティー
 tea party	お茶の会(teatime の社交的会合)
 tea service	茶器セット
@@ -450,14 +446,13 @@ tearjerker	(物語・劇・映画などの)お涙ちょうだいもの
 tearless	涙を流さない,泣けない,目にしみない
 tearoom	喫茶店(室)
 tease	〈人・動物〉を『いじめる』,からかう / 《米》(逆にくしを入れて)〈髪〉を逆立てる / 〈布〉に毛羽を立てる / (紡ぐため)〈羊毛など〉をすく / 人(動物)をしつこくいじめる(からかう) / いじめる人,からかう人
-teasel, teazel, teazle	ラシャカキグサ(アザミの類;昔,その頭状花で布のけばを立てた)
+teasel,teazel,teazle	ラシャカキグサ(アザミの類;昔,その頭状花で布のけばを立てた) / =teasel
 teaser	いじめる人,からかう人 / 《俗》難問,難題
 teaspoon	(紅茶・コーヒー用などの)『茶さじ』,スプーン / =teaspoonful
 teaspoonful	(…の)茶さじ1杯[分](tablespoonful の3分の1の量)《+of+名》
 teat	(哺乳瓶の)乳首 / (哺乳類動物の)乳首(nipple)
 teatable	= tea table 茶をたてる小テーブル,茶卓
 teatime	(午後の)お茶の時間
-teazel, teazle	=teasel
 tech.	technical
 technetium	テクネチウム(マンガン属の元素;化学記号は Tc)
 technic	=technique
@@ -483,8 +478,8 @@ tee shirt	=T-shirt =tee-shirt
 teem	(…に)〈人・物が〉たくさんいる,群がる(abound)《+in+名》 / (…で)〈場所などが〉いっぱいである,満ちる(be full of)《+with+名》 / 雨がどしゃぶりに降る
 teeming	(森・川などが)(生物で)満ちあふれている《+with+名》
 teen	=teenage / =teenager
-teenage, teen-age	(数字が ‐teen で終わる)13歳から19歳までの,10代の(に特有な)
-teenager, teen-ager	ティーンエージャー(13歳から19歳までの少年・少女)
+teenage,teen-age	(数字が ‐teen で終わる)13歳から19歳までの,10代の(に特有な)
+teenager,teen-ager	ティーンエージャー(13歳から19歳までの少年・少女)
 teens	(数字が‐teen で終わる)13から19までの数 / 《one's~》(人の)13から19歳までの期間,10代
 teeny	=tiny
 teeny-weeny	ちっちゃな
@@ -495,7 +490,7 @@ teeter totter	= teeter-totter = seesaw
 teeth	tooth の複数形
 teethe	(幼児の)歯が生える
 teetotal	絶対禁酒[主義]の
-teetotaler, teetotaller	絶対禁酒主義者
+teetotaler,teetotaller	絶対禁酒主義者
 tegument	おおい,外被(integument)
 tektite	テクタイト(天然のガラス質物質)
 tel.	telephone / telegram / telegraph
@@ -508,7 +503,7 @@ telegram	『電報』,電文
 telegraph	〈U〉『電信』,電報 / 〈C〉電信機 / 〈伝言など〉を『電報(電信)で知らせる』(wire) / (…に)電報を打つ,打電する《+to+名》
 telegrapher	電信規師
 telegraphese	電文体,電報文体
-telegraphic, telegraphical	電信の,電報の
+telegraphic,telegraphical	電信の,電報の
 telegraphy	電信[術]
 telekinesis	念動[作用](外力を加えず念力で物を動かす)
 telemeter	テレメーター,遠隔計器(温度・放射能などを測定し遠く離れた受信地に送る電気装置)
@@ -536,14 +531,13 @@ televise	…をテレビで放送する / テレビ放送する
 television	〈U〉『テレビ放送』(《略》TV) / (また television set)〈C〉『テレビ[受像機]』 / 〈U〉テレビ産業;テレビ放送技術
 televisual	テレビ放送向きの
 telex	〈U〉《T-》テレックス,加入者電信 / 〈C〉(テレックスによる)通信文 / …を…にテレックスで送る《+名+名=+名+to+名》;(…するように)…にテレックスで送る《+名+to do(that節)》
-telfer	=telpher
+telfer,telpher	=telpher / 空中ケーブルカー
 tell	…を『話す』,語る,言う;〈人〉に話す / 《tell+名〈人〉+to do》(…するように)〈人〉に命じる / …を『見分ける,』識別する / …が分かる,を知る / …を『表す』 / 《古》…の数を勘定する,を数える / (…のことを)『話す,』語る《+about(of, on)+名(doing)》 / (…を)『物語る,』示す《+of+名》 / (人のことを)『告げ口する,』密告する《+on+名》 / 《can, be able to などを伴う否定文・疑問文で用いて》(…について)『分かる,』知る《+about+名》 / (…に)力を発揮する,効きめがある,影響する《+on(against)+名》
 teller	話し手,語り手 / 《おもに米》(銀行の)現金出納係 / (議会の)投票集計係
 telling	効きめのある,有効な / (秘密・正体などを)明らかにする,知らせる
 telltale	《話》秘密をもらす人,告げ口する人 / 秘密などをもらす,隠そうとしても現れる
 tellurium	テリウム(非金属元素;化学記号は Te)
 telly	=television
-telpher, telfer	空中ケーブルカー
 temblor	地震(earthquake)
 temerity	蛮勇,無鉄砲,向こう見ず
 temp.	temperature / temporary / in the time of
@@ -557,14 +551,14 @@ temperate	(行動が)『節度のある』,節制のある / (土地・気候な
 temperature	〈C〉〈U〉『温度』,気温 / 〈C〉〈U〉(人・動物の)『体温』 / 《a ~》平常より高い熱,高熱
 tempest	大あらし,大暴風雨 / 大騒ぎ,大騒動
 tempestuous	大あらしの / 激しい
-template, templet	型板(ある型に切った薄い木や金属の板)
+template,templet	型板(ある型に切った薄い木や金属の板)
 temple	こめかみ,側頭 / (古代ギリシア・ローマ・エジプトなどの)『神殿』;(ヒンズー教・仏教などの)『寺院』,寺 / (ユダヤ教・モルモン教などの)『神殿』,教会,礼拝堂
 tempo	(仕事・活動などの)速さ,調子 / テンポ,速度
 temporal	時の,時間の / この世の,現世の;俗界の / 一時的な,はかない / こめかみの
 temporarily	一時的に,仮に
 temporariness	一時的なこと,はかなさ
 temporary	『一時の』,はかない,仮の
-temporize, temporise	(時間かせぎのために)あいまいな態度をとる,決定や返答などを遅らせる
+temporize,temporise	(時間かせぎのために)あいまいな態度をとる,決定や返答などを遅らせる
 tempt	(無分別・悪事などに)〈人〉を『誘惑する』,そそのかす / …を『そそる』,の気を引く
 temptation	〈U〉『誘惑』 / 〈C〉誘惑するもの
 tempter	〈C〉誘惑者 / 《the T-》悪魔(the Devil)
@@ -584,7 +578,7 @@ tendency	『傾向』 / 『性癖』,癖
 tender	(特に病人・子供の)世話をする人,看護人;番人,看守 / (大きな船と陸上との連絡や運搬に当たる)付属船,はしけ / (機関車の石炭・水を運ぶ)炭水車 / (人に)…を『提出する』,提供する,申し出る《+名~to+名〈人〉》 / 〈金銭〉を差し出す,支払う / 入札,請負見積書 / 弁償金 / (筋肉などが)『柔らかい』 / (体質などが)『きゃしゃな』,ひ弱な,壊れやすい / 《名詞の前にのみ用いて》幼い,虚弱な・(動作などが)『穏やかな』,荒々しくない / 『心の優しい』,思いやりのある / (傷などが)触ると痛い,敏感な / 他人の気持ちに敏感な,同情的な / (問題などが)取り扱いに慎重を要する,微妙な
 tenderfoot	《米》(米西部の牧場などの荒い仕事に不慣れな)新参者,新前 / (一般に)無経験者,初心者(novice)
 tenderhearted	心の優しい,思いやりのある
-tenderize, tenderise	(酢と油のつけた汁につけたり,たたいたりして)〈肉〉を柔らかにする
+tenderize,tenderise	(酢と油のつけた汁につけたり,たたいたりして)〈肉〉を柔らかにする
 tenderloin	(牛・豚の)腰部の柔らかい上肉
 tenderly	『優しく』,愛情深く
 tenderness	柔らかさ;か弱さ / 感じやすさ,敏感 / 《時に a ~》優しさ,親切,慈愛
@@ -662,7 +656,7 @@ terror	〈U〉〈C〉(身に迫る)『恐怖』 / 〈C〉『恐ろしい人(物�
 terror-stricken	恐怖におびえた
 terrorism	(政治的な)行為,テロ;恐怖政治
 terrorist	テロリスト,暴力主義者,恐怖政治家 / 暴力政治の;暴力主義者の
-terrorize, terrorise	(おどしや暴力で)…を恐れさせる;…をおどして…させる《+『名』+『into』+『名』(do『ing』)》
+terrorize,terrorise	(おどしや暴力で)…を恐れさせる;…をおどして…させる《+『名』+『into』+『名』(do『ing』)》
 terrycloth	テリークロス(両面のけば(毛羽)の輪奈を切らずに残した布地;タオル地など)
 terse	(口調・文体などが)簡潔な,きびきびした
 tertian	(熱が)隔日に出る,三日熱の
@@ -707,7 +701,7 @@ thalidomide baby	サリドマイドベビー(サリドマイド服用が原因�
 thallium	タリウム(金属元素;化学記号はTl)
 thallophyte	葉状植物
 than	《比較級の後に用いて》…『より[も]』,に比べて / 《関係代名詞的に用いて》…『よりも』 / 《other,otherwise,else,different などの後に用いて》…より(ほかの,ほかに) / 《rather,sooner などの後に用いて》…『よりむしろ,』…するくらいなら / 《話》《hardly, scarcely の後に用いて》=when,before / 《文》《通例 than whom の形で》…より[も] / 《話》《比較級の後に用いて》…より,に比べて
-thane, thegn	(古英史で)軍功により国王から封地を与えられた公民,大豪士(貴族の下の階級) / (スコットランド史で)王の封地を保有した豪族 (王領)領主
+thane,thegn	(古英史で)軍功により国王から封地を与えられた公民,大豪士(貴族の下の階級) / (スコットランド史で)王の封地を保有した豪族 (王領)領主 / =thane
 thank	(…のことで)〈人〉に『感謝する,』礼を言う《+名+for+名(doing)》
 thank-you	感謝の,感謝を表す / 感謝の行為,お礼
 thankful	(人が)『感謝している;』(心・言動が)感謝に満ちた
@@ -723,16 +717,15 @@ thaw	〈氷・雪などが〉『解ける』《+『out』》 / 冷えた体が�
 the	《前述の名詞または文脈でそれと分かる名詞に付けて》『その』,あの,名の / 《唯一の事物に付けて》 / 《方角・自然現象に付けて》 / 《用具・楽器・特定の病気などに付けて》 / 《修飾語[句]を伴う名詞に付けて》 / 《単数普通名詞に付けて》(1)《種族全体》…『というもの』 / 《複数名詞または集合名詞に付けて》 / 《単位》『…につき;…単位[で]』 / 《身体の一部に付けて,所有格に代わる》 / 《形容詞に付けて》 / 《固有名詞に付けて》 / 《強意用法に》『随一の』,典型的な / 《「the+比較級,the+比較級」の形で》『…すればするほどそれだけ』 / 《比較級の前に》(…につれて,のために)『それだけ』,ますます
 the Internal Revenue Service	内国歳入庁, 国税庁 《略 IRS》
 theat.	theater / theatrical
-theater, theatre	〈C〉『劇場』,映画館 / 〈C〉《the ~》『劇』,演劇 / 〈C〉(事件・活動の)『現場』,舞台 / =lecture theater / =operating theater
-theater-in-the-round, theatre-in-the-round	円形劇場(=arena theater)
-theatergoer, theatregoer	芝居の常連,芝居通
+theater,theatre	〈C〉『劇場』,映画館 / 〈C〉《the ~》『劇』,演劇 / 〈C〉(事件・活動の)『現場』,舞台 / =lecture theater / =operating theater
+theater-in-the-round,theatre-in-the-round	円形劇場(=arena theater)
+theatergoer,theatregoer	芝居の常連,芝居通
 theatrical	劇場の,劇の / 芝居がかった,誇張した,わざとらしい / (特に)素人芝居
 theatrically	芝居じみて,わざとらしく,誇張して
 theatrics	〈U〉《単数扱い》演出法 / 《複数扱い》芝居がかった動作
 thecodont	シカドント(先史時代のトカゲ;恐竜の先祖で,現在のワニに至っているとされている)
 thee	なんじを(に)
 theft	盗み;窃盗罪
-thegn	=thane
 their	『彼らの』,彼女らの,それらの
 theirs	『彼らのもの』,彼女らのもの,それらのもの / 《of theirs の形で》『彼らの』
 theism	有神論
@@ -756,11 +749,11 @@ theologian	(特にキリスト教の)神学者
 theological	神学の,神学的
 theology	神学
 theorem	定理 / (一般に)自明の原理,定理
-theoretic, theoretical	理論[上]の,理論的な / 仮説の,推論上の;空論好きの
+theoretic,theoretical	理論[上]の,理論的な / 仮説の,推論上の;空論好きの
 theoretically	理論上,理論的に
 theoretician	(科学・芸術分野での)理論研究者,理論家
 theorist	理論家,理論(学説)を立てる人
-theorize, theorise	(…を)理論づける,理論立てる《+about(on)+名(doing)》
+theorize,theorise	(…を)理論づける,理論立てる《+about(on)+名(doing)》
 theory	〈C〉(…の)(学問的な)『理論』,学説《+of+名》 / 〈C〉(…の実地に対する)『理論』《+of+名》 / 〈C〉(…という)『推測』,憶測;見解,考え《+that節》
 theosophical	神知学の,接神教(論)の
 theosophist	神知学者,接神論者
@@ -850,7 +843,7 @@ thin	『薄い』 / 細い / 『やせた』,やつれた / (液体・気体が)
 thin-skinned	《しばしば軽べつして》感じやすい;怒りっぽい
 thine	《thouの所有格》なんじの / 《thouの所有代名詞》なんじのもの(yours)
 thing	〈C〉(形のある)『物』,物体;(生物に対しての)『無生物』 / 〈C〉(形のない)『もの』,事,事柄,でき事 / 《複数形で》事情,事態,状勢,状況 / 《複数形で》(すべての)事物,事柄 / 《通例 the~》(努力・活動などの)目的,目標 / 〈C〉衣服,衣類・《one's things》持ち物,所持品,身の回り品 / 《複数形で》道具,用具・〈C〉《親愛・哀れみ・軽べつなどの感情をこめて》人,者,やつ / 《the~》《話》(…の)流行《+in+名》
-thingamajig, thingumajig	(名前を忘れたり,知らないものに対して)なんとかさん,なんとかいうもの
+thingamajig,thingumajig	(名前を忘れたり,知らないものに対して)なんとかさん,なんとかいうもの
 think	…を『考える』,心に抱く,想像する,思い描く / …と『思う』,信じる,判断する:《think+that 節》…であると思う / …を『企てる』,もくろむ / 《英》…を予期する / 《しばしば think oneself の後に形容詞・副詞[句]を伴って》考えて…の状態にする / 『考える』,思う;思案する,熟考する;予期する / (…について)考えること,一考《+about+名》 / 思考の,思考を促す
 think tank	頭脳集団(各分野の学者から成る総合的研究組織)
 thinkable	考えられる,想像がつく,ありうる(conceivable)
@@ -910,7 +903,7 @@ thoughtless	思いやりのない,不親切な;(…に)思いやりのない《+
 thousand	『1000』[人,個など] / 千の記号(1000,M) / 『1000の』,1000人の,1000個の / 多数の,無数の
 thousandth	『1000番目の』 / 1000分の1の / 《the ~》1000番目[のもの] / 〈C〉1000分の1
 thrall	〈C〉奴隷,捕われ人(slave) / 〈U〉奴隷の身分,捕われの身
-thralldom, thraldom	奴隷の身分,隷属(slavery)
+thralldom,thraldom	奴隷の身分,隷属(slavery)
 thrash	(棒などで)…を打つ,打ちすえる / …を徹底的にやっつける / (ときにthreshとして) / ころげまわる,のたうつ《+about》
 thrasher	むちで打つ人;たたく人(もの) / ツグミモドキ(北米産の小鳥)
 thrashing	むち打ち;(試合などでの)敗北
@@ -1012,7 +1005,7 @@ thymus	胸腺(脊椎動物にある内分泌器官)
 thyroid	甲状腺 / 甲状腺の
 thyroid cartilage	甲状軟骨,のどぼとけ
 thyroid gland	甲状腺
-thyroxin, thyroxine	甲状腺ホルモン
+thyroxin,thyroxine	甲状腺ホルモン
 thyself	《thou の再帰形または強意形》なんじ自身(yourself)
 ti	シ(全音階の第7音)
 tiara	(宝石をちりばめた)婦人用頭飾り / (ローマ教皇の)三重冠
@@ -1021,7 +1014,7 @@ tic	(眼・手足の)けいれん
 tick	(時計まどの)カチカチ[という音] / 《英語》瞬間 / 照合(点検)済みの印(✓の印),チェック / 〈時計などが〉カチカチ音がする《+away》 / 〈時が〉過ぎる,経過する《+by(away)》 / 《話》〈人が〉行動する,〈機械などが〉動く / 〈C〉(ふとん・まくらなどの)表布 / ダニ
 tick fever	ダニ熱(ダニが媒介する熱病)
 tick-tack	(時計・心臓などの)カチカチ,ドキドキ[という音]
-tick-tack-toe, tick-tac-toe	チックタックトウ(縦横三つずつ,計九つの区画に交互に○と×を記入し,先に同じ符号を三つ1列に並べたほうが勝ちというゲーム)
+tick-tack-toe,tick-tac-toe	チックタックトウ(縦横三つずつ,計九つの区画に交互に○と×を記入し,先に同じ符号を三つ1列に並べたほうが勝ちというゲーム)
 ticker	カチカチ音を出すもの / 株式相場表示器(取引所からの電信を自動的に印写する受信機) / 《俗》心臓
 tickertape	株式相場表示機(ticker)から刻々出てくるテープ
 ticket	『切符』,乗車券;入道券;(宝くじなどの)券,礼 / 正礼,値札,(品質・サイズなどの)表示札 / 《米》(政党の)公認候補者名簿 / 《話》交通違反者の呼び出し状 / 《the~》《話》必要なもの / 《the ~》《古・話》正しいこと,適切なこと / 〈商品〉に正礼(品質標示礼など)を付ける,〈荷物など〉に礼を付ける / 《米》…に交通違反の呼び出し状を渡す
@@ -1034,7 +1027,7 @@ tidal	潮の;潮の作用を受ける;潮の干満のある
 tidal wave	(海底地震・強風などによる)津波,高波 / (感情などの)大きなうねり
 tidbit	うまいものの一口 / おもしろいニュース,(物語・うわさなどの)さわり部分
 tiddler	《話》非常に小さい魚 / 《呼び掛けに用いて》ちびっ子 / 《俗》半ペニー銅貨
-tiddly, tiddley	ほろ酔いの / とても小さい
+tiddly,tiddley	ほろ酔いの / とても小さい
 tiddlywinks	《単数扱い》小円盤の縁を他の円盤で押しはじいて飛ばせ,カップの中に入れるゲーム
 tide	〈U〉〈C〉『潮[の干満]』,(潮の干満によって起こる)潮流 / 〈C〉(世論などの)『風潮』,全体的傾向,形勢 / 〈C〉潮(のように押し寄せてくる…)《+of+名》 / 〈U〉《古》時,季節 / 《『tide over』+『名』》(困難・障害を)乗り切る / (難しい時期を)〈人〉を助けて乗り切らせる,になんとかやっていかせる《+名+over+名》
 tideland	干潟(ひがた)
@@ -1077,7 +1070,7 @@ tights	(軽業師・舞踊家・婦人・少女などが履く)タイツ
 tightwad	しみったれ
 tiglon	タイグロン(トラの雄とライオンの雌との間に生まれた子ども)
 tigress	雌トラ
-tike	tyke
+tike,tyke	tyke / 《おもに米話》小さな子 / のら犬,雑種犬 / 《おもにスコットランド》無作法者,ならず者
 tilde	スペイン語で n の上につける記号.ñの上の記号(「ニャ」とか「ニョ」といった音を表す)・波形符号、波形ダッシュ・= swung dash
 tile	(床・壁用の)『タイル』;屋根がわら;《集合的に》タイル,かわら / (ドミノなどゲームの)こま,(マージャンの)牌 / (下水・煙突などの)土管,コンクリート管 / …にタイルを張る;〈屋根〉をかわらでふく
 till	《継続を表す動詞と共に用いて》『…まで[ずっと]』 / 《否定表現に続けて》『…まで[…ない]』,…になって初めて[…する] / 《肯定の主節とともに》『…まで[ずっと]』 / 《結果》『…してそして[ついに]』… / 《否定の主節に続けて》『…まで[…ない]』,…して初めて[…する] / (商店・銀行などの)金銭入れ(引き出し・箱など) / 〈土地〉を耕す〈自〉土地を耕す,耕作する
@@ -1105,7 +1098,7 @@ time signal	(ラジオ・テレビの)時報
 time signature	拍子記号(楽曲の初めにその拍子を指定する記号)
 time switch	タイムスイッチ
 time zone	時間帯《経度15゜の間隔を置いて地球を24の時間帯に区分し,各区域では同一の標準時(standard time)を採用している》
-time-honored, time-honoured	昔ながらの,由緒ある
+time-honored,time-honoured	昔ながらの,由緒ある
 timecard	(また time sheet)タイムカード,就業時間記録カード / 列車時刻表
 timeframe	予定されている期間
 timekeeper	(競技・作業などの)時間記録係,計時員 / 時計
@@ -1176,15 +1169,14 @@ tipsy	ほろ酔いの,千鳥足の
 tiptoe	(用心して,こっそりと)つま先で歩く / つま先
 tiptop	頂上,絶頂 / 気上の,飛び切り上等の(first-rate) / 申し分なく
 tirade	長くて激しい非難攻撃の演説
-tire	〈人など〉を『疲れさせる』,疲労させる / 〈人など〉を『飽きさせる』,うんざりさせる / 疲れる / (…に)飽きる《+of+名(doing)》
+tire,tyre	〈人など〉を『疲れさせる』,疲労させる / 〈人など〉を『飽きさせる』,うんざりさせる / 疲れる / (…に)飽きる《+of+名(doing)》 / 『タイヤ』 / =tire
 tire chain	タイヤチェーン(雪上などで滑り止めに用いる)
-tire, tyre	『タイヤ』
 tired	『疲れた』 / 《補語にのみ用いて》『飽きた』,うんざりした;(…に)飽きた《+of+名(doing)》 / (文句などが)陳腐な
 tiredly	疲れて;飽きて
 tiredness	疲労;けん怠
 tireless	疲れない,疲れを知らない
 tiresome	『飽き飽きさせる』,うんざりさせる(tedious) / やっかいな,うるさい
-tiro	=tyro
+tiro,tyro	=tyro / 初心者
 tissue	〈U〉〈C〉(生物体の)『組織』 / 〈U〉〈C〉『薄織物』 / 〈U〉〈C〉水を吸収する柔らかな薄紙 / 〈C〉カーボンコピー用薄紙 / 〈C〉《a ~》(…を)織り交ぜて作ったもの《+of+名》 / =tissue paper
 tissue paper	薄葉紙(果物など傷みやすいものを包んだり本のさし絵などを保護するために使う透明に近い薄紙) ティッシュペーパー
 tit	軽打 / しっぺ返し / =titmouse / 乳首;乳房
@@ -1194,7 +1186,7 @@ titbit	=tidbit (うまい物の)ひと口; おもしろいニュース
 tithe	《しばしば複数形で》十分の一税(教会の維持費や牧師の生活費にあてるため,土地などから上がる年間収益の10分の1を教会に献金する,または義務として納めること,またその金額) / 10分の1 / 《否定語とともに用いて》(…の)ほんのわずか《+of+名》 / …の十分の一税を納める / …に十分の一税を課する
 titian	赤褐色,金褐色
 titillate	…を快く刺激する,そそる
-titivate, tittivate	〈特に,自分〉を飾る / めかす,おしゃれする
+titivate,tittivate	〈特に,自分〉を飾る / めかす,おしゃれする
 title	〈C〉(…の)『題名』,題目,題《+of(to)+名》 / 〈C〉『肩書き』,称号,爵位 / 〈C〉(スポーツの)選手権,タイトル / 〈C〉〈U〉(家屋・土地の)『所有権』;権利書;権限《+to+名》 / 〈C〉〈U〉正当な権利 / …に表題を付ける;…に称号(肩書き)を与える
 title deed	(不動産などの)権利証書
 title page	とびら,表題紙(題名・著者名・出版社の名と所在地などを記したページ)
@@ -1242,7 +1234,7 @@ toed	足指のある / 《複合語を作って》足指が…の:five-toed 足�
 toehold	(岩場などでの)足場,足掛かり
 toenail	足指のつめ / 斜めに打ち込んだくぎ
 toff	上流階級のしゃれ者
-toffee, toffy	=taffy
+toffee,toffy	=taffy
 toffee-nosed	気どった
 tog	着物,衣服 / (…を)〈自分〉に着せる《+oneself up(out) in+名》
 toga	トーガ(古代ローマ市民の着たゆるやかな外衣)
@@ -1354,7 +1346,7 @@ topcoat	〈C〉軽い外とう,合いオーバー / 〈C〉〈U〉仕上げ塗�
 topdress	〈土の表面〉に追肥をする(肥料,石灰などをまくこと) = top-dress
 topdressing	追肥をすること
 tope	酒びたりになる / 〈酒〉をひどく(常に)飲む
-topee, topi	=pith helmet
+topee,topi	=pith helmet
 topflight	抜群に優れた,第一級(一流)の・最高の
 topgallant	トゲルンマスト(帆船でトップマストのすぐ上に付けるマスト);トゲルンスル(トゲルンマストの帆桁にかける帆) / トゲルンマスト(トゲルンスル)の
 topiary	(樹木が)装飾的に刈り込まれた
@@ -1368,7 +1360,7 @@ topmost	いちばん高い,最高の
 topnotch	飛び切り上等の,第一級(一流)の
 topog.	topography
 topographer	地形学者,地図作成者
-topographic, topographical	地形学の,地形(地勢)図の,地形(上)の
+topographic,topographical	地形学の,地形(地勢)図の,地形(上)の
 topography	〈U〉地形学,(ある地域の)地形図作成 / 〈U〉地形,地勢
 topper	=top hat
 topping	この上ない,すてきな / (ケーキなどにかける)糖衣,(料理の)添え物,ソース
@@ -1390,7 +1382,7 @@ torchlight	たいまつの明かり;《英》懐中電灯の光
 tore	tear の過去
 toreador	(スペインの)闘牛士(普通は馬に乗っている)
 torment	〈痛み・悩みなどが〉(精神的・肉体的に)〈人〉を『苦しめる』 / (…で)…を悩ませる,困らせる《+名+with+名》,(…して)…を困らせる《+名+by doing》 / 〈U〉《時に複数形で》『激しい苦痛(苦悩)』 / 〈C〉悩みの種
-tormentor, tormenter	苦しめる人(もの)
+tormentor,tormenter	苦しめる人(もの)
 torn	tear の過去分詞
 tornado	(特に米国中部に発生する)竜巻 / 大旋風
 torpedo	魚雷,魚形水雷 / (鉄道の)発雷信号 / かんしゃく玉 / …を魚雷で爆破する
@@ -1422,8 +1414,8 @@ total	『総計の』,全体の / 『全くの』,完全な(absolute) / 『合�
 totalitarian	全体主義の / 全体主義者
 totalitarianism	全体主義
 totality	〈U〉全体,総体;完全性 / 〈C〉《文》合計額,総計 / 〈C〉皆既食[の継続時間]
-totalizator, totalisator	(競馬・ドッグレースで,電光の)賭(かけ)率表示機
-totalize, totalise	…を合計する,しめる
+totalizator,totalisator	(競馬・ドッグレースで,電光の)賭(かけ)率表示機
+totalize,totalise	…を合計する,しめる
 totally	全く,完全に
 tote	…を運ぶ(carry) / 〈銃〉を携帯する / =totalizator
 tote bag	(婦人用の)大型買物袋,大型ハンドバッグ
@@ -1473,7 +1465,7 @@ toward	《運動の方向》『…のほうへ』,に向かって / 《位置の
 towards	toward
 towboat	引き船
 towel	『タオル』,手ぬぐい,手ふき / …をタオルでふく
-toweling, towelling	タオル地
+toweling,towelling	タオル地
 tower	『塔』,タワー / (…の上に)ひときわ高くそびえる,(力・才能などが)ぬきんでている《+above(over)+名》
 tower block	高層建築物
 towering	非常に高い,そびえ立つ / ぬきんでた / 激しい
@@ -1497,7 +1489,7 @@ townspeople	《the~》(ある特定の町の)町民,市民 / 《冠詞をつけ�
 townswoman	(町の)女性住民
 towpath	引き船道(陸から船を引っ張るための川や運河沿い道)
 towrope	=towline
-toxemia, toxaemia	毒血症(血液中に毒素がはいって起こる症状)
+toxemia,toxaemia	毒血症(血液中に毒素がはいって起こる症状)
 toxic	毒性の,有毒な / 毒による
 toxicity	毒性,有毒性
 toxicologist	毒物学者(専門家)
@@ -1542,7 +1534,6 @@ trade name	商品名 / 商標名 / 屋号,社名
 trade paperback	市販版ペーパーバック(量産のペーパーバックよりやや大型で良質の大衆本)
 trade price	卸値段
 trade school	職業学校
-trade union, trades union, labor union	労働組合
 trade wind	貿易風(熱帯地方で赤道の北側では北東から,南側では南東から吹く)
 trademark	商標 / (ある人に特有の)行動様式 / …に商標を付ける / …を商標として登録する
 tradeoff	取り引き
@@ -1598,9 +1589,9 @@ trampoline	トランポリン(弾力性のあるズックを張り,その上で�
 trance	(催眠術・麻薬などによる)意識もうろう,催眠状態 / (目覚める直前の)夢うつつ[の状態] / (白日夢や瞑想による)忘我の境,恍愡(こうこつ)
 tranny	トランジスターラジオ
 tranquil	『静かな』,平穏な,穏やかな
-tranquility, tranquillity	平穏,平静
-tranquilize, tranquillize, tranquillize, tranquillise	…を静かに(平穏に)する / 静まる,落ち着く
-tranquillizer, tranquilliser	精神安定剤,鎮静剤
+tranquility,tranquillity	平穏,平静
+tranquilize,tranquillize,tranquillise	…を静かに(平穏に)する / 静まる,落ち着く
+tranquillizer,tranquilliser	精神安定剤,鎮静剤
 trans.	transitive / transportation
 transact	〈業務など〉を行う,処理する;(…と)〈交渉,取り引きなど〉をする《+名+with+名》
 transaction	〈U〉《the ~》(業務などの)『処理』,処置《+of+名》 / 〈C〉業務,商取り引き / 〈C〉《複数形で》(学術協会などの)報告書
@@ -1641,7 +1632,7 @@ transience	一時的であること,つかの間のこと,はかなさ,無常
 transiency	=transience
 transient	(また transitory)一時の,つかの間の,はかない / (人が)短期滞在の / (ホテルなどの)短期滞在客
 transistor	トランジスター(真空管の代りをする半導体使用の増幅装置) / トランジスターラジオ
-transistorize, transistorise	…にトランジスターを付ける
+transistorize,transistorise	…にトランジスターを付ける
 transit	通過,通行 / (…の)輸送,運搬《+of+名》 / 天体が子午線を横切ること,(小天体が)他の天体を横切ること / 〈天体が〉〈太陽面〉を通過する
 transition	(…から…へ)移り変わること,変遷;(…から…への)過渡期《+from+名+to+名》
 transitional	移り変わりの,過渡期の
@@ -1719,12 +1710,12 @@ travail	苦労,骨折り / 苦痛,苦悩 / 《古》陣痛 / 苦労して働く,
 travel	(特に遠くへ)『旅行する』 / 〈セールスマンなどが〉(…の)注文取りに出る,外交をして回る《+for+名》 / 〈視線・気持ちなどが〉移る,移動する / 《副詞[句]を伴って》〈音・光などが〉伝わる,進む / (…と)つきあう《+with(in)+名》 / 《俗》すばやく走る,進む / 〈ある場所〉を『旅行する』 / 〈ある距離〉を行く,進む / 〈U〉旅行すること,旅行 / 《複数形で》(特に外国への)旅行
 travel agency	旅行案内所(代理店)
 travel agent	旅行案内(代理)業者
-traveled, travelled	(人が)旅行の経験が多い / (道路などが)交通のある
-traveler's check, traveller's cheque	旅行者用小切手
-traveler, traveller	『旅行者』,旅人 / (また traveling salesman,《英》travelling salesman)巡回販売員,外交員,注文取り
-traveling, travelling	旅行すること / 旅行の,旅行する,巡回する
+traveled,travelled	(人が)旅行の経験が多い / (道路などが)交通のある
+traveler's check,traveller's cheque	旅行者用小切手
+traveler,traveller	『旅行者』,旅人 / (また traveling salesman,《英》travelling salesman)巡回販売員,外交員,注文取り
+traveling,travelling	旅行すること / 旅行の,旅行する,巡回する
 travelling fellowship	研修旅行奨学金
-travelogue, travelog	(映画やスライドを見せながら語る)旅行に関する講演(講義) / 紀行映画
+travelogue,travelog	(映画やスライドを見せながら語る)旅行に関する講演(講義) / 紀行映画
 travelsick	乗り物で酔った
 traverse	…を『横切る』,横断する,渡る,越える / …をあちこち動く,行ったり来たりする / あちこち動く;(山などを)ジグザグに登る / 横切る,旋回する / 横切ること,横断 / トラバース(登山での斜面横断) / 横木,横ばり / ざんごう内での方向転換
 traverse rod	ひもを引いて開閉するカーテンレール
@@ -1821,7 +1812,7 @@ tribune	(古代ローマの)護民官・人民の権利の擁護者・[Tribune�
 tributary	(川の)支流 / (…に)みつぎ物を納める人(国);(…の)進貢国,属国《+to+名》 / 支流の / みつぎ物を納める
 tribute	(…に対する)『感謝』(賞賛,尊敬)『の印』(贈り物,ささげ物,記念品,賛辞など)《+to+名》 / (保護・安全のための,他君主・他国への)『貢物』,納付金;進貢の義務《+to+名》
 trice	瞬間
-tricentenary, tricentennial	=tercentenary
+tricentenary,tricentennial	=tercentenary
 triceps	(上腕の)三頭筋
 triceratops	トリケラトプス,三角竜(白亜紀後期の恐竜の一つ)
 trichina	センモウチュウ(旋毛虫)(豚などの腸・筋肉などに寄生し,旋毛虫病を起こす)
@@ -1834,7 +1825,7 @@ trickish	tricky
 trickle	したたる,ちょろちょろ流れる / 少しずつ(ぼつぼつ)来る(行く) / …をしたたらす,少しずつ流す / したたり,しずく / (人などの)少しずつの動き
 trickster	詐欺師,ぺてん師
 tricky	(人が)こうかつな,ずるい / (物事・仕事などが)手の込んだ;慎重を要する,扱いにくい
-tricolor, tricolour	〈C〉三色旗 / 《通例 the T》フランス国旗 / 三色の
+tricolor,tricolour	〈C〉三色旗 / 《通例 the T》フランス国旗 / 三色の
 tricot	トリコット(一種のうね織り);(毛糸・レーヨンなどの)編物
 tricuspid	(歯が)三尖の / (歯の)三尖頭
 tricycle	三輪自転車
@@ -1912,7 +1903,7 @@ trivet	(鉄製の)三脚ごとく / (食卓用の)小型金属台(熱いもの�
 trivia	ささいなこと,つまらないこと
 trivial	『ささいな』,取るに足らない,つまらない / 平凡な,普通の,ありふれた
 triviality	〈U〉取るに足らないこと;〈C〉つまらないもの
-trivialize, trivialise	…をささいなものにする,平凡にする
+trivialize,trivialise	…をささいなものにする,平凡にする
 trivium	(古代ローマの)三学科(七教養科目のうち文法・修辞学・論理学を指す)
 trochaic	(詩の韻律で)強弱格の,長短格の
 troche	トローチ,錠剤
@@ -2075,12 +2066,12 @@ tumbledown	(建物など)今にも倒れそうな,荒廃した
 tumbler	軽業師 / タンブラー(平底で取っ手のないコップ) / (錠の)てこ
 tumbleweed	秋になると風に吹き飛ばされる雑草(北米砂漠地帯のヒユ・アカザなど)
 tumbling	宙返り,空中回転
-tumbrel, tumbril	肥料運搬車 / (フランス革命時代の)死刑囚護送車
+tumbrel,tumbril	肥料運搬車 / (フランス革命時代の)死刑囚護送車
 tumescent	腫れた
 tumid	(体の一部などが)ふくれあがった / (言語などが)大げさな,誇張した
 tumidity	はれ上がっていること / (言葉などの)誇張
 tummy	《話》おなか,ぽんぽん,腹部
-tumor, tumour	はれもの,できもの,腫瘍
+tumor,tumour	はれもの,できもの,腫瘍
 tumult	騒ぎ,大騒ぎ;騒動,暴動 / (心の)動揺,興奮
 tumultuous	(群衆などが)騒然とした / (心が)取り乱した
 tumulus	(有史以前の)墳墓,古墳
@@ -2098,7 +2089,7 @@ tunic	チュニカ(古代ギリシア・ローマで男女が用いたひざま�
 tuning fork	音叉(楽器調律に使うフォーク状の鋼鉄製の器具)
 tunnel	『トンネル』,地下道,坑道 / 〈山など〉にトンネルを掘る / 〈トンネルなど〉を掘る / トンネルを掘る
 tunnel vision	視野狭窄(症) トンネルビジョン,きわめて狭い視野,偏狭
-tunneler, tunneller	トンネルを掘る人(機械)
+tunneler,tunneller	トンネルを掘る人(機械)
 tunny	=tuna
 tup	雄羊
 tuppence	=twopence
@@ -2238,7 +2229,6 @@ twosome	二つ組,2人組 / (ゴルフなど)2名一組でする試合
 twp.	township
 tycoon	(資産と権力のある)実業界の大立て者 / 《しばしば T-》大君(徳川幕府の将軍に対する外人の呼称)
 tying	tie の現在分詞
-tyke, tike	《おもに米話》小さな子 / のら犬,雑種犬 / 《おもにスコットランド》無作法者,ならず者
 tympana	tympanumの複数形
 tympani	=timpani
 tympanic membrane	鼓膜
@@ -2268,13 +2258,11 @@ typographic	活版印刷術の,印刷上の
 typographical	=typographic
 typography	活版印刷術 / 印刷の体裁,刷りぐあい / (植字・組版を含めて)印刷
 tyrannical	暴君のような;暴虐な,残酷な
-tyrannize, tyrannise	(…を)しいたげる,暴虐を加える《+『over』+『名』》 / 〈国〉に暴政を行う;〈人々〉をしいたげる
+tyrannize,tyrannise	(…を)しいたげる,暴虐を加える《+『over』+『名』》 / 〈国〉に暴政を行う;〈人々〉をしいたげる
 tyrannosaur	ティラノサウルス(北米の後期白亜紀の地層から発掘された肉食恐竜)
 tyrannous	暴君のような;暴虐の,残酷な
 tyranny	〈U〉『圧制』 / 〈C〉《しばしば複数形で》暴虐行為 / 〈U〉専制政治,専制 / 〈C〉(古代ギリシヤの)僭主政治
 tyrant	『暴君』,圧制者 / 専制君主 / 僭王(古代ギリシアにおいて世襲以外の方法で王位を獲得した者)
-tyre	=tire
-tyro, tiro	初心者
 tzar	=czar
 tzarina	=czarina
-tzetze fly, tzetze-fly, tzetze	=tsetse fly
+tzetze fly,tzetze-fly,tzetze	=tsetse fly

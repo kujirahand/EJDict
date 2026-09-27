@@ -11,8 +11,7 @@ G.C.T.	Greenwich Civil Time
 G.M.	General Manager / guided missile
 G.O.P.,GOP	Grand Old Party米国共和党
 G.T.	gross ton総トン,英トン
-GA	General Admiral / (またGa)Georgia
-GA,Ga.	Georgia
+GA,Ga.	General Admiral / (またGa)Georgia / Georgia
 GATT	General Agreement on Tariffs and Tradeガット(関税ならびに貿易に関する一般協定;1947年Genevaで調印1948年発効)
 GCA	ground-controlled approach地上からの誘導着陸[装置]
 GCE	General Certificate of Education《英》中等学校終了資格試験
@@ -29,7 +28,7 @@ GSA	Girl Scouts of America / General Services Administration総合調達局
 Ga	galliumの化学記号
 Gabon	ガボン(アフリカ南西部の共和国;旧フランス領赤道アフリカ)
 Gabriel	天使ガブリエル(処女マリアにキリストの降誕を予告した)
-Gad,gad	とんでもない,ちぇっ[godの変形]
+Gad,gad	とんでもない,ちぇっ[godの変形] / (刺激・楽しみを求めて)ぶらつく,ほっつき歩く
 Gael	ゲール人(アイルランド・スコットランド・マン島のケルト系住民;特にスコットランド高地人)
 Gaelic	ゲール人の;ゲール語の / ゲール語
 Galahad	ガラハッド(アーサー王伝説中の円卓の騎士中最も高潔の士) / 〈C〉高潔な人
@@ -120,7 +119,7 @@ Greek	〈C〉『ギリシア人』 / 〈U〉『ギリシア語』 / 〈U〉訳�
 Greek Orthodox Church	=Orthodox Church
 Greenland	グリーンランド(北大西洋と北極海の間にある世界最大の島(Kalatdlit Nunat);1979年、デンマークから自治領として独立)
 Greenwich	グリニッジ(大ロンドン市東南部の地区;もと王立天文台があり,経度零度の地点である)
-Greenwich Time, Greenwich Mean Time	グリニッジ標準時(《略》『GMT,G.M.T.』)
+Greenwich Time,Greenwich Mean Time	グリニッジ標準時(《略》『GMT,G.M.T.』)
 Greenwich Village	グレニッチビレジ(ニューヨーク市マンハッタン区端の伝統的に画家・文士などが多く住む地域)
 Gregorian calendar	グレコリー暦(現行の太陽暦,1582年に制定,日本は1872年に採用)
 Gregorian chant	グレゴリオ聖歌(カトリック教会の単旋律典礼聖歌)
@@ -143,15 +142,13 @@ Guyana	ガイアナ(南米北東岸の共和国)
 GySgt.	Gunnery Sergeant
 g.	gram(《英》gramme) / guinea / gauge / genitive / gender
 gab	むだ話,おしゃべり(chatter) / (…について)むだ話をする《+『about』+『名』》;(…と)おしゃべりする《+『with』+『名』》
-gabardine,gaberdine	ギャバジン(目のつんだあや織りの布)
+gabardine,gaberdine	ギャバジン(目のつんだあや織りの布) / 〈C〉(中世に特にユダヤ人が着用した)ゆるやかな長い男物の上着 / =gabardine
 gabble	訳の分からないことを早口にしゃべる《+『away』(『on』)》 / 〈言い訳など〉を訳が分からないほど早口で言う《+『out』+『名,』+『名』+『out』》 / 早口で訳の分からないおしゃべり
 gabbro	斑糲(はんれい)岩(粒状の火成岩の一種)
 gabby	ひどくおしゃべりの,おしゃべり好きな
-gaberdine	〈C〉(中世に特にユダヤ人が着用した)ゆるやかな長い男物の上着 / =gabardine
 gabfest	雑談会,井戸端会議
 gable	破風(はふ),切り妻(屋根の斜面を2辺とした三角形の外壁部)
 gabled	(屋根が)切り妻の,破風(はふ)造りの;(家が)切り妻(破風)のある
-gad	(刺激・楽しみを求めて)ぶらつく,ほっつき歩く
 gadabout	(刺激・楽しみを求めて)ほっつき歩く人
 gadfly	アブ / 人をいらいらさせる(うるさがらせる)人
 gadget	(機械の)ちょっとした仕掛け,(道具の)部品,付属品・(家庭用などの)気のきいた小物・ちょっとした機械装置
@@ -163,7 +160,7 @@ gag	さるぐつわ;(歯科医の)開口器 / 人を黙らせるもの,言論を
 gaga	(年とって)気が弱くなった,ぼけた
 gage	担保物[件];〈U〉担保 / =gauge
 gaggle	ガチョウの群れ / ガチョウの鳴き声 / (特に女の)うるさい集まり
-gaiety, gayety	〈U〉『陽気』,愉快 / 《しばしば複数形で》お祭り(浮かれ)騒ぎ(merrymaking) / 〈U〉(服装の)華美,はで
+gaiety,gayety	〈U〉『陽気』,愉快 / 《しばしば複数形で》お祭り(浮かれ)騒ぎ(merrymaking) / 〈U〉(服装の)華美,はで / =gaiety
 gaily,gayly	陽気に,愉快に(merrily) / はでに,華やかに(showily)
 gain	(努力して)…を『得る』,手に入れる / …を『増す』 / 〈競争など〉に勝つ;〈賞など〉を勝ち取る / 《文》(特に努力をして)〈目指す場所〉に到達する;〈目的など〉を達成する / 得をする / (…において)進歩する,よくなる,向上する;(体重・身長・能力など)増す《+in+名》 / 〈時計が〉進む / 〈C〉(…に)加えたもの《+『to』+『名』》;(…において)増加したもの《+『in』+『名』》 / 《複数形で》『利益』(profits);賞金 / 〈U〉利益を得ること,獲得
 gainer	利益を得た(得る)人;勝利者
@@ -340,7 +337,7 @@ gasworks	ガス工場,ガス製造所
 gat	ピストル,はじき
 gate	(…への)『門』,通用門《+『to』(『of』)+『名』》;(門の)とびら / (ダム・運河などの)水門 / (競技場・劇場などの)[有料]入場者数 / (またgate money)総入場料
 gate money	(競技会などの)入場料(総額)
-gate-leg table, gate-legged table	折りたたみテーブル
+gate-leg table,gate-legged table	折りたたみテーブル
 gateau	クリームケーキの一種
 gatecrash	〈パーティー・観劇会など〉に招待されずに(会費を払わずに)もぐり込む
 gatecrasher	(パーティー・観劇会などへの)押しかけ客,もぐり込み客
@@ -371,7 +368,6 @@ gawk	(…を)ぽかんと見つめる《+『at』+『名』》
 gawky	ぶざまな
 gawp	(口を開けて)(…を)ぽかんと見詰める《+『at』+『名』》
 gay	『陽気な』,愉快な,うきうきした / はでな色の,華やかな / 放蕩な,不身持ちの / 《話》同性愛の,ホモの
-gayety	=gaiety
 gaz.	gazette / gazetteer
 gaze	(…を)『じっと見つめる』,凝視する《+『at』(『into,on,upon』)+『名』》 / 『じっと見詰めること』,凝視
 gazebo	見晴らし台,あずまや
@@ -490,16 +486,16 @@ geodesy	測地学
 geodetic	測地学の;測地線の
 geog.	geographer / geographic[al] / geography
 geographer	地理学者
-geographic, geographical	地理の,地理学[上]の
+geographic,geographical	地理の,地理学[上]の
 geography	〈U〉『地理』,『地理学』 / 〈C〉『地勢』,地形 / 〈C〉地理学書
 geol.	geologic[al] / geologist / geology
-geologic, geological	地質学上の
+geologic,geological	地質学上の
 geologist	地質学者
 geology	〈U〉地質学 / 〈C〉地質学書
 geom.	geometric[al] / geometry
 geomagnetic	地磁気の
 geometric progression	等比数列
-geometric, geometrical	幾何学の / (図案などが)幾何学的な
+geometric,geometrical	幾何学の / (図案などが)幾何学的な
 geometrician	幾何学者
 geometry	〈U〉『幾何学』 / 〈C〉幾何学書
 geomorphology	地形学
@@ -612,8 +608,8 @@ gingerly	(歩みなどが)きわめて用心深い,慎重な / きわめて用�
 gingersnap	しょうが入りのさくっとしたクッキー(《英》ginger nut)
 gingham	ギンガム(しまの綿布)
 gingivitis	歯肉炎
-gingko nut, ginkgo nut	ギンナン(銀杏)(イチョウの実)
-gingko, ginkgo	イチョウ(落葉高木)
+gingko nut,ginkgo nut	ギンナン(銀杏)(イチョウの実)
+gingko,ginkgo	イチョウ(落葉高木)
 ginner	綿繰り工
 ginseng	朝鮮ニンジン / 朝鮮ニンジンの根;その根から作った薬
 gip	=gyp
@@ -627,7 +623,7 @@ girl	『女の子』,『少女』,娘,未婚の若い女性 / 女店員,女事�
 girl Friday	有能な女性秘書(事務員)
 girl guide	=girl scout
 girl scout	the Girl Scoutsの団員(《英》girl guide)
-girlfriend, girl friend	女友だち,ガールフレンド,(女の)恋人
+girlfriend,girl friend	女友だち,ガールフレンド,(女の)恋人
 girlhood	少女であること / 少女時代 / 《集合的に》少女たち
 girlie,girly	(雑誌などが)ヌードを売りものにしている
 girlish	少女の,少女らしい,少女にふさわしい
@@ -885,7 +881,7 @@ good Samaritan	よきサマリア人(新約聖書「ルカによる福音書」)
 good afternoon	『こんにちは』(午後のあいさつ) / 《古》(上昇調で)さようなら(午後別れるとき)
 good day	『こんにちは』(昼間の改まったあいさつ) / 《古》さようなら
 good evening	『こんばんは』 / 《古》《多く上昇調で》さようなら,おやすみなさい
-good humor, good humour	上機嫌
+good humor,good humour	上機嫌
 good looker	器具のよい女性,美人
 good looks	美貌(ぼう)(looks)
 good luck	幸運 / ごきげんよう;ご成功(幸運)を祈る
@@ -991,12 +987,11 @@ grain	〈C〉(穀類の)『粒』《+『of』+『名』》 / 〈U〉《集合的
 grain alcohol	=ethyl alcohol
 grainy	粒状の / 木目(石目)ある
 gram atom,gramatom	グラム原子(元素の原子量に等しいだけのグラム単位の質量)
-gram,gramme	『グラム』(重量の単位;《略》『g.』,『gm.』,『gr.』)
+gram,gramme	『グラム』(重量の単位;《略》『g.』,『gm.』,『gr.』) / =gram
 grammar	〈U〉(学問・学科としての,言語が持っている)『文法』;〈C〉文法書 / 〈U〉(文法的に正しい)言葉遣い,語法
 grammar school	《英》グラマースクール(16世紀にラテン文法を教えるために創設され,現在はpublic schoolと並ぶ大学進学者のための中等学校) / 《米》公立初等学校(日本の小学校1年から6年まで,または中学校2年までに相当する)
 grammarian	文法学者
 grammatical	《名詞の前にのみ用いて》文法上の / 文法にかなった
-gramme	=gram
 gramophone	=record player
 grampus	ハナゴンドウ(暖かい海にいるイルカ科の動物)
 granary	穀倉 / 穀倉地帯
@@ -1114,11 +1109,11 @@ gravy boat	(小さな舟形の)ソース入れ
 gravy train	楽に金を得られる仕事(地位)
 gray matter,grey matter	(大脳の)灰白質 / 《話》知力,頭脳
 gray power	老人パワー(社会の暴力から身の安全を守るための老人組織)
-gray, grey	『灰色の』,ねずみ色の,鉛色の / (顔色が)青白い(pale) / (空が)曇った / (気持ちなどが)陰気な,寂しい(gloomy) / しらがの多い / 〈U〉『灰色』,ねずみ色,鉛色 / 〈U〉灰色の服 / 〈C〉灰色の絵の具,灰色の染料 / 《gray,grey》《米》(南北戦争当時の)南軍兵士 / …を灰色にする / 灰色(白髪)になる
+gray,grey	『灰色の』,ねずみ色の,鉛色の / (顔色が)青白い(pale) / (空が)曇った / (気持ちなどが)陰気な,寂しい(gloomy) / しらがの多い / 〈U〉『灰色』,ねずみ色,鉛色 / 〈U〉灰色の服 / 〈C〉灰色の絵の具,灰色の染料 / 《gray,grey》《米》(南北戦争当時の)南軍兵士 / …を灰色にする / 灰色(白髪)になる / =gray
 gray-haired,grey-haired	半白髪の
 gray-headed,grey-headed	半白髪の頭の
-graybeard, greybeard	老人
-grayish,greyish	灰色がかった
+graybeard,greybeard	老人
+grayish,greyish	灰色がかった / =grayish
 grayling	カワヒメマス
 graze	〈家畜が〉『牧草を食う』,草を食う / 〈家畜が〉(草などを)食(は)む《+『on』+『名』》 / 〈家畜〉に『牧草を食べさせる』;〈家畜〉を放牧する / 〈草原〉を牧場に使う / 〈家畜が〉〈生草〉を食う / …をかする / …の皮膚をすりむく / (…を)かすめて通る《+『along』(『by』,『past』)+『名』》 / (…で)こすってすりむく《+『against』+『名』》 / 〈U〉〈C〉かすめて通ること / 〈C〉すりむいた傷
 grazing	〈U〉放牧(家畜が草を食べること) / 〈C〉放牧地,牧草地
@@ -1163,7 +1158,7 @@ green tea	緑茶
 green thumb	園芸の才能(《英》green fingers)
 green-eyed	緑色の目をした / しっと深い
 greenback	米ドル紙幣
-greenbelt, green belt	(都市周辺の)緑地帯
+greenbelt,green belt	(都市周辺の)緑地帯
 greenery	青葉;緑樹
 greenfly	(野菜などにつく)アブラムシ
 greengage	(淡緑色の)西洋スモモ
@@ -1184,9 +1179,7 @@ grenade	手りゅう弾;擲(てき)弾筒の弾;消火弾
 grenadier	擲(てき)弾兵(昔,手りゅう弾を投げる任務をもっていた兵士) / 《Grenadier》《英》近衛(このえ)歩兵第1連隊の兵
 grenadine	グレナディン(ザクロのシロップ)
 grew	growの過去形
-grey	=gray
 greyhound	グレイハウント(大型の猟犬の一種;dog raceに使う)
-greyish	=grayish
 grid	格子(こうし);焼き網 / グリッド(真空管で陽極と陰極との中間に装置する金属の格子) / 高圧送電線網 / (地図などの)碁盤目
 griddle	(食物を焼く)鉄板
 griddlecake	(鉄板(griddle)を焼いた)ホットケーキ
@@ -1196,8 +1189,7 @@ grievance	(…に対する)不平,苦情《+『against』+『名』》
 grieve	(…を)『悲しむ』,嘆く《+『at』(『about,for,over』)+『名』(do『ing』)》 / …を『悲しませる』,悲嘆に暮れさせる
 grievous	人を悲しませる / 悲嘆(悲痛)に満ちた / ひどい,はなはなだしい
 griffin	グリフィン(ギリシア神話でワシの頭と翼をもち,ライオンの胴体をもった怪獣)
-grill	(また『gridiron』)(肉・魚などの)焼き網 / 焼き肉,焼き魚 / =grillroom / 〈肉・魚など〉を焼き網で焼く / 〈容疑者など〉を厳しく尋問する / 〈肉などが〉(火で)焼ける;酷熱に身をさらす
-grille, grill	(門・とびら・窓などの普通装飾のある金属製の)格子(こうし) / (切符売り場・銀行の出納口など)格子口
+grill,grille	(また『gridiron』)(肉・魚などの)焼き網 / 焼き肉,焼き魚 / =grillroom / 〈肉・魚など〉を焼き網で焼く / 〈容疑者など〉を厳しく尋問する / 〈肉などが〉(火で)焼ける;酷熱に身をさらす / (門・とびら・窓などの普通装飾のある金属製の)格子(こうし) / (切符売り場・銀行の出納口など)格子口
 grillroom	グリル(ホテル・クラブなどで肉・魚などをその場で焼いて出すレストラン)
 grim	(顔つき・態度などが)『険しい』,こわい / 『断固とした』,妥協を許さない / 《話》ぞっとする,不快な / 容赦のない,すさまじい
 grimace	しかめつら / (…に)しかめつらをする《+『at』+『名』》

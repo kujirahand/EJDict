@@ -12,11 +12,10 @@ $	dollar[s] ドル記号(通貨単位)
 've	haveの短縮形
 10-4	通信で用いられる『了解』の意を表す語
 @	単価…で / …につき
-A	answer / ampere
+A,a,an	answer / ampere / 〈C〉英語アルファベットの第1字 / 〈U〉(音階の)イ音,イ調 / 〈C〉《米》(学校で成績優秀を表す)A / 不定冠詞。ある(程度)の、一つの、～というもの、～につき、同じ、～のような人、～という名の人、～家の人、～の作品、～のような人、～つきの、一組の…と…、一種の、抽象名詞の具体例・種類・行為など、動詞と同形の名詞に続く名詞、1回の / (次にくる語の発音が母音で始まるときに用いる)不定冠詞,一つの,一組の
 A level	〈U〉(大学入学検定試験の)上級試験 / 〈C〉上級試験科目
 A&M	Agricultural and Mechanical 農工[大学]
 A&R	artists and repertoire レコード会社でアーティストの才能を発掘する部門
-A,a	〈C〉英語アルファベットの第1字 / 〈U〉(音階の)イ音,イ調 / 〈C〉《米》(学校で成績優秀を表す)A
 A-OK.	申し分のない,抜群な
 A-bomb	=atomic bomb
 A-frame	A型フレーム(枠組みが三角形・逆V字型の建造物)
@@ -24,7 +23,7 @@ A-line	Aラインの(衣服の上部が細く裾が広い)
 A-one	第一級の,すぐれた(excellent)
 A.A.	=AA / antiaircraft
 A.B.	=B.A. / Bachelor of Arts 文学士
-A.C.	ラテン語「ante Christum」の略で『紀元前』;ただし「B.C.(Before Christ)」の方が一般的。
+A.C.,AC,ac,a.c.	ラテン語「ante Christum」の略で『紀元前』;ただし「B.C.(Before Christ)」の方が一般的。 / Alternating Current (交流電源) / Air Conditioning (空調) / Account (口座) / ante cibum 食前服用(before meals)
 A.C.L.U.	American Civil Liberties Union 米国自由人権協会
 A.D.	西暦…年
 A.E.F.	American Expeditionary Forces(第一次世界大戦中の)米国海外派遣軍
@@ -47,7 +46,6 @@ AAA	American Automobile Association 米国自動車協会 / antiaircraft artille
 AAM	air-to-air missile 空対空ミサイル
 ABC	〈U〉アルファベット / 〈U〉〈C〉《the ~》(物事の)初歩,入門,いろは《+『of』+『名』》
 ABM	antiballistic missile 対弾道弾ミサイル
-AC,A.C.,ac,a.c.	Alternating Current (交流電源) / Air Conditioning (空調) / Account (口座)
 ACT	American College Testing / Australian Capital Territory
 ACTH	副腎皮質刺激ホルモン[剤]
 AD	西暦…年 / 広告 / 広告の
@@ -61,7 +59,7 @@ AID	artificial insemination by donor 非配偶者間人工受精
 AIH	artificial insemination by husband 配偶者間人工受精
 AK	Alaska
 AL	Alabama
-AM,A.M.	ante meridiem 午前 / amplitude modulation 振幅変調
+AM,A.M.,a.m.	ante meridiem 午前 / amplitude modulation 振幅変調 / 《時間を表す数字の後につける》『午前』(ラテン語ante meridiemの略)
 AMA	American Medical Association 米国医師会
 AMVETS	(第二次世界大戦および朝鮮戦争の)退役軍人 (American Veterans)
 AP	antipersonnel / (またA.P.)Associated Press
@@ -327,10 +325,7 @@ a cappella	楽器の伴奏なしで
 a fortiori	いっそう有力な理由で;なおさら
 a posteriori	(推論が)帰納的に(な);経験的に(な);後天的に(な)
 a priori	(推論が)原因より結果を導いて(導いた);演繹(えんえき)的に(な);先験的に(な);先天的に(な)
-a,an	不定冠詞。ある(程度)の、一つの、～というもの、～につき、同じ、～のような人、～という名の人、～家の人、～の作品、～のような人、～つきの、一組の…と…、一種の、抽象名詞の具体例・種類・行為など、動詞と同形の名詞に続く名詞、1回の
 a.	about / acre[s] / adjective
-a.c.	ante cibum 食前服用(before meals)
-a.m.,A.M.	《時間を表す数字の後につける》『午前』(ラテン語ante meridiemの略)
 a.p.	additional premium 割増保険料 / access point アクセスポイント
 aardvark	ツチブタ(シロアリを主食とするアフリカ産の哺乳動物)
 ab.	Abbreviation 略語 / Antibody 抗体 / Abdomen 腹部
@@ -370,7 +365,7 @@ abed	寝床に(in bed)
 aberrant	正道からはずれた,常軌を逸した;異常な
 aberration	正道からはずれること,非行,異常 / (軽い)精神異常
 abet	(特に悪い事に)…を扇動する,そそのかす《+『名』+『in』+『名』(do『ing』)》
-abettor, abetter	犯罪や悪事を助けたり、けしかけたりする人
+abettor,abetter	犯罪や悪事を助けたり、けしかけたりする人
 abeyance	一時的な中止(停止)
 abhor	…をひどくきらう,嫌悪する
 abhorrence	大きらいなもの;〈U〉(…を)大きらいなこと《+『of』+『名』(doing)》
@@ -432,7 +427,7 @@ abrasion	〈C〉すり傷 / 〈U〉すりむくこと,摩滅
 abrasive	すり減らす,すりむく / 研磨剤(金剛砂・軽石など)
 abreast	並んで,並行して
 abridge	〈本・話など〉を要約する;〈会合・授業など〉を短縮する / 〈権利・活動範囲など〉を制限する
-abridgment, abridgement	〈U〉短縮(縮約)すること / 〈C〉縮約本,抄本
+abridgment,abridgement	〈U〉短縮(縮約)すること / 〈C〉縮約本,抄本
 abroad	『海外へ(で)』,『外国に(で)』 / 《古》戸外へ / 『広く』;(うわさなどが)『広まって』
 abrogate	〈法律・習慣など〉を廃止する,破棄する
 abrogation	廃止,破棄
@@ -454,7 +449,7 @@ absentee voter	不在投票者
 absenteeism	(仕事・学校などの)常習的欠席,欠勤;長期欠席
 absently	放心して
 absentminded	放心した,ぼんやりしている / 忘れっぽい
-absinthe, absinth	ニガヨモギ / アブサン,アブサント(ニガヨモギなどから作られる緑色の強い蒸留酒)
+absinthe,absinth	ニガヨモギ / アブサン,アブサント(ニガヨモギなどから作られる緑色の強い蒸留酒)
 absolute	『まったくの』,完全な(complete) / 『絶対的な力を持った』,絶対の / 確かな,確固とした(certain) / 無条件の,制約のない / (文法で)独立の,単独の
 absolute majority	絶対多数
 absolute pitch	絶対音高(毎秒の震動数によって表す音の高さ) / 絶対音感(音高を聞き分け,歌い分ける能力)
@@ -526,7 +521,7 @@ acceptable	受け入れられる,認められる;人に喜ばれる
 acceptance	〈U〉受け取ること,認めること,受け入れられていること;同意 / 〈U〉(手形の)引受け;〈C〉引受済み手形
 acceptation	(語句の)特定の意味,一般に受け入れられた意味
 accepted	一般に認められた,受け入れられた
-acceptor, accepter	受取人,受諾者 / 手形引受人
+acceptor,accepter	受取人,受諾者 / 手形引受人
 access	〈U〉(人・物・場所への)『接近』《+『to』+『名』》 / 〈C〉(…へ)接近する手段(方法)《+『to』+『名』》 / 〈U〉(…への)接近(入場)の権利(機会)《+『to』+『名』》 / 《an ~》《文》(病気の)突発;(怒り・激情の)爆発《+『of』+『名』》
 accessary	(法律用語)従犯者,犯人隠匿者
 accessibility	近づきやすさ,到達可能性 / (高齢者・障害者に対する)利用しやすさ,アクセシビリティ / (まれに)影響を受けやすいこと,感受性
@@ -574,8 +569,8 @@ accountable	説明責任のある,責任を問える
 accountancy	会計係(計理士)の職務(業務)
 accountant	会計係,会計士,計理士
 accounting	会計,経理 / 会計学
-accouter, accoutre	(人に)特別な装備(服装)をさせる
-accouterments, accoutrements	《複数形》(兵士の)装備(武器と軍服以外の装具)
+accouter,accoutre	(人に)特別な装備(服装)をさせる
+accouterments,accoutrements	《複数形》(兵士の)装備(武器と軍服以外の装具)
 accredit	(人や団体に)信任を与える,認可する,～の責任であると認める
 accredited	一般に認められた;公認の
 accretion	〈U〉(付着・添加による)増大 / 〈C〉付加物,添加物
@@ -598,7 +593,7 @@ accused	告発(告訴)された / (特に)刑事被告人
 accuser	告訴人,原告 / 非難者
 accustom	(…に)〈人・自分・動物〉を『慣らす』,習慣づける《+『名』+『to』+『名』(do『ing』)》
 accustomed	慣れた,〜に慣れる
-ace, Ace	(カード・ドミノ・さいころの)1,エース,Aの札 / (テニスなど球技で)サービスエース / 《話》(何かに)優れている人,ぴか一,エース;名撃墜手 / ぴか一の
+ace,Ace	(カード・ドミノ・さいころの)1,エース,Aの札 / (テニスなど球技で)サービスエース / 《話》(何かに)優れている人,ぴか一,エース;名撃墜手 / ぴか一の
 acerb	《まれ》(味が)すっぱい,苦い,渋い / (ことば・態度が)厳しい,しんらつな
 acerbate	…をすっぱく(苦く)する / …を怒らせる
 acerbity	〈U〉渋味,にがさ / 〈U〉〈C〉辛らつさ
@@ -633,7 +628,7 @@ ack.	acknowledge / acknowledgment
 ackack	《まれ》《通例複数形で》高射砲;対空砲火
 acknowledge	〈人が〉…を『認める』,承認する / 〈手紙・贈物など〉を受け取ったことを知らせる / 〈親切など〉に礼を言う,感謝する
 acknowledger	承認(認知)する人
-acknowledgment, acknowledgement	〈U〉(…を)認めること,認めて感謝すること《+『of』+『名』》 / 〈C〉(手紙・贈物などの)受領の通知 / 〈U〉感謝,〈C〉感謝のしるし(言葉)
+acknowledgment,acknowledgement	〈U〉(…を)認めること,認めて感謝すること《+『of』+『名』》 / 〈C〉(手紙・贈物などの)受領の通知 / 〈U〉感謝,〈C〉感謝のしるし(言葉)
 acme	《the ~》(…の)絶頂,極致(peak)《+『of』+『名』》
 acne	にきび(pimple)
 acolyte	(ローマカトリック教会の)侍祭 / (一般に)助手,補佐役;従者; (儀式での)侍者; 伴僧; 助手; 初心者
@@ -671,7 +666,7 @@ across	《come,go,swimなどの移動を表す動詞と共に》 / (川・道路
 across-the-board	全員に行き渡る(適用される) / (競馬で)どれかに当たるようにかける
 acrostic	折り句(行の初めの文字を並べるとある意味をなすもの)
 acrylic	=acrylic resin / (画家用の)アクリル絵の具
-acrylic fiber, acrylic fibre	アクリル繊維
+acrylic fiber,acrylic fibre	アクリル繊維
 acrylic resin	アクリル樹脂(熱可塑性の透明な樹脂)
 act	『行い』,『行為』 / 《しばしばA-》法令,条令 / 《しばしばA-》(芝居の1つの)『幕』;(演芸などの)出し物の一つ / (見せかけの)お芝居,演技 / 『行動する』,行う / 《様態を表す副詞[句]を伴って》わざとふるまう,見せかける / 〈人・物が〉(…として)動く,役割をはたす《+『as』+『名』》 / 〈薬が〉『作用する』,きく / 舞台に立つ,出演する / 〈…の役〉を『演ずる』;〈劇〉を上演する / …にふさわしくふるまう / …に見せかける,のふりをする
 actin	アクチン(筋肉生成に役立つ純蛋白質の一種)
@@ -774,7 +769,7 @@ adjunctive	付属的な
 adjure	《文》〈人〉に厳命する,請願する;(…するよう)〈人〉に厳命する《+『名』+『to』 do》
 adjust	…を『調節する』;(…に)…を合わせる《+『名』+『to』+『名』(do『ing』)》 / 〈争い・不和〉を調停する / (…に)順応する,適応する《+『to』+『名』》
 adjustable	調節できる,調整できる
-adjuster, adjustor	調整者,調停者 / (保険)精算人 / 調整機
+adjuster,adjustor	調整者,調停者 / (保険)精算人 / 調整機
 adjustment	〈U〉(…の)『調停』,調整,調節《+『of』+『名』》 / 〈C〉調整装置
 adjutant	(陸軍の)副官 / 補助員,助手 / (またadjutant stork, adjutant bird)ハゲコウ(インド・アフリカ産のコウノトリ科の鳥)
 adlib	〈楽譜にないもの〉を即興的に歌う(演奏する),〈台本にないせりふ〉を即興的にしゃべる / 即興的に歌う(演奏する,しゃべる) / 《名詞の前にのみ用いて》即興の,アドリブの / アドリブで,即興で / アドリブ,即興的な演奏(演技,せりふ)
@@ -879,14 +874,14 @@ advisable	勧めることができる,得策の
 advise	〈人〉に〈事〉を『忠告する』,助言する,すすめる / (おもに商取引き用語で)…に通知する,知らせる / (…について)忠告する《+『on』+『名』》 / 《米》(…と)相談する《+『with』+『名』》
 advised	《おもに副詞と共に複合語を作って》熟慮された / 《補語にのみ用いて》(…について)知らされた,情報を得た《+『of』+『名』》
 advisement	熟慮,熟考
-adviser, advisor	忠告者,助言者;顧問
+adviser,advisor	忠告者,助言者;顧問
 advisory	勧告の,忠告の;諮問の
 advocacy	(考え・主義・政策などの)弁護,擁護;唱道
 advocate	〈考え・主義・政策など〉を弁護(擁護)して言う,主唱する / 擁護者,主唱者 / 弁護士
 advt.	advertisement
 adze	(材木をけずる)手おの
 aegis	保護,援助
-aeon,eon	無限に長い時間
+aeon,eon	無限に長い時間 / 非常に長い期間;永遠,永世 / 累代(地質学上の年代区分の最大の単位で,代(era)を二つ以上含む)
 aerate	…を空気にさらす,曝気(ばっき)する / 〈液体〉に空気(特に炭酸ガス)を入れる
 aeration	曝気,空気にさらすこと / 気体(特に炭酸ガス)を入れること
 aerator	通気装置 / (穀物の)煙消毒装置
@@ -901,11 +896,11 @@ aerodrome	《英》=airdrome
 aerodynamic	空気力学の,航空力学の
 aerodynamics	《単数扱い》空気力学,航空力学 / 《複数扱い》航空力学的特性
 aerofoil	=airfoil
-aerogram, aerogramme	航空書簡 / 航空郵便で送られる手紙
+aerogram,aerogramme	航空書簡 / 航空郵便で送られる手紙
 aerology	高層気象学
 aeron.	aeronautics
 aeronaut	軽気球(飛行船)の操縦士(搭乗者)
-aeronautic, aeronautical	航空学の,飛行術の
+aeronautic,aeronautical	航空学の,飛行術の
 aeronautics	航空学,飛行術
 aeroplane	=airplane
 aerosol	エアロゾル(気体中に微粒子が分散した状態)
@@ -988,7 +983,7 @@ afters	《英話》食後のデザート(菓子など)
 aftershave	ひげ剃り後につける化粧水(ローション)
 aftertaste	(口に残る)あと口,あと味 / (特に不快な経験・でき事などの)あと味
 afterthought	後から思いついた考え,付け足しの考え,補足
-afterward, afterwards	『あとで』,以後,その後
+afterward,afterwards	『あとで』,以後,その後
 again	『再び』,もう一度(once more);《否定語とともに用いて》二度と(…しない) / 『また元の所へ』,元のように / さらにそれだけ,…の倍も / 《しばしばthen, and thenに続いて》その上に(besides),さらに(furthermore) / 《しばしばand, and thenに続いて》また一方,ところが
 against	…『に対して』,に逆らって(in opposition to);…に不利に / 《保護を表す動詞と共に》…『から』 / …『にぶつかって』,に向かって / …『にもたれて』,に寄りかかって / (災難・事故・万一の場合など)『に備えて』,を避けるように / …『を背景として』,と対照して / …と交換に,と引き換えに
 agape	(驚き・不信などで)あっけにとられて,唖然(あぜん)として / 《補語にのみ用いて》あっけにとられた,ぽかんとした / (神の)愛;(キリスト教徒間の)兄弟愛
@@ -1046,7 +1041,7 @@ agnosticism	不可知論(人間には神や死後の世界のことについて�
 ago	《期間を表す語[句]の後に用いて》(今から)…『前に』 / 《longの後に用いて》『以前に』
 agog	(期待・好奇心などで)興奮した,待ち構えて,熱望して(eager)《+『with』+『名』》 / 熱望して,興奮して,わくわくして
 agogo	=go-go
-agonize, agonise	苦しみもだえる,苦悶(くもん)する / 必死に努力する / …をもだえさせる,苦悶させる(torture)
+agonize,agonise	苦しみもだえる,苦悶(くもん)する / 必死に努力する / …をもだえさせる,苦悶させる(torture)
 agonized	苦しんでいる,苦悶の,もだえた
 agonizing	苦悶の;悲痛な
 agony	(長く激しい精神的・肉体的な)『苦悶』(くもん),苦痛 / (特別な感情の)激発;突発
@@ -1094,7 +1089,7 @@ air conditioner	[室内]空気調節(冷暖房)装置
 air corridor	航空路(特に国際協定によって設定されたもの)
 air current	気流
 air curtain	エアカーテン(室内の空気を気流の壁によって外気と遮断する装置)
-air defense, air defence	防空
+air defense,air defence	防空
 air force	〈U〉〈C〉空軍 / 《A- F-》米国空軍,英国空軍(正式にはthe United States Air Force, the Royal Air Forceという)
 air freshener	部屋の香水(脱臭剤)
 air gun	空気銃(=air rifle)
@@ -1240,14 +1235,13 @@ alienate	(…から)…を遠ざける,仲たがいさせる《+『名』+『fro
 alienation	遠ざける(ざかる)こと,疎遠,疎外
 alienist	《古》精神病医(特に法廷での証言を専門とする)
 alight	(…から)降りる《+『from』+『名』》 / 燃えて(burning) / (…で)輝いて,明るい(aglow)《+『with』+『名』》
-align,aline	…を一列に並べる,整列させる / (…と)…を提携させる,連合させる《+『名』+『with』+『名』》 / 一列に並ぶ / (…と)提携する《+『with』+『名』》
+align,aline	…を一列に並べる,整列させる / (…と)…を提携させる,連合させる《+『名』+『with』+『名』》 / 一列に並ぶ / (…と)提携する《+『with』+『名』》 / =align
 alignment,alinement	整列 / 提携,連合
 alike	『同じように』,等しく(similarly) / (複数の人・物が)似ている(similar)
 aliment	食物(food);滋養物 / 扶養;扶養料
 alimentary	栄養の;消化の
 alimentary canal	(口から肛門(こうもん)までの)消化器官
 alimony	《the ~》離婚手当,別居手当
-aline	=align
 aliquant	(数が)整除できない,割り切れない
 alit	alightの過去・過去分詞
 alive	『生きている』(living) / 《しばしば最上級の形容詞と共に》現存している / 活動している,有効である(active) / 生き生きした,活発な
@@ -1444,8 +1438,8 @@ ambulant	巡回する,動き回る / (患者が)歩行可能な,外来の
 ambulate	歩き(動き)まわる
 ambulatory	(患者が)歩行できる,外来の / 歩行に適した / 歩き(動き)回る / (遺言など)変更(取り消し)できる / (僧院の)回廊,歩廊
 ambush	〈C〉〈U〉待ち伏せ / 〈C〉待ち伏せ場所(地点) / 〈C〉伏兵,待ち伏せの一隊 / …を待ち伏せる,待ち伏せて襲う
-ameba, amoeba	アメーバ(単細胞動物)
-amebic, amoebic	アメーバ[性]の
+ameba,amoeba	アメーバ(単細胞動物) / =ameba
+amebic,amoebic	アメーバ[性]の / =amebic
 ameliorate	…を改善する / 改まる
 amelioration	改善,改良
 amen	アーメン(ヘブライ語でcertainly(たしかに)の意.ギリシア語,ラテン語を通して英語にはいってきたもので,「そうなってください」(So be it!またはMay it be so!)という意味.キリスト教徒はお祈りや賛美歌のあとにとなえる)
@@ -1482,8 +1476,6 @@ ammunition	〈U〉《集合的に》弾薬
 amnesia	記憶喪失症,健忘症
 amnesty	(おもに政治犯に対する)恩赦,特赦
 amniocentesis	羊水採取(胎児の性別・染色体異常診断のために羊水を調べる方法)
-amoeba	=ameba
-amoebic	=amebic
 amoeboid	アメーバ状の
 amok	狂ったように暴れ回る、手がつけられないほど暴走する / 錯乱状態の,暴走した / (システムが)暴走する / マレー語の「amuk(興奮して暴れる)」に由来
 among	…『の間に』,に囲まれて / 《おもに最上級と共に》…『の中の一つ』(『一人』)『で』,のうちに数えられて / 《分配を表す動詞と共に》…『の間で』,めいめいに / …がいっしょになって,が協力して
@@ -1504,7 +1496,7 @@ amphetamine	アンフェタミン(中枢神経刺激剤)
 amphibian	両生類の / =amphibious / 両生動物(植物) / 水陸両用飛行機(戦車)
 amphibious	水陸両生の / (またamphibian)水陸両用の / (海から陸上の敵に対する)陸海空共同作戦の
 amphibole	角閃石(カルシウム・マグネシウムを含む鉱物)
-amphitheater, amphitheatre	(古代ローマの)円形劇場(中央に設けた闘技場(arena)のまわりにひな壇式の観覧席があった) / 階段席のある部屋;(半円形の)階段教室(lecture theater);(階段教室に似た病院の)手術室(operating theater)
+amphitheater,amphitheatre	(古代ローマの)円形劇場(中央に設けた闘技場(arena)のまわりにひな壇式の観覧席があった) / 階段席のある部屋;(半円形の)階段教室(lecture theater);(階段教室に似た病院の)手術室(operating theater)
 amphora	(古代ローマ・ギリシアの)両取っ手つき壷(つぼ)
 ampicillin	アンピシリン(ペニシリンに似た抗生物質)
 ample	広い,広々とした / 《数えられない名詞・複数名詞の前に用いて》『十分な』(enough),あり余るほどたくさんの(abundant) / ふくよかな,豊満な(full)
@@ -1530,19 +1522,18 @@ amusement park	遊園地(《英》funfair)
 amusing	『おもしろい』,おかしい,楽しい
 amusingly	おもしろく,おかしく
 amylase	アミラーゼ(でんぷん糖化酵素)
-an	(次にくる語の発音が母音で始まるときに用いる)不定冠詞,一つの,一組の
 anabolism	(生物の)同化作用
 anachronism	〈U〉〈C〉時代錯誤 / 〈C〉時代おくれの人(物)
 anachronistic	年代を取り違えた,時代錯誤の / 時代おくれの
 anaconda	アナコンダ(7‐8m以上になる南米産の大ヘビ) / (一般に)大ヘビ
 anadem	(頭に飾る)花輪,花かずら
-anaemia	=anemia
-anaemic	=anemic
+anaemia,anemia	=anemia / 貧血,貧血症
+anaemic,anemic	=anemic / 貧血の,貧血症の
 anaerobe	嫌(けん)気性生物(空気・遊離酸素を必要としない細菌類)
 anaerobic	嫌気性の
-anaesthesia	=anesthesia
-anaesthetic	=anesthetic
-anaesthetist	=anesthetist
+anaesthesia,anesthesia	=anesthesia / 麻酔 / 感覚まひ[症状],無感覚症
+anaesthetic,anesthetic	=anesthetic / 麻酔の;感覚がまひした / 麻酔薬(剤)
+anaesthetist,anesthetist	=anesthetist / 麻酔専門医;(手術の)麻酔担当看護婦
 anagram	〈C〉文字のつづりかえ(lived→devilのように文字を置き換えて新しい語句を作る) / 《複数形で》《単数扱い》文字のつづりかえ遊び
 anal	肛門(こうもん)(anus)の
 analgesia	無痛覚[症]
@@ -1550,18 +1541,17 @@ analgesic	鎮痛の / 鎮痛剤
 analogize	類推する / (…と)類似している《+『with』(『to』)+『名』》 / …を類推する
 analogous	類似の,相似;(…に)類似の《+『to』(『with』)+『名』》
 analogue computer	アナログ計算機(数量を長さ・電圧などにかえて表現する)
-analogue, analog	類似物,相似物
+analogue,analog	類似物,相似物
 analogy	(…間の)類似《+『between』+『名』》,(…との)類似《+『to』(『with』)+『名』》 / (論理・言語などの)類推
 analysand	精神分析を受けている患者
-analyse	=analyze
+analyse,analyze	=analyze / 〈状況など〉を『分析する』,詳細に検討する / 〈物質など〉を(…に)『分析する』,分解する《+『名』+『into』+『名』》;(数学で)…を解析する / 《米》〈人〉を精神分析する(psychoanalyze) / 〈文〉を[文法的に]分解する
 analysis	(内容・状況などの)『分析』,分解;(詳細な)検討 / (化学・物理で)分析;《米》(心理学で)[精神]分析;(数学で)解析
 analyst	(状況などの)分析者,解説者 / (科学・経済・政治の)分析者 / 《米》精神分析家(医)(psychoanalyst)
 analytic geometry	解析幾何学
-analytic, analytical	分析的な,分解的な,解析的
-analyze,analyse	〈状況など〉を『分析する』,詳細に検討する / 〈物質など〉を(…に)『分析する』,分解する《+『名』+『into』+『名』》;(数学で)…を解析する / 《米》〈人〉を精神分析する(psychoanalyze) / 〈文〉を[文法的に]分解する
+analytic,analytical	分析的な,分解的な,解析的
 anapest,anapaest	(英詩の韻律で)弱弱強格(弱音節二つのあとに強音節一つがくる)
 anapestic	(英詩の韻律で)弱弱強格の;(古典詩で)短短長格の
-anarchic, anarchical	無政府の;無政府主義的な,無政府状態の
+anarchic,anarchical	無政府の;無政府主義的な,無政府状態の
 anarchism	無政府主義
 anarchist	無政府主義者(国家権力や強制を否定する政治思想を持つ人)
 anarchistic	無政府主義[者]の;《軽べつして》破壊主義[者]の
@@ -1570,7 +1560,7 @@ anastomosis	(血管・神経の)吻合(ふんごう),接合 / (葉脈の)網状�
 anat.	anatomical / anatomist / anatomy
 anathema	(宗教上の)破門 / 呪(のろ)い;呪われた人(物);ひどくきらわれる人(物)
 anathematize,anathematise	〈人・物〉を呪う / (教会で)…に破門を申し渡す
-anatomic, anatomical	解剖の;解剖学上の;解剖組織上の
+anatomic,anatomical	解剖の;解剖学上の;解剖組織上の
 anatomist	解剖学者
 anatomize	〈動植物〉を解剖する(dissect) / 〈状況など〉を詳細に分析する,分析検討する
 anatomy	〈U〉解剖学,解剖論 / 〈U〉〈C〉(動植物の)解剖 / 〈C〉(動植物の)構造,組織;人体
@@ -1601,23 +1591,18 @@ android	人造人間
 anecdotal	逸話の;逸話の多い
 anecdote	逸話,奇談
 anechoic	(録音室・スタジオなどが)反響のない,無響の
-anemia,anaemia	貧血,貧血症
-anemic,anaemic	貧血の,貧血症の
 anemometer	風力計,風速計
 anemone	アネモネ / =sea anemone
 anent	…について,に関して
 aneroid barometer	アネロイド晴雨[気圧]計(金属の弾性を利用した計器)
-anesthesia,anaesthesia	麻酔 / 感覚まひ[症状],無感覚症
 anesthesiology	麻酔学
-anesthetic,anaesthetic	麻酔の;感覚がまひした / 麻酔薬(剤)
-anesthetist,anaesthetist	麻酔専門医;(手術の)麻酔担当看護婦
 anesthetize,anaesthetise	…に麻酔をかける
 aneurysm	動脈瘤(りゅう)
 anew	《文》新たに,再び
 angel	『天使』 / (美しさ・親切さなどで)天使のような人 / 守護神,守り神
 angel food cake	エンゼルケーキ(卵の白身を原料とする一種のカステラ)
 angelfish	エンゼルフィッシュ(観賞用熱帯魚の一種)
-angelic, angelical	天使の;天使のような
+angelic,angelical	天使の;天使のような
 angelica	アンゼリカ(芳香ある植物;茎が食用で根は薬用) / 《『A-』》米国カリフォルニア産白ぶどう酒
 anger	『怒り』,立腹 / …をおこらせる(make angry) / おこる(become angry)
 angina	アンギナ(のどの炎症に関する諸病気) / =angina pectoris
@@ -1710,7 +1695,7 @@ anointment	(教会の聖式での)塗油;(塗油による)聖別[式]
 anomalous	変則的な(irregular) / 異常な(abnormal)
 anomalous verb	変則動詞(be,have,do,shall,will,mayなど不規則変化をする動詞・助動詞)
 anomaly	〈U〉〈C〉変則,例外;異常 / 〈C〉変則的な事態,異例な人(物)
-anomie, anomy	(社会の価値体系が崩壊した)無秩序状態
+anomie,anomy	(社会の価値体系が崩壊した)無秩序状態
 anon	《古・詩》ほどなく,やがて / いつか,そのうちに / すぐさま
 anon.	anonymous / anonymously
 anonymity	匿名(とくめい),無名
@@ -1837,7 +1822,7 @@ antiseptic	殺菌の,消毒の;殺菌した,消毒した / 防腐剤
 antiserum	抗血清(抗毒(免疫)素・凝集素のような抗体を含む血清)
 antisocial	社交ぎらいの / 社会に反する,反社会的な / わがままな
 antithesis	〈U〉(…と)正反対,対照《+『of(to)』+『名』》 / 〈C〉(…と)正反対の事(物),対立物《+『of』+『名』》 / (修辞学で)〈U〉対照法;〈C〉対句(意味の相対する句)
-antithetic, antithetical	対照の / 正反対の
+antithetic,antithetical	対照の / 正反対の
 antitoxin	〈C〉抗毒素 / 〈U〉抗毒素血清
 antitrades	反対貿易風
 antitrust	トラスト反対の,独占禁止の
@@ -1932,8 +1917,7 @@ apothegm	警句,寸言
 apothem	辺心距離(正多角形の中心点から一辺までの垂線距離)
 apotheosis	人を神としてあがめること(行為),神格化 / 《文》理想的なもの(人)
 app.	apparatus / appendix / apprentice
-appal	=appall
-appall,appal	《しばしば受動態で》…をぞっとさせる,の肝をつぶす
+appal,appall	=appall / 《しばしば受動態で》…をぞっとさせる,の肝をつぶす
 appalling	ぞっとするような,恐ろしい / 《話》ひどい
 appanage	《文》(生まれ・身分・地位に付随する)財産,特権,役得 / 《文》特性,属性 / 《古》(王子・王女に与えられる)領地,扶持(ふち)
 apparat	旧ソ連の政治機構
@@ -2081,9 +2065,9 @@ arc lamp(light)	アーク灯
 arcade	拱廊(きょうろう)(建物の側面につけた廊下状の通路) / アーケード(両側に商店が並ぶ屋根つき街路)
 arcane	神秘的な,不可思議な
 arch	(建物の)『アーチ』,迫持(せりもち) / アーチ型の記念碑,弓形門 / 『弓形のもの』 / (足の)土踏まず / …を弓形にする / …にアーチをかける / 弓形になる,弓状に伸びる / 《名詞の前にのみ用いて》おもな,主要な(chief) / (おもに女・子供が)ずるそうな,いたずらそうな(mischievous)
-archaeological, archeological	孝古学の,考古学的な
-archaeologist, archeologist	考古学者
-archaeology, archeology	考古学
+archaeological,archeological	孝古学の,考古学的な / =archaeological
+archaeologist,archeologist	考古学者 / =archaeologist
+archaeology,archeology	考古学 / =archaeology
 archaeopteryx,archeopteryx	始祖鳥(絶滅した鳥類の祖先)
 archaic	(言葉が)今は一般に用いられない,古風な,すたれた / 古代の
 archaism	古語,古風な表現 / 〈U〉古文体,擬古体
@@ -2096,9 +2080,6 @@ archdiocese	archbishopの管区
 archduke	大公,(特に)旧オーストリア国皇子
 arched	アーチ形の,弓形の / アーチのある
 archenemy	大敵
-archeological	=archaeological
-archeologist	=archaeologist
-archeology	=archaeology
 archer	〈C〉(弓の)射手,弓術家 / 〈U〉《A-》射手(いて)座
 archery	〈U〉アーチェリー,弓術 / 〈C〉(弓の)射手隊
 archetypal	原型の,典型の
@@ -2179,14 +2160,13 @@ armhole	そでぐり(そでを付けるための穴)
 armistice	(一定期間の)休戦,停戦
 armlet	腕輪,腕飾り(手首でなく腕上膊(じょうはく)部にはめる) / 小さな入り江
 armor plate	(軍艦・戦車などの)装甲用鋼板,装甲
-armor,armour	『よろい』,よろいかぶと / (軍艦・戦車などの)装甲,装甲用鋼板 / (うろこ・殻などの)保護器官 / …によろい[かぶと]をつける,装甲する
-armor-clad, armour-clad	装甲したよろいに身を固めた
+armor,armour	『よろい』,よろいかぶと / (軍艦・戦車などの)装甲,装甲用鋼板 / (うろこ・殻などの)保護器官 / …によろい[かぶと]をつける,装甲する / 《英》=armor
+armor-clad,armour-clad	装甲したよろいに身を固めた
 armored car	(軍用の)装甲車
 armored,armoured	武装した,装甲の
 armorer,armourer	(昔の)武具師;(今の)兵器工 / 兵器係,武器管理係
 armorial	紋章の
 armory	兵器庫 / 《米》造兵廠(しょう),兵器工場 / (特に予備役・州軍の)部隊本部
-armour	《英》=armor
 armpit	わきの下《形容詞的に》『armpit hair』 / わき毛
 armrest	(いすなどの)ひじ掛け
 arms	兵器, 武器, 火器
@@ -2276,7 +2256,7 @@ as	(…と)『同じくらい』,『同様に』 / 《比較》『…ほど』,�
 asbestos	(耐火・断熱用の)石綿
 ascend	『登る』,『上る』,上昇する / 〈地位・声の調子などが〉高くなる,上がる / …に『登る』,を『上る』 / 〈王位など〉につく,を継ぐ
 ascendancy,ascendency	(…より)優勢,優位,(…に対する)主導権《+『over』+『名』》
-ascendant, ascendent	上昇する / 優勢な / 優勢,優位
+ascendant,ascendent	上昇する / 優勢な / 優勢,優位
 ascension	上昇 / 《the A-》キリストの昇天
 ascent	上昇,登ること / (地位・名声などの)(…への)向上,昇進《+『to』+『名』》 / 登り,上り道(坂)
 ascertain	〈事実など〉を『確かめる』,つきとめる
@@ -2423,7 +2403,7 @@ astronaut	宇宙飛行士
 astronautic,astronautical	宇宙飛行の;宇宙飛行士の
 astronautics	宇宙航法,宇宙飛行学
 astronomer	天文学者
-astronomic, astronomical	天文学の
+astronomic,astronomical	天文学の
 astronomical unit	天文単位(天体間の距離を測る長さの単位);地球と太陽の間の平均距離
 astronomy	『天文学』,星学
 astrophysical	天体物理学の
@@ -2432,7 +2412,7 @@ astrophysics	天体物理学
 astute	機敏な;こうかつな,抜け目のない(shrewd)
 asunder	ばらばらに / 離れて(apart);離れ離れに
 asylum	(孤児・盲人・狂人などの)保護収容所,養育院;〈U〉避難,保護
-asymmetric, asymmetrical	非対称的な,不均整の
+asymmetric,asymmetrical	非対称的な,不均整の
 asymptote	(数学で)漸近線
 at	《場所・位置のある一点》『…で』,『…に』 / 《時間・年齢・目盛りなどの一点》『…に』,『…で』 / 『…の最中で』,に出席して / 『…の状態に』(『で』) / 『…を目指して』,に向かって / 《移動の経路》…を通って,…から / 《動作・感情などの原因・理由・動機》『…によって』,…を見て(聞いて,知って) / 《運動・動作の方法・様態》…で,…のやり方で / 《数量・割合・率》…で,…に / 《能力・性質などの存在場所》…が,…の点で
 at home	(特に午後に行われる)家庭への気軽な招待
@@ -2580,7 +2560,7 @@ august	威厳のある,堂々とした / 身分の高い,尊い
 auk	ウミスズメ科の鳥(ウミガラス,ウミスズメなど)
 auld langsyne	《スコットランド》なつかしい昔(スコットランド詩人Robert Burnsの詩の題名にもなっている;日本の「ほたるの光」はこの歌曲のメロディー)
 aunt	『おば』 / おばさん(年長の婦人に対する敬称)
-auntie, aunty	おばちゃん
+auntie,aunty	おばちゃん
 aura	(人・物がかもし出す)独持の雰囲気
 aural	耳の;聴覚の
 aureate	金色の / さん然と輝く,華麗な
@@ -2623,7 +2603,7 @@ auto	《米話》=automobile
 auto-changer	オートチェンジ(レコードの自動交換演奏装置)
 autobahn	ドイツの高速道路
 autobiographer	自叙伝作者
-autobiographic, autobiographical	自叙伝[ふう]の
+autobiographic,autobiographical	自叙伝[ふう]の
 autobiography	自叙伝,自伝
 autochthonous	(植物などが)土地原産の,土着の
 autoclave	加圧蒸気滅菌装置(医療・工業用)
@@ -2635,7 +2615,7 @@ autoeroticism	自己発情(自慰などをすること)
 autogiro,autogyro	オートジャイロ(上昇用の水平回転翼と前進飛行のプロペラを持つ航空機)
 autograph	自筆の署名,(人の)サイン / 自筆の手紙(原稿) / 自筆の / 署名のはいっている / 〈本など〉に署名する,サインする / …を自筆(肉筆)で書く
 autograph book	サイン帳,署名帳
-autographic, autographical	自筆の
+autographic,autographical	自筆の
 autohypnosis	自己催眠[状態]
 autointoxication	自家中毒
 automat	自動販売式食堂
@@ -2738,7 +2718,7 @@ awl	(靴屋などの)突きぎり
 awning	(入り口・窓・甲板上のカンバス製の)日よけ,雨おおい
 awoke	awakeの過去・過去分詞
 awry	曲がって,ゆがんで,ねじれて / (目的・期待から)それて,まちがって / 曲がった;それた / まちがった,誤った
-ax, axe	『おの』,まさかり
+ax,axe	『おの』,まさかり
 axes	ax, axeの複数形 / axisの複数形
 axial	軸の,軸をなす / 軸上に位置した
 axiom	自明の理,原理;(数学の)公理;格言
@@ -2754,4 +2734,3 @@ az.	azimuth
 azalea	ツツジ
 azimuth	方位角,方位《略》『az.』
 azure	空色の;青空の(sky-blue) / 空色;《詩》青空,天空(sky)
-

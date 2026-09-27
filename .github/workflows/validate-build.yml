@@ -1,0 +1,45 @@
+name: Validate and build dictionary
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          extensions: pdo_sqlite, sqlite3
+      - name: Install build tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y just sqlite3 zip
+      - name: Validate source data
+        run: just check
+      - name: Clean output directory
+        run: just clean
+      - name: Build release artifacts
+        run: just build
+      - name: Verify generated artifacts
+        run: |
+          test -s release/ejdict-hand-utf8.txt
+          test -s release/ejdict.json
+          test -s release/ejdict.sqlite3
+          python3 -m json.tool release/ejdict.json >/dev/null
+          sqlite3 release/ejdict.sqlite3 'PRAGMA integrity_check;' | grep -qx ok
+      - name: Package release artifacts
+        run: just makezip
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ejdict-release-artifacts
+          path: |
+            release/
+            *.zip

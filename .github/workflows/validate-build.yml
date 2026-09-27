@@ -26,9 +26,9 @@ jobs:
         run: |
           php tools/check_data.php
           python3 tools/check_brackets.py
-      - name: Check duplicate words (non-blocking)
+      - name: Check duplicate words
         run: |
-          php tools/check_double.php || echo "::warning::Duplicate words found in src/*.txt. This is a pre-existing data issue tracked separately and does not fail this workflow."
+          php tools/check_double.php
       - name: Clean output directory
         run: just clean
       - name: Build release artifacts

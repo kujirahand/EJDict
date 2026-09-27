@@ -1,7 +1,6 @@
-S	sulfurの化学記号 / 《略》South[ern]
+S,s	sulfurの化学記号 / 《略》South[ern] / 英語アルファベットの第19字 / S字形[のもの]
 S&L	savings and loan[association]貯蓄貸付[組合]
 S&M	sadist and masochist
-S,s	英語アルファベットの第19字 / S字形[のもの]
 S.	Saturday / September / Sunday
 S.A.	Salvation Army 救世軍 / South America / South Africa
 S.Am.	South America; South American
@@ -9,7 +8,7 @@ S.B.	Bachelor of Science理学士
 S.C.,SC	South Carolina
 S.D.,SD,S.Dak.	South Dakota
 S.L.	salvage loss
-S.O.B., s.o.b.	son of a bitch
+S.O.B.,s.o.b.	son of a bitch
 S.P.C.A.	Society for the Prevention of Cruelty to Animals 動物虐待防止協会
 S.P.C.C.	Society for the Prevention of Cruelty to Children 児童虐待防止協会
 S.T.D.	Sacra Theologize Doctor(ラテン語)神学博士(=Doctor of Sacred Theology)
@@ -88,7 +87,7 @@ Saturday-night Special	安くて入手しやすい小口径短銃 = Saturday nig
 Saturn	サトゥルヌス(ローマ神話の農業の神;ギリシア神話のCronus(クロノス)にあたる) / 〈U〉土星
 Saudi Arabia	サウジアラビア(中央アラビアの王国;首都はRiyadh)
 Saul	サウル(旧約聖書でイスラエル初代の王;新約聖書で使従パウロのもとの名)
-Sauterne, Sauternes	ソーテルヌ
+Sauterne,Sauternes	ソーテルヌ
 Saxon	〈C〉サクソン人;《the Saxons》サクソン族(アングロ族(the Angles)などと共に5‐6世紀に英国を征服したゲルマン民族) / 〈C〉(現代ドイツの)ザクセン地方(Saxony)の住民 / 〈U〉サクソン語 / サクソン(アングロサクソン)人(語)の / ザクセン地方の
 Sb	stibium(=antimony)の化学記号
 Sc	scandiumの化学記号
@@ -123,7 +122,7 @@ Scottie	=Scotch terrier
 Scottish	《the ~》《集合的に》スコットランド人 / スコットランド方言 / 『スコットランドの』;スコットランド人(方言)の
 Scottish terrier	=Scotch terrier
 Script.	Scriptural / Scripture
-Scrooge, scrooge	意地悪なけちん坊[DickensのA Christmas Carolの主人公Ebenezer Scroogeから]
+Scrooge,scrooge	意地悪なけちん坊[DickensのA Christmas Carolの主人公Ebenezer Scroogeから]
 Scylla	スキュラ(ギリシア神話でMessina海峡の洞窟に住む6頭12足の怪物;海峡の反対側には大渦巻のCharybdis があり,Charybdisから溺死をまぬがれた水夫たちは,今度はScyllaの餌食になったという)
 Se	seleniumの化学記号
 Sea lab	シーラブ,海底実験室
@@ -294,10 +293,9 @@ Stuart	(また Stewart)英国の王室の名
 Stygian	(ギリシア神話で)三途(さんず)の川(Styx)の,地獄の;地獄のような / 《文》暗い,陰うつな
 Styrofoam	発泡スチロール(合成樹脂の一種;商標名)
 Styx	(ギリシア神話で)三途(さんず)の川
-Succoth, Sukkoth	仮庵の祭(秋に収穫を祝うユダヤ教の祭)
+Succoth,Sukkoth	仮庵の祭(秋に収穫を祝うユダヤ教の祭) / =Succoth, Sukkoth
 Sudan	アフリカ北東部の共和国;首都Khartoum / アフリカのサハラ砂ばくの南部地方名
 Suez Canal	スエズ運河(エジプト北東部にあって地中海と紅海とを結ぶ運河)
-Sukkoth	=Succoth, Sukkoth
 Sumatra	スマトラ(マレー群島第2の大島)
 Sumerian	〈C〉シュメール人 / 〈U〉シュメール語 / シュメール(語)の
 Sun.	Sunday
@@ -339,7 +337,7 @@ sabbatarian	安息日厳守[主義]者 / 安息日厳守の
 sabbatical	〈C〉サバティカル休暇(長期有給休暇) / {形}長期休暇の
 sabbatical year	安息年(7年目ごとにイスラエル人が耕作を休んだ年)・研究休暇,サバティカル 《研究や旅行のため本来 7 年ごとに大学教授などに与えられる 1 年または半年の有給休暇》
 saber saw	携帯用電気のこぎり(刃が往復運動をする)
-saber,sabre	〈U〉(騎兵の)軍刀,サーベル(通例片刃で,湾曲している) / 〈C〉フェンシング用剣(両刃である) / 〈U〉サーベル術 / …をサーベルで切る
+saber,sabre	〈U〉(騎兵の)軍刀,サーベル(通例片刃で,湾曲している) / 〈C〉フェンシング用剣(両刃である) / 〈U〉サーベル術 / …をサーベルで切る / =saber
 saber-toothed tiger	剣歯トラ(ネコ科の哺乳動物。8000年くらい前に絶滅。今のライオンと同じくらいの大きさで、上顎の犬歯が牙のように長く発達していた) サーベルタイガー,スミロドン
 saberrattling,sabrerattling	サーベルをガチャつかせること,武力の誇示 =saber-rattling sabre-rattling
 sable	〈C〉クロテン(北ヨーロッパ・アジア産);〈U〉その毛皮 / 〈U〉黒 / 《しばしば複数形で》喪服 / (紋章で)黒色の / 《詩》黒い,暗黒の
@@ -347,7 +345,6 @@ sabot	サボ(フランス・オランダなどで農夫などがはいた木靴,
 sabotage	(反乱分子や敵側による)破壊(妨害)行為;(争議中の労働者による)生産妨害 / 〈反乱分子・敵側が〉…を破壊する,妨害する;〈労働者が〉…の生産を妨害する
 saboteur	破壊(妨害)行為をする人
 sabra	イスラエル生まれのイスラエル人
-sabre	=saber
 sac	小袋,のう(動植物の内部にあり,特に液を含んだもの)
 saccharin	サッカリン(砂糖の500倍の甘さでカロリーのない甘味剤)
 saccharine	糖分を含む,砂糖の(ような)・(言葉・態度などが)甘ったるい・=saccharin
@@ -449,7 +446,7 @@ sake	『ため』;利益;理由,目的
 sal soda	炭酸ソーダ;洗たくソーダ (結晶)ソーダ
 sal volatile	炭酸アンモニウム;アンモニア水(昔の気付け薬)
 salaam	〈U〉サラーム(「平和」を意味するイスラム教徒のあいさつ) / 〈C〉額手(ぬかで)礼(イスラム教徒の体をかがめ右手を額に当てる敬礼) / 額手礼をする
-salable, saleable	売ることができる,売るのに適した
+salable,saleable	売ることができる,売るのに適した / =salable
 salacious	(人が)好色の;(本・絵・言葉などが)わいせつな
 salacity	好色,わいせつ
 salad	〈U〉〈C〉『サラダ』 / 〈U〉(レタスなどの)サラダ菜
@@ -460,7 +457,6 @@ salaried	(定期的に)給料を受ける / (地位などが)有給の
 salary	『給料』・俸給(を与える、払う)
 sale	〈U〉〈C〉(…の)『販売』,売却,売れ行き,需要《+『of』(『for』)+『名』》 / 〈C〉『特売』,安売り / 《複数形で》販売[の仕事];売り上げ[高]
 sale of work	手作り品を売る慈善バザー
-saleable	=salable
 saleroom	=salesroom
 sales resistance	(巧妙なセールスマンに対する)売り込みお断り,購買拒否
 sales slip	売上伝票
@@ -671,7 +667,7 @@ savage	(人・動物・行為などが)『残忍な』,どう猛な / 『野蛮�
 savagely	残酷に;野蛮に
 savageness	残忍;野蛮,未開
 savagery	〈U〉野蛮(未開)状態 / 〈U〉残忍,凶暴;〈C〉《複数形で》残酷な行為
-savanna, savannah	(亜熱帯地方の)大草原,サバンナ
+savanna,savannah	(亜熱帯地方の)大草原,サバンナ
 savant	大学者,博学者
 save	(危害・損失・危機などから)を『救う』,救援する《+『名』+『from』+『名』》 / 〈金など〉を『残しておく』,蓄える / …を『節約する』,省く / …を『安全』(『無傷』)『に保つ』,保護する / (神が)…を罪から救う / (…のために)貯金する《+『up for』+『名』》 / (…を)節約する《+『on』+『名』》 / (サッカー・ホッケーなどで)敵の得点を妨げること / …を除いて
 saveloy	(豪州)乾製ソーセージ,サビロイ
@@ -682,11 +678,8 @@ savings bank	貯蓄銀行,貯金箱
 savings certificate	定期預金証書
 savior,saviour	〈C〉救助者,救済者 / 〈U〉《the(our) S-》救い主キリスト(Christ)
 savoir-faire	〈U〉機転のきくこと,手腕 = savoirfaire
-savor,savour	《時にa ~》(固有の)味,かおり / おもしろみ,妙味 / 《時にa ~》(…を)におわせるもの,(…の)ほんの少し,気味《+『of』+『名』》 / …の味(かおり)を楽しんで味わう,を賞味する / …を大いに喜ぶ(楽しむ) / 〈食べ物〉に味付けをする / 《savor of+名》(…の)味(かおり)がする,気味がある
-savory	セイバリー(シソ科の植物で料理に用いる)
-savory,savoury	味のよい,おいしい;かおりのよい / 《英》(料理などが)塩味の,ピリッとした / 《話》(道徳的に)好ましい / 食後(食前)に出る辛口の料理
-savour	=savor
-savoury	=savory
+savor,savour	《時にa ~》(固有の)味,かおり / おもしろみ,妙味 / 《時にa ~》(…を)におわせるもの,(…の)ほんの少し,気味《+『of』+『名』》 / …の味(かおり)を楽しんで味わう,を賞味する / …を大いに喜ぶ(楽しむ) / 〈食べ物〉に味付けをする / 《savor of+名》(…の)味(かおり)がする,気味がある / =savor
+savory,savoury	セイバリー(シソ科の植物で料理に用いる) / 味のよい,おいしい;かおりのよい / 《英》(料理などが)塩味の,ピリッとした / 《話》(道徳的に)好ましい / 食後(食前)に出る辛口の料理 / =savory
 savoy	チリメンタマナ(キャベツの一変種)
 savvy	知る,分かる(understand) / もの分かり,飲み込み
 saw	seeの過去 / 『のこぎり』 / …を『のこぎりでひく』(切る) / (…に)〈ある形・模様など〉をのこぎりでひいて作る《+『名』+『in』+『名』》 / (…に)のこぎりを使う《+『at』+『名』》;のこぎりをひくように動かす / 《副詞を伴って》〈木などが〉のこぎりでひける(切れる) / ことわざ(saying)
@@ -795,11 +788,10 @@ scenic	景色の,風景の;景色のよい / 舞台装置(効果)の
 scenically	風光明美に / 舞台的に
 scent	〈U〉〈C〉『におい』(smell),かおり,香気 / 〈C〉《単数形で》(動物・人が残す)『臭跡』 / 〈C〉《単数形で》(人・物を見つけ出す)経路,方法,手がかり / 〈U〉《しばしばA~》嗅覚 / 〈U〉《おもに英》香水 / 〈猟犬などが〉…をかぎつける《+『out』+『名,』+『名』+『out』》 / 〈人が〉…をかぎつける,感づく;〈…だ〉と感づく《+『that節』》 / 《通例受動態で》…に香水をつける;(香水などで)…をにおわせる,よいかおりにする《+『with』+『名』》
 scentless	かおりのない
-scepter,sceptre	(王権の象徴として王(女王)が手に持つ)笏(しゃく) / 《the~》王位,王権 / 幽霊,お化け / こわいもの,恐ろしいもの
+scepter,sceptre	(王権の象徴として王(女王)が手に持つ)笏(しゃく) / 《the~》王位,王権 / 幽霊,お化け / こわいもの,恐ろしいもの / =scepter
 sceptic	=skeptic
 sceptical	=skeptical
 scepticism	=skepticism
-sceptre	=scepter
 schedule	《おもに米》(列車などの)『時間表』,時刻表;(授業などの)時間割り / (時間によって定めた)『予定』,計画,スケジュール / (料金などの)一覧表,細目表 / …のスケジュール(時間表,一覧表)を作る;…をスケジュールに入れる / 《しばしば受動態で》…を予定する
 schema	図式,図解;あらまし,概要
 schematic	概要の;図解の,図表の
@@ -922,7 +914,7 @@ scourer	ナイロンたわし
 scourge	(懲罰用の)むち / (病気・戦争など)苦難(災難)の原因 / …をむち打つ / 《文》…をきびしく罰する / 〈人〉を苦しめる;〈国など〉を荒らす
 scouring	磨くための / 磨くこと
 scout	『斥候』(せっこう),偵察(ていさつ)機,偵察艦 / (また 『talent scout』)(スポーツ・芸能関係などの新人を捜す)スカウト / 《おもに米》ボーイ(ガール)スカウト / 『偵察する』 / (…を)『捜す』,捜し求める《+『for』+『名』》 / …を偵察する / …を偵察して突き止める《+『out』+『名,』+『名』+『out』》 / 〈申し出・意見など〉を軽べつしてはねつける,鼻であしらう
-scouting, Scouting	偵察(ていさつ)[活動];ボーイ(ガール)スカウトの活動
+scouting,Scouting	偵察(ていさつ)[活動];ボーイ(ガール)スカウトの活動
 scoutmaster	ボーイ(ガール)スカウトの隊長(大人がなる)
 scow	(泥・石炭などをのせ船で押して運搬する)平底船,スカウ
 scowl	顔をしかめる,怒った(不きげんな)顔をする;(…を)にらむ《+『at』(『on』)+『名』》 / …を顔をしかめて表す(言う) / しかめっつら,仏頂づら
@@ -1059,7 +1051,7 @@ seacoast	海岸,海辺
 seadog	《おどけて》年とった水夫,老練な水夫
 seafarer	船乗り
 seafaring	海と深くかかわる / 海に生きる,船乗りの / (またseagoing)海上旅行の / 船乗り業 / 海上旅行
-seafood, sea food	海産物(魚類・貝類など)
+seafood,sea food	海産物(魚類・貝類など)
 seafront	海岸区域;海岸通り
 seagirt	海に囲まれた
 seagoing	(またocean-going)遠洋航海用の / =seafaring
@@ -1095,7 +1087,7 @@ searching	油断のない,注意深い,鋭い
 searchlight	〈C〉サーチライト, 探照灯 / 〈U〉探照灯の光
 searing	焦げつく[ような] / 《話》情事に身を焦がす
 seascape	海の景色 / 海の絵(写真)
-seashell, sea shell	(海辺の)貝殻,貝
+seashell,sea shell	(海辺の)貝殻,貝
 seashore	『海岸』,海辺
 seasick	船に酔った
 seasickness	船酔い
@@ -1154,8 +1146,7 @@ secondary modern	モダンスクール,新中等学校(1944年に設置;進学�
 secondary school	『中等学校』(小学校と大学の間の学校;米国では7‐12年生の学校)
 secondary sex characteristic	二次性徴
 seconder	(特に動議の)賛成者,支持者
-secondhand	(時計の)秒針
-secondhand, second-hand	『中古の』,使い古した / (情報・学説・知識など)また聞きの,借りものの,受け売りの / 《名詞の前にのみ用いて》(店・商売が)古物専門の,中古専門の / 中古で / また聞きで,間接的に
+secondhand,second-hand	(時計の)秒針 / 『中古の』,使い古した / (情報・学説・知識など)また聞きの,借りものの,受け売りの / 《名詞の前にのみ用いて》(店・商売が)古物専門の,中古専門の / 中古で / また聞きで,間接的に
 secondly	第二に,次に(in the second place)
 seconds	(食事の)お代わり(second helping)・欠陥のある格安の衣料
 secrecy	『秘密』[の状態] / 『秘密を守ること』,秘密厳守
@@ -1290,7 +1281,7 @@ self-assertive	自己主張する,出しゃばりの
 self-assurance	自信
 self-assured	自信のある
 self-centered,self-centred	自己中心の,自分のことしか考えない(selfish)
-self-colored, self-coloured	単色の,一色の;自然色の
+self-colored,self-coloured	単色の,一色の;自然色の
 self-command	自制[心]
 self-complacent	自己満足の,ひとりよがりの
 self-confessed	自認する,自称の
@@ -1302,7 +1293,7 @@ self-contradictory	自己矛盾の
 self-control	自制,自制心
 self-controlled	自制力のある
 self-defeating	自滅的な
-self-defense, self-defence	自衛,自己防衛,正当防衛 = self defense = self defence
+self-defense,self-defence	自衛,自己防衛,正当防衛 = self defense = self defence
 self-denial	(他人のために)我慢すること,自己犠牲;自制,禁欲
 self-denying	自制の,克己の;無私の,献身的な
 self-destruct	自滅する = selfdestruct
@@ -1366,13 +1357,13 @@ seller	売る人,売り手 / 《good,bad,poorなどの形容詞と共に》売�
 sellers' market	売り手市場(商品不足のため売り手に有利な市場)
 selling point	セールスポイント(商品販売のポイントとなる点)
 sellout	売り切れ;売り払い / 入場券売り切れの催し物 / 裏切り
-selvage, selvedge	(織物の)耳
+selvage,selvedge	(織物の)耳
 selves	selfの複数形
 semantic	(言語の)意味に関する;意味論の
 semantics	意味論(言語の意味に関する学問)
 semaphore	〈C〉(鉄道などの)[腕木]信号機 / 〈U〉手旗信号 / (信号機・手旗などで)…に信号を送る,合図する / (信号機・手旗などで)信号を送る,合図する
 semblance	(…の)類似,似姿《+『of』+『名』》・(しばしば真実を偽った)外見,見せかけ
-semeiology	=semiology 記号学
+semeiology,semiology	=semiology 記号学 / 記号学 / 記号言語
 semen	精液
 semester	(米国・ドイツなどの大学の二学期制の)一学期,前(後)期(通例15‐18週)
 semiannual	半年ごとの,年2回の
@@ -1392,7 +1383,6 @@ seminarian	(体にカトリックの)神学校の学生(神学生)
 seminarist	〈C〉神学校の学生
 seminary	(聖職者を養成する)神学校 / 《古》(high school以上の)学校,(特に女子の)専門学校
 semiofficial	半官半民の
-semiology, semeiology	記号学 / 記号言語
 semipermeable	(膜などが)半透性の
 semiprecious	準宝石の
 semiprivate	(病室など2,3人で共有の)準個室の,半私用の
@@ -1486,9 +1476,8 @@ septicemia	=blood poisoning
 septuagenarian	70歳[代]の人 / 70歳[代]の
 septum	(動・植物体の)隔膜,隔壁
 septuple	7倍の,7重の / …を7倍にする
-sepulcher,sepulchre	墓地,墓
+sepulcher,sepulchre	墓地,墓 / =sepulcher
 sepulchral	墓の / 埋葬の / 墓のような,陰気な
-sepulchre	=sepulcher
 seq.	sequel / sequens(ラテン語)下記の[もの](=the following [one])
 seqq.	sequentia(ラテン語)下記の[もの](=the following [ones])
 sequel	(小説・映画などの)続き,続編 / 結果
@@ -1646,7 +1635,7 @@ sexuality	(両性の)性的特質 / 性欲,性的関心
 sexy	性に関する;セクシーな,性的魅力のある
 sf,SF	science fiction 空想科学小説
 sforzando	スフォルツァンド,強音 / (音楽で)強音の,力を込めた / 強音に,力を込めて
-sh,shh,ssh	シッ,静かに
+sh,shh,ssh	シッ,静かに / =sh
 sh.	Share [of stock] / sheet / shilling[s]
 shabbily	みすぼらしく;卑しく
 shabbiness	みすぼらしさ,卑劣さ
@@ -1772,14 +1761,14 @@ sheet anchor	(船の)予備アンカー / 最後のよりどころ,頼みの綱(
 sheet lightning	幕状電光(雲に反射して空全体が光る稲光)
 sheet music	(とじてない)一枚刷りの楽譜
 sheeting	シーツ地 / 板金
-sheik, sheikh	(アラビアの)家長,族長 / イスラム教の指導者
+sheik,sheikh	(アラビアの)家長,族長 / イスラム教の指導者
 sheikdom,sheikhdom	アラブ族長の支配地(管轄地)
 sheila	(オーストラリア)若い女,少女(girl) 一般的な女性名(Sheila:語源はラテン語で盲目を意味するCecilia)に由来する
 shekel	〈C〉(ヘブライ人の)シケル銀貨 / 《複数形で》《俗》金,現なま
 shelf	『たな』 / (がけの)岩だな;(海・川の)砂州,岩礁
 shelf life	(在庫商品の)貯蔵寿命
 shell	『貝がら』,貝;(甲虫・卵などの)堅い殻(から),(カメなどの)こうら / (種子・果実などの)『堅い外皮』,さや / 殻に似た物;建物の外郭,骨組 / 《比喩(ひゆ)的に》(心を閉ざした)殻,打ち解けない態度 / 砲弾;《米》薬きょう / シェル(一人または二,三人でこぐ競漕用ボート) / 〈貝など〉の殻を取る,〈豆〉のさやを取る / …に弾丸(砲弾)を浴びせる,を砲撃するる
-shellac, shellack	セラック(ワニスの原料);セラックニス / …にセラックニスを塗る / 《米》完全に敗北させる
+shellac,shellack	セラック(ワニスの原料);セラックニス / …にセラックニスを塗る / 《米》完全に敗北させる
 shellacking	完敗,大敗 / 殴打
 shellfire	砲火,砲弾
 shellfish	〈C〉甲殻類(エビ・カニなど)の総称 / 〈U〉(食物としての)貝,甲殻類
@@ -1800,7 +1789,6 @@ sherd	=shard 破片,かけら
 sheriff	(州(county)または都市の)『長官』(行政のほか儀式的な仕事もする) / 《米》『保安官』(郡(county)で法の施行権限を持つ首席役人)
 sherry	シェリー酒(南スペイン原産の強い白ぶどう酒)
 shew	=show
-shh	=sh
 shibboleth	シボレテ(聖書で,ギレアデ人がshの音を発音できないエフライム人を区別する目的で発音させた言葉);ある集団を特徴づける習慣・言葉遣い・昔は重要であったが現在では重要性のない表現や習慣
 shield	(昔,武士が戦場で用いた)『盾』(たて) / (…に対して,…から)『かばうもの(人)』,保護者(物)《+『against』(『from』)+『名』》 / 盾に似たもの(警官・刑事・保安官のバッジなど) ・=escutcheon・…を『かばう』,保護する《+『名』+『from』+『名』》
 shift	〈人・場所・位置など〉を『移し替える』,置き換える / …を変える,取り替える / 〈自動車のギヤ〉を入れ変える / (…へ)『変わる』,移る《+『to』+『名』》 / 車のギヤを変える;〈車が〉ギヤが入れ変わる・『変換』,転換;移動 / (仕事、作業の)『交替』,交替制;交替の組(人);交替時間 / (特に,自動車)変速装置 / やりくり[算段],一時しのぎの手段,便法;ずるい手段,策略 / シフトドレス(肩から腰までまっすぐした線のゆったりしたワンピース);スリップ
@@ -2192,7 +2180,7 @@ silkscreen	シルクスクリーン印刷, シルクスクリーン印刷する,
 silkworm	蚕 / (一般的に)繭(まゆ)を作るガの幼虫
 silky	絹のような;柔らかな,すべすべした,つやのある
 sill	(窓・戸などの)敷居
-sillabub,syllabub	シラバブ(ミルクまたはクリームにぶどう酒やりんご酒と甘味・香料を加えた料理)
+sillabub,syllabub	シラバブ(ミルクまたはクリームにぶどう酒やりんご酒と甘味・香料を加えた料理) / =sillabub
 silliness	愚かなこと;〈C〉愚かな言動
 silly	(人・人の用動が)『愚かな』,思慮のない,ばかな,おめでたい / 《話》(殴られたりして)目を回した,気絶した / おばかさん
 silo	サイロ(牛馬の飼料として牧草(silage)を貯蔵する普通円筒形の建物) / サイロ(ミサイルを格納し発射する地下設備)
@@ -2302,7 +2290,7 @@ sinusitis	洞炎,(特に)静脈洞炎
 sion	=zion
 sip	…を『ちびちび飲む』,すする / (…を)『ちびりちびり飲む』《+『at』+『名』》 / (…を)ちびりちびり飲むこと;(飲み物の)『一口』,一すすり《+『of』+『名』》
 siphon bottle	サイフォンびん(炭酸水用のびん;ガスの力で水が流出する)
-siphon,syphon	サイフォン,吸水管 / =siphon bottle / (水中動物の)吸管 / …をサイフォンで吸い上げる《+『off』(『out』)+『名,』+『名』+『off』(『out』)》 / サイフォンを通る
+siphon,syphon	サイフォン,吸水管 / =siphon bottle / (水中動物の)吸管 / …をサイフォンで吸い上げる《+『off』(『out』)+『名,』+『名』+『off』(『out』)》 / サイフォンを通る / =siphon
 sir	《時にS-》《冠詞なしで》《男性の目上の人・見知らぬ人・店の客・上官・先生・議長などに対する敬った丁寧な呼び掛け語として》『あなた』,だんな,先生,(警官などが男性を呼び止めて)おい,君 / 《S-》〈U〉サー / 《しばしばS-》〈C〉《手紙の書き出しのあいさつに用いて》『拝啓』
 sire	《S-》《冠詞なしで》《古》(国王などに対する呼び掛けで)陛下・〈C〉(動物,特に馬の)雄親 / 〈種馬が〉…を生む
 siren	『サイレン』,『警笛』 / サイレン(ギリシア神話で美声で船人を誘い,殺したという半女半鳥の海の精) / 美声の歌い手;(男を惑わす)美女,妖婦(ようふ)
@@ -2351,9 +2339,8 @@ sixth sense	{名}〈U〉第六感,(five senses(五感)以外の感覚,直感力(
 sixtieth	《the ~》『第60の』,60番目の / 60分の1の / 〈U〉《the ~》『第60』,60番目[のもの] / 〈C〉60分の1
 sixty	〈C〉(数の)『60』;60の記号(60,LXなど) / 〈U〉60歳 / 《複数扱い》60人,60個 / 《the sixties》(世紀の)60年代;《one's sixties》(年齢の)60代 / 『60の』,60人の,60個の / 《補語にのみ用いて》60歳の(で)
 sixty-fourth note	64分音符
-sizable, sizeable	相当な大きさの,かなり大きな
+sizable,sizeable	相当な大きさの,かなり大きな / =sizable
 size	〈U〉〈C〉(人や物の)『大きさ』 / 〈U〉大きいこと / 〈U〉数量,規模 / 〈C〉(帽子・靴・シャツなどの)『サイズ』,『寸法』,型 / 〈U〉《話》実情,真相 / …を大きさ(寸法)によって分類する / …をある寸法に作る / サイズ,どうさ(紙や織物の細孔(こう)をふさぐ材料) / …にサイズを塗る
-sizeable	=sizable
 sizing	サイズ(どうさ)を塗ること,のり付け;サイズ剤,のり剤,どうさ
 sizzle	(油で揚げるときのように)ジュージュー(シューシュー)いう / 《話》焼けるように暑い(熱い) / ジュージュー(シューシュー)いう音
 sizzler	非常に暑い日
@@ -2398,13 +2385,11 @@ skier	『スキーヤー』,スキーをする人
 skiff	スキフ(一人でこぐ,または帆走させる小さな舟)
 skiffle	スキッフル(1950年代に英国で流行した通俗音楽)
 skiing	(スポーツとしての)『スキー』;スキー術
-skilful	=skillful
-skilfully	=skillfully
+skilful,skillful	=skillful / 『熟練した』,じょうずな
+skilfully,skillfully	=skillfully / 熟練して,じょうずに
 skill	〈U〉(…の)『熟練』,技量,腕《+『in』+『名』(do『ing』)》 / 〈C〉『特殊技術』,特殊技能
 skilled	(人が)熟練した,特殊技術を持った / (仕事が)熟練を要する,特殊技術を要する
 skillet	《米》フライパン(frying pan) / 《英》シチューなべ
-skillful,skilful	『熟練した』,じょうずな
-skillfully,skilfully	熟練して,じょうずに
 skim	〈液体〉から『上澄みを取る』,浮遊物をすくい取る / (液体から)〈浮遊物〉を『すくい取る』,〈上澄み〉を取る《+『名』+『from』(『off』)+『名』》 / …を『ざっと読む』 / 〈水面など〉を『滑るように進む』,かすめて飛ぶ;(水面などすれすれに)…を飛ばす(skip) / 《副詞[句]を伴って》『滑るように進む』,かすめて飛ぶ / (…を)ざっと読む《+『through』(over)+『名』(do『ing』)》 / (牛乳が)脱脂の(skimmed)
 skim milk	(クリームを除去した)脱脂乳,スキムミルク
 skimmer	上澄みをすくい取る道具(網じゃくしなど) / カモメ目の海鳥,アジサシの類(水を切って飛びながらえさを捜す) / スキマー(普通麦わら製のつばの広い帽子)
@@ -2447,13 +2432,12 @@ skive	仕事をなまける(さぼる)
 skivvy	〈女性が〉家庭内の雑事をする / (男性用の)綿製Tシャツ / 《複数形で》綿製Tシャツとパンツから成る下着
 skoal	(健康を祝して)乾杯
 skua	オオトウゾクカモメ(北大西洋産の海鳥)
-skulduggery,skullduggery	いんちき,不正
+skulduggery,skullduggery	いんちき,不正 / =skulduggery
 skulk	こそこそ隠れる,こそこそ逃げる;こそこそ歩く,こっそり動く
 skulker	こそこそ隠れる(逃げる)人
 skull	『頭がい骨』,しゃれこうべ / 《話》おつむ,頭
 skull and cross bones	しゃれこうべと十字骨(海賊の旗印,または毒薬びんの印)
 skullcap	(室内で老人が用いる縁のない)丸ずきん
-skullduggery	=skulduggery
 skunk	〈C〉スカンク(イタチ科の動物)…〈U〉スカンクの毛皮 / 〈C〉卑劣な人 / 〈相手チーム〉を完敗させる,零敗させる
 sky	『空』,上空 / 《しばしば複数形で》空模様,天候,気候 / 《しばしば複数形で》『天国』,天 / 〈ボール〉を高く打ち上げる
 sky blue	空色
@@ -2519,7 +2503,7 @@ slaughterer	屠殺人;虐殺者
 slaughterhouse	屠殺場
 slave	『奴隷』(どれい) / (欲望・習慣・職業などの)『とりこ』,(…に)ふける人《+『of』(『to』)+『名』》,(他人のために)あくせく働く人 / (奴隷のように)あくせく働く《+『away』》
 slave driver	奴隷監督 / 《話》こき使う主人,人使いの荒い人
-slave labor, slave labour	奴隷のする労働(仕事);一般に低賃金のまたは強制された割の合わない仕事
+slave labor,slave labour	奴隷のする労働(仕事);一般に低賃金のまたは強制された割の合わない仕事
 slave state	奴隷州(アメリカ南部の15州,南北戦争の時まで奴隷制度を認めていた)
 slave trade	奴隷売買
 slaver	奴隷商人(slave trader) / 奴隷貿易船(slave ship) / よだれ / よだれを垂らす
@@ -2651,7 +2635,7 @@ sluiceway	水門溝(こう),人工水路
 slum	《しばしばthe slums》貧民くつ,貧民街,スラム / 《話》汚らしい場所 / (好奇心・慈善のために)貧民街を訪れる
 slumber	(特に,心地よく)眠る,まどろむ / 活動していない / 〈時など〉を眠って(活動しないで)過ごす《+『away』+『名,』+『名』+『away』》 / 眠り,まどろみ
 slumberer	眠る人
-slumberous, slumbrous	うとうとした,眠気をさそう / 不活発な,怠惰な / 静かな
+slumberous,slumbrous	うとうとした,眠気をさそう / 不活発な,怠惰な / 静かな
 slumlord	(スラム街の特に悪徳な)アパート家主
 slummy	スラムの,貧民街の[ような]
 slump	(…に)くずれるように落ちる(倒れる,沈み込む)《+『down on』(『to』)+『名』》 / 〈健康・人気などが〉急激に衰える,〈相場などが〉暴落する《+『down』》 / 《おもに米》不調,不振,スランプ / (景気・人気などの)急な衰え,(相場などの)暴落《+『in』+『名』》(反意語はboom)
@@ -2710,7 +2694,7 @@ smelling salts	気つけ薬,嗅(か)ぎ薬(炭酸アンモニアが主剤の芳�
 smelly	いやなにおいがする,くさい
 smelt	smellの過去・過去分詞 / 〈鉱石〉を溶解する / (溶解して)〈金属〉を精錬する / キュウリウオ(欧州産のサケに類する食用魚)
 smelter	精錬工 / 溶解装置工場
-smidgen, smidgeon	少量(の…),ごくわずか(の…)《+『of』+『名』》
+smidgen,smidgeon	少量(の…),ごくわずか(の…)《+『of』+『名』》
 smilax	サルトリイバラ(ユリ科の植物の一種) / クサナギカズラ(ユリ科のつる草;観賞用)
 smile	『ほほえむ』,にっこりする・〈好運・神などが〉(…に)好意を示す《+『on』(『upon』)+『名』》・《a+形容詞+smileを目的語にして》…な笑い方をする・…をほほえんで示す・〈人〉にほほえみかけて(…)させる(させない)《+『名』〈人〉+『into』(『out of』)+『名』(do『ing』)》・『ほほえみ』,微笑
 smiling	にこにこした,微笑している
@@ -2734,18 +2718,17 @@ smokiness	煙だらけ
 smoking	煙ること / 喫煙
 smoking jacket	家庭のくつろぎ着[喫煙のときに着たことから]
 smoky	(特にたくさん)煙を出す,もくもくと煙の出る / 煙でいっぱいの / (性質・外観などが)煙のような
-smolder, smoulder	くすぶる / 〈感情などが〉くすぶる,いつまでも消えない / くすぶる火(煙)
+smolder,smoulder	くすぶる / 〈感情などが〉くすぶる,いつまでも消えない / くすぶる火(煙) / =smolder
 smooch	キスする,愛撫する,抱擁する / キス,愛撫,抱擁
 smooth	(表面が)『滑らかな』,すべすべした;『平らな』,平坦(へいたん)な / (動きが)円滑な,揺れのない / (物事が)すらすら運ぶ,順調な,平隠な / (味など)滑らかな;(練り粉など)つぶつぶ(むら)のない / 愛想のよい,取り入るような / …を『滑らかにする』,平らにする,〈髪など〉をなでつける《+『out(down)』+『名,』+『名』+『out(down)』》 / 〈物事〉を容易にする,円滑にする《+『away(out)』+『名,』+『away(out)』》 / 〈人・気持ちなど〉を静める,和らげる《+『down』+『名,』+『名』+『down』》 / 滑らか(平ら)になる;隠やかになる《+『down』》 / =smoothly
 smoothbore	(鉄砲が)滑腔(かっこう)の(施条の付いていないこと) / 滑腔銃
-smoothie, smoothy	上品な人,洗練された人;女性扱いのじょうずな人
+smoothie,smoothy	上品な人,洗練された人;女性扱いのじょうずな人
 smoothly	(またsmooth)滑らかに,円滑に;平隠に
 smoothness	滑らかなこと;円滑 / 平隠さ
 smorgasbord	バイキング料理[の一種] / 種々様々の取り合わせ
 smote	smite の過去
 smother	…を窒息させる,窒息させる / (…で)〈火〉をおおって消す《+『名』+『with』+『名』》 / (…で)…を厚くおおう(包む)《+『名』+『with(in, between)』+『名』》 / 〈感情など〉をおおい隠す,〈事実など〉をもみ消す《+『up』+『名,』+『名』+『up』》 / 窒息する,息苦しくなる / (息が詰まるほど)濃い霧(煙,ほこり)
 smothery	窒息させるような,息の詰まる
-smoulder	=smolder
 smudge	汚れ,しみ / 《おもに米》(虫よけや霜よけのために戸外でたく)いぶし煙 / (…で)…を汚す,にとみをつける《+『名』+『with』+『名』》 / 《おもに米》〈場所など〉にいぶし煙をたく / 〈物が〉汚れる,しみがつく;〈インクなどが〉にじむ
 smudgy	汚れた,しみだらけの / 不鮮明な / 煙る,くすぶった,すすけた
 smug	自己満足した,ひとりよがりの
@@ -2851,7 +2834,7 @@ snowflake	雪片
 snowline	雪線(高山などで万年雪の残る地点の最低境界線)
 snowman	雪だるま / 《しばしばS-》=Abominable Snowman雪男
 snowmobile	雪上車
-snowplow, snowplough	(機関車などにつける)除雪機;除雪車
+snowplow,snowplough	(機関車などにつける)除雪機;除雪車
 snowshoe	雪ぐつ,かんじき
 snowslide	なだれ
 snowstorm	吹雪
@@ -3000,8 +2983,8 @@ solecism	文法違反,破格 / 無作法,エチケット違反
 solely	『一人で』,『単独で』(alone) / ただ,全く,もっぱら(only)
 solemn	『まじめな』,謹厳な,重々しい(grave) / 『厳かな(おごそかな)』,厳粛な,荘重な,荘厳な / 宗教上の,神聖な(sacred) / 儀式をともなう,儀式張った
 solemnity	〈U〉厳粛,荘厳 / 〈C〉《複数形で》厳かな儀式
-solemnization, solemnisation	儀式執行,挙式;厳粛化
-solemnize, solemnise	〈宗教的儀式,とくに結婚式など〉をとり行う / (儀式を行って)…を祝う
+solemnization,solemnisation	儀式執行,挙式;厳粛化
+solemnize,solemnise	〈宗教的儀式,とくに結婚式など〉をとり行う / (儀式を行って)…を祝う
 solemnly	厳粛に,荘厳に / まじめに
 solemnness	厳粛
 solenoid	筒形コイル(電流を通すと内部に磁界ができる)
@@ -3020,7 +3003,7 @@ solidification	凝固;結束,団結
 solidify	〈液体など〉を凝固させる / 〈関係など〉を強固なものにする;〈人〉を結束させる / 凝固する / 〈関係などが〉強固になる;〈人が〉結束する
 solidity	固いこと,固体性;中身がぎっしり詰まっていること / (財政・人柄などが)しっかりしていること,堅実
 solidus	ソリドゥス(ローマ帝国の金貨) / (日付・分数などの)斜線(oblique)
-soliloquize, soliloquise	独白を言う,ひとり言を言う
+soliloquize,soliloquise	独白を言う,ひとり言を言う
 soliloquy	〈C〉(演劇の)独白 / 〈U〉ひとり言
 solipsism	(哲学で)唯我論 / 自己中心主義
 solipsist	唯我論主義者 / 自己中心主義者
@@ -3045,7 +3028,7 @@ solvent	(借金の)支払い能力がある / 溶解力のある,溶かす / 溶
 solver	解決者,解答者
 somatic	身体の / 体腔(たいこう)の / 体細胞の
 somatic cell	(生物の)体細胞
-somber, sombre	暗い(dark),ほの暗い(gloomy);(色が)くすんだ
+somber,sombre	暗い(dark),ほの暗い(gloomy);(色が)くすんだ
 sombrero	ソンブレロ(メキシコなどで用いる麦わらまたはフェルトの広縁(ひろふち)の帽子)
 some	《複数名詞または数えられない名詞を伴って》『いくらかの』,多少の,少しの・《複数名詞または数えられない名詞を伴って》『一部の』,中には[…もある],…である[ものもある] ・《単数普通名詞を伴って》『ある』…,何か[の],どこか[の] / 《数詞を伴って》『約』…,…くらいの,…ばかり・《数量を表す名詞を伴って》相当多い,かなりの・《話》たいした,相当な,なかなかの・『いくらか』,多少,少し,幾分・『ある人たち,あるもの』,[…する人]もある・いくらか,多少,少しは(somewhat) ・かなり,相当
 somebody	『だれか』,ある人・〈C〉(名前不詳の)だれか
@@ -3211,7 +3194,7 @@ sower	種子をまく人(機械) / (うわさ・紛争などを)まき散らす�
 sown	sow(種子をまく)の過去分詞
 sox	sockの複数形
 soy	〈U〉しょうゆ / =soybean
-soy sauce, soya sauce	醤油
+soy sauce,soya sauce	醤油
 soybean	大豆(だいず)
 sozzled	酔っ払った,酩酊(めいてい)した
 sp.	special / species / specimen / spelling / spirit
@@ -3254,7 +3237,7 @@ spanner	スパナ,ねじ回し(《米》wrench)
 spar	(戸船の帆柱・帆げたなどの)円材 / (ボクシングの練習のために)スパーリングをする,打ち合う / 言い争う,議論する / スパー(割れて薄片になりやすい,非金属性の光沢のある鉱物の総称)
 spare	…を『容赦する』,の命を助ける / 《『spare』+『名』〈人〉+『名』〈苦労〉》〈苦痛・苦労など〉を〈人〉にさせない / 《通例否定文で》〈時間・労力など〉を『惜しむ』,控える / 〈労力・時間など〉を『さく』,割愛する;…をなしですませる / (ある目的のために)…を取っておく,残しておく《+『名』+『for』+『名』》 / (物が)『予備の』;(時間・金が)余分の / (食事などが)質素な;乏しい / やせた(lean) / {名}予備の品(部品),スペア / (ボウリングで)2回の投球でピンを全部倒すこと
 spare part surgery	臓器移植(外科)
-spare tire, spare tyre	予備のタイヤ,スペアタイヤ
+spare tire,spare tyre	予備のタイヤ,スペアタイヤ
 sparely	惜しんで,けちけちと / 乏しく,わずかに / やせて,ほっそりと
 spareribs	肉の少しついた豚のあばら骨
 sparing	禁約な,つましい,控え目な
@@ -3299,9 +3282,9 @@ special delivery	速達
 special student	聴講生(アメリカの大学で学位につながらないコースの学生)
 specialist	専門家 / 専門医
 speciality	=specialty
-specialization, specialisation	特殊化,専門化
-specialize, specialise	(…を)『専門にする』《+『in』+『名』(do『ing』)》 / 〈生物が〉(特別な環境に適応するように)特殊化(分化)する
-specialized, specialised	専門化した,特製の
+specialization,specialisation	特殊化,専門化
+specialize,specialise	(…を)『専門にする』《+『in』+『名』(do『ing』)》 / 〈生物が〉(特別な環境に適応するように)特殊化(分化)する
+specialized,specialised	専門化した,特製の
 specially	(比較変化なし)『特に』,わざわざ / (普通ではなく)特別に / 並みはずれて,きわだって
 specialty	専門,専攻 / 特色,特性 / 特製品,特別品
 specie	(紙弊に対した)正金,正貨
@@ -3324,7 +3307,7 @@ spectacle	(特に印象的な)『光景』,ながめ,ありさま / 〈C〉(特�
 spectacled	めがねをかけた / (動物が)めがね状の斑紋点のある
 spectacular	見せ物的な,壮観の,めざましい / (テレビ・映画などの)超大作,特別ショー
 spectator	『観客』,見物人,傍観者
-specter, spectre	幽霊,お化け / こわいもの,恐ろしいもの
+specter,spectre	幽霊,お化け / こわいもの,恐ろしいもの
 spectra	spectrumの複数形
 spectral	幽霊の,お化けのような(ghostly) / スペクトルの(による)
 spectrogram	(分光器によって得られる)スペクトル写真
@@ -3565,7 +3548,7 @@ sprigged	(織物・陶器などに)小枝模様のついた
 sprightliness	快活,陽気,活発
 sprightly	快活な,陽気な,活発な
 spring	《副詞[句]を伴って》『跳ぶ』,跳ねる,跳躍する / 〈風・涙・考えなどが〉(…に)突然現れる(発生する,起こる)《+『up to』(『into』)+『名』》 / (ばねで)はじける,跳ね返る / 〈雑草・家などが〉突然(急速に)生まれ出る,成長する《+『up』》 / (原因から)起こる,生じる;(家柄などが…の)出である《+『from』+『名』》 / 〈板などが〉そる,ひびが入る,割れる / …を跳ねさせる,跳ね返らせる / (人に)〈提案など〉を急に(不意に)車ち出す(言い出す)《+『名』+『on』(『upon』)+『名』〈人〉》 / 〈板など〉をそらす,割る,にひびを入れる / 〈C〉〈U〉『春』;《比喩(ひゆ)的に》(人生などの)春《+『of』+『名』》 / 〈C〉『跳ぶこと』,跳ねること,跳躍 / 〈C〉『ばね』,ぜんまい,スプリング / 〈U〉(…の)弾力,弾性《+『of』(『in』)+『名』》 / 〈U〉(心の)弾力,元気,活力 / 〈C〉《しばしば複数形で》『泉』 / 〈C〉《しばしば複数形で》(物事の)源泉,起源;(行為などの)動機,原因《+『of』+『名』》 / 春の,春向きの / ばねのついた,ばね仕掛けの
-spring clean, spring-cleaning	[春の]大掃除
+spring clean,spring-cleaning	[春の]大掃除
 spring fever	春先に感じるものうい(落ち着かない)気持ち,春先の憂うつ病
 spring mattress	スプリング付きマットレス
 spring-clean	…の[春の]大掃除をする
@@ -3678,7 +3661,7 @@ stab	(刃物・とがったものなどで)…を『刺す』,突き刺す《+�
 stabbing	(痛みが)突き刺すような,鋭い / しんらつな,痛烈な
 stabile	スタビル(金属板や木材で作った見る方向によって形が異なる抽象彫刻)
 stability	『安定』,確固,不動;安定性 / (人・意志などの)着実,強固,不変
-stabilization, stabilisation	安定(強固)にすること,安定,固定
+stabilization,stabilisation	安定(強固)にすること,安定,固定
 stabilize,stabilise	…を固定させる,安定させる
 stabilizer,stabiliser	安定させる人(物) / (船舶・航空機の)安定装置
 stable	『安定した』,しっかりした(steady) / (人・意見などが)『着実な』,堅実な,信頼できる / (物理的に)安定な,復元力のある / (化学的に)安定した,簡単に分解しない / 《しばしば複数形で》《単数扱い》『馬小屋』,家畜小屋;(競馬で)厩舎(きゅうしゃ) / 《集合的に》(競馬で,ある厩舎に属する全部の)競走馬 / 《単数形で》《話》(同一の人の管理下にある)一群(の…)《+『of』+『名』》 / 〈馬〉を馬小屋に入れる;〈家畜〉を家畜小屋に入れる
@@ -3833,7 +3816,7 @@ stately	『威厳のある』,荘厳な,堂々とした,品位ある
 stately home	(由緒ある)いなかの大邸宅
 statement	〈U〉『声明』(『供述』)『すること』 / 〈C〉『声明』(『供述』)[『書』] / 〈C〉(銀行などの)計算書,決算報告 / 〈C〉(音楽で)曲の主題の提示
 stateroom	(船・列車の)専用室,特等室
-stateside, Stateside	米国[内]の,米国に向けた / 米国内で,米国に(へ)
+stateside,Stateside	米国[内]の,米国に向けた / 米国内で,米国に(へ)
 statesman	(特に有能で公正な)『政治家』
 statesmanship	政治的手腕(statecraft)
 stateswoman	婦人政治家
@@ -4063,7 +4046,7 @@ stock company	株式会社 / 専属劇団(一定のレパートリーを専属�
 stock cube	固形スープ
 stock exchange	証券(株式)取引[所]
 stock farmer	=stockbreeder
-stock in trade, stock-in-trade	手持ち商品;商売道具 / 常套(じょうとう)手段
+stock in trade,stock-in-trade	手持ち商品;商売道具 / 常套(じょうとう)手段
 stock market	株式市場;株式売買
 stock-still	じっとしている,動かない
 stockade	(太いくいを並べた)防御さく / さく,囲い / 《米》営倉 / …をさくで防ぐ,さくで囲う
@@ -4147,10 +4130,8 @@ storefront	商店の正面,店先,店頭
 storehouse	倉庫;(知識などの)宝庫
 storekeeper	店の経営者,店主(shopkeeper)
 storeroom	貯蔵室,納戸(なんど)
-storey	=story (家・建物の)階,階層
-storeyed	=storied
-storied	物語(伝説)に記された(で有名な)
-storied,storeyed	「…階の」の意を表す
+storey,story	=story (家・建物の)階,階層 / 〈C〉(事実に基づいた)『話』,実話 / 〈C〉(架空の,人を楽しませる)『物語』,話 / 〈U〉(小説,詩,劇,映画などの)筋,プロット / 〈C〉(新聞などの)記事,事件の報道 / 〈C〉(ある人の言う)言葉,申し立て / 〈C〉《話》《子供が,また子供に対して用いる》うそ(lie) / (建物の)『階』 / 《集合的に》同じ階の部屋全部
+storeyed,storied	=storied / 物語(伝説)に記された(で有名な) / 「…階の」の意を表す
 stork	コウノトリ
 storm	『あらし』,暴風[雨],荒天 / (感情・言動などの)『あらし』,激発《+『of』+『名』》 / (一般に)激動,波乱,騒動 / (弾丸などが)雨あられと飛ぶこと《+『of』+『名』》 / 《itを主語にして》〈天候が〉『荒れる』 / 猛然と突進する;激しく怒る / …を強襲する,急襲する
 storm center	暴風雨の中心,台風の目 / 騒動(もめ事など)の中心[人物]
@@ -4161,8 +4142,6 @@ stormbound	暴風(豪雪)に閉じ込められた,あらしで立ち往生の
 stormily	あらしのように,激しく
 stormy	『あらしの』,暴風雨の,あらしになりそうな / (感情・言動が)『激しい』
 stormy petrel	ウミツバメ(大西洋・地中海に生息する鳥) / 紛争(もめ事)を引き起こす人
-story	〈C〉(事実に基づいた)『話』,実話 / 〈C〉(架空の,人を楽しませる)『物語』,話 / 〈U〉(小説,詩,劇,映画などの)筋,プロット / 〈C〉(新聞などの)記事,事件の報道 / 〈C〉(ある人の言う)言葉,申し立て / 〈C〉《話》《子供が,また子供に対して用いる》うそ(lie)
-story,storey	(建物の)『階』 / 《集合的に》同じ階の部屋全部
 storybook	物語本,童話本 / (童話の結びのように)めでたしめでたしの
 storyline	(映画・小説・劇などの)筋,構想(plot)
 storyteller	物語をする人,物語作家 / (特に子供の)うそつき(liar)
@@ -4413,8 +4392,7 @@ sturgeon	チョウザメ(この魚の卵が珍味とされる caviar)
 stutter	どもる,口ごもる,どもりながら言う / …をどもりながら言う / どもり,口ごもり
 stutterer	どもる人,口ごもる人
 stutteringly	どもりながら
-sty	豚小屋(=pigsty) / 汚い(不潔な)場所
-sty,stye	(目にできる)ものもらい,麦粒腫(ばくりゅうしゅ)
+sty,stye	豚小屋(=pigsty) / 汚い(不潔な)場所 / (目にできる)ものもらい,麦粒腫(ばくりゅうしゅ)
 style	〈C〉〈U〉(服装などの)『流行[型]』,スタイル / 〈C〉(衣服・物腰・ふん囲気などの)優雅さ,上品 / 〈C〉〈U〉(個人・集団・時代などに特有の)『様式』,型;文体,口調 / 〈C〉(商品などの)種類,形式 / 〈C〉称号,肩書き,呼び名 / 〈C〉鉄筆(stylus) / 〈C〉(植物の)花柱 / 〈U〉〈C〉印刷様式,体裁 / 〈服装・家具など〉を流行に合わせてデザインする(作る) / (特定の印刷様式に合わせるため)〈原稿など〉に手を加える / 《style+名+名〈補〉》(…と)…を呼ぶ,称する
 styler	整髪用電気器具
 styli	stylusの複数形
@@ -4500,7 +4478,7 @@ subordination	(…より)下位に置くこと;(…への)従属,服従《+to+�
 suborn	〈人〉を教唆する,買収する / (金などを使って)〈人,特に証人〉に偽証させる
 subornation	教唆,買収 / (法廷における)偽証教唆
 subplot	わき筋(戯曲・小説などで,中心となる筋に付随する筋)
-subpoena, subpena	(法廷への)召喚状,呼び出し状 / …を召喚する,呼び出す
+subpoena,subpena	(法廷への)召喚状,呼び出し状 / …を召喚する,呼び出す
 subscribe	(雑誌・切符などを)『予約する』《+to(for)+名》 / (…に)『寄付(出資)を約束する』,寄付(出資)する《+to(for)+名》,(…を)寄付する《+for+名》 / (書類などの終りに)署名する《+to+名》 / (…に)同意する,賛成する《+to+名》 / (…に)〈金〉の寄付(支払い)を約束する,を寄付する,支払う《+名+to(for)+名》 / 〈書類〉に署名する;〈自分の名前〉を書く(sign)
 subscriber	予約者,定期講読者 / 寄付者,出資者 / (契約書,証明書などの)署名者 / 同意者
 subscript	(A2Oの2のような)下つき文字(数字,記号)(inferior) / (文字など)下つきの
@@ -4515,7 +4493,7 @@ subside	〈洪水などが〉引く;〈建物,土地などが〉沈む,落ちこ
 subsidence	沈下・減退,鎮静
 subsidiary	補助の / 従属的な,二次的な / 助成金(補助金)の(による) / 補助物(者);付属物 / 子会社
 subsidization,subsisation	補助金(助成金)交付
-subsidize, subsidise	…に補助金(奨励金)を与える
+subsidize,subsidise	…に補助金(奨励金)を与える
 subsidy	(国家・団体などの)補助金,助成金,奨励金
 subsist	(特に,収入・食料が乏しいときに)(…に頼って)生きていく,暮らしていく《+on+名(doing)》;(…して)生きていく《+by doing》 / いまだに存在する,残っている
 subsistence	生きていくこと,生活;暮らし,生計
@@ -4576,9 +4554,8 @@ succession	〈C〉(…の)『連続』(series)《+of+名》 / 〈U〉『続く�
 successive	『連続する』
 successor	(…の)『後任者』,継承者,相続人;(…に)取って代わる者《+to+名》
 succinct	(文章などが)簡潔な,簡明な(concise) / 簡潔さを特徴とする
-succor, succour	救助,救援 / …を助ける,救援する(help)
+succor,succour	救助,救援 / …を助ける,救援する(help) / =succor
 succotash	サッコタシ(とうもろこしと豆を混ぜ,時にピーマン,とうがらしを加えた料理)
-succour	=succor
 succubus	(睡眠中の男性と情交するという)魔女
 succulence	汁の多いこと,多液
 succulency	=succulence
@@ -4650,15 +4627,15 @@ suitcase	スーツケース,(長方形で平たい)小型旅行かばん
 suite	(ホテルなどで寝室・居間・客間などの)一続きの豪華な部屋 / (家具などの)一そろい,一組 / (いっしょに使われるものの)一続き,一組,一そろい / (楽曲の一形式である)組曲 / 《集合的に》《まれ》随行員,従者の一行
 suiting	服地,スーツ地
 suitor	(男の)求婚者 / 原告(plaintiff) / 請願者
-sulfa drug, sulpha drug	サルファ剤
+sulfa drug,sulpha drug	サルファ剤
 sulfate,sulphate	硫酸塩
-sulfide, sulphide	硫化物
-sulfite, sulphite	亜硫酸塩
+sulfide,sulphide	硫化物
+sulfite,sulphite	亜硫酸塩
 sulfur dioxide	二酸化イオウ,亜硫酸ガス
-sulfur, sulphur	イオウ(硫黄)(化学記号は S)
-sulfuric acid, sulphuric acid	硫酸
+sulfur,sulphur	イオウ(硫黄)(化学記号は S)
+sulfuric acid,sulphuric acid	硫酸
 sulfuric,sulphuric	イオウの;(特に6価の)イオウを含む
-sulfurous, sulphurous	イオウの;(特に4価の)イオウを含む / イオウくさい
+sulfurous,sulphurous	イオウの;(特に4価の)イオウを含む / イオウくさい
 sulk	すねる,ふくれる / すねること,不きげん,ふくれっつら
 sulkily	ふくれて,すねて
 sulkiness	すねていること,不きげん,仏頂づら
@@ -4671,10 +4648,10 @@ sultanate	〈U〉〈C〉《the sultanate》サルタンの位 / 〈C〉サルタ
 sultriness	蒸し暑さ
 sultry	『ひどく蒸し暑い』,うだるような / 官能的な,なまめかしい;わいせつな,きわどい
 sum	〈C〉《the sum》(数・量の)『合計』,総計(sum total)《+of+名》 / 〈U〉《時に a sum》(抽象的なことの)全体《+of+名》 / 〈C〉《形容詞をつけて》(…の)『額』《+of+名》 / 〈C〉《話》算数,算数の問題 / 〈U〉《the sum》(…の)要約,要旨《+of+名》 / …を『合計する』《+up+名,+名+up》 / 合計して…になる《+up to+名》
-sumac, sumach	ウルシ類の樹木(ウルシ,ハゼ,ヌルデなど)
+sumac,sumach	ウルシ類の樹木(ウルシ,ハゼ,ヌルデなど)
 summa cum laude	最優等で(大学の最優等生の卒業証書に用いられる言葉)
 summarily	かいつまんで,手短に / 略式に,即決で
-summarize, summarise	…を要約する,手短に述べる
+summarize,summarise	…を要約する,手短に述べる
 summary	(…の)『要約』,摘要,概要《+of+名》 / 『用約した』,かいつまんだ;手短の / (裁判などが)略式の,即決の
 summation	〈C〉(弁護人の)最終弁論 / 〈U〉足し算 / 〈C〉合計
 summer	〈U〉〈C〉『夏』 / 《the~》《文》盛り / 《複数形で》《文》年齢 / 『夏の』,夏向きの / 夏を過ごす,避暑をする / 〈家畜〉を夏の間放牧する
@@ -4740,9 +4717,9 @@ sunshade	(店舗用)日よけ / (婦人用の)日がさ(parasol)
 sunshine	『日光』 / 日なた / (物事の)『明るさ』,陽気,快活
 sunspot	太陽黒点 / 《英話》避寒地
 sunstroke	日射病
-suntan, sun-tan	(皮膚の健康そうな)日焼け,日焼け色 / …を日焼けさせる
+suntan,sun-tan	(皮膚の健康そうな)日焼け,日焼け色 / …を日焼けさせる
 suntrap	いつも日当たりのよい場所
-sunup, sun-up	=sunrise
+sunup,sun-up	=sunrise
 sup	(…を)夕食にとる《+on(off)+名》 / 〈飲み物など〉をすする,飲む / (飲み物を)すする,飲む / (飲食物の)一口,一すすり《+『of』+『名』》
 super	(アパートなどの)管理人,長官,所長,監督(superintendent) / (映画の)エキストラ,端(は)役(supernumerary) / 特等品,特製品 / すばらしい
 super express	(列車が)超特急の / 超特急列車
@@ -5013,7 +4990,7 @@ sweet tooth	甘いもの好き
 sweet william	アメリカナデシコ
 sweet-talk	おせじを言う,おだてる / 〈人〉をおだてる,〈人〉におせじを言う
 sweetbread	(特に子牛・子羊の)すい臓,胸線(食用)
-sweetbriar, sweetbrier	ピンクの花が咲き小さな赤い実のなる野バラの一種
+sweetbriar,sweetbrier	ピンクの花が咲き小さな赤い実のなる野バラの一種
 sweeten	…を甘くする,の甘味を増す / 〈人・心など〉を優しくする,和らげる / 甘くなる,おいしくなる;気持ちよくなる,愉快になる
 sweetener	(砂糖代用の)甘味料,人工甘味料
 sweetening	甘くすること;〈U〉〈C〉(砂糖・サッカリンなどの)甘味料
@@ -5107,7 +5084,6 @@ syllabication	音節に分けること,分節法
 syllabification	=syllabication
 syllabify	=syllabicate
 syllable	音節,シラブル / 《通例否定語と共に用いて》一言,一語
-syllabub	=sillabub
 syllabus	(講義などの)要項,概要 / (学期・学年などの)学習指導計画
 syllogism	〈C〉三段論法 / 〈U〉演えき的推論
 syllogistic	三段論法の;演繹(えんえき)的な
@@ -5118,17 +5094,17 @@ sym.	symbol / symmetrical / symphony
 symbiosis	共生(2種の異なる生物が相互に利益を得て生活すること)
 symbiotic	(生物が)共生の
 symbol	(…の)『象徴』,シンボル《+of+名》 / (化学・数学・音楽などに用いられる)(…を表す)『記号』,符号《+for+名》
-symbolic, symbolical	象徴の(に関する);象徴(記号)によって表された
+symbolic,symbolical	象徴の(に関する);象徴(記号)によって表された
 symbolism	《しばしば S-》(芸術上の)象徴主義,象徴派 / 記号で表すこと,象徴的表現
 symbolist	象徴主義者
-symbolization, symbolisation	象徴化,記号(符号)で表すこと
-symbolize, symbolise	…を象徴する,の象徴となる / …を記号で表す,象徴化する
-symmetric, symmetrical	(左右)相称的の,対称的な / 均整(つりあい)のとれた
+symbolization,symbolisation	象徴化,記号(符号)で表すこと
+symbolize,symbolise	…を象徴する,の象徴となる / …を記号で表す,象徴化する
+symmetric,symmetrical	(左右)相称的の,対称的な / 均整(つりあい)のとれた
 symmetry	(左右の)対称,相称 / (型の)つりあい,調和
 sympathetic	『同情的な』,思いやりのある / 気に入った,好意的な,共鳴する / 《まれ》気性に合った,気心の合った
 sympathetically	同情して,好意的に,同情的に
-sympathize, sympathise	(…のことで…に)『同情する』《+with+名+about+名(a person's doing)》 / (他人の気持ち・考えなどに)共鳴する,賛成する《+with+名(doing)》
-sympathizer, sympathiser	同情する人 / (ある主義・運動の)共鳴者,シンパ
+sympathize,sympathise	(…のことで…に)『同情する』《+with+名+about+名(a person's doing)》 / (他人の気持ち・考えなどに)共鳴する,賛成する《+with+名(doing)》
+sympathizer,sympathiser	同情する人 / (ある主義・運動の)共鳴者,シンパ
 sympathy	〈U〉『共感』,思いやり / 〈U〉《時に複数形で》(…に対する)『同情』,哀れみ《+for(with)+名》 / 〈U〉《時に複数形で》(…に対する)弔慰,お見舞《+for+名》 / 〈U〉《時に複数形で》(…に対する)『共鳴』,賛成,好意《+with+名(wh-節)》
 symphonic	交響楽の,交響楽団の
 symphonic poem	=tone poem
@@ -5141,10 +5117,10 @@ syn.	synonym / synonymous / synonymy
 synagogal	ユダヤ教会堂の;ユダヤ教徒の集会に関する
 synagogue	ユダヤ教の礼拝堂 / 《the ~》ユダヤ教徒の集会
 synapse	シナプス(神経細胞の連接部)
-sync, synch	=synchronization
+sync,synch	=synchronization
 synchromesh	(自動車の)同期かみ合い変速機[を使うこと]
-synchronization, synchronisation	同時であること,同時に起こること,時間を合わせること;同時性 / 同調(映画やテレビの画面と音声の一致);同時録音
-synchronize, synchronise	(…と)同時に起こる,同時に動く《+『with』+『名』》 / …を同時に動かす / 〈音声〉を映像と同調させる;〈映画〉を音声と同調させる / 〈時計など〉の時間を合わせる
+synchronization,synchronisation	同時であること,同時に起こること,時間を合わせること;同時性 / 同調(映画やテレビの画面と音声の一致);同時録音
+synchronize,synchronise	(…と)同時に起こる,同時に動く《+『with』+『名』》 / …を同時に動かす / 〈音声〉を映像と同調させる;〈映画〉を音声と同調させる / 〈時計など〉の時間を合わせる
 synchronized swimming	(音楽に合わせて泳ぐ)水中バレエ,シンクロナイズドスイミング
 synchronous	同時に起こる / 調子を合わせて動く(進行する)
 synchrotron	シンクロトロン(電子加速装置)
@@ -5167,27 +5143,26 @@ synonymous	同義の,類語の;(…と)同義の《+with+名》
 synonymy	〈U〉同義[性] / 〈U〉同義語(類語)研究 / 〈C〉同義語集,類語表 / 〈U〉(強調のため)同意語を重ねて用いること
 synopsis	(特に映画・劇・本などの)概要,粗筋
 synoptic	概要の,粗筋の / 《しばしばS-》共観の,共観福音書の
-syntactic, syntactical	文章構成[法]の,統語論の
+syntactic,syntactical	文章構成[法]の,統語論の
 syntax	文章論,統語論,文章構成法,シンタックス(文中における語の配列を扱う文法の一部門)
 syntheses	synthesisの複数形
 synthesis	〈U〉総合,統合[すること] / 〈C〉総合体,統合されたもの / 〈U〉合成
-synthesize, synthesise	(総合して)〈総合体〉をつくる / 〈部分〉を総合する,統合する / 〈人造物〉を合成する
-synthesizer, synthesiser	総合(統合,合成)する人(物) / 音を合成する楽器(装置)
+synthesize,synthesise	(総合して)〈総合体〉をつくる / 〈部分〉を総合する,統合する / 〈人造物〉を合成する
+synthesizer,synthesiser	総合(統合,合成)する人(物) / 音を合成する楽器(装置)
 synthetic	総合の,統合的な / 合成の,人造の / にせの,作りごとの / (言語が)総合的な(統語的関係を表すのに,独立した語より屈折形を広く用いるもの) / 合成品,人造物
 synthetically	総合して,総合的に;合成的に
 syphilis	梅毒
 syphilitic	梅毒[性]の,梅毒に感染した / 梅毒患者
-syphon	=siphon
 syringe	注射器 / 洗浄器,かん腸器,スポイト / 〈液〉を注射する;(洗浄器で)〈傷など〉を洗浄する
 syrinx	牧羊神パンの笛 / 鳴管(鳥の発声器官)
 syrup	シロップ(砂糖や果汁を煮詰めて作る甘い汁) / (薬用の)シロップ剤
 syrupy	シロップの;シロップのような / (音楽などが)甘ったるい
 syst.	system
 system	〈C〉(関連した部分から成る)『体系』,系統,組織[網],装置 / 〈C〉(教育・政治などの)『制度』,機構;《the~》体制 / 〈C〉(思想・学問などの)『体系』,学説 / 〈C〉(…の)『方法』,方式,やり方《+of doing》 / 〈U〉正しい方針(筋道,順序) / 〈U〉《the~》(身体の)組織,系統 / 〈U〉《the~,one's~》身体,全身
-systematic, systematical	『系統だった』,組織的な;計画的な,故意の / 規則正しい,きちょうめんな
+systematic,systematical	『系統だった』,組織的な;計画的な,故意の / 規則正しい,きちょうめんな
 systematically	系統的に,体系的に,組織的に
-systematization, systematisation	組織化,体系化,系統化
-systematize, systematise	…を組織化する,体系化する,系統づける
+systematization,systematisation	組織化,体系化,系統化
+systematize,systematise	…を組織化する,体系化する,系統づける
 systemic	(身体・言語のように)体系の,組織の / 全身の,全身的
 systems analysis	システム分析(能率や正確度を高める科学的・数学的分析)
 systems analyst	システム分析者

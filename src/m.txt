@@ -1,5 +1,4 @@
-M	Mach number / mark[s] / Monsieur
-M,m	〈C〉英語アルファベットの第13字 / 〈C〉M字形のもの / 〈U〉(ローマ数字の)1,000
+M,m	Mach number / mark[s] / Monsieur / 〈C〉英語アルファベットの第13字 / 〈C〉M字形のもの / 〈U〉(ローマ数字の)1,000
 M.	Medieval / Monday / Monsieur
 M.A.	Master of Arts
 M.B.A.	Master of Business Administration経営学修士
@@ -17,7 +16,7 @@ M.T.	metric tonメートルトン(1,000キログラム) / Mountain Time
 MA	Massachusetts / mental age
 MASH	mobile army surgical hospital陸軍野戦病院・(陸軍)移動外科病院
 MC	Marine Corps海兵隊 / Medical Corps医療隊 / Member of Congress(米国の)国会議員
-ME	Maine / Middle English / Middle East
+ME,Me.	Maine / Middle English / Middle East / Maine
 MF	medium frequency 中波
 MHz	megahertz
 MI	Michigan / Military Intelligence 陸軍情報部
@@ -27,8 +26,7 @@ ML	Medieval Latin
 MM.	Messieurs
 MN	Minnesota
 MRA	Moral Re-Armament道徳再武装
-MS	Mississippi
-MS.,MS,ms.,ms	manuscript
+MS,MS.,ms.,ms	Mississippi / manuscript
 MST	Mountain Standard Time
 MT	Montana
 MVP	most valuable player(野球で)最優秀選手
@@ -38,8 +36,8 @@ Macbeth	マクベス(Shakespeare作の悲劇の主人公の名)
 Mace	メース・催涙ガス・不能化学剤(目や皮膚に炎症を起こさせ,一時的に活動できなくする薬剤の商標名;おもに暴徒の鎮圧に使用される)
 Macedonia	(また『Macedon』)マケドニア(古代ギリシア北方の地でアレキサンダー大王の生地)
 Macedonian	マケドニアの;マケドニア人の / マケドニア人
-Mach number, mach number	マッハ数(物体の速度の音速に対する比率;《略》『M』)
-Mach, mach	=Mach number
+Mach number,mach number	マッハ数(物体の速度の音速に対する比率;《略》『M』)
+Mach,mach	=Mach number
 Machiavelli	マキャベリ(1469‐1527;イタリアFlorenceの政治家,著作家)
 Machiavellian	{形} マキャベリ主義の / 権謀術数にたけた / 狡猾な
 Machiavellism	マキャベリ主義,権謀術数, = Machiavellianism
@@ -147,7 +145,6 @@ McCoy	[the real ～ で] 《話》 (高品質の)本物,逸品; (亜流でない
 McKinley	マッキンレー山(『Mount』(『Mt.』)~;アラスカ州中南部にある北米の最高峰(6192m))
 Md	mendeleviumの化学記号
 Md.,MD	Maryland
-Me.,ME	Maine
 Mecca	メッカ(Saudi Arabiaの商業都市;Muhammadの誕生地でイスラム教の霊地) / 〈C〉《しばしばm-》行ってみたい(あこがれの)所;(…の)発祥地《+『of』(『for』)+『名』》
 Medicaid	医療扶助(一定限度の収入しかない人に対する,州または連邦の医療保険制度)
 Medicare	老人医療保障制度(米国・カナダでは65歳以上)
@@ -241,7 +238,7 @@ Mme.	Madame
 Mn	manganeseの化学記号
 Mo	molybdenumの化学記号
 Mo.,MO	Missouri
-Mocha, mocha	モカコーヒー(もとYemenのMocha港から送り出された上等品)(mocha coffee);モカ香味料 / (手袋用などの)上質のヤギ革
+Mocha,mocha	モカコーヒー(もとYemenのMocha港から送り出された上等品)(mocha coffee);モカ香味料 / (手袋用などの)上質のヤギ革
 Mod.E.,ModE	Modern English
 Modern English	近代英語(1500年ごろから現代まで;《略》『Mod.E.,mod E』)
 Mohammed	=Muhammad
@@ -296,7 +293,7 @@ Mount Vernon	マウントバーノン(米国Virginia州Potomac河畔にあるGeo
 Mount Zion	=Zion 1
 Mountain Daylight Time	(米国の)山地夏時間(日本との時差はマイナス15時間;《略》『MDT,M.D.T.』)
 Mountain Standard Time	(米国の)山地標準時(日本との時差はマイナス16時間;《略》『MST,M.S.T.』)
-Mountie, Mounty	カナダ騎馬警察隊員
+Mountie,Mounty	カナダ騎馬警察隊員
 Mozambique	モザンビーク(アフリカ南東部の共和国)
 Mozart	モーツアルト(『Wolfgang Amadeus』~;1756‐91;オーストリアの作曲家)
 Mr.,Mr	Mister / 《成人男子の姓・姓名の前に付けて》…『氏』,様,殿,君,さん,先生 / 《官職名・役職名の前に付けて》…殿 / 《電話で自分を名乗って》 / 《まれ》《自分の夫のことを他人に話すとき,また改まって》夫,主人 / 《一国・一団の代表的な男性に用いて》
@@ -428,16 +425,16 @@ magnum opus	(特に本の)代表作,傑作(masterpiece)
 magpie	カササギ(黒と白の羽をもち,カチカチと鳴くカラス科の鳥) / 《話》(カササギのような)おしゃべり屋
 magus	古代ペルシアの僧 / 《文》魔術師
 mahalo	(ハワイの言葉で)ありがとう・マハロ
-maharaja, maharajah	マハラージャ(インドで回教君主の位;その位を持つ君主)
+maharaja,maharajah	マハラージャ(インドで回教君主の位;その位を持つ君主)
 maharani,maharanee	マハラージャの妃
 mahatma	マハトマ / (バラモン教の)大知識,大聖 / 《Mahatma》インドで高貴な人の名に添える敬称
-mahjongg, mahjong	マージャン(麻雀)
-mahlstick	=maulstick
+mahjongg,mahjong	マージャン(麻雀)
+mahlstick,maulstick	=maulstick / 腕枕(わんちん)(画家が絵筆を持つ手を支えるのに使う杖)
 mahogany	〈C〉マホガニー(熱帯フメリカ産の赤褐色の堅い木;家具の材料) / 〈U〉赤褐色 / マホガニー製の / 赤褐色の
 mahout	(インドの)象使い
 mai tai	マイタイ(ラム酒と果物ジュースで作った甘いカクテル)
 maid	《文》《古》『少女』,おとめ;処女 / 『未婚の女性』 / 『お手伝いさん』,女中
-maid of honor, maid of honour	花嫁の付き添いをする未婚女性 / (女王・王女などに仕える)女官,待女
+maid of honor,maid of honour	花嫁の付き添いをする未婚女性 / (女王・王女などに仕える)女官,待女
 maiden	少女,娘 / 少女の;娘らしい / 未婚の,処女の / 初めての
 maiden name	女の結婚前の姓,旧姓
 maidenhair	アジアンタム(ハコネソウ・クジャクソウなどのシダ類)
@@ -561,10 +558,9 @@ maltose	麦芽糖
 maltreat	…を虐待する,酷使する
 maltreatment	虐待,酷使,冷遇
 maltster	麦芽製造人
-mama	=mamma
+mama,mamma	=mamma / 《小児語》おかあちゃん(mother)
 mamba	マンバ(アフリカ産の毒ヘビ)
 mambo	マンボ / American-Cuba 系のリズムを持つ舞曲 / この曲に合わせて踊るダンス / マンボを踊る
-mamma, mama	《小児語》おかあちゃん(mother)
 mammal	哺(ほ)乳動物
 mammary	乳房の
 mammography	(ガン早期発見用の)乳房レントゲン検査
@@ -610,7 +606,7 @@ mandrill	マンドリル(西アフリカ原産のヒヒの一種)
 mane	(馬などの)たてがみ
 manege,manège	調馬術,乗馬術
 manes	死者の霊 / (ローマ神話における)祖先の霊魂
-maneuver,manoeuvre	(軍隊・艦隊などの)機動作戦,作戦行動 / 《複数形で》大演習,機動演習 / 〈C〉巧妙な手,策略 / 〈部隊・艦隊・兵など〉を動かす / …を巧みに扱う(処理する),さばく / 〈軍隊・艦隊・兵が〉作戦行動を取る / (…に対して)計略を用いる,たくらむ《+for+名》
+maneuver,manoeuvre	(軍隊・艦隊などの)機動作戦,作戦行動 / 《複数形で》大演習,機動演習 / 〈C〉巧妙な手,策略 / 〈部隊・艦隊・兵など〉を動かす / …を巧みに扱う(処理する),さばく / 〈軍隊・艦隊・兵が〉作戦行動を取る / (…に対して)計略を用いる,たくらむ《+for+名》 / =maneuver
 maneuverable,manoeuvrable	操作(操縦)できる,機動可能な
 manful	男らしい,勇ましい
 manganese	マンガン(金属元素;化学記号は『Mn』)
@@ -660,7 +656,6 @@ mannerism	〈C〉〈U〉マンネリズム(文学・芸術の表現手段が型�
 mannerliness	礼儀正しいこと,ていねい
 mannerly	礼儀正しい,ていねいな
 mannish	(女が)男のような,男をまねた
-manoeuvre	=maneuver
 manometer	流体圧力測定器
 manometric	流体圧力測定器の(で測った)
 manor	(封建時代の領主の)領地;荘園 / (領主の)邸宅,(所有地・大農園などの)母屋(おもや)
@@ -739,7 +734,7 @@ maria	mareの複数形
 mariachi	マリアッチ (民族衣装をつけたメキシコの小人数編成路上楽団) ; 〈C〉その団員,楽士; 〈U〉マリアッチ(音楽) (マリアッチの演奏するメキシコのダンス音楽)
 mariculture	海水魚人工養殖
 marigold	キンセンカ(キク科の植物;花は赤みを帯びた黄色)
-marijuana, marihuana	インド大麻(たいま) / マリファナ(乾燥した大麻)
+marijuana,marihuana	インド大麻(たいま) / マリファナ(乾燥した大麻)
 marimba	マリンバ(木琴の一種)
 marina	マリーナ(モーターボート・ヨットなど小船舶用の港)
 marinade	マリネード(酢・ぶどう酒に油・香料などを混ぜたつけ汁で,魚肉などを浸す);〈C〉マリネードにつけた肉(魚) / =marinate
@@ -814,7 +809,7 @@ martyr	『殉教者』 / (信念・主義などに)殉ずる人,(…の)受難�
 martyrdom	殉教;殉教者の苦難,殉死 / 苦痛,苦難
 marvel	〈C〉『驚異』,驚き / 〈C〉《話》《a~》驚くほど(…)の人(物)《+『of』+『名』(抽象名詞)》 / (…に)『驚嘆する』,驚く《+『at』+『名』(do『ing』)》 / 《『marvel』+『that節』(『wh-節』)》〈…ということ,…かどうか〉に『驚嘆する』,を不思議に思う
 marvelous,marvellous	『驚嘆すべき』,信じがたい / 優秀な,すばらしい
-marvelously, marvellously	不思議に;すばらしく,奇妙に
+marvelously,marvellously	不思議に;すばらしく,奇妙に
 marvelousness,marvellousness	不思議;すばらしさ,奇妙
 marzipan	マーチパン(すりつぶしたアーモンドに砂糖・卵を加えて煮つめて作った菓子)
 masc.	masculine
@@ -838,12 +833,11 @@ masonry	石工職,れんが職 / 石(れんが)工事;石造(れんが造り)建
 masque	仮面劇(16‐17世紀ごろ英国貴族間に流行した一種の無言劇) / 仮装舞踏会
 masquerade	仮装舞踏会 / 仮装;見せかけ / 仮面舞踏会に出る / (…に)仮装する,変装する《+『as』+『名』》
 masquerader	仮面舞踏者;仮装(変装)した人
-mass	〈C〉(一定の形をもたない物に用いて)(…の)『固まり』,集まり《+『of』+『名』》 / 〈C〉『多数』,多量(の…)《+『of』+『名』》 / 〈C〉《the ~》『大部分』(の…),(…の)主要部《+『of』+『名』》 / 〈U〉(物体の)大きさ,かさ / 《the masses》『一般大衆』,庶民 / 〈U〉質量(物体の基本的性質を表す量) / 〈人・物〉を集める,一団にする / 〈人・物が〉一かたまりになる,一団となる / 大衆の,一般に普及した / 大規模な
+mass,Mass	〈C〉(一定の形をもたない物に用いて)(…の)『固まり』,集まり《+『of』+『名』》 / 〈C〉『多数』,多量(の…)《+『of』+『名』》 / 〈C〉《the ~》『大部分』(の…),(…の)主要部《+『of』+『名』》 / 〈U〉(物体の)大きさ,かさ / 《the masses》『一般大衆』,庶民 / 〈U〉質量(物体の基本的性質を表す量) / 〈人・物〉を集める,一団にする / 〈人・物が〉一かたまりになる,一団となる / 大衆の,一般に普及した / 大規模な / ミサ(カトリック教会の聖餐(せいさん)式)
 mass communication	(新聞・ラジオ・テレビなどによる)大衆伝達,マスコミ
 mass media	大衆伝達の媒体(放送,新聞,映画など)
 mass number	質量数(原子核を構成する中性子と陽子の個数の和)
 mass production	大量生産
-mass, Mass	ミサ(カトリック教会の聖餐(せいさん)式)
 mass-market paperback	大市場用ペーパーバック(スーパーなどで売る)
 mass-produce	(特に機械を利用して)〈物〉を大量生産する,量産する
 massacre	大虐殺,皆殺し / …を虐殺する,皆殺しにする
@@ -932,7 +926,7 @@ matrixing	マトリクシング(4チャンネルに再生転換できる2チャ�
 matron	《文》(品位のある年配の)既婚婦人;夫人 / 看護婦長,寮長,保母,女囚監督者
 matron of honor	花嫁の介添役の既婚婦人
 matronly	既婚婦人らしい;品のある,落ち着いた
-matt, matte	mat(色[つや]の鈍い,光らない,つや消しの)
+matt,matte	mat(色[つや]の鈍い,光らない,つや消しの)
 matted	もつれた
 matter	〈U〉『物質』,物体(個体・液体のいづれの状態も含む) / 〈U〉《修飾語を伴って》…体,…質,…素 / 〈C〉(論議・関心の的となる)『事柄』,『問題』;(…に関わる)事,(…で決まる)問題《+『of』(まれ『for』)+『名』》 / 〈U〉《the~》(漠然と)(…にとって)困った事,やっかいな事,事故,支障《+『with』+『名』》 / 〈U〉『重大事』,重要性(importance),関心法 / 〈U〉(演説・論文などの)内容《+『of』+『名』》;(演説などの)題材《+『for』+『名』》 / 〈U〉《修飾語を伴って》…郵便物,…印刷物 / 〈U〉(傷口から出る)うみ(pus) / 『重要である』,大切である
 matter of course	自然の成りゆき,あたりまえの事
@@ -951,7 +945,6 @@ matutinal	朝の,早朝の
 matzo	マッツォ(ユダヤ人が過ぎ越しの祭に食べるクラッカー状のパン)
 maudlin	いやに感傷的な,ひどく涙もろい,泣きじょうごの
 maul	(くいなどを打ち込む)大づち,かけや / …を打って傷つける / …を手荒に扱う
-maulstick,mahlstick	腕枕(わんちん)(画家が絵筆を持つ手を支えるのに使う杖)
 maunder	(…について)だらだら話す《+『on about』+『名』》 / ぼんやり歩き回る(さまよう)《+『along』(『about』)》
 mausoleum	霊廟(れいびょう)
 mauve	薄紫色,ふじ色 / ふじ色の
@@ -1054,7 +1047,7 @@ meddler	おせっかいをやく人
 meddlesome	おせっかいな
 medevac	(戦場の)負傷者救出用ヘリコプター
 media	mediumの複数形
-mediaeval	=medieval
+mediaeval,medieval	=medieval / 『中世の』,中世に属する;中世ふうの / 《話》旧式の
 medial	中間の,中間に位置する / 平均の,並なみの
 median	中央の,中間の / 中間数の,中央値の / (統計・数学で)中間数,中央値;中点
 mediate	〈紛争・相違点など〉を調停する,仲裁する / 〈妥協・和解・同意など〉を仲裁して成立させる / (両者の)調停をする《+『between』+『名』》 / 仲介者(媒介物)を通じての,間接の
@@ -1074,7 +1067,6 @@ medicine ball	メジシンボール(バスケットボールより大きくて�
 medicine chest	薬箱
 medicine man	(北米インディアンの)呪医(じゅい)
 medico	医師,医学生
-medieval,mediaeval	『中世の』,中世に属する;中世ふうの / 《話》旧式の
 mediocre	月並みの,平凡な;中途半端な
 mediocrity	〈U〉普通,並み / 〈C〉並みの人
 meditate	(…を)『慎重に考える』,熟考する《+『on』(『upon』)+『名』(do『ing』)》 / (特に宗教的な意味で)瞑想(めいそう)する / …を『もくろむ』,企てる
@@ -1318,9 +1310,8 @@ meteorol	meteorological / meteorology
 meteorological	気象学の;気象学上の
 meteorologist	気象学者
 meteorology	気象学
-meter	(ガス・水・電気などの)『計器』,メーター / (時間・速度・距離・強度などを測定,記録する)メーター,計器
+meter,metre	(ガス・水・電気などの)『計器』,メーター / (時間・速度・距離・強度などを測定,記録する)メーター,計器 / 『メートル』(メートル法で長さの基本単位;『3.28』フィートに相当;《略》『m』) / (詩の)韻律 / (楽曲の)拍子 / =meter / =meter
 meter maid	駐車メーターを調べて違反を取り締まる婦人警官
-meter,metre	『メートル』(メートル法で長さの基本単位;『3.28』フィートに相当;《略》『m』) / (詩の)韻律 / (楽曲の)拍子
 meter-kilogram-second	メートルキログラム秒単位の
 methane	メタン
 methanol	=methyl alcohol
@@ -1334,7 +1325,6 @@ methyl alcohol	メチルアルコール
 methylated spirits	変性アルコール(ランプ・ヒーターに用いる)
 meticulous	細かなことに気を配る;(…に)細かく気を配る《+『in』+『名』(do『ing』)》
 metier	専門[分野],職業,仕事
-metre	=meter / =meter
 metric	メートル法の / =metrical
 metric system	メートル法(10進法の度量衡の単位)
 metric ton	メートルトン,トン(1,000キログラムに相当する重さの単位)
@@ -1474,7 +1464,7 @@ mildly	おだやかに,温和に / わずかに,ほんの少し
 mildness	柔和さ,温和な性質 / 適度な状態,おだやかさ
 mile	〈C〉『マイル』(長さの単位;1609メートル) / 《the ~》1マイル競走(mile race) / 〈C〉《複数形で》《話》長い距離;多量,たくさん
 mileage	《時にa ~》(一定期間に走った)総マイル数 / 《時にa ~》(一定量の燃料による)自動車走行マイル数 / 《時にa ~》マイル当たりの費用 / 《話》使用[量];利益
-mileometer,milometer	(車の)走行距離計
+mileometer,milometer	(車の)走行距離計 / =mileometer
 milepost	(ある場所との距離を示した)マイル標,里程標
 miler	1マイル競走者(馬)
 milestone	(次の町までの距離を示すために道ばたに立てられた)里程標 / (歴史・人生での)重大なでき事,重大事件
@@ -1521,7 +1511,7 @@ millage	(不動産などの)税率(1ドル当たりをミル(mill)という単�
 millboard	ミルボード(書籍の表紙用のじょうぶな板紙)
 milldam	水車用のせき
 millennium	〈C〉1000年間 / 《the ~》至福千年(キリストが再臨してこの世を治めるという神聖な1000年間;新約聖書「ヨハネの黙示録」) / 《the ~》(待ち望まれる幸福と平和と繁栄の)黄金時代,理想的な時代
-millepede	=millipede
+millepede,millipede	=millipede / ヤスデ(陸生節足動物)
 miller	『粉屋』,製粉業者,水車屋 / 白い蛾(が)(体・羽に白い粉がふいている)
 millet	キビ,アワ(粟) / (穀物の)きび,あわ
 milli ampere	ミリアンペア(1アンペアの1000分の1)
@@ -1536,7 +1526,6 @@ milling	うすでひくこと,製粉 / (貨幣のふちなどに)ぎざぎざを
 million	『100万』 / (貨幣単位の)100万 / 《複数形で》(…の)多数,たくさん《+『of』+『名』》 / 『100万の』 / 多数の
 millionaire	『百万長者』,大金持ち
 millionth	《the ~》第100万の,100万番目の / 100万分の1の / 〈U〉《the ~》第100万,100万番目[のもの] / 〈C〉100万分の1
-millipede,millepede	ヤスデ(陸生節足動物)
 millisecond	ミリセカンド(1秒の1000分の1)
 millivolt	ミリボルト(1ボルトの1000分の1)
 millpond	(水車用)貯水池,水車池
@@ -1545,7 +1534,6 @@ millstone	ひきうす / 重荷;やっかい者
 millstream	水車用導水路の流れ
 millwheel	水車の輪
 millwright	水車大工
-milometer	=mileometer
 milord	御前(ごぜん)様,だんな
 milquetoast	気の弱い人,いくじなし
 milt	(雄魚の)魚精,白子
@@ -1670,8 +1658,8 @@ miry	泥だらけの;泥沼の
 misadventure	不幸,不運(misfortune);〈C〉不運なでき事,災難
 misadvise	〈人〉に誤った忠告をする,不適当な助言をする
 misalliance	(特に,家柄・身分などが)不釣り合いな結婚
-misanthrope, misanthropist	人間(交際)ぎらいの人
-misanthropic, misanthropical	人間(交際)ぎらいの,厭世的な
+misanthrope,misanthropist	人間(交際)ぎらいの人
+misanthropic,misanthropical	人間(交際)ぎらいの,厭世的な
 misanthropy	人間ぎらい,人間不信
 misapplication	誤用,乱用
 misapply	…の適用を誤る,を乱用する
@@ -1814,12 +1802,11 @@ misunderstanding	(…を)誤解すること《+『of』+『名』》
 misunderstood	misunderstandの過去・過去分詞
 misuse	…を誤用する / …を虐待する,酷使する / (…の)誤用,乱用《+『of』+『名』》
 mite	ダニ(動植物や貯蔵品などに寄生する虫) / 〈U〉《時にa ~》(…の)ごく少量,ごく少額,ほんのちょっぴり《+『of』+『名』》 / 〈C〉《話》ごく小さいもの,小動物,小銭;少額の寄付 / 《a ~》《副詞的に》ちょっと
-miter,mitre	司教冠,法冠(カトリック教会のbishop(司教)などが儀式のときにかぶる) / (また『miter joint』)(木工で)斜め継ぎ面,斜め継ぎ
+miter,mitre	司教冠,法冠(カトリック教会のbishop(司教)などが儀式のときにかぶる) / (また『miter joint』)(木工で)斜め継ぎ面,斜め継ぎ / =miter
 mitigate	〈苦痛・怒りなど〉を和らげる,鎮める;〈刑罰など〉を軽くする
 mitigating circumstances	(刑期・罰金の)情状酌量
 mitigation	(苦痛・怒りなどを)緩和すること;(刑罪を)軽減すること《+『of』+『名』》
 mitosis	有糸分裂(一つの細胞が分裂して二つの細胞になること)
-mitre	=miter
 mitt	(野球で,特にキャッチャー・一塁手用の)ミット / 婦人用の長手袋(絹・レースなどで作られ,指先がなくひじまでおおう) / =mitten / 《俗》《おどけて》手
 mitten	ミトン(親指だけ離れて他の4本はいっしょにはいる手袋) / =mitt(婦人用の長手袋(絹・レースなどで作られ,指先がなくひじまでおおう))
 mix	〈複数のもの〉を『混ぜ合わせる』,混合する,混同する / …を混ぜ合わせて作る,調合して作る / …を寄せ集める,まとめる / 〈物が〉(…と)混ざる,混合する《+『with』+『名』》 / 〈人が〉(他の人と)交わる,交際する《+『with』+『名』》 / 〈C〉〈U〉混合 / 〈C〉混合物(食品,薬) / 〈C〉〈U〉(水・火を加えて即席にでき上がる)素(もと),ミックス
@@ -1861,7 +1848,7 @@ mocker	あざける人,からかう人;(からかって)まねする人 / モノ
 mockery	(…を)あざけること,あざけった言葉(ふるまい)《+『of』+『名』》 / 〈C〉ちょう笑の的 / 〈C〉まがい[物],にせ,茶番
 mockingbird	マネシツグミ(北米南部及び西インド諸島産で,他の鳥の鳴き声をまねる)
 mockingly	あざけって,ばかにして
-mockup, mock-up	実物大の模型
+mockup,mock-up	実物大の模型
 mod	モッズふうな(服装・音楽などについて伝統にとらわれない考え方の一つ)[modernの短縮形]
 mod.	moderate
 modal	様式の,形態上の / 《名詞の前にのみ用いて》(動詞の)法(mood)の,叙法の / =modal auxiliary
@@ -1908,12 +1895,12 @@ moke	(英俗)ろば(donkey)
 mol.	molecular / molecule
 molar	臼歯(きゅうし)
 molasses	糖みつ(砂糖精製中に粗糖から出る液); 糖液・糖蜜・(サトウキビの)糖液・モラス(スコットランドの糖蜜から作る蒸留酒)ラテン語「はち蜜」の意
-mold,mould	沃土(よくど),肥土,耕土 / (かびを生やす)糸状菌 / かび / かびが生える / 〈C〉(材料を流し込んで特定の形を作る)『型』;鋳型(いがた);(プディング・ゼリー用の)流し型 / 〈C〉型に入れて作った物 / 〈U〉〈C〉(一般に)(…の)形,姿(shape)《+『of』+『名』》 / 〈U〉《文》(人の)特性,性格,性質 / (…の材料で)…を『型に入れて作る』,型どる《+『名』+『in』(『out of, from』)+『名』》 / 〈材料〉を型に入れて(…の形に)する《+『名』+『into』+『名』》 / (…を手本にして)〈人格など〉を形成する《+『on』(『upon』)+『名』》
+mold,mould	沃土(よくど),肥土,耕土 / (かびを生やす)糸状菌 / かび / かびが生える / 〈C〉(材料を流し込んで特定の形を作る)『型』;鋳型(いがた);(プディング・ゼリー用の)流し型 / 〈C〉型に入れて作った物 / 〈U〉〈C〉(一般に)(…の)形,姿(shape)《+『of』+『名』》 / 〈U〉《文》(人の)特性,性格,性質 / (…の材料で)…を『型に入れて作る』,型どる《+『名』+『in』(『out of, from』)+『名』》 / 〈材料〉を型に入れて(…の形に)する《+『名』+『into』+『名』》 / (…を手本にして)〈人格など〉を形成する《+『on』(『upon』)+『名』》 / =mold
 moldboard	(うねの土をはね返す)すき板;(ブルドーザーの)ブレード
-molder,moulder	朽ち果てる,崩れ去る《+『away』》
+molder,moulder	朽ち果てる,崩れ去る《+『away』》 / =molder
 moldiness,mouldiness	かび臭さ / 陳腐,時代遅れ
-molding,moulding	〈U〉型で作ること,形作ること / 〈C〉型で作られたもの,塑像(そぞう),鋳造物 / 《しばしば複数形で》くり形,モールディング 《軒じゃばら・抱(だ)き石・家具などの突出部を装飾する輪郭部》
-moldy,mouldy	かびの生えた / かび臭い(musty) / 《話》古臭い,陳腐な,時代遅れの
+molding,moulding	〈U〉型で作ること,形作ること / 〈C〉型で作られたもの,塑像(そぞう),鋳造物 / 《しばしば複数形で》くり形,モールディング 《軒じゃばら・抱(だ)き石・家具などの突出部を装飾する輪郭部》 / =molding
+moldy,mouldy	かびの生えた / かび臭い(musty) / 《話》古臭い,陳腐な,時代遅れの / =moldy
 mole	モグラ / ほくろ,あざ / 防波堤,突堤 / モル,グラム分子(化学分子量をグラムで表したもの)
 molecular	分子の,分子による
 molecule	分子《略》『mol』) / (一般に)(…の微量《+『of』+『名』》
@@ -1926,7 +1913,7 @@ mollification	(怒りなどの)鎮静,なだめること
 mollify	〈人・怒り・強い感情など〉をなだめる,和らげる
 mollusk,mollusc	軟体動物(貝・イカ・タコの類)
 mollycoddle	(特に甘やかされて)めめしい男,軟弱な男;弱虫 / …を甘やかす
-molt,moult	〈鳥・犬などが〉羽毛(毛)が抜け替わる;〈昆虫・爬虫(はちゅう)類が〉脱皮する / 〈羽毛・毛・外皮・殻など〉を脱ぐ / (羽毛・外皮などの)抜け替わること,脱皮
+molt,moult	〈鳥・犬などが〉羽毛(毛)が抜け替わる;〈昆虫・爬虫(はちゅう)類が〉脱皮する / 〈羽毛・毛・外皮・殻など〉を脱ぐ / (羽毛・外皮などの)抜け替わること,脱皮 / =molt
 molten	(金属などが)熱で溶けた
 molto	(音楽用語で)非常に
 molybdenum	モリブデン(金属元素;化学記号は『Mo』)
@@ -1941,7 +1928,7 @@ momentum	〈U〉〈C〉運動量(運動する物体の質量と速度の相乗�
 momma	=mama
 mommy	おかあちゃん(mom)(《英》mummy)
 monarch	『君主』,帝王 / オオカバマダラ(北米産の赤茶色と黒のまだらの大きなチョウ)
-monarchic, monarchical	君主の;君主制の / 君主政治の;君主制支持の
+monarchic,monarchical	君主の;君主制の / 君主政治の;君主制支持の
 monarchism	君主制 / 君主制主義
 monarchist	君主制主義者
 monarchy	〈U〉君主政体(政治) / 〈C〉君主国
@@ -1955,12 +1942,12 @@ monetary	貨幣の,通貨の / 金銭上の;金銭についての
 money	〈U〉『金』(かね),金銭;通貨 / 〈U〉(金銭的な)利益,もうけ;富,財産 / 《複数形で》(政府・公共事業などの)財源,基金(funds)
 money of account	計算貨幣(計算だけに用いられる貨幣の名称;ミル(mill)=1000分の1ドルなど)
 money order	郵便為替(かわせ),銀行為替(《略》M.O.)(《英》postal order)
-money spinner, money-spinner	金つむぎ(オニグモの一種;このクモが体をはうと金もうけができるといわれる) / 金をどっさりもたらすもの
+money spinner,money-spinner	金つむぎ(オニグモの一種;このクモが体をはうと金もうけができるといわれる) / 金をどっさりもたらすもの
 money supply	通貨供給量;貨幣供給量;マネーサプライ
 money tree	(伝説・童話などで)金のなる木 / 《話》よい収入源
 moneybag	(銀行などに運ぶときに用いる)金袋 / 《複数形で》《単数扱い》《話》金持ち
 moneychanger	両替屋;両替機
-moneyed,monied	金のある,金持ちの(wealthy)
+moneyed,monied	金のある,金持ちの(wealthy) / =moneyed
 moneygrubber	金にどん欲な人,守銭奴
 moneylender	金貸し
 moneymaker	金もうけのうまい人 / 金もうけになるもの
@@ -1968,7 +1955,6 @@ moneymaking	金がもうかる,金もうけのできる / 金もうけ
 monger	《英》(特に小規模の)商人 / 《複合語を作って》「…商」「…屋」の意を表す
 mongoose	マングース(イタチに似たネコ科の動物)
 mongrel	雑種の動物;(特に)雑種犬 / 《軽べつして》混血児;雑種 / 《名詞の前にのみ用いて》雑種の,混血の
-monied	=moneyed
 monism	(哲学理論での)一元論
 monition	《文》訓戒,警告 / (裁判所の)出頭命令,召喚
 monitor	(人の行為についての)訓戒者,勧告者;監視役 / 『学級委員』,級長,(学校の)風紀委員 / (無電など機械の)監視装置:外国放送受信係 / 『モニター』(新聞・ラジオに感想・批評を提供する人) / (アフリカ・南アジア・オーストラリア産の)大トカゲ / 〈人の行動〉を監視する,監督する / 〈機械〉を監視する,の正誤を確かめる
@@ -2122,12 +2108,11 @@ mortarboard	こて板(石工・左官がモルタルを受けるのに用いる�
 mortgage	『抵当』,担保;抵当権 / 抵当証書 / …を抵当に入れる / (あるものを得ようとして)〈命など〉を投げ出してかかる,賭ける
 mortgagee	抵当権者
 mortgagor,mortgager	抵当権設定者
-mortice	=mortise
+mortice,mortise	=mortise / ほぞ穴(木材などの結合のための穴) / 〈木材など〉にほぞ穴を掘る / 〈木材〉をほぞで接合する
 mortician	葬儀屋(《英》undertaker)
 mortification	〈U〉くやしさ,屈辱;〈C〉くやしさの種 / 〈U〉(宗教的な)苦行,禁欲 / 〈U〉脱疽(だっそ),壊疽(えそ)
 mortify	〈感情・欲情など〉を抑制する,克服する / 《しばしば受動態で》…をくやしがらせる
 mortise lock	彫込み錠(ドアなどの端を彫り込んで取り付ける錠)
-mortise,mortice	ほぞ穴(木材などの結合のための穴) / 〈木材など〉にほぞ穴を掘る / 〈木材〉をほぞで接合する
 mortuary	(病院内の)死体仮置場;葬儀場,葬式会場(funeral home)・死の;埋葬の
 mos.	months
 mosaic	〈U〉モザイク(ガラス・木材・石などを組み合わせて図案化したもの) / 〈C〉《単数形で》モザイク画;モザイク模様
@@ -2198,11 +2183,6 @@ motortruck	貨物自動車
 motorway	《英》=expressway
 mottle	《受動態で》…をまだらにする,ぶちにする / ぶち,まだら,斑点(はんてん)
 motto	『モットー』,教え(戒め)とする言葉,座右の銘 / (器物・貨幣・記念碑などにしるす)題句,題銘,処世訓,金言,標語
-mould	=mold
-moulder	=molder
-moulding	=molding
-mouldy	=moldy
-moult	=molt
 mound	『盛り土』,塚;土手,古墳 / (自然の)『小さい丘』,小山 / (一般に)盛り上げたもの,堆積 / (野球の投手の)マウンド
 mount	…を『登る』(ascend, climb) / 〈馬・車〉に『乗る』,〈台の上など〉に上がる,乗る / (馬などに)〈人〉を『乗せる』《+『名』〈人〉+『on』+『名』》 / (…の上に)…を『載せる』《+『名』+『on』+『名』》 / (…に)…を据え付ける,はめる,取り付ける,はる《+『名』+『in』(『on』)+『名』》 / 〈劇〉に舞台装置や衣装を用意する / 〈攻撃など〉を仕掛ける;〈作戦など〉を展開する / 『登る』,上がる《+『up』》 / 『馬』(乗用の動物)『に乗る』 / (数・量において)ふえる,(程度において)高まる,強まる《+『up』》 / 乗用の動物,(特に)馬 / 台紙;(宝石などの)台;(顕微鏡用の)スライド板 / 〈C〉《文》『山』 / 《『M-』》《固有名詞の前に付けて》…『山』
 mountain	『山』 / 《the…Mountains》…『山脈』 / 《a~》山(のような…),(…の)山《+『of』+『名』》 / 《a~》多数(の…),多量(の…)《+『of』+『名』》
@@ -2236,7 +2216,7 @@ mousetrap	ネズミ取り器
 mousiness	ネズミに似ていること;ネズミが多いこと / (人が)こっそり(おずおず)していること
 moussaka	ムサカ(肉とナスを材料にしたギリシア料理)
 mousse	ムース(クリーム・卵の白身などで作った冷凍菓子)
-moustache	《おもに英》=mustache
+moustache,mustache	《おもに英》=mustache / 『口ひげ』
 mousy	ネズミの / (色・においなどが)ネズミに似た / (人が)こっそりとした,おずおずした
 mouth	(人・動物の物を食べたり,音を発する)『口』,口腔 / (口に似た)開口部;(袋・びんなどの)口,(銅穴・峡谷などの)入り口;河口,港口 / …を大げさに口を動かし気どってしゃべる / 〈信じていないこと・理解していないこと〉を口にする / …を口に入れる,かむ,なめる
 mouth-to-mouth	(人工呼吸などで)口移しの
@@ -2326,7 +2306,7 @@ mulligan	マリガンシチュー(肉と野菜などのごった煮のシチュ�
 mulligatawny	マリガトーニースープ(東インド地方のカレーで味付けしたスープ)
 mullion	(窓の)縦仕切り;(丸窓の)放射状仕切り
 mullioned	(窓が)縦仕切りの;放射状仕切りのついた
-multicolored, multicoloured	多色の,多彩の
+multicolored,multicoloured	多色の,多彩の
 multifarious	種々様々の,雑多の
 multiform	多くの形態を持っている;多様な
 multilateral	多辺の / 多国間の
@@ -2432,7 +2412,6 @@ musquash	ジャコウネズミの毛皮,マスクラット皮
 muss	《米話》…をめちゃくちゃにする…をしわくちゃにする《+『up』+『名,』+『名』+『up』》 / 《米話》混乱;騒動
 mussel	ムラサキガイ(食用・ボタン用の二枚貝)
 must	《義務・必要》…『ねばならない』,すべきである / 《命令・強制》…『ねばならない』,…せよ;《否定文では禁止》…『してはいけない』 / …『にちがいない』,きっと…のはずだ;《「must have+過去分詞」の形で》…であったに違いない,きっと…であったはずだ / 『必ず…する』,…は避けられない / どうしても…しないと承知しない / 《話》《過去のあいにくのでき事》あいにく…した / 《話》絶対必要なもの,欠かせないもの,必ず見る(聞く,読む)べきもの / 《名詞の前にのみ用いて》絶対必要な,不可欠の
-mustache,moustache	『口ひげ』
 mustachio	《複数形で》大きな口ひげ
 mustang	ムスタング(米国平原地帯の半野生または野生の小型の馬)
 mustard	カラシ(アブラナ属の植物の総称) / マスタード,粉(練り)からし

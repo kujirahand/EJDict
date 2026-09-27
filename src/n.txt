@@ -1,13 +1,11 @@
-N	nitrogenの化学記号
-N,N.	North; Northern
-N,n	英語アルファベットの第14字(子音字) / N字型のもの / 《n》不定整数
+N,N.,n	nitrogenの化学記号 / North; Northern / 英語アルファベットの第14字(子音字) / N字型のもの / 《n》不定整数
 N-bomb	核爆弾
 N.A.	North America / not applicable(不適格) / not available(該当なし)
 N.B.,n.b.	ラテン語
 N.C.,NC	North Carolina
 N.D.,ND	North Dakota
 N.Dak.	North Dakota
-N.E.	New England / North-East[ern]
+N.E.,NE	New England / North-East[ern] / Nebraska / northeast[ern] / northeast; northeastern
 N.G.	National Guard《米》州民軍,州兵 / (また『n.g.』)no good
 N.H.,NH	New Hampshire
 N.J.,NJ	New Jersey
@@ -24,8 +22,6 @@ NATO	North Atlantic Treaty Organization
 NB	Nebraska
 NBS	National Bureau of Standards《米》規格基準局
 NCO	Noncommissioned Officer陸軍下士官
-NE	Nebraska / northeast[ern]
-NE,N.E.	northeast; northeastern
 NEA	National Education Association《米》連邦教育委員会
 NEB	New English Bible新英訳聖書
 NET	National Educational Television 米教育テレビジョン
@@ -252,7 +248,7 @@ narrowness	(幅が)狭いこと / (範囲などが)限られていること
 narthex	拝廊(教会の正面入口から本堂の至る広間になっている廊下)
 narwhal	イッカク(寒帯の海に住む鯨の一種で,雄には角のような長いきばが一本ある)
 nasal	《名詞の前にのみ用いて》鼻の / 鼻声の / (音声が)鼻音の / (音声で)鼻音;鼻音字([m][n][g])
-nasalization, nasalisation	鼻音化
+nasalization,nasalisation	鼻音化
 nasalize,nasalise	…を鼻声で発音する,鼻音化する / 鼻声で言う
 nascent	始まりの,初期の
 nastily	不快に / 意地悪く / みだらに
@@ -277,7 +273,7 @@ nationalistic	=nationalist
 nationalistically	国家(国粋)主義的に;民族独立主義[者]的に
 nationality	〈U〉国籍 / 〈C〉民族 / 〈U〉国家としての独立
 nationalization,nationalisation	(…の)国民化《+『of』+『名』》 / (…の)国有化,国営化《+『of』+『名』》
-nationalize, nationalise	〈土地・産業など〉を国有化する / …を全国的にする,国家的にする
+nationalize,nationalise	〈土地・産業など〉を国有化する / …を全国的にする,国家的にする
 nationally	国家的に,国家的見地から / 国全的に
 nationwide	全国的な
 native	《名詞の前にのみ用いて》『出生地の』,母国の / 『生まれつきの』,生来の / 原産の,土地特有の / 《名詞の前にのみ用いて》土着の;《今はまれ》原住民の,原住民特有の / 天然のままの;純粋な / (…)『生まれの人』《+『of』+『名』》 / (移民・旅行者などと区別して)土着の人;《今はまれ》原住民 / (…に)固有の動物(植物);(…の)原産物《+『of』+『名』》
@@ -313,7 +309,7 @@ naughtiness	わんぱく
 naughty	(子供が)『いたずらな』 / 《遠回しに》みだらな,わいせつな
 nausea	吐き気 / 強い嫌悪(けんお)(loathing)
 nauseate	…に吐き気を起こさせる / …にひどくいやな感じを与える
-nauseous	 {形}吐き気を催すような / 吐き気がする / (比喩的)不快な,むかむかする
+nauseous	{形}吐き気を催すような / 吐き気がする / (比喩的)不快な,むかむかする
 naut.	nautical
 nautch	ノーチ(インドの踊り子の演じるショーダンス)
 nautical	船の;船員の;航海の
@@ -446,7 +442,7 @@ nerve cell	神経細胞
 nerve center	神経中枢
 nerve fiber	神経繊維
 nerve gas	神経ガス(呼吸神経などを冒す軍事用毒ガス)
-nerve-racking, nerve-wracking	神経にさわる,いらいらさせる
+nerve-racking,nerve-wracking	神経にさわる,いらいらさせる
 nerveless	勇気のない,意気地のない,力のない(weak) / 冷静な,落ち着いた(calm) / 神経のない;葉脈(翅脈)のない
 nervous	『神経の』 / 『神経質な』,神経過敏な / 『心配な』,不安な
 nervous breakdown	神経衰弱
@@ -648,11 +644,10 @@ nippy	すばしこい / 身を切るような / ぴりっとくる
 nirvana	〈U〉《『N-』》ねはん(仏教の用語) / 〈C〉〈U〉苦痛・悩み・世俗を超越していること(した場所)
 nisi	(法律で)仮判決の(一定期間内に異議を申し立てない限り効力を発する)
 nit	(シラミなどの)卵,幼虫 / 《英》=nitwit
-niter,nitre	硝酸カリウム,硝石(火薬原料) / 硝酸ナトリウム,チリ硝石(肥料用)
+niter,nitre	硝酸カリウム,硝石(火薬原料) / 硝酸ナトリウム,チリ硝石(肥料用) / =niter
 nitpick	(…のことで)こまごまとこだわる,せんさくする《+『at』+『名』》
 nitpicker	細かいことにこだわる人,あら探しする人
 nitrate	硝酸塩 / 硝酸塩類化学肥料
-nitre	=niter
 nitric	窒素の,窒素を含む
 nitric acid	硝酸
 nitride	窒化物
@@ -660,7 +655,7 @@ nitrify	…を硝化する,亜硝酸に変える / …に窒素[化合物]をし
 nitrite	亜硝酸塩
 nitrocellulose	ニトロセルロース,硝酸繊維素
 nitrogen	『窒素』(気体元素;化学記号は『N』)
-nitroglycerin, nitroglycerine	ニトログリセリン(ダイナマイトの原料;俗称nitro)
+nitroglycerin,nitroglycerine	ニトログリセリン(ダイナマイトの原料;俗称nitro)
 nitrous	(特に3価の)窒素の,窒素を含む
 nitrous acid	亜硝酸
 nitrous oxide	=laughing gas
@@ -855,7 +850,7 @@ nosebleed	鼻血
 nosecone	ノーズコーン(ロケット先端の円錐(えんすい)形部分)
 nosedive	〈飛行機が〉急降下する / 《比喩(ひゆ)的に》急に落ちる / (機首を下に向けた)垂直降下,急降下 / 《比喩(ひゆ)的に》(価格などの)急落
 nosegay	(特に,服につける香りのよい)小さな花束
-nosey	=nosy
+nosey,nosy	=nosy / せんさく好きの,おせっかいな
 nosh	間食をする,つまみ食いする / 《おもに英俗》食べる / 〈U〉食べ物 / 〈C〉《単数形で》食べること
 nosh-up	すごいごちそう
 nosher	間食の多い人,つまみ食いをする人
@@ -866,7 +861,6 @@ nostalgically	昔を懐しんで,郷愁で
 nostril	鼻孔
 nostrum	(製造会社が自己宣伝する)妙薬,万能薬 / 《やや皮肉に》(解決のための)妙案,秘策
 nosy parker	せんさく好きな人,おせっかいやき
-nosy, nosey	せんさく好きの,おせっかいな
 not	《助動詞,be動詞,時にhaveと共に,また一般動詞にはdoを添えて文の否定を表して》…『でない』,しない / 《語・句・節を否定して》…『でなく』 / 「not+形(副)」は否定される形容詞・副詞の反対の意味を強調することがある / notの意が及ぶ範囲の違いによって,意味解釈に違いが生じることがある / 《不定詞・分詞・動名詞を否定して》…[『し』]『ない』 / 《all, everyなどとともに用いて部分否定を表して》(全部が…なのでは)『ない』,(必ずしも…では)『ない』 / 《any, eitherなどに伴って全面否定を表して》(全然…)『しない』,(どちらも…)『しない』 / 《省略文でnotを含む句・節の代用として》『そうではない』
 not sufficient funds	(銀行の)預金不足
 nota bene	= note well(注意せよ) / 注意[せよ]《略》『N.B.,nb.』

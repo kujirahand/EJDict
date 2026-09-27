@@ -3,6 +3,7 @@ name: Validate and build dictionary
 on:
   push:
     branches: [master]
+    tags: ['v*']
   pull_request:
   workflow_dispatch:
 
@@ -48,3 +49,20 @@ jobs:
           path: |
             release/
             *.zip
+
+  release:
+    needs: validate-and-build
+    if: startsWith(github.ref, 'refs/tags/v')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: ejdict-release-artifacts
+      - uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            ejdic-hand-txt.zip
+            ejdic-hand-json.zip
+            ejdic-hand-sqlite.zip

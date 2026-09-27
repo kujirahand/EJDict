@@ -31,21 +31,28 @@ foreach ($files as $file) {
         }
         
         $cells = explode("\t", $line);
-        $word = isset($cells[0]) ? trim($cells[0]) : '';
-        if ($word === '') {
+        $rawWord = isset($cells[0]) ? trim($cells[0]) : '';
+        if ($rawWord === '') {
             continue;
         }
         
-        // 重複チェック
-        if (isset($words[$word])) {
-            $prev = $words[$word];
-            echo "[ERROR] Duplicate word '$word' found in $fname:$lineNo (previously defined in {$prev['file']}:{$prev['line']})\n";
-            $flagError = TRUE;
-        } else {
-            $words[$word] = [
-                'file' => $fname,
-                'line' => $lineNo
-            ];
+        // tojson.php と同様に、カンマ区切りの異表記を展開して各トークンを重複チェック
+        $tokens = explode(',', $rawWord);
+        foreach ($tokens as $token) {
+            $word = trim($token);
+            if ($word === '') {
+                continue;
+            }
+            if (isset($words[$word])) {
+                $prev = $words[$word];
+                echo "[ERROR] Duplicate word '$word' found in $fname:$lineNo (previously defined in {$prev['file']}:{$prev['line']})\n";
+                $flagError = TRUE;
+            } else {
+                $words[$word] = [
+                    'file' => $fname,
+                    'line' => $lineNo
+                ];
+            }
         }
     }
 }

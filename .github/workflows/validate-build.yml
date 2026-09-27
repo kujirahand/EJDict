@@ -17,12 +17,15 @@ jobs:
       - uses: shivammathur/setup-php@v2
         with:
           php-version: '8.3'
+          extensions: pdo_sqlite, sqlite3
       - name: Install build tools
         run: |
           sudo apt-get update
           sudo apt-get install -y just sqlite3 zip
       - name: Validate source data
         run: just check
+      - name: Clean output directory
+        run: just clean
       - name: Build release artifacts
         run: just build
       - name: Verify generated artifacts

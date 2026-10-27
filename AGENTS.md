@@ -54,13 +54,13 @@ EJDict/
 | [tosqlite.php](tools/tosqlite.php) | PHP | `release/ejdict.json` および `tools/level.txt` から SQLite データベース `release/ejdict.sqlite3` を構築します。 |
 | [makezip.php](tools/makezip.php) | PHP | リリース用ファイル（txt, json, sqlite3）と `tools/README.md` をそれぞれ ZIP 圧縮してルートに配置します。 |
 | [clean.php](tools/clean.php) | PHP | `release/` ディレクトリ内の生成物およびルートの `.zip` ファイルを削除します。 |
-| [z-release.php](tools/z-release.php) | PHP | 結合・SQLiteビルド・ZIP圧縮を順番に実行する一括スクリプトです（JSONビルドが含まれていないため、Makefile/justfile側のタスク実行が推奨されます）。 |
 
 ### B. バリデーション & 整合性チェック
 
 | スクリプト名 | 言語 | 役割 |
 | :--- | :--- | :--- |
 | [check_data.php](tools/check_data.php) | PHP | `src/` 配下に `a.txt` から `z.txt` までが正しく存在するか、また各行が正常に「タブ区切り」になっているか（2カラム構成か）を検証します。 |
+| [check_double.php](tools/check_double.php) | PHP | 重複している単語（見出し語）がないかを検出して報告します。CIでも実行されます。 |
 | [check_brackets.py](tools/check_brackets.py) | Python | 訳語部分のカッコ（丸カッコ、角カッコ、全角カッコなど）の対応が崩れている（閉じカッコが無いなど）箇所を検出して報告します。 |
 
 ### C. データ自動修正・整形

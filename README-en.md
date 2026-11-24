@@ -22,7 +22,9 @@ You can test the dictionary data on the following website:
 ## Data Format
 
 - In the `src` directory, there are text data files organized by alphabet.
-- The files in the `release` directory are combined and sorted versions of the files in the `src` directory.
+- Each file in `src` is sorted by the entire headword column (including comma-separated variants) in case-sensitive UTF-8 byte order.
+- The text file in `release` concatenates the source files in filename order.
+- `just check` validates the data format, duplicate headwords, brackets, ordering, consecutive duplicate meanings and whitespace. Unspaced `/` characters need contextual review because they also occur in fractions and abbreviations.
 
 Each dictionary entry is formatted as follows:
 

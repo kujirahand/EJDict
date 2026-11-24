@@ -1,4 +1,4 @@
-D,d	deuterium(重水素)の化学記号 / 〈文字〉アルファベットの4番目の文字 D / 〈略〉日(day)/ 銅(chemical symbol: Cu の誤用として稀に)/ 駆動(drive)/ 〈記号〉音階の「レ」
+D,d	deuterium(重水素)の化学記号 / 〈文字〉アルファベットの4番目の文字 D / 〈略〉日(day) / 銅(chemical symbol: Cu の誤用として稀に) / 駆動(drive) / 〈記号〉音階の「レ」
 D-day	欧州大陸進撃の日(第二次大戦で連合軍がNormandyに上陸した1944年6月6日) / 〈C〉攻撃開始予定日
 D.	December(12月) / Democrat(民主主義者) / Dutch(オランダ人)
 D.A.	District of Attorney (米国の)地方検事 / Department of Agriculture農務省 / doesn't answer; don't answer
@@ -25,7 +25,7 @@ DABs	Digital Audio Broadcasting デジタルラジオ放送
 DD	dishonorable discharge
 DDT	ディーディーティー(殺虫剤の一種)
 DE	Delaware
-DEW	〈U〉露(つゆ)/ =Directed Energy Weapon(レーザーなど指向性エネルギー兵器)
+DEW	〈U〉露(つゆ) / =Directed Energy Weapon(レーザーなど指向性エネルギー兵器)
 DI	Department of the Interior 内務省 / drill instructor 教練係下士官 / discomfort index
 DM	Deutsche mark
 DMZ	demilitarized zone非武装地帯
@@ -198,7 +198,7 @@ damnable	地獄に落ちるべき / 《話》ひどい,憎むべき,いまいま
 damnation	地獄に落ちる(落とす)こと / 罵倒(ばとう),のろい / しまった,ちくしょう
 damned	のろわれた,地獄に落とされた / (また《俗》damn)いまわしい,ひどい / はなはだしく,いやに
 damned well	非常に、とても、確実に
-damnedest	{形}最大限の / とてつもない《略式》/ 〈U〉できる限りの努力《略式》 / do one's damnedest(全力を尽くす)
+damnedest	{形}最大限の / とてつもない《略式》 / 〈U〉できる限りの努力《略式》 / do one's damnedest(全力を尽くす)
 damning	罪を免れない,(証拠などが)のっぴきならない
 damp	〈U〉湿気, しめり (moisture) / 〈C〉もや, 霧 (mist) / 〈U〉(鉱山の) 有毒ガス / 《a ~》 気持ちをめいらせるもの / 『湿っぽい』, 湿気のある / …を湿らせる / …の勢いを弱める (そぐ) 《+『down』+『名,』+『名』+『down』》 / 〈ピアノ・弦楽器の弦〉の振動を弱める (抑える) 《+『down』+『名,』+『名』+『down』》
 damp course	(壁に入れる)防湿層
@@ -669,7 +669,7 @@ delete	(…から)〈語など〉を削除する,消す《+『名』+『from』+
 deleterious	心身に有害な
 deletion	削除;〈C〉削除箇所
 delft	デルフト焼き(オランダのDelft産の陶器;白地に青で採色したものが多い)
-deli	〈C〉デリ(惣菜店)《略》/ 惣菜 / =delicatessen
+deli	〈C〉デリ(惣菜店)《略》 / 惣菜 / =delicatessen
 deliberate	『よく考えた』,熟考した;故意の,計画的な / 『思慮ある』,慎重な / 落ち着いた,ゆうゆうとした / …を『よく考える』,熟考する;…を審議する / (…について)『よく考える』,熟考する;審議する《+『over』(『on,upon,about』)+『名』(do『ing』)》
 deliberately	よく考えて,慎重に(cautiously) / 故意に,わざと
 deliberateness	熟考,慎重 / 故意
@@ -678,7 +678,7 @@ deliberative	審議の,討議の
 delicacy	〈U〉(形状・感触などの)『優美さ』,精巧さ,繊細さ《+『of』+『名』》 / 〈C〉『おいしいもの』,珍味 / 〈U〉(身体の)『か弱さ』,きゃしゃ,ひ弱さ《+『of』+『名』》 / 〈U〉(問題などの)『微妙さ』,扱いにくさ《+『of』+『名』》 / 〈U〉(趣味・技能・感情などの)『繊細さ』,鋭さ《+『of』+『名』》 / (対人関係における)心遣い,思いやり
 delicate	(形状・感触などが)『繊細な』,精巧な,きめの細かい / (におい・色などが)『柔らかい』,うすい / (ガラス器具などが)『壊れやすい』 / (身体が)『か弱い』(frail),きゃしゃな / (問題などの取扱いが)『微妙な』,むずかしい / (技術などが)精密な,高度の;(計器などが)敏感な / (対人的に)神経の細かい
 delicately	繊細に;微妙に / きゃしゃに / 敏感に
-delicatessen	〈C〉高級食材店・惣菜店/ 惣菜 / 〈U〉調理済み食品・惣菜類 / =deli
+delicatessen	〈C〉高級食材店・惣菜店 / 惣菜 / 〈U〉調理済み食品・惣菜類 / =deli
 delicious	『おいしい』 / 香りのよい / 喜ばしい,快い
 delight	〈U〉『大喜び』,歓喜 / 〈C〉『楽しみ』,うれしいこと / …を『大いに楽しませる』,大喜びさせる,うれしがらせる / 『大喜びする』,うれしがる,楽しむ
 delighted	うれしい,喜んだ

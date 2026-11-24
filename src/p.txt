@@ -508,7 +508,7 @@ parallelepiped	平行六面体
 parallelism	平行位置,平行関係 / (傾向・性格などの)類似,対応
 parallelogram	平行四辺形
 paralysis	(体の)麻痺(まひ),中風 / (…の)停滞《+『of』+『名』》
-paralytic	{形}麻痺の,麻痺を引き起こす / {形}{英}{俗}酩酊状態の /〈C〉麻痺患者
+paralytic	{形}麻痺の,麻痺を引き起こす / {形}{英}{俗}酩酊状態の / 〈C〉麻痺患者
 paralyze,paralyse	…を『麻痺させる』,しびれさせる / …を無力にする,役に立たなくさせる
 paramedical	(看護婦・衛生兵などとして)医療の補助をする
 parameter	(数学で)媒介変数,補助変数 / (統計で)母数
@@ -1994,8 +1994,8 @@ plot	『小区画の土地』,小地所 / (小説・劇などの)『筋』,プ�
 plotter	陰謀者 / 地図(図面)作成者
 plough,plow	=plow / (牛・馬・トラクターが引く耕作用の)『すき』 / すきに似た道具(除雪機(snowplow)など) / 〈土地〉をすきで耕す / (…を切り開いて)〈道〉を押し進む《+『名』+『through』+『名』》 / すきで耕す / (…を)かき分けて進む《+『through』+『名』》
 ploughboy,plowboy	=plowboy / (特に昔の)すきをつけた牛馬を引く少年,田舎の若者
-ploughman,plowman	=plowman / すきで耕す人 / 農夫(farm worker)
 ploughman's lunch	(ビールにパンとチーズ)の簡単な昼食
+ploughman,plowman	=plowman / すきで耕す人 / 農夫(farm worker)
 ploughshare,plowshare	=plowshare / すきの刃
 plover	チドリ(千鳥)
 ploy	(相手の先手をとる)手だて,たくらみ,策略
@@ -2479,7 +2479,7 @@ potshot	無差別射撃,手当たり次第の射撃
 pottage	濃いスープ,ポタージュ
 potted	鉢植えの / びんづめの / (名著などが)簡約版の
 potter	=putter / 陶工,陶芸家
-potter's field	(貧困者などのための)共同墓地,無縁墓地,
+potter's field	(貧困者などのための)共同墓地,無縁墓地
 potter's wheel	(陶工が使う)ろくろ
 potteries	ポッタリーズ(英国の陶磁器生産地)
 pottery	〈U〉製陶術,陶器製造 / 〈U〉《集合的に》陶器類 / 〈C〉陶器製造所

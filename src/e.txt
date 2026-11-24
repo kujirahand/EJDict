@@ -32,10 +32,10 @@ East Indies	東インド諸国(インド・インドネシア・ビルマ・タ�
 East Side	イーストサイド(ニューヨーク市のマンハッタンの東部地区;移住者など低所得者層が多く住む)
 Easter	『復活祭』,イースター(キリストの復活を祝って春分(3月21日ころ)後の満月の日の次の日曜日(Easter DayまたはEaster Sunday)に行われる祭り.新しい生命の象徴である彩色した鶏卵(Easter egg)を友人に贈ったり,盛装をして町をねり歩く習慣がある)
 Easter egg	復活祭の卵(チョコレート・砂糖で作ったり,卵に彩色したりする)
+Eastern Church,Eastern Orthodox Church	=Orthodox Church
 Eastern Daylight Time	東部夏時間(日本との時差マイナス13時間;《略》EDT,E.D.T.)
 Eastern Hemisphere	東半球
 Eastern Standard Time	東部標準時(日本との時差はマイナス14時間;《略》EST,E.S.T.)
-Eastern Church,Eastern Orthodox Church	=Orthodox Church
 Eastertide	復活祭に始まる1週間 / 復活祭の季節(宗派により,復活祭後の40,50または57日間をいう)
 Ecclesiastes	伝道の書(旧約聖書の一書)
 Ecuador	エクアドル(南米北西部の共和国;首都はQuito)
@@ -1148,7 +1148,7 @@ estrangement	(…との,…間の)仲たがい《+『with』(『between』)+『�
 estrogen	エストロゲン(動物の雌を発情させる卵胞ホルモン)(《英》oestrogen)
 estrous cycle	(雌の)発情期(《英》oestrus cycle)
 estuary	(潮のさす大きな川の)河口
-et al	〈略〉他(およびその他)/ その他の人々 (ラテン語et aliiの略)
+et al	〈略〉他(およびその他) / その他の人々 (ラテン語et aliiの略)
 et seq.	and the following…以下参照
 eta	エータ(ギリシア語アルファベットの第7字Η,η;英語のE,eに相当)
 etc.	…『など』,その他…(ラテン語et cetera=and other thingsの略)

@@ -24,12 +24,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y just sqlite3 zip
       - name: Validate source data
-        run: |
-          php tools/check_data.php
-          python3 tools/check_brackets.py
-      - name: Check duplicate words
-        run: |
-          php tools/check_double.php
+        run: just check
       - name: Clean output directory
         run: just clean
       - name: Build release artifacts

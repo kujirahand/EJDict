@@ -19,11 +19,13 @@ makezip:
 # Clean, rebuild all artifacts, and make zip packages
 build-all: clean build makezip
 
-# Validate format of src/*.txt files and check brackets balance
+# Validate TSV, duplicate headwords, brackets, byte order and meaning formatting
 check:
     php tools/check_data.php
     php tools/check_double.php
     python3 tools/check_brackets.py
+    python3 -B tools/check_quality.py
+    python3 -B -m unittest discover -s tools -p 'test_*.py'
 
 # Automatically fix mismatched brackets in dictionary text
 fix-brackets:

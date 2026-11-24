@@ -1,7 +1,7 @@
-R,r	resistance / 17歳以下父兄同伴映画の表示 / rook / 英語アルファベットの第18字 / R字形[のもの] / roentgen / recto
 R and R	rest and recreation
 R&B	rhythm and blues
 R&D	research and development研究開発
+R,r	resistance / 17歳以下父兄同伴映画の表示 / rook / 英語アルファベットの第18字 / R字形[のもの] / roentgen / recto
 R-rated	(映画などが)R指定の
 R.	radius / rail road / railway / Republican / right / river / road
 R.A.	Royal Academy英国王立美術院
@@ -669,7 +669,7 @@ reckoning	計算・〈U〉決算,清算・〈C〉《古》(病院・ホテルな
 reclaim	(…から)〈土地など〉を造成する《+『名』+『from』+『名』》 / (廃物から)〈物〉を再生する《+『名』+『from』+『名』》 / (悪などから)〈人〉を改心させる矯正する《+『名』〈人〉+『from』+『名』》
 reclamation	開墾;埋め立て / 再生 / 改心,矯正
 reclame	社会に知れ渡る事,周知 / 宣伝;売名
-recline	(…に)〈体〉を『もたれさせる』,横たえる《+『名』+『on』(『against』)+『名』》 / (…に)『もたれかかる』,横になる《+『on』(『against』)+『名』》 / (…に)『もたれかかる』,横になる《+『on』(『against』)+『名』》
+recline	(…に)〈体〉を『もたれさせる』,横たえる《+『名』+『on』(『against』)+『名』》 / (…に)『もたれかかる』,横になる《+『on』(『against』)+『名』》
 recliner	よりかかる人 / (また『reclining chair』)背もたれいす
 recluse	世捨て人,隠とん者
 reclusive	世を捨てた
@@ -797,7 +797,7 @@ redemptive	(特にキリスト教で)償いの,罪を償う / 買い戻しの,�
 redeploy	〈兵隊・社員など〉を再編成(配置替え)する,移動させる
 redhead	赤毛の人
 redheaded	赤毛の
-redirect	{動}(ウェブなどで)別のURLに転送する / …の方向を変える /《法》反対尋問後の再尋問を行う / 〈C〉リダイレクト,転送
+redirect	{動}(ウェブなどで)別のURLに転送する / …の方向を変える / 《法》反対尋問後の再尋問を行う / 〈C〉リダイレクト,転送
 redistribute	(別の方法で)…を再分配する
 redistrict	(選挙などのために)〈区域〉を分割(区画)し直す
 redneck	《軽べつして》(米国南部の)無学な白人農場労働者,貧乏白人
@@ -1653,7 +1653,7 @@ right-handed	右ききの;右手を使った;右手用の;右回りの
 right-hander	右きき[の人] / 右打者,右腕投手
 right-minded	健全な,心の正しい,潔癖な
 right-winger	右翼(保守党)の一員
-righteous	(人が)徳の高い,正しいことをする / (行為・気持ちなどが)もっともな,道理のある(the 〜)  / (複数扱い) 正義の人々 / 《集合的に;複数扱い》正義派,正義の人々
+righteous	(人が)徳の高い,正しいことをする / (行為・気持ちなどが)もっともな,道理のある(the 〜) / (複数扱い) 正義の人々 / 《集合的に;複数扱い》正義派,正義の人々
 righteously	正しく,公正に
 righteousness	正義;公正;正直
 rightful	《現在まれ》(行動・主義などが)正しい / 正当な,合法の

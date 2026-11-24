@@ -1,5 +1,5 @@
-C,c	carbonの化学記号 / 〈C〉英語アルファベットの第3字 / 〈U〉(音階の)ハ音,ハ調 / 〈U〉(ローマ数字の)100 / 〈C〉《C》《米》(学校の成績の)C
 C of E	Church of England英国国教会
+C,c	carbonの化学記号 / 〈C〉英語アルファベットの第3字 / 〈U〉(音階の)ハ音,ハ調 / 〈U〉(ローマ数字の)100 / 〈C〉《C》《米》(学校の成績の)C
 C.	Cape (「岬」または「(地名)ケープ」) / Catholic (カトリック) / Celsius (摂氏) / Centigrade (摂氏) / Conservative (保守党,保守的な)
 C. and W.	country and western ウエスタン音楽
 C. of C.	Chamber of Commerce 商業会議所
@@ -347,8 +347,8 @@ cabinetwork	高級家具 / 家具製作
 cable	〈C〉〈U〉 / (麻・針金をより合わせた)『太綱』 / 〈C〉〈U〉 / (電信などの)『ケーブル線』,被覆電線 / (またcablegram)〈C〉『海底電信』,外国電報 / …を太綱でつなぐ / …にケーブルを敷く / 〈通信〉を『海外電報で送る』
 cable TV	有線テレビ
 cable car	ケーブルカー
-cable railway	ケーブル鉄道
 cable length,cable's length	ケーブル,鏈(れん)(海上の距離を示す単位;100尋(ひろ)=1/10海里)
+cable railway	ケーブル鉄道
 cablegram	〈C〉海底ケーブルを使って送信される電報のこと《古》
 caboodle	一群の人(物),ひとかたまり,一団
 caboose	乗務員車(貨物列車の最後尾につき調理・宿泊設備がある;《英》guard's van)
@@ -1267,7 +1267,7 @@ chain store	チェーン店(単一資本で経営される一連の店の一つ)
 chain-react	連鎖反応を起こす
 chain-smoke	…をたて続けに吸う / たばこをたて続けに吸う
 chainsaw	鎖のこ,チェーンソー
-chair	〈C〉『いす』(通例1人用の4脚で背のあるもの;armchair, easy chair, rocking chair, swivel chairも含めていう)/ 《the chair》権威のある座(教授・裁判官・司教・知事・市長などの地位) / 《the chair》議長(chairperson) / 《the chair》《米》(死刑用の)電気いす / …の議長をつとめる,を司会する / …をいすに座らせる
+chair	〈C〉『いす』(通例1人用の4脚で背のあるもの;armchair, easy chair, rocking chair, swivel chairも含めていう) / 《the chair》権威のある座(教授・裁判官・司教・知事・市長などの地位) / 《the chair》議長(chairperson) / 《the chair》《米》(死刑用の)電気いす / …の議長をつとめる,を司会する / …をいすに座らせる
 chairman	『議長』,委員長;主席 / (会社の)会長,会頭 / (大学の)学部長
 chairmanship	chairmanの職(地位)
 chairperson	議長
@@ -1336,7 +1336,7 @@ chanty	=chantey
 chaos	〈U〉(天地創造以前の)混とん / 〈U〉(一般に)『混乱状態』,無秩序;〈C〉混乱したもの
 chaotic	混とんとした,無秩序の
 chaotically	混とんとして,無秩序に
-chap	〈C〉『やつ』(=fellow)《英略式》 /  {名}(皮膚の)ひび,あかぎれ
+chap	〈C〉『やつ』(=fellow)《英略式》 / {名}(皮膚の)ひび,あかぎれ
 chaparral	低木の茂み
 chapbook	呼び売り本(昔,行商人が売った通俗読み物の小冊子)
 chapeau	帽子(hat)
@@ -2787,7 +2787,7 @@ compliancy	=compliance
 compliant	従順な,素直な
 complicate	…を複雑にする
 complicated	『複雑な』,込み入った(complex)
-complication	〈U〉〈C〉複雑[な状態],紛糾[状態] / 〈U〉(…を)複雑にすること《+『of』+『名』》 / 〈C〉複雑な(やっかいな)事を引き起こすもの /〈C〉合併症, 併発症, 併発, 余病
+complication	〈U〉〈C〉複雑[な状態],紛糾[状態] / 〈U〉(…を)複雑にすること《+『of』+『名』》 / 〈C〉複雑な(やっかいな)事を引き起こすもの / 〈C〉合併症, 併発症, 併発, 余病
 complicity	(…との)共謀,共犯,連座《+『with』+『名』》
 compliment	『賛辞』,ほめ言葉;おせじ / (行為・言葉による)敬意 / 《複数形で》あいさつの言葉 / (…で)〈人〉に敬意を表す《+『名』+『with』+『名』》 / (…について)〈人〉を『ほめる』,にお祝の言葉を述べる《+『名』+『on』+『名』(do『ing』)》
 complimentary	あいさつの,お祝いの;賞賛の;おせじの / 招待の,無料の
@@ -3658,7 +3658,7 @@ costume ball	仮装舞踏台
 costume jewelry	模造宝石類
 costumer	(演劇用などの)衣装屋
 costumier	=costumer
-cosy,cozy	=cozy / =cozy / (部屋などが)居ごこちのよい,気持ちのよい;(仕事などが)楽な / 保温カバー(ティーポット用tea cozy,ゆで卵用egg cozyなど)
+cosy,cozy	=cozy / (部屋などが)居ごこちのよい,気持ちのよい;(仕事などが)楽な / 保温カバー(ティーポット用tea cozy,ゆで卵用egg cozyなど)
 cot	《詩》小さな家,小屋 / (動物を入れる)小屋,囲い / 《米》(折り畳も式の台わくにズックを張って)簡易ベッド / 《英》=crib 1 / =cotangent
 cotangent	コタンジェト,余接
 cote	(羊など小さな動物や鳥を入れる)小屋
@@ -3671,8 +3671,8 @@ cottage industry	家内工業
 cottage loaf	大小2個の重ねパン
 cottage pie	=shepherd's pie
 cottager	小さな家に住む人;別荘で休暇を過ごす人
-cotter,cottar	(機械の)くさび栓(せん) / =cotter pin / 小作人
 cotter pin	脱出止めピン(機械のゆるみを防止する割りピン)
+cotter,cottar	(機械の)くさび栓(せん) / =cotter pin / 小作人
 cotton	『綿』,綿花 / 綿の木(cotton plant) / 『綿布』,もめん / 綿糸,もめん糸 / 綿製の
 cotton candy	綿菓子,綿あめ(《米》candy floss)
 cotton gin	綿繰り機械(綿と繊維を綿の実から分離する機械)

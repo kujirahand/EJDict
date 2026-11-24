@@ -500,7 +500,7 @@ academic	学問の,学術的な,教育の / 学園の,大学の / 大学教員,�
 academic freedom	学問の自由
 academical	=academic / 《複数形で》大学の式服
 academician	学士院会員,芸術院会員 / 伝統主義者
-academicism	(美術・文学などの)伝統主義, アカデミー主義, (思想・態度の)学問主義, 知識中心主義, 理論偏重
+academicism	(美術・文学などの)伝統主義,アカデミー主義,(思想・態度の)学問主義,知識中心主義,理論偏重
 academism	=academicism
 academy	『学士院』,芸術院 / 《米》私立中等(高等)学校 / (特殊教育の)専門学校
 acanthus	アカンサス,ハアザミ / (建築物の柱頭の)アカンサス葉飾り
